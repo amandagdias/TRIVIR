@@ -20,9 +20,9 @@ createBagofWords <- function(corpus, path_core){
   
   
   con <- file(sprintf("%s/coordinates_temp.json", path_core), encoding = "latin1");
-  test <- as.character(readLines(con, warn = FALSE));
-  test <- iconv(test, to = "utf8")
-  coordinates <- fromJSON(test);
+  jsondata <- as.character(readLines(con, warn = FALSE));
+  jsondata <- iconv(jsondata, to = "utf8")
+  coordinates <- fromJSON(jsondata);
   
   
   data <- data.frame("doc_id" = coordinates[,'name'], "text" = coordinates[,'body_preprocessed']);

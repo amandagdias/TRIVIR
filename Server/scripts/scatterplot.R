@@ -60,9 +60,9 @@ createScatterplotCoordinates <- function(path_core, path_users, projtech, embtec
   }
 
   con <- file(sprintf("%s/coordinates_temp.json", path_core), encoding = "latin1");
-  test <- as.character(readLines(con, warn = FALSE));
-  test <- iconv(test, to = "utf8")
-  df_coord <- fromJSON(test);
+  jsondata <- as.character(readLines(con, warn = FALSE));
+  jsondata <- iconv(jsondata, to = "utf8")
+  df_coord <- fromJSON(jsondata);
 
   df_coord <- merge(df_coord, df, by= c('name'), all=FALSE)
   

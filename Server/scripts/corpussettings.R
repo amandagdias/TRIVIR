@@ -77,10 +77,10 @@ addTerm <- function(term, path_core, path_users, corpus){
   term_list <- c();
   syn <- c();
   con <- file(sprintf("%s/ImportantTerms.json", path_users), encoding = "latin1");
-  test <- as.character(readLines(con, warn = FALSE));
-  test <- iconv(test, to = "utf8")
+  jsondata <- as.character(readLines(con, warn = FALSE));
+  jsondata <- iconv(jsondata, to = "utf8")
   
-  importantterms <- fromJSON(test);
+  importantterms <- fromJSON(jsondata);
   
   for (i in 1:length(terms)){
     newterm <- textPreprocess(terms[i], TRUE, corpus);
