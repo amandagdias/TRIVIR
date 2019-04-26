@@ -6,7 +6,7 @@ needs("stringi");
 needs("tm")
 needs("tokenizers");
 
-
+#When running the code from RStudio, you need to comment the lines above and uncomment the lines bellow
 # library("dplyr")
 # library("janeaustenr")
 # library("tidytext")
@@ -35,56 +35,6 @@ createBagofWords <- function(corpus, path_core){
   write.csv(m, file=sprintf("%s/bagofwords.csv", path_core))
   
 }
-
-# createTfidf <- function(corpus, path_core){
-#   if (!file.exists(sprintf("%s/tidy.csv", path_core))){
-#     fileList <- list.files(path = corpus, full.names = TRUE, recursive = TRUE)
-#     DocNames <- c();
-#     
-#     textlist <- c();
-#     docnames <- c();
-#     k <- 1;
-#     for (i in 1:length(fileList)){
-#       conn <- file(fileList[i],open="rt")
-#       doc <- readLines(conn);
-#       doc <- concatenate(doc);
-#       source("corpussettings.R")
-#       doc <- textPreprocess(doc, TRUE, corpus);
-#       DocName <- basename(fileList[i]);
-#       
-#       textlist[i] <- list(chunk_text(toString(doc), chunk_size = 10))
-#       for (j in 1:length(textlist[[i]])){
-#         docnames[k] <- toString(DocName);
-#         k <- k + 1;
-#       }
-#       close(conn);
-#     }
-# 
-#     tidy <- data.frame(text = unlist(textlist, use.names=FALSE), doc = docnames);
-#     con <- file(sprintf("%s/tidy.csv", path_core), encoding = "UTF-8");
-#     write.csv(tidy, file = con)
-#  
-#   }
-#   data = read.csv(sprintf("%s/tidy.csv", path_core), header = TRUE, stringsAsFactors = FALSE)
-#  
-#   corpus_words <- data %>%
-#     unnest_tokens(word, text) %>%
-#     count(doc, word, sort = TRUE)
-#   
-#   total_words <- corpus_words %>% group_by(doc) %>% summarize(total = sum(n))
-#   corpus_words <- suppressMessages(left_join(corpus_words, total_words))
-#   
-#   corpus_words <- corpus_words %>%
-#     bind_tf_idf(word, doc, n)
-#   
-#   
-#   corpus_words <- corpus_words %>%
-#     select(-total) %>%
-#     arrange(desc(tf_idf))
-#   con <- file(sprintf("%s/tfidf.csv", path_core), encoding="UTF-8");
-#   write.csv(corpus_words, file = con);
-# 
-# }
 
 saveMostImportantTerms <- function(baseDocument, corpus, path_core, path_users){
 
