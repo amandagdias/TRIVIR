@@ -1,21 +1,16 @@
-# install.packages("ngram");
-# install.packages("corpus");
-# install.packages("textstem");
-# install.packages("rlist")
-
 needs (rlist);
-needs(ngram)
-needs(corpus)
+needs(ngram);
+needs(corpus);
 needs(textstem);
 needs(jsonlite);
-needs(tm)
+needs(tm);
 needs("stringi");
 needs("fastrtext");
-needs("stringr")
-needs(ngram)
-needs("lsa")
+needs("stringr");
+needs(ngram);
+needs("lsa");
 
-# 
+#When running the code from RStudio, you need to comment the lines above and uncomment the lines bellow
 # library("fastrtext");
 # library (rlist);
 # library(ngram)
@@ -27,15 +22,14 @@ needs("lsa")
 # library("stringr")
 # library("ngram")
 # library("lsa")
-
-############ SET PARAMETERS ############ 
+###################  SET PARAMETERS ######################
 #2; 3;
 ngramN = 3;
 
 #FALSE; TRUE
 withoutstopwords = TRUE;
 
-#######################################
+#########################################################
 
 #The saveDocumentRepresentation function creates the wordembedding representation;
 #the signature.json with the ngrams from the entire collection; 
@@ -65,7 +59,7 @@ saveDocumentRepresentation <- function(corpus, path_core){
     doc <- concatenate(doc);
     coord_body[indexF] <- doc; 
     source("corpussettings.R")
-    doc <- TextPreprocess(doc, TRUE, corpus);
+    doc <- textPreprocess(doc, TRUE, corpus);
     coord_bodypreprocessed[indexF] <- doc;
     
     #Retrieve the document's vector representation
@@ -145,16 +139,6 @@ saveCosDistance <- function(base, path_core, path_users, embtech){
   write.csv(distanceCos, file=sprintf("%s/cosdistance.csv", path_users))
   
 }
-# getAll <- function(path_users){
-#   MyData <- read.csv(file=sprintf("%s/cosdistance.csv", path_users), header=TRUE, check.names=FALSE)
-#   header <- MyData[,1];
-#   # header <- header[2:length(header)];
-#   # MyData <- MyData[,baseDocument];
-#   df <- data.frame(name = header, value = MyData[,2])
-#   
-#   newdata <- df[order(-df[,'value']),]
-#   return(newdata);
-# }
 
 #Reads the cosinedistance file to get the K most similar documents to the query
 getMostSimilar <- function(k, path_users){
@@ -203,8 +187,8 @@ getSimilarDocuments <- function(document, path_core, path_users, embtech){
 }
 
 #Train a model using the text from the collection
-CreateModel <- function(path_core){
+createModel <- function(path_core){
   path <- sprintf("%s/union.txt", path_core);
   output <-sprintf("%s/model",path_core);
-  execute(commands = c("skipgram", "-input", path, "-output", output))
+  suppressMessages(execute(commands = c("skipgram", "-input", path, "-output", output)))
 }
