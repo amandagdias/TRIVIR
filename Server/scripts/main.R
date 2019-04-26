@@ -76,7 +76,7 @@ if (command == "init"){
 }else if (command == "scatterplotdata"){
   source("scatterplot.R")
   if (!file.exists(sprintf("%s/coordinates.json", path_users))){
-    CreateScatterplotCoordinates(path_core, path_users, projtech, embtech);
+    createScatterplotCoordinates(path_core, path_users, projtech, embtech);
   }
   print("success");
 }else if (command == "focuslist"){
