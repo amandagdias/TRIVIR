@@ -148,4 +148,9 @@ if (command == "init"){
   
   print("success");
   
+}else if (command == "extractcorpus"){
+  source("extractCorpus.R");
+  extractCorpus(input, dirName);
+  
+  print("success");
 }
