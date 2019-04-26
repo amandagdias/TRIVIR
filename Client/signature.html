@@ -1,0 +1,131 @@
+<!doctype HTML>
+<html>
+    <head>
+    <meta charset='utf-8'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/main-signature.css">
+    <link rel="stylesheet" type="text/css" href="styles/main-terms.css">
+    <link rel="stylesheet" type="text/css" href="styles/main-scatterplot.css">
+    <link rel="stylesheet" type="text/css" href="styles/main-focus.css">
+    <link rel="stylesheet" type="text/css" href="styles/main-suggestion.css">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
+ 
+    </head> 
+    <body>
+        <div id="termscontainer">
+            <div id="termsrectcontainer">           
+        
+            </div>
+            <div id="addterm">
+                <input type="text" id="addterminput"/> 
+                <input type="image" class = "term-image" src = "images/add-1.png" id = "addtermbutton" title="Add Term"/>
+            </div>
+        
+        </div>
+ 
+       
+       
+      <div id="contentcontainer">
+        
+        <div id="leftviewcontainer">
+            <div id="togglemenu">
+               <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                  <label class="btn btn-outline-light btn-sm active">
+                    <input type="radio" name="options" id = "signaturetoggle" autocomplete="off"  checked> Signature
+                  </label>
+                  <label class="btn btn-outline-info  btn-sm">
+                    <input type="radio" name="options" autocomplete="off" id = "focustoggle"> Focus
+                  </label>
+                  <label class="btn btn-outline-warning  btn-sm">
+                    <input type="radio" name="options" autocomplete="off" id = "suggestiontoggle" > Suggestion
+                  </label>
+               </div>            
+            
+            </div>
+            <div id="listcontainer">
+                <div id="signaturecontainer">
+                    <div id="signaturemenucontainer">
+                         <div id="signaturemenu">
+                        
+                             <input type="text" id="searchngraminput"/> 
+                             <input type="image" class = "search-image" src = "images/search.png" id = "searchngrambutton" title="Search for ngram with the input term"/> 
+                             <input type="image" class = "search-image" src = "images/filter.png" id = "filtersignaturebutton" title="Visualize the ngrams that contain the important terms"/> 
+                             <input type="image" class = "scatterbutton" src="images/close.png" id = "resetsignaturebutton" title="Reset Signature"/>
+                            
+                            
+                               
+                        </div>
+                        <div id="sigresultdiv"><p id="resultCount">results:</p></div>
+                    
+                    </div>
+                   
+                    
+                </div> 
+                
+                <div id="focuscontainer">
+                    <div id="focusresultdiv"><p id="focustotal"></p></div>
+                </div>
+                <div id="suggestioncontainer">
+                    <div id="suggestionmenu">
+                        <input class = "button" type="button" value="Train" id="retrainbutton"/>
+                    </div>
+                </div>           
+            </div>
+          
+        </div>
+        <div id = "middleviewcontainer">
+            <div id="scatterplotmenu">
+               
+                <div id="searchdocument">
+                    <input type="text" id="searchdocumentinput"/> 
+                    <input type="image" class = "search-image" src = "images/search.png" id = "searchdocumentbutton" title="Search for words in the documents' titles"/>
+                </div>                
+                <div id="filterscatterplot">
+                    <input type="number" id="filterscatterplotinput"/> 
+                    <input type="image" class = "search-image" src = "images/filter.png" id = "filterscatterplotbutton" title="Visualize the K most relevant documents"/>
+                </div>
+                
+                <input type="image" class = "search-image" src = "images/filtercolor.png" id = "filterrelevantsbutton" title="Visualize documents on focus and suggestion lists only"/>
+                <input type="image" class = "scatterbutton" src="images/close.png" id = "resetscatterplotbutton" title="Reset Scatterplot"/>
+            </div>
+            <div id="scatterplotcontainer">
+              
+            </div>          
+          </div>  
+       
+        <div id="docviewcontainer">
+            <div id="docviewmenu"></div>
+            <div id="docviewdiv"><textarea id = "docview"></textarea></div>
+        </div>  
+        
+        
+        
+        
+        </div>
+       <div id="menucontainer">
+          
+          
+        </div> 
+        <div id="menutermscontainer">
+          
+          
+        </div>       
+   
+    </body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>   
+    <script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <script src="https://d3js.org/d3-selection.v1.min.js"></script>  
+    <script src = "js/bootstrap.min.js"></script> 
+    
+    <script src = "js/main-terms.js"></script>
+     <script src = "js/main-scatterplot.js"></script>  
+    <script src = "js/main-focus.js"></script>
+    <script src = "js/main-suggestion.js"></script>
+    <script src = "js/main-signature.js"></script>      
+    <script src = "js/control.js"></script>
+    <script src = "js/togglecontrol.js"></script>
+    
+</html>
