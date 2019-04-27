@@ -59,11 +59,13 @@ app.post('/scatterplot', function (req, res) {
                   console.log(out);              
                   if (out == "success"){
                        fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/coordinates.json", "utf8", function(err, data){
-                              if(err) throw err;   
-                                  res.send(data);
+                              if(err) console.log(err);
+                              console.log(out);
+                              res.send(data);
                        });      
                   }     
               }else{
+                console.log("success");
                 res.send(data);  
               }                     
   });      
@@ -78,11 +80,13 @@ app.post('/focuslist', function(req, res){
                 console.log(out)
                 if (out == "success"){                      
                       fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/focuslist.json", "utf8", function(err, data){
-                      if(err) throw err;   
+                      if(err) console.log(err); 
+                        console.log(out);
                         res.send(data);
                       });           
                 }             
           }else{
+             console.log("success");
              res.send(data);
           }           
     }); 
@@ -98,11 +102,13 @@ app.post('/suggestionlist', function(req, res){
                 console.log(out);
                 if (out == "success"){
                     fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/suggestionlist.json", "utf8", function(err, data){
-                        if(err) throw err;   
+                        if(err) console.log(err);   
+                        console.log(out);
                         res.send(data);
                     });           
                 }                                
             }else{
+                console.log("success");
                 res.send(data);
             }          
     });      
@@ -121,8 +127,7 @@ app.post('/signature', function (req, res) {
   console.log(datetime)
     
 
-  R("./scripts/main.R")
-      .data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
+  R("./scripts/main.R").data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
       .call(function(err,d){
            if (err) console.log(err);
            console.log(d);
@@ -148,8 +153,9 @@ app.post('/signature', function (req, res) {
 app.post('/terms', function(req, res){
     console.log("Retrieving terms" ); 
     fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/ImportantTerms.json", "utf8", function(err, data){
-        if(err) throw err;   
-            res.send(data);
+        if(err) console.log(err);   
+        console.log("success");
+        res.send(data);
     });     
 });
 
@@ -158,7 +164,7 @@ app.get('/getsynonyms', function(req, res){
     R("./scripts/main.R")
       .data({"command": "getsynonyms", "term": req.query.term.toString().trim(), "path_core": path_core, "path_users":path_users, "workingdir": workingdir})
       .call(function(err,d){
-           if (err) throw err;
+           if (err) console.log(err);
            res.send(d);
       });  
 })
@@ -195,7 +201,7 @@ app.get('/deleteterm', function(req, res){
    console.log("Deleting term: " + req.query.term);
    //Remove ngram from JSON file
     fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/ImportantTerms.json", "utf8", function(err, data){
-                  if(err) throw err;   
+                  if(err) console.log(err);   
                   file = JSON.parse(data);
                   var keys = Object.keys(file);
                   
@@ -207,7 +213,7 @@ app.get('/deleteterm', function(req, res){
                   }
                   json = JSON.stringify(file, null, 2)
                   fs.writeFile("../file/"+pathlib.basename(corpus)+"/"+username+"/ImportantTerms.json", json, "utf8", (err) => {
-                        if (err) throw err;
+                        if (err) console.log(err);
                           res.send('The file has been saved!');
                   });     
                   
@@ -283,7 +289,7 @@ app.get('/setasnotrelevant', function (req, res) {
         }) 
      }else if (req.query.origin == 'focus'){
         fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/focuslist.json", "utf8", function(err, data){
-                      if(err) throw err;   
+                      if(err) console.log(err);   
                       file = JSON.parse(data);
                       var keys = Object.keys(file);
 
