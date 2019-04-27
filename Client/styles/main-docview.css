@@ -1,0 +1,34 @@
+#docviewcontainer{    
+    display: flex; 
+    flex-direction: column;    
+    width: 25%;                
+}
+
+
+#docviewmenu{
+    height: 39px;
+    width: 100%;
+    background-color: #212121;
+    margin: 0px;
+     float: right;
+}
+
+#docviewdiv{    
+    display: flex;
+    width: 100%;
+    height: 95%;   
+}
+
+#docview{ 
+    margin: 3px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+   
+    width: 100%;
+    resize: none;
+    box-sizing: border-box;         /* For IE and modern versions of Chrome */
+    -moz-box-sizing: border-box;    /* For Firefox                          */
+    -webkit-box-sizing: border-box; /* For Safari */
+   
+}

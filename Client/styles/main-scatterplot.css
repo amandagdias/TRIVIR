@@ -1,0 +1,75 @@
+#scatterplotcontainer{
+    background-color: whitesmoke;  
+    width: 98%;
+    margin-top: 40px;
+    margin: 5px;    
+    display: flex;     
+}
+
+.scatterplot-svg{
+    transform: translate(0px, 0px);
+}
+
+.tooltip{
+    position: absolute;
+    background: white;
+}
+
+#scatterplotmenu{
+    display:flex;
+    flex-direction: row; 
+    height: 38px;
+    width: 100%;
+    background-color: #212121;
+    margin: 0px;    
+}
+
+.search-image{
+    width: 25px; 
+    height: 25px;
+    margin: 3px;    
+}
+
+.scatterbutton{ 
+    height: 25px;
+    width: 25px;
+    margin: 2px 2px 2px 2px; 
+    float:right;
+    visibility: hidden;
+}
+
+#searchdocument{
+    display:flex;
+    height: 28px; 
+    margin: auto;
+    margin-left:10px;
+    margin-right:10px;    
+    float: left;
+}
+
+#filterscatterplot{
+    display:flex;
+    height: 28px; 
+    margin: auto;
+    margin-left:10px; 
+    margin-right:10px;
+    float: left;
+  
+}
+
+#filterscatterplotinput{
+   width: 80px;  
+}
+
+#filterrelevantsbutton{
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#resetscatterplotbutton{
+    float: right;  
+    margin-top: auto;
+    margin-bottom: auto;
+}
+

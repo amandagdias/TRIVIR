@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+
+#contentcontainer{
+    width: 100%;    
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+    
+}
+
+#leftviewcontainer{
+    display: flex;
+    width: 25%;   
+     background-color: whitesmoke;
+    flex-direction: column;
+    
+}
+
+#togglemenu{
+    height: 38px;
+    width: 100%;
+    background-color: #212121;
+    margin: 0px;    
+    float: left;    
+}
+
+.togglebutton{
+    height: 25px;
+    width: 25px;
+    margin: 2px 2px 2px 10px;    
+}
+
+.btn-group-toggle{
+    margin-left: 10px;
+}
+
+#listcontainer > div{
+    position: absolute;  
+}
+
+#middleviewcontainer{
+    display: flex;
+    width: 50%;    
+    background-color: whitesmoke;
+    flex-direction: column;
+    align-items: center;    
+}
+
+#menucontainer{
+    position: absolute;
+}
+
+.bar-rect{
+    cursor: pointer;
+}
+
+.barterms{
+    cursor:pointer;
+}
+
+.barmenu{
+    fill: "#a9a9a9";  
+    position: absolute;
+}
+
+.bartitles-rect{
+    cursor: pointer;
+}
+
+.bartitlesSug-rect{
+    cursor:pointer;
+}
+
+.label{
+    cursor: pointer;  
+    fill: #2E2E2E;
+}
+
+.terms-bar{
+    cursor:pointer;
+}
+
+.label-terms{
+    cursor:pointer;    
+}
+
+.tooltip{
+    cursor: pointer;
+}
+
+.dot{
+   cursor:pointer;
+}
+
+
