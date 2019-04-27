@@ -1,0 +1,1 @@
+Here are all files related to a collection. The same files can be used by different users.
