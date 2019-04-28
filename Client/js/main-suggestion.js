@@ -88,6 +88,10 @@ function SuggestionBarClick(d, bar, barWidth, barColor, barHeight){
             })
     
 }
+function LoadNotRelevantList(callback){
+    saveNotRelevantList();
+    callback();    
+}
 function LoadSuggestionList(callback) {
     d3.request("http://127.0.0.1:3000/suggestionlist")    
      .header("Content-Type", "application/json")
@@ -97,7 +101,7 @@ function LoadSuggestionList(callback) {
        
     dataSuggestionList = JSON.parse(d.responseText);   
     saveSuggestionList(dataSuggestionList)
-    saveNotRelevantList();
+ 
 
     d3.select(".suggestion-svg").remove();
     $("#suggestiontoggle")[0].disabled = false;      
