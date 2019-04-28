@@ -2,31 +2,19 @@ var filter_list = []
 var dataServer;
 var signaturelist = [];
 
-function init(update) {  
+function init(update, callback) {  
     d3.request("http://127.0.0.1:3000/signature")    
      .header("Content-Type", "application/json")
      .post(function(error, d){
         console.log(d);
-        //PARAMETERS AND VARIABLES
-        dataServer = JSON.parse(d.responseText);
-        dataServer.forEach(function(d, index){
-            signaturelist[index] = d.ngram.replace(/\s+/g,' ').trim();        
-        });
-        LoadSignature(update); 
-        if (update == "all"){
-            LoadTerms(function(){
-                LoadFocusList(function(){
-                    LoadSuggestionList(function(){                        
-                            LoadNotRelevantList(function(){
-                                if (d3.select("#scatterplotcontainer")._groups[0][0].children.length == 0){
-                                    LoadScatterplot();
-                                }
-                            })                            
-                    })
-                })
-            }) 
-        }
-             
+        if (d!= undefined){
+           //PARAMETERS AND VARIABLES
+            dataServer = JSON.parse(d.responseText);
+            dataServer.forEach(function(d, index){
+                signaturelist[index] = d.ngram.replace(/\s+/g,' ').trim();        
+            });
+            LoadSignature(update, callback);         
+        }          
   
     });
 }
@@ -148,7 +136,7 @@ function barClick(d, bar, barColor, barWidth, barHeight){
 
         }) 
 }
-function LoadSignature(update){
+function LoadSignature(update, callback){
  
     if (filter_list.length > 0){       
        data = dataServer.filter(function(d){ if (filter_list.includes(d.ngram) == true) return true; else{ return false;}})        
@@ -238,6 +226,7 @@ function LoadSignature(update){
                 bar = rects[i];                
                 barClick(d, bar, barColor, barWidth, barHeight);
             })
+    callback();
 }        
 
 
@@ -248,10 +237,10 @@ $("#resetsignaturebutton").unbind().click(function(e){
     document.getElementById('searchngraminput').value = ""; 
     filter_list = [];
     if (dataServer.length <= 0){
-        init("one");
+        init("one", function(){});
         
     }else{        
-        LoadSignature("one");
+        LoadSignature("one", function(){});
     }
     
 })
@@ -289,7 +278,7 @@ $("#filtersignaturebutton").unbind().click(function(e){
 
 $("#searchngrambutton").unbind().click(function(e){  
     filter_list = [];
-    LoadSignature("one");
+    LoadSignature("one", function(){});
     var text = document.getElementById('searchngraminput').value;
     if ((text != undefined)&&(text != "")){
         $("#resetsignaturebutton").css("visibility", "visible");
@@ -311,11 +300,23 @@ $("#searchngrambutton").unbind().click(function(e){
         $("#resultCount").css("visibility", "visible");
         document.getElementById('resultCount').innerHTML = "results: "+filter_list.length;
         if (dataServer.length <= 0){
-            init("one");
+            init("one", function(){});
         }else{
-            LoadSignature("one");
+            LoadSignature("one", function(){});
         }   
     }
 })
 
-//init("all");
+init("all", function(){
+    LoadTerms(function(){
+        LoadFocusList(function(){
+            LoadSuggestionList(function(){                        
+                LoadNotRelevantList(function(){
+                    if (d3.select("#scatterplotcontainer")._groups[0][0].children.length == 0){
+                        LoadScatterplot();
+                    }
+                })                            
+            })
+        })
+    }) 
+});    

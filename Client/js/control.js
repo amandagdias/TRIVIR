@@ -8,10 +8,10 @@ var colorSuggestion = "#ffc107";
 var colorNotRelevant = "#d75a4a";
 var colorBase = "#007527";
 
-$(window).one("load", function(){
+/*$(window).one("load", function(){
     initialize();
     
-});
+});*/
 
 /* General */
 function saveFocusList(focus){
@@ -301,6 +301,8 @@ function SetDocumentAsNotRelevant(document, origin){
         $("#suggestiontoggle")[0].disabled = true;
         $("#suggestioncontainer").css("visibility", "hidden")
         $("#focuscontainer").css("visibility", "hidden")      
+    }else{
+        $("#focustoggle")[0].disabled = true;       
     }  
     $.get(uri,function(resp) {    
         console.log(resp)      
@@ -317,6 +319,7 @@ function SetDocumentAsNotRelevant(document, origin){
             });         
         }else{
             saveNotRelevantList();
+            LoadFocusList(function(){ UpdateScatterplotColors(document.docname);   })
         }        
     });    
 }
