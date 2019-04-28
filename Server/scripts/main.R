@@ -29,19 +29,21 @@ attach(input[[1]])
 ## commands to run from RStudio. Obs: You will need to comment the line above: attach(input[[1]])
 
 # command = "init";
-# baseDocument = "E:/Documents/USP/Projeto Mestrado/mestrado/The Project/data/teste/ILP-1297Ale37-44.txt";
-# corpus = "E:/Documents/USP/Projeto Mestrado/mestrado/The Project/data/teste";
+# baseDocument = "../../data/demo/ILP-1297Ale37-44.txt";
+# corpus = "../../data/demo";
 # username = "mo";
-# path_core = "../../core/teste";
-# path_users = "../../file/teste/mo";
+# path_core = "../../core/demo";
+# path_users = "../../file/demo/mo";
 # embtech = "bagofwords";
-# workingdir = "E:/Documents/USP/Projeto Mestrado/github/TRIVIR/Server/scripts";
+# workingdir = "your_computer_path/TRIVIR/Server/scripts";
 
 ############################################################################################
 
 setwd(workingdir);
 
 if (command == "init"){
+  
+  
   dir.create(file.path("../../core/", basename(corpus)), showWarnings = FALSE)
   dir.create(file.path("../../file/", basename(corpus)), showWarnings = FALSE)
   dir.create(file.path(sprintf("../../file/%s/", basename(corpus)), username), showWarnings = FALSE)
@@ -63,7 +65,7 @@ if (command == "init"){
     source("init.R")
     saveCosDistance(baseDocument, path_core, path_users, embtech);
   }
-   
+
   #Term's visualization
   if (!file.exists(sprintf("%s/ImportantTerms.json", path_users))){
     source("tfidf.R");
