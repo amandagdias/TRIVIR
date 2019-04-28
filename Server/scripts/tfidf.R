@@ -17,10 +17,9 @@ needs("tokenizers");
 # library("tokenizers");
 
 createBagofWords <- function(corpus, path_core){
-  
-  
   con <- file(sprintf("%s/coordinates_temp.json", path_core), encoding = "latin1");
   jsondata <- as.character(readLines(con, warn = FALSE));
+  close(con);
   jsondata <- iconv(jsondata, to = "utf8")
   coordinates <- fromJSON(jsondata);
   
@@ -31,7 +30,7 @@ createBagofWords <- function(corpus, path_core){
 
   dtm_tfidf <- DocumentTermMatrix(corpus, control = list(weighting = weightTfIdf))
   dtm_tfidf = removeSparseTerms(dtm_tfidf, 0.95)
-  m <- as.matrix(dtm_tfidf) 
+  m <- as.matrix(dtm_tfidf)
   write.csv(m, file=sprintf("%s/bagofwords.csv", path_core))
   
 }
