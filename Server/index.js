@@ -6,13 +6,13 @@ var fs = require('fs');
 var R = require('r-script');
 var pathlib = require('path');
 
-var base = "E:/Documents/USP/Projeto Mestrado/mestrado/The Project/data/teste/ILP-1297Ale37-44.txt";
-var corpus = "E:/Documents/USP/Projeto Mestrado/mestrado/The Project/data/teste";
+var base = "../../data/demo/ILP-1297Ale37-44.txt";
+var corpus = "../../data/demo";
 var username = 'mo';
 
 
 var path_core = "../../core/"+pathlib.basename(corpus);
-var path_users = "../../file/"+pathlib.basename(corpus)+"/"+username
+var path_users = "../../file/"+pathlib.basename(corpus)+"/"+username;
 app.use(bodyParser.urlencoded({ extended: true })); 
 
 var projtech = "tsne";
@@ -49,6 +49,16 @@ app.post('/saveparameters', function (req, res) {
     
 });
 
+app.post('/installpackages', function (req, res) {
+    console.log("Installing Packages");
+    var out = R("./scripts/installpackages.R")
+    .data({})
+    .callSync()
+    console.log(out);
+    res.send(out);   
+    
+}); 
+
 app.post('/scatterplot', function (req, res) {
   console.log("Initializing scatterplot"); 
   fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/coordinates.json", "utf8", function(err, data){
@@ -56,11 +66,18 @@ app.post('/scatterplot', function (req, res) {
                   var out = R("./scripts/main.R")
                   .data({"command": "scatterplotdata", "corpus": corpus, "path_core": path_core, "path_users":path_users, "projtech": projtech, "embtech": embtech, "workingdir": workingdir})
                   .callSync()
-                  console.log(out);              
+                              
                   if (out == "success"){
                        fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/coordinates.json", "utf8", function(err, data){
                               if(err) console.log(err);
                               console.log(out);
+                              var datetime = "Last Sync: " + currentdate.getDate() + "/"
+                                    + (currentdate.getMonth()+1)  + "/" 
+                                    + currentdate.getFullYear() + " @ "  
+                                    + currentdate.getHours() + ":"  
+                                    + currentdate.getMinutes() + ":" 
+                                    + currentdate.getSeconds();
+                              console.log(datetime);
                               res.send(data);
                        });      
                   }     
@@ -77,7 +94,7 @@ app.post('/focuslist', function(req, res){
               var out = R("./scripts/main.R")
                 .data({"command": "focuslist", "corpus": corpus,  "baseDocument": base, "path_core": path_core, "path_users":path_users, "workingdir": workingdir})
                 .callSync(); 
-                console.log(out)
+                
                 if (out == "success"){                      
                       fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/focuslist.json", "utf8", function(err, data){
                       if(err) console.log(err); 
@@ -90,7 +107,7 @@ app.post('/focuslist', function(req, res){
              res.send(data);
           }           
     }); 
-})
+});
 app.post('/suggestionlist', function(req, res){
     console.log("Initializing suggestion list");
     
@@ -99,7 +116,7 @@ app.post('/suggestionlist', function(req, res){
                 var out = R("./scripts/main.R")
                   .data({"command": "suggestion", "corpus": corpus, "path_core": path_core, "path_users":path_users, "workingdir": workingdir})
                   .callSync();
-                console.log(out);
+                
                 if (out == "success"){
                     fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/suggestionlist.json", "utf8", function(err, data){
                         if(err) console.log(err);   
@@ -112,7 +129,7 @@ app.post('/suggestionlist', function(req, res){
                 res.send(data);
             }          
     });      
-})
+});
 app.post('/signature', function (req, res) {
 
   console.log("Initializing signature");
@@ -129,23 +146,25 @@ app.post('/signature', function (req, res) {
 
   R("./scripts/main.R").data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
       .call(function(err,d){
-           if (err) console.log(err);
-           console.log(d);
-
+           //if (err) console.log("erro " + err);          
+         
            if (d == "success"){
+              console.log(d);
               fs.readFile("../core/"+pathlib.basename(corpus)+"/signature.json", "utf8", function(err, data){
                   if(err) console.log(err);
+                 
                   var currentdate = new Date(); 
                   var datetime = "Last Sync: " + currentdate.getDate() + "/"
-                    + (currentdate.getMonth()+1)  + "/" 
-                    + currentdate.getFullYear() + " @ "  
-                    + currentdate.getHours() + ":"  
-                    + currentdate.getMinutes() + ":" 
-                    + currentdate.getSeconds();
-                  console.log(datetime);
-                  res.send(data);
-                });      
-            } 
+                  + (currentdate.getMonth()+1)  + "/" 
+                  + currentdate.getFullYear() + " @ "  
+                  + currentdate.getHours() + ":"  
+                  + currentdate.getMinutes() + ":" 
+                  + currentdate.getSeconds();
+                  console.log(datetime);                 
+                  res.send(data);  
+                                    
+              });      
+            }
       });  
  
 });
@@ -214,7 +233,7 @@ app.get('/deleteterm', function(req, res){
                   json = JSON.stringify(file, null, 2)
                   fs.writeFile("../file/"+pathlib.basename(corpus)+"/"+username+"/ImportantTerms.json", json, "utf8", (err) => {
                         if (err) console.log(err);
-                          res.send('The file has been saved!');
+                        res.send('The file has been saved!');
                   });     
                   
     }) 
