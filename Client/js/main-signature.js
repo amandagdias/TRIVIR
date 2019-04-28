@@ -6,10 +6,9 @@ function init(update) {
     d3.request("http://127.0.0.1:3000/signature")    
      .header("Content-Type", "application/json")
      .post(function(error, d){
-   
+        console.log(d);
         //PARAMETERS AND VARIABLES
         dataServer = JSON.parse(d.responseText);
-        
         dataServer.forEach(function(d, index){
             signaturelist[index] = d.ngram.replace(/\s+/g,' ').trim();        
         });
@@ -17,14 +16,18 @@ function init(update) {
         if (update == "all"){
             LoadTerms(function(){
                 LoadFocusList(function(){
-                    LoadSuggestionList(function(){
-                        if (d3.select("#scatterplotcontainer")._groups[0][0].children.length == 0){
-                            LoadScatterplot(); 
-                        }
+                    LoadSuggestionList(function(){                        
+                            LoadNotRelevantList(function(){
+                                if (d3.select("#scatterplotcontainer")._groups[0][0].children.length == 0){
+                                    LoadScatterplot();
+                                }
+                            })                            
                     })
-                }) 
-            });
-        }   
+                })
+            }) 
+        }
+             
+  
     });
 }
 function barClick(d, bar, barColor, barWidth, barHeight){
@@ -315,5 +318,4 @@ $("#searchngrambutton").unbind().click(function(e){
     }
 })
 
-init("all");
-
+//init("all");

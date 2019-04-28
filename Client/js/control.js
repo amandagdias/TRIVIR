@@ -8,6 +8,11 @@ var colorSuggestion = "#ffc107";
 var colorNotRelevant = "#d75a4a";
 var colorBase = "#007527";
 
+$(window).one("load", function(){
+    initialize();
+    
+});
+
 /* General */
 function saveFocusList(focus){
     relevant_list = focus;    
@@ -48,13 +53,23 @@ function isSuggestion(document){
     }   
     return false;   
 }
-function isNotRelevant(document){   
-    for (var i =0; i < notrelevant_list.length; i++){
-        if (notrelevant_list[i].docname == document){
-            return true;
-        }           
-    }   
-    return false;    
+function isNotRelevant(document){
+    if(notrelevant_list != undefined){
+        for (var i =0; i < notrelevant_list.length; i++){
+            if (notrelevant_list[i].docname == document){
+                return true;
+            }     
+        }   
+        return false; 
+    }else{
+        console.log("not relevant undefined");        
+    }
+}
+function initialize(){
+    $.post('http://127.0.0.1:3000/installpackages', function(resp){         
+      console.log("done");  
+      init("all");
+    })      
     
 }
 
