@@ -43,7 +43,7 @@ createScatterplotCoordinates <- function(path_core, path_users, projtech, embtec
   
   if (projtech == 'tsne'){
     #Using the vector representation of text # p = 50
-    if (basename(path_core) == 'teste'){
+    if (basename(path_core) == 'demo'){
       coordEmb <- Rtsne(embedding, perplexity = 3)
     }else if (basename(path_core) == 'cbr ilp ir son'){
       coordEmb <- Rtsne(embedding, perplexity = 15)

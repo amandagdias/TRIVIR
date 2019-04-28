@@ -71,7 +71,7 @@ setRelevantNgramBatch <- function(ngram, path_users, corpus){
         if (lines[j] == "")
           break;
       }
-      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
         titlelines <- lines[1:j];
         title[k] <- concatenate(titlelines);
       }else if (basename(corpus) == "WOS all"){
@@ -150,7 +150,7 @@ setNotRelevantNgramBatch <- function(ngram, path_users, corpus){
           break;
       }
       
-      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
         titlelines <- lines[1:j];
         title[k] <- concatenate(titlelines);
       }else if (basename(corpus) == "WOS all"){
@@ -227,7 +227,7 @@ setRelevantSimilarBatch <- function(document, path_users, path_core, corpus, emb
         if (lines[j] == "")
           break;
       }
-      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
         titlelines <- lines[1:j];
         title[k] <- concatenate(titlelines);
       }else if (basename(corpus) == "WOS all"){
@@ -312,7 +312,7 @@ setNotRelevantSimilarBatch <- function(document, path_users, path_core, corpus, 
         if (lines[j] == "")
           break;
       }
-      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+      if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
         titlelines <- lines[1:j];
         title[k] <- concatenate(titlelines);
       }else if (basename(corpus) == "WOS all"){

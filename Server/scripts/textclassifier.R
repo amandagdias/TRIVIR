@@ -31,7 +31,7 @@ createNotRelevant <- function(corpus, path_users){
       if (lines[j] == "")
         break;
     }
-    if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+    if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
       titlelines <- lines[1:j];
       title[i] <- toString(concatenate(titlelines));
     }else if (basename(corpus) == "WOS all"){
@@ -151,7 +151,7 @@ fasttextClassifier <- function(corpus, path_users, path_core){
           if (lines[j] == "")
             break;
         }
-        if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+        if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
           titlelines <- lines[1:j];
           title[k] <- concatenate(titlelines);
         }else if (basename(corpus) == "WOS all"){
