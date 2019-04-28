@@ -20,7 +20,7 @@ createFocusList <- function(path_users, corpus, baseDocument){
       if ((lines[j] == ""))
         break;
     }
-    if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+    if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
       titlelines <- lines[1:j];
       title[i] <- toString(concatenate(titlelines));
     }else if (basename(corpus) == "WOS all"){

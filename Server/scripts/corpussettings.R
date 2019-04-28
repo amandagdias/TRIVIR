@@ -107,7 +107,7 @@ getTitle <- function(corpus, docname){
     if (lines[j] == "")
       break;
   }
-  if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "teste")){
+  if ((basename(corpus) == "cbr ilp ir son")||(basename(corpus) == "demo")){
     titlelines <- lines[1:j];
     title <- toString(concatenate(titlelines));
   }else if (basename(corpus) == "WOS all"){
