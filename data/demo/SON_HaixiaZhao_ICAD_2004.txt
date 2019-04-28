@@ -1,0 +1,107 @@
+SONIFICATION OF GEO-REFERENDED DATA FOR AUDITORY INFORMATION SEEKING: DESIGN PRINCIPLE AND PILOT STUDY                      
+
+Haixia Zhao     , Catherine Plaisant, Ben Shneiderman                               Ramani Duraiswami 
+Department of Computer Science                                   Perceptual Interfaces and Reality 
+& Human Computer Interaction Laboratory,                                     Laboratory, UMIACS,  
+University of Maryland,                                         University of Maryland,  
+College Park, MD 20742, USA                                      College Park, MD 20742, USA 
+{haixia,plaisant,ben}@cs.umd.edu                                         {ramani}@umiacs.umd.edu 
+
+
+
+ABSTRACT                                      
+We present an Auditory Information Seeking Principle (AISP)                             
+(gist, navigate, filter, and details-on-demand) modeled after the                       
+visual information seeking mantra [1]. We propose that data                             
+sonification designs should conform to this principle. We also                          
+present some design challenges imposed by human auditory                                
+perception characteristics. To improve blind access to geo-referenced 
+statistical data, we developed two preliminary        
+sonifications adhering to the above AISP, an enhanced table and  
+a spatial choropleth map. Our pilot study shows people can                              
+recognize geographic data distribution patterns on a real map                           
+with 51 geographic regions, in both designs. The study also                             
+shows evidence that AISP conforms to people’s information                               
+seeking strategies. Future work is discussed, including the                             
+improvement of the choropleth map design.                                               
+
+
+
+REFERENCES
+[1] B. Shneiderman, The eyes have it: a task by data type                                                           
+    taxonomy for information visualization. In Proceedings of                                                       
+    the IEEE Symposium on Visual Languages, Sept 3-6, pp.                                                            
+    336-343, 1996                                                                                                    
+[2] G. Kramer, B. Walker, T. Bonebright, P. Cook, J. Flowers,                                                        
+    N. Miner, J. Neuhoff, et al, Sonification report: status of                                                     
+    the field and research agenda, 1997, available from            
+    http://www.icad.org/websiteV2.0/References/nsf.html, last                                                        
+    accessed on Jan. 20, 2004                                                                                        
+[3] FedStats, http://www.fedstats.gov, last accessed on Jan.                                                         
+    20  , 2004                                                                                                       
+[4] Corda Technologies Inc., http://www.corda.com, last                                                              
+    accessed on Jan. 20, 2004                                                                                        
+[5] R. Ramloll, W. Yu, B. Riedel, and S.A. Brewster, Using                                                          
+    non-speech sounds to improve access to 2D tabular                                                                
+    numerical information for visually impaired users. in                                                           
+    Proc. BCS IHM-HCI 2001, Lille, France, 515-530. 2001                                                             
+[6] V. R. Algazi, R. O. Duda, D. P. Thompson, and C.                                                                 
+    Avendano. The CIPIC HRTF database, In Proc.                                                                    
+    IEEEWASPAA01, New Paltz, NY, pp. 99-102, 2001.                                                                   
+[7] J.H. Flowers and T. A. Hauer, Musical versus visual                                                             
+    graphs: cross-modal equivalence in perception of time                                                            
+    series data. Human Factors, 1995, 37(3), 553-569.                                                               
+[8] J.H. Flowers, D.C. Buhman, and K.D. Turnage, Cross-                                                             
+    modal equivalence of visual and auditory scatterplots for                                                        
+    exploring bivariate data samples. Human Factors, 1997                                                           
+    v39 n3 p340(11)                                                                                                  
+[9] T.L. Bonebright, M. A. Nees, T.T. Connerley, and G. R.                                                           
+    McCain, "Testing the effectiveness of sonified graphs for                                                        
+    education: a programmatic research project", In Proc.Int.                                                        
+    Conf. Auditory Display,  2001, Espoo, Finland, pp. 62-66.                                                        
+[10] L. Brown, S.A.Brewster, Drawing by ear: interpreting                                                           
+    sonified line graphs, in Proc. Int. Conf. Auditory Display                                                      
+    2003.                                                                                                            
+[11] P.B.L. Meijer, An experimental system for auditory Image                                                       
+    representations, IEEE Transactions on Biomedical                                                                
+    Engineering, Vol. 39, No. 2, pp. 112-121, Feb 1992. Also                                                         
+as the vOICe system at http://www.seeingwithsound.com, 
+last accessed on Jan. 20, 2004                
+[12] Z. Wang, and J. Ben-Arie, Conveying Visual Information 
+with Spatial Auditory Patterns, IEEE Transactions on 
+Speech and Auditory Processing, 4, 446-455, 1996 
+[13] W. Jeong, Adding haptic and auditory display to visual 
+geographic information, PhD thesis, Florida State Univ. 
+2001.                                         
+[14] M.A. Perez-Quinones, R.G. Capra, Z. Shao, "The ears have 
+it: a task by information structure taxonomy for voice 
+also http://ils.unc.edu/govstat/) and Grant No. ITR/AITS                                                             
+access to Web pages", in Proc. IFIP Interact 2003. 
+[15] L.R. Peterson, and M.J. Peterson, Short-term retention of 
+individiual verbal items. in Journal of Experimental 
+Psychology, 58, 193-198. 1959                 
+[16] R.C. Atkinson, and R.M. Shiffrin, The control of short-
+term memory. In Scientific American, 82-90. August 1971   
+[17] G. Kramer, Some organizing principles for representing 
+data with sound, in G. Kramer (Ed.), Auditory Display, 
+SFI Proc. Vol. XV111, Addison-Wesley. 1994    
+[18] S.A. Brewster, P.C. Wright, and A.D.N. Edwards, 
+Experimentally derived guidelines for the creation of 
+Earcons, in Proceedings of HCI95, Huddersfield, UK, 
+1995, pp. 155-159.                            
+[19] B. Walker, and G. Kramer, Mappings and metaphors in 
+auditory displays: an experimental assessment, in Proc. 
+Int. Conf. Auditory Display. 1996             
+[20] B. Shneiderman, Designing the User Interface: Strategies 
+for Effective Human-Computer Interaction, 3   Edition, 
+Addison Wesley Longman Inc., 1998             
+[21] E.M. Wenzel, M. Arruda, D.J. Kistler, F.L. Wightman, 
+Localization using nonindividualized head-related transfer 
+functions. Journal of the Acoustical Society of America, 
+Vol. 94, no. 1, pp.111-123, 1993.             
+[22] D.K. McGookin, and S.A. Brewster, An investigation into 
+the identification of concurrently presented earcons. In 
+Proc. Int. Conf. Auditory Display, 2003       
+[23] H.M. Kamel, J.A. Landay, The integrated communication 
+ 2 draw (IC2D): a drawing program for the visually 
+impaired, in ACM SIGCHI 1999.                 

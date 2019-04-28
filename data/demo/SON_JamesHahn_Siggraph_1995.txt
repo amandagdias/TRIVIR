@@ -1,0 +1,89 @@
+Integrating Sounds and Motions in Virtual Environments      
+
+JAMES K. HAHN, HESHAM FOUAD, LARRY GRITZ, and JONG WON LEE
+Department of Electrical Engineering and Computer Science
+The George Washington University
+Washington, DC, 20052
+hahn@seas.gwu.edu
+
+
+Abstract                                                     
+Sounds are often the result of motions of virtual objects in a virtual environment.
+Therefore, sounds and the motions that caused them should be treated in an integrated way.
+When sounds and motions do not have the proper correspondence, the resultant confusion
+can lessen the effects of each. In this paper, we present an integrated system for modeling,
+synchronizing, and rendering sounds for virtual environments. The key idea of the system is
+the use of a functional representation of sounds, called timbre trees. This representation is
+used to model sounds that are parameterizable. These parameters can then be mapped to the
+parameters associated with the motions of objects in the environment. This mapping allows
+the correspondence of motions and sounds in the environment. Representing arbitrary sounds
+using timbre trees is a difficult process that we do not address in this paper. We describe
+approaches for creating some timbre trees including the use of genetic algorithms. Rendering
+the sounds in an aural environment is achieved by attaching special environmental nodes that
+represent the attenuation and delay as well as the listener effects to the timbre trees. These
+trees are then evaluated to generate the sounds. The system that we describe runs parallel in
+real-time on an eight processor SGI Onyx. We see the main contribution of the present
+system as a conceptual framework on which to consider the sound and motion in an
+integrated virtual environment.                              
+
+
+References                                         
+Blattner, M., Smikawa, D., and Greenburg, R. (1989). Earcons and Icons: Their Structure and
+         Common Design Principles. Human-Computer Interaction, Vol. 4, No. 1, pp 11-44.
+Borish, J. (1985). An Auditorium Simulator for Domestic Use. J. Audio Eng. Soc, Vol 33,
+         No. 5, pp.330-340.                                 
+Chamberlin, H. (1985). Musical Applications of Microprocessors. Hayden Book Co.
+Cook, R. (1984). Shade Trees. Proc. SIGGRAPH'84, Vol.18, No.3, pp.195-206.
+Dannenberg, R., Fraley, C., and Velikonj, P. (1991). Fugue: A Functioal Language for Sound
+         Synthesis. IEEE Computer, Vol.24, No.7, pp.36-42   
+Fletcher, N. and Rossing, T. (1991). The Physics of Musical Instruments. Springer-Verlag.
+Fouad, H. and Hahn, J. (1996). A Framework for Integrating Audio in Virtual Environments.
+         Proc. IS&T/SPIE Symposium on Electronic Imaging: Science & Technology.
+Funkhouser, T. and Sequin, C. (1993). Adaptive Display Algorithm for Interactive Frame
+         Rates During Visualization of Complex Virtual Environments. Proc. SIGGRAPH'93,
+         pp. 247-254.                                       
+Gaver, W. (1993). Synthesizing Auditory Icons. Proceedings of INTERCHI.
+Gritz, L. and Hahn, J. (1995). Genetic Programming for Articulated Figure Motion. Journal
+         of Visualization and Computer Animation, Volume 6, Number 3, pp. 129-142.
+Hahn, J. (1988). Realistic Animation of Rigid Bodies. Proc. SIGGRAPH'88, ACM Computer
+         Graphics, Vol.22, No.3, pp.299-308                 
+Hahn, J., Gritz, L, Darken, R., Geigel, J., and Lee, J. (1993). An Integrated Virtual
+         Environment System. Presence: Teleoperators and Virtual Environments, Vol. 2, No.
+         4, pp 353-360.                                     
+Hahn, J., Geigel, J., Lee, J., Mishra, S., Gritz, L., and Takala, T. (1995). An Integrated
+         Approach to Motion and Sound. Journal of Visualization and Computer Animation,
+         Volume 6, Issue No. 2, pp. 109-123.                
+Mishra, S. and Hahn, J. (1995). Mapping Motion to Sound and Music in Computer
+         Animation and VE. Invited Paper, Proceedings of Pacific Graphics.
+Koza, J. (1992). Genetic Programming. MIT Press.            
+Mathews, M. (1969). The Technology of Computer Music. MIT Press.
+Moore, F. (1990). Element of Computer Music. Prentice Hall, Englewood Cliffs, NJ.
+Nakamura, J, Kaku, T., Noma, T., and Yoshida, S. (1993). Automatic Background Music
+         Generation Based on Actors' Emotion and Motions. Proceedings of the First Pacific
+         Conference on Computer Graphics and Applications, Vol. 1, pp.147-161.
+Perlin, K. (1985). An Image Synthesizer. Proc. SIGGRAPH'85, Vol.19, No.3, pp.287-296.
+Pope, S. and Fehlen, L. (1993). The Use of 3-D Audio in a Synthetic Environment: An Aural
+         Renderer for a Distributed Virtual Reality System. Proc. IEEE VRAIS '93, pp. 176-
+         182.                                               
+Scaletti, C. (1991). The Kyma/Platypus Computer Music Workstation in S. Pope (Ed.). The
+         Well-Tempered Object: Musical Applications of Object Oriented Software
+         Technology. MIT Press.                             
+Silicon Graphics Inc. Parallel Programming on Silicon Graphics Computer Systems. Version
+         1.0, Documentation number 007-0770-010.            
+Sims, K. (1991). Artificial Evolution for Computer Graphics. Proc. SIGGRAPH'91, Vol.25,
+         No.3, pp. 319-328.                                 
+Takala, T. and Hahn, J. (1992). Sound Rendering. Proc. SIGGRAPH'92, Vol.26, No.2,
+         pp.211-220.                                        
+Takala, T., Hahn, J., Gritz, L., Geigel, J., and Lee, J. (1993). Using Physically-Based Models
+         and Genetic Algorithms for Functional Composition of Sound Signals, Synchronized
+         to Animated Motion. International Computer Music Conference (ICMC).
+Thalman, N. and Thalman, D. (1990). Synthetic Actors in Computer Generated 3D Films.
+         Springer-Verlag.                                   
+Vercoe, B. (1986). Csound: A manual for the Audio Processing System and Supporting
+         Programs. MIT Media Lab.                           
+Watt A. and Watt, M. (1992). Advanced Animation and Rendeting Techniques, Addison-
+         Wesley.                                            
+Wenzel, E. (1992). Localization in Virtual Acoustic Displays. Presence: Teleoperators and
+         Virtual Environments, 1, 80-107.                   
+Zaza, T. (1991). Audio design: Sound Recording Techniques for Film and Video. Prentice-
+         Hall.

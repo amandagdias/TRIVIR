@@ -1,0 +1,73 @@
+SONIFICATION OF MARKOV CHAIN MONTE CARLO SIMULATIONS                                                            
+
+T. Hermann                               M. H. Hansen                                H. Ritter                   
+Faculty of Technology                       Bell Laboratories                   Faculty of Technology              
+Bielefeld University, Germany                Murray Hill, New Jersey            Bielefeld University, Germany           
+thermann@techfak.uni-bielefeld.de                cocteau@bell-labs.com            helge@techfak.uni-bielefeld.de            
+
+
+ABSTRACT
+Markov chain Monte Carlo (McMC) simulation is a popular computational 
+tool for making inferences from complex, high-dimensional probability 
+densities. Given a particular target densityp,
+idea behind this technique is to simulate a Markov chain that has                                                            
+pas its stationary distribution. To be successful, the chain needs                                                           
+to be run long enough so that the distribution of the current draw                                                           
+is close to the target density. Unfortunately, very few diagnostic                                                           
+tools exist to monitor characteristics of the chain.                                                                         
+   In this paper, we present a new approach to render sonifications 
+of McMC simulations. The proposed method consists of       
+several auditory streams which provide information about the behavior 
+of the Markov chain. In particular, we focus on uncovering modes in 
+the target density function. In addition to mon-                                                              
+itoring, we have found our sonication to be an effective means                                                              
+for understanding the structure of high-dimensional densities. We                                                            
+have also applied our method to the exploratory analysis of high-dimensional 
+data sets. In this case, we take as our targpeta non-parametric 
+density estimate obtained from the data. In this paper,                                                           
+we present a detailed description of our sonification design and illustrate 
+its performance on test cases consisting of both synthetic                                                          
+and real-world data sets. Sound examples are also given.                                                                     
+
+
+
+
+
+REFERENCES                         
+ [1] W. R. Gilks, S. Richardson, and D. J. Spiegelhalter,Markov
+     ChainMonteCarloinPractice, Chapman & Hall, 1996.     
+ [2] C. Scaletti, “Sound synthesis algorithms for auditory data
+     representations,” inAuditoryDisplay, G. Kramer, Ed. 1994,
+     Addison-Wesley.                                      
+ [3] A. Gelman, J. B. Carlin, H. S. Stern, and D. B. Rubin,
+     BayesianDataAnalysis, Chapman & Hall, 1995.          
+ [4] L. Tierney, “Markov chains for exploring posterior distributions 
+(with discussion),”theAnnalsofStatistics, vol. 22, no.
+     2, pp. 1701–1727, 1994.                              
+ [5] T. Hermann and H. Ritter,  “Listen to your Data: Model-Based 
+Sonification for Data Analysis,” inAdvances inin-
+     telligentcomputingandmulimediasystems,M . R.S yed, Ed.
+     1999, Int. Inst. for Advanced Studies in System Research and
+     Cybernetics.                                         
+ [6] W. W. Gaver, “How do we hear in the world? Explorations
+     in ecological acoustics,”EcologicalPsychology, vol. 5, no.
+     4, pp. 285–313, 1993.                                
+ [7] W. W. Gaver,  “What in the world do we hear? An eco- 
+     logical approach to auditory source perception,E”cological
+     Psychology, vol. 5, no. 1, pp. 1–29, 1993.           
+ [8] W. W. Gaver, “Using and creating auditory icons,” in Auditory 
+Display, G. Kramer, Ed. 1994, Addison-Wesley.    
+ [9] T.  Hermann    and   M.   H.   Hansen,         “Demonstration  of   
+sonification   of   McMC     simulations,”
+     http://www.techfak.uni-bielefeld.de/˜thermann/projects/index.html          , 2001.       
+[10] C. Roads, “Automated granular synthesis of sound,”Computer Music
+Journal, vol. 2 (2), pp. 61, 1978.         
+[11] G. Kramer, “An introduction to auditory display,” A inuditory
+     Display, G. Kramer, Ed. 1994, Addison-Wesley.        
+[12] J. G. Neuhoff, G. Kramer, and J. Wayand, “Sonification and
+     the interaction of perceptual dimensions: Can the data get
+     lost in the map,” in Proceedings of the Int. Conf. on Auditory
+     Display, P. R. Cook, Ed. 2000, ICAD.                 
+[13] Y. LeCun,     “The MNIST Database of Handwritten     
+     Digits,” http://www.research.att.com/˜yann/          
+     ocr/mnist/index.html       , 2001.

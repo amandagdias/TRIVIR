@@ -1,0 +1,69 @@
+A model for interaction in exploratory sonification displays                                  
+
+Sigurd Saue                                
+Norwegian University of Science and Technology                
+Department of Telecommunications, Acoustics                  
+O.S.Bragstads plass 2B                           
+N-7491 TRONDHEIM, NORWAY                               
++ 47 73 59 23 88                              
+saue@tele.ntnu.no                             
+
+
+ABSTRACT                                                                                            
+This paper presents a general model for sonification of large spatial data sets (e.g. seismic data, medical data) based on ideas
+from ecological acoustics. The model incorporates not only what we hear (the sounds), but also how we listen (the
+interaction). Metaphorically speaking the interpreter is walking along paths in areas of the data set, listening to locally and
+globally defined sound objects. The time aspects of sonification are given special attention, introducing the notion of
+temporalization. Some features of a preliminary Windows NT implementation are summarized.           
+
+
+REFERENCES
+1. Kramer, G. & al. NSF Sonification Report: Status of the field and research agenda, 1999. Available at:
+http://www.icad.org/websiteV2.0/References/nsf.html.
+2. Scaletti, C. & Craig, A.B. Using sound to extract meaning from complex data. In Proceedings of the SPIE vol. 1459, San
+Jose, 1991: 207-219
+3. Barrass, S. Auditory information design. Ph. D. Thesis. Australian National University, Canberra, Australia, 1998
+4. Kramer, G. Some organizing principles for representing data with sound. In Auditory Display: Sonification, Audification
+and Auditory Interfaces (ed. Kramer, G.), SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII, Addison-
+Wesley, Reading, Mass., 1994: 185-222
+5. Gaver, W.W. Auditory interfaces. In Handbook of Human-Computer Interaction (ed. Helander, M.G., Landauer, T.K. &
+Prabhu, P.), 2  Edition, Elsevier Science, Amsterdam, 1997
+6. Wenzel, E.M. Spatial sound and sonification. In Auditory Display: Sonification, Audification and Auditory Interfaces (ed.
+Kramer, G.), SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII, Addison-Wesley, Reading, Mass.,
+1994: 127-150   
+7. Kramer, G. An introduction to auditory display. In Auditory Display: Sonification, Audification and Auditory Interfaces
+(ed. Kramer, G.), SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII, Addison-Wesley, Reading, Mass.,
+1994: 1-77      
+8. Smith, S., Grinstein, G.G., & Bergeron, R.D. Stereophonic and surface sound generation for exploratory data analysis. In
+Proceedings of CHI’90, ACM Conference on Human Factors of Computing Systems, 1990: 125-132
+9. Gröhn, M. & Takala, T. MagicMikes method for spatial sonification. In Proceedings of SPIE 2410 (Visual Data
+Exploration and Analysis II), 1995: 294-301
+10. Choi, I. & Bargar, R. Interfacing sound synthesis to movement for exploring high-dimensional systems in a virtual
+environment. In Intelligent Systems for the 21st Century, IEEE International Conference on Systems, Man and Cybernetics
+(vol. 3), 1995: 2772-2777
+11. Robertson, P.K. A methodology for scientific data visualization: Choosing representations based on a natural scene
+paradigm. In Proceedings of the First IEEE Conference on Visualization (Visualization '90, San Francisco, October 23-26),
+1990: 114-123   
+12. Baker, M.P. & Wickens, C.D. Human factors in virtual environments for the visual analysis of scientific data, 1998.
+Available at http://www.ncsa.uiuc.edu/Vis/Publications/humanFactors.html.
+13 Astheimer, P. What you see is what you hear Acoustics applied in virtual worlds. In Proceedings of the IEEE 1993
+Symposium on Virtual Reality (San José, October 25-26 1993): 100 - 107
+14 Choi, I. Sound synthesis and composition applying time scaling to observing chaotic systems. InProceedings of the 
+International Conference on Auditory Display, ICAD'94 (Santa Fe, November 7-9 1994): 79 - 109
+15. Gaver, W.W. What in the world do we hear? An ecological approach to auditory source perception. Ecological
+Psychology 5, 1 (1993): 1-29
+16 Ballas, J. & Howard, J. Interpreting the language of environmental sounds. Environment and Behavior 19, 1 (January
+1987): 91-114   
+17. Gaver. W.W. Using and creating auditory icons. In Auditory Display: Sonification, Audification and Auditory Interfaces
+(ed. Kramer, G.), SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII, Addison-Wesley, Reading, Mass.,
+1994: 417-446   
+18. Gibson, J.J. The ecological approach to visual perception. Lawrence Erlbaum Associates, Hillsdale, 1986
+19. Meijer, P.B.L. An experimental system for auditory image representations. In IEEE Transactions on Biomedical
+Engineering 39, 2 (1992): 112-121
+20. Axen, U. & Choi, I. Investigating geometric data with sound. In Proceedings of the International Conference on Auditory
+Display, ICAD'96 (Palo Alto, November 4-6 1996). Available at: http://www.santafe.edu/~icad/ICAD96/proc96/axen.htm.
+21. Microsoft Corp.: DirectSound Overview. Available at:  http://www.microsoft.com/directx/overview/dsound/default.asp.
+22. Lake Technologies. Web page at: http://www.lakedsp.com/index.htm.
+23. Saue, S. & Fjeld, O.K. A platform for audiovisual seismic interpretation. In Proceedings of the International Conference
+on Auditory Display, ICAD'97 (Palo Alto, November 2-5, 1997). Available at:
+http://www.icad.org/websiteV2.0/Conferences/ICAD97/Saue.pdf.

@@ -1,0 +1,42 @@
+Design and Implementation of a Multimedia Opera                       
+
+James Oliverio    Jarrell Pair
+Graphics, Visualization, and Usability Center                Graphics, Visualization, and Usability Center
+AudioLab                                                     AudioLab
+Georgia Institute of Technology                              Georgia Institute of Technology
+james.oliverio@music.gatech.edu                              jarrell@cc.gatech.edu
+
+
+Abstract                         
+While the traditional notion of "opera" describes a production that incorporates musical elements with other art
+forms and media, the conceptual and technical considerations required to mount an electronic multimedia opera
+add significant layers of complexity.  Design issues including projecting visual media, the implementing of an
+immersive audio environment and maintaining synchronization (between live singers and digital music, 3D
+computer animation, stage lighting and projected imagery) add to the standard list of compositional and
+production challenges. An overview of the design and implementation of such a production, StarChild: The
+Opera, offers a primer in the musical and extra-musical considerations that are required to realize a large-scale
+composition in an electronic mixed media environment.                              
+
+
+
+
+References
+[Madhyastha and Reed, 1995] Tara M. Madhyastha 
+and Daniel A. Reed.  Data Sonification: Do 
+You See What I Hear?  IEEE Software, 12: 
+pp.45-56, 1995.
+[Malham and Myatt, 1995] David G. Malham and 
+Anthony Myatt.  3-D Sound Spatialization 
+using Ambisonic Techniques. Computer 
+Music Journal, 19(4): pp.58-70, 1995.
+[McLarnon and Muxie, 1994] Zed McLarnon and J.P.
+Muxie.  Sync Problems Faced by the 
+Multimedia Producer Now. Advanced 
+Imaging, 9(1): pp.62-64, 1994.
+[McLean, 1992] Barton McLean.  Composition 
+with Sound and Light.  Leonardo Music 
+Journal, 2(1): pp.19-22, 1992.
+[Rogala and Moore, 1993] Miroslaw Rogala and 
+Darrell Moore.  Nature is Leaving Us: A Video
+Theatre Work. Leonardo, 26(1): pp.11-18, 
+1993.

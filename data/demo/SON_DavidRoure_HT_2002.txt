@@ -1,0 +1,112 @@
+On Hyperstructure and Musical Structure                           
+
+Kevin R. Page and Mark J. Weal          
+Intelligence Agents Multimedia Group       
+Department of Electronics and Computer Science    
+University of Southampton            
+Southampton, UK                 
+{dder,dgc,dtm,krp,mjw}@ecs.soton.ac.uk           
+
+
+ABSTRACT                                                                            
+In this paper we report on an ongoing investigation into the    
+relationship between musical structure and hyperstructure, based
+on a series of open hypermedia systems research projects that   
+have featured case studies involving musical content. We provide
+a general overview of the intersection between hypermedia and   
+musical structure, drawing also on ideas from narrative structure.
+Through the example systems we consider techniques for          
+building hyperstructure from musical structure and, conversely, 
+building musical structure from hyperstructure.  Additionally we                    
+describe an experiment in the sonification of hyperstructure.   
+
+
+REFERENCES  
+[1] Barra, M., Cillo, T., De Santis, A., Matlock, T.,  Petrillo, 
+U.F., Negro, A., Scarano, V. and Maglio, P.P. Personal 
+WebMelody: Customized Sonification of Web Servers, 
+Proceedings of the 2001 International Conference on 
+Auditory Display, Finland. 
+[2] Bernstein, M., Patterns of Hypertext. in Hypertext ©98, 
+(Pittsburgh, PA, 1998), ACM, 21-29. 
+[3] Bernstein, M., Card Shark and Thespis: exotic tools for 
+hypertext narrative. in Hypertext 2001: Proceedings of the 
+12th ACM Conference on Hypertext and Hypermedia, 
+(Århus, Denmark, 2001), ACM, 41-50. 
+[4] Blackburn, S.G. and De Roure, D.C. (1998) A tool for 
+content based navigation of music. Proceedings of ACM 
+Multimedia ©98 p.361-368. 
+[5] Davis, H.C., Reich, S. and Millard, D. A proposal for a 
+common navigational hypertext protocol. Technical report, 
+Dept. of Electronics and Computer Science, 1997. Presented 
+at 3.5 Open Hypermedia System Working Group Meeting. 
+Aarhus University, Denmark. September 8-11. 
+[6] De Roure, D.C. Blackburn, S.G., Oades, L.R., Read, J.N. 
+and Ridgway, N. (1998) Applying Open Hypermedia to 
+Audio. Proceedings of ACM Hypertext 98 p.285-286. 
+[7] De Roure, D.C. and Blackburn, S.G. (1998) Amphion: Open 
+Hypermedia Applied to Temporal Media. Proceedings of the 
+4th Open Hypermedia Workshop p.27-32. 
+[8] Fountain, A and Hall, W and Heath, I and Davis, H (1990) 
+Microcosm: An Open Model for Hypermedia with Dynamic 
+Linking. Hypertext: Concepts, Systems and Applications, 
+Proceedings of ECHT©90, Paris, November 1990 p.298-311. 
+[9] Ghias, A., Logan, J., Chamberlin, D., and Smith, B. C. 
+or  Query by humming - musical information retrieval in an 
+audio database, in Proc. Multimedia©95 (San Francisco, 
+California, November 1995). 
+[10] Hardman, L, Bulterman, D.C.A and van Rossum, G. The   
+Amsterdam Hypermedia Model: Adding Time and Context       
+to the Dexter Model, Communications of the ACM 37 (2),    
+Feb 94, pp 50 - 62.                                       
+[11] Joyce, M. Afternoon, a story. Eastgate Systems, 1987.   
+[12] Michaelides, D.T., Millard, D.E., Weal, M.J. and Roure, 
+D.C.D., Auld Leaky: A Contextual Open Hypermedia Link        
+Server. in Proceedings of the 7th Workshop on Open           
+Hypermedia Systems, (Aarhus, Denmark, 2001), ACM.           
+[13] Millard, D.M., Moreau, L., Davis, H.C. and Reich, S.,  
+FOHM: A Fundamental Open Hypertext Model for                
+Investigating Interopability Between Hypertext Domains. in  
+Hypertext 2000, (San Antonio, Texas, 2000), ACM, 93-102.    
+[14] Nelson, T.H. Xanalogical Structure, Needed Now More than 
+Ever: Parallel Documents, Deep Links to Content, Deep         
+Versioning, and Deep Re-Use. ACM Computing Surveys.           
+Volume 31, Number 4. December 1999.                           
+[15] van Ossenbruggen, J. and Eliens, A. Music in time-based  
+hypermedia. In Proceedings of the ECHT©94 European            
+Conference on Hypermedia Technologies, Technical            
+Briefings, pages 224-227, 1994.                             
+[16] Page, K.R., Cruickshank, D.G. and De Roure, D.C. (2001) 
+Its About Time: Link Streams as Continuous Metadata. The     
+Twelfth ACM Conference on Hypertext and Hypermedia           
+(Hypertext ©01) p.93-102.                                   
+[17] Rosenberg, J., And And: Conjunctive Hypertext and the  
+Structure Acteme Juncture. in Hypertext 2001: Proceedings                                                             
+of the 12th ACM Conference on Hypertext and Hypermedia,                                                               
+(Århus, Denmark, 2001), ACM, 41-50.                                                                                   
+[18] Selfridge-Field, E. (ed) Beyond MIDI: The Handbook of 
+Musical Codes, 1997.                                 
+[19] Smoliar, S. A Computer Aid for Schenkerian Analysis, 
+Computer Music Journal, Volume 4, Number 2, pp. 41 - 59, 
+MIT Press, 1980.                                     
+[20] Tanaka, A. Musical implications of media and network 
+infrastructures, Hypertextes  hypermedias   Actes   de 
+H2PTM’01, p. 241-250. October 2001.                  
+[21] Taube, H. and Kunze, T. An HTTP Interface to Common  
+Music. Proceedings of the 1997 International Computer 
+Music Conference, pp. 204-207. Thessaloniki, Greece and 
+San Francisco, CA: ICMA, 1997.                       
+[22] Weal, M.J., Millard, D.E., Michaelides, D.T. and Roure, 
+D.C.D., Building Narrative Structures Using Context Based 
+Linking. in Hypertext ©01: Proceedings of the Twelfth ACM 
+conference on Hypertext, (Aarhus, Denmark, 2001), ACM, 
+37-38                                                
+[23] Computer Music Journal, vol. 24, no. 1, MIT Press, Spring 
+2000.                                                
+[24] HyTime. ISO 10744:1997 - Hypermedia/Time-based       
+Structuring Language (HyTime), 2nd Edition.          
+[25] SMDL draft international standard (ISO/IEC CD 10743), 
+July 1995. ISO/IEC JTC1/SC34.                        
+[26] W3C Synchronized Multimedia Integration Language     
+(SMIL     2.0),   World    Wide     Web     Consortium 
+Recommendation, 7 August 2001.

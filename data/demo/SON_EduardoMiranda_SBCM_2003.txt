@@ -1,0 +1,81 @@
+A-Life and Musical Composition: A Brief Survey                      
+
+Eduardo R Miranda            and Peter M Todd        
+Computer Music Research, Faculty of Technology, University of Plymouth, Drake
+Circus, Plymouth, Devon PL4 8AA, United Kindgom.           
+
+Max Planck Institute for Human Development, Center for Adaptive Behavior and
+Cognition, Lentzeallee 94, 14195 Berlin, Germany.        
+eduardo.miranda@plymouth.ac.uk, ptodd@mpib-berlin.mpg.de             
+
+Abstract: 
+There have been a number of interesting applications of A-Life in
+music, ranging from associating musical notes to the cells of cellular automata,
+to forging genotypes of musical parameters for generating music using genetic
+algorithms. From the three approaches surveyed in this paper, only the cultural
+approach allows for the study of the circumstances and mechanisms whereby  
+music might originate and evolve in virtual communities of musicians and   
+listeners. This approach considers musical systems in the context of the origins
+and evolution of cultural conventions that may emerge under a number of    
+constraints, such as psychological, physiological and ecological constraints.
+
+References                                                                                   
+
+Bilotta, E., and Pantano, P. (2001).  Artificial life music tells of complexity.  
+In E. Bilotta, E. R. Miranda, P. Pantano, and P.M. Todd (Eds.), ALMMA 2001: Proceedings of          
+the workshop on artificial life models for musical applications (pp. 17-28).         
+Cosenza, Italy: Editoriale Bios.                                                     
+
+Cangelosi, A. and Parisi, D. (Eds.) (2001). Simulating the Evolution of Language.            
+London, UK: Springer Verlag.                                                         
+
+Dahlstedt, P.  and Nordhal, M. G. (2001). Living Melodies: Coevolution of Sonic              
+Communication. Leonardo, 34:3, 243-248.                                              
+
+Degazio, B. (1999). La evoluci—n de los organismos musicales. In E. R. Miranda (Ed.),
+Mœsica y nueavas tecnolog’as: Perspectivas para el siglo XXI. Barcelona, Spain:
+LÕAngelot.
+
+Gilbert, G. N. and Troitzsch, K. G. (1999). Simulations for the Social Scientist.
+Buckingham, UK: Open University Press.
+
+Hunt, A., Kirk, R. and Orton, R. (1991). Musical Applications of a Cellular Automata
+Workstation. Proceedings of the International Computer Music Conference Ð
+ICMCÕ91 (pp. 165-166). San Francisco, USA: ICMA.
+
+Iwai, T. (1992).  Music insects.  Installation at the Exploratorium, San Francisco, USA.
+http://www.iamas.ac.jp/%7Eiwai/artworks/music_insects.html (Commercially
+available as SimTunes in the SimMania package from Maxis.)
+
+Kirby, S. (2002). Natural Language from Artificial Life. Artificial Life, 8:2,185-215
+Langton, C. G., (Ed.) (1997). Artificial Life: an Overview, Cambridge, USA: The MIT
+Press.
+
+Miranda, E. R. (2002a).  Emergent sound repertoires in virtual societies. Computer Music
+Journal, 26:2, 77-90.
+
+Miranda, E. R. (2002b). Mimetic Development of Intonation. C. Anagnostopoulou and
+Smaill, A. (Eds.) Music and Artificial Intelligence Ð Second International
+Conference, Lecture Notes in Computer Science, Vol. 2445 (pp. 107-118).
+London, UK: Springer-Verlag.
+
+Miranda, E. R. (2001). Composing Music with Computers. Oxford, UK: Focal Press.
+
+Miranda, E. R. (1993). Cellular Automata Music: An Interdisciplinary Music Project.
+Interface (now  Journal of New Music Research) 22:1, 3-21.
+
+Moroni, A., Manzolli, J., van Zuben, F. and Godwin, R. (1990). Vox Populi: An interactive
+evolutionary system for algorithmic music composition. Leonardo Music Journal,
+10, 49-54.
+
+Spector, L., and Alpern, A. (1995). Induction and recapitulation of deep musical structure.
+Working Notes of the IJCAI-95 Workshop on Artificial Intelligence and Music
+(pp. 41-48).
+
+Todd, P.M., and Werner, G.M. (1999).  Frankensteinian methods for evolutionary music
+composition.  In N. Griffith and P.M. Todd (Eds.), Musical networks: Parallel
+distributed perception and performance (pp. 313-339).  Cambridge, MA: MIT
+Press/Bradford Books.
+
+Todd, P. M. (2000). Simulating the evolution of musical behavior. In N. Wallin, B.
+Merker and S. Brown (Eds.), The origins of music. Cambridge, MA: MIT Press.

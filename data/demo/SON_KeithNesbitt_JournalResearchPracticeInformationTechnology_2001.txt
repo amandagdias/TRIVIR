@@ -1,0 +1,77 @@
+Modeling the Multi-Sensory Design Space
+
+Keith V. Nesbitt
+Basser Department of Computer Science
+University of Sydney, Australia
+knesbitt@cs.newcastle.edu.au
+
+
+Abstract                                                         
+Research into the visualization of abstract data has resulted  
+in a number of domain specific solutions as well as some       
+more generic techniques for visualising        information.      
+Similarly, the field of sonification has explored the display  
+of information to the human auditory sense. As haptic          
+displays such as force-feedback devices become more readily    
+available, the sense of touch is also being used to help       
+understand information. While applications that use multi-sensory 
+information displays are becoming more common,       
+frameworks to assist in design of these displays need to be    
+developed. This paper extends a previously proposed            
+structure of the visual design space to include hearing and  
+touch and hence define a multi-sensory design space. It then  
+correlates this space with another classification of the design
+space based on metaphors. Metaphors are often used as a        
+starting point in designing information displays. Metaphors    
+allow the user to take advantage of existing cognitive         
+models as well as ecologically-developed perceptual skills.    
+Metaphors provide another useful structuring of this multi-sensory 
+design space. Throughout the paper all discussions     
+are illustrated using the UML modeling notation. UML is a      
+standard notation frequently used to document the design of    
+software systems.                                              
+
+
+
+References                                          
+BERTIN, J. (1999): Graphics and Graphic Information      
+Processing. Berlin:De Gruyter (1977/1981). In Readings   
+in Information Visualization: Using Vision to Think.     
+Morgan Kaugmann Publishers.                              
+BLATTNER,          M.M.,      SUMIKAWA,          D.     and
+GREENBERG, R. (1989): Earcons and Icons: Their           
+Structure and Common Design Principles, Human            
+Computer Interaction, 4(1).                              
+CARD,         S.K.,      MACKINLAY,           J.D.      and
+SHNEIDERMAN, B., (1999): Readings in Information         
+Visualization: Using Vision to Think. Morgan Kaugmann    
+Publishers.                                              
+DURLACH, N. I. and MAYOR, A.S. (1996): Virtual           
+Reality. Scientific and Technological Challenges,        
+National Academy Press, Washington, DC.                  
+FR HLICH, B., BARRASS, S.,          ZEHNER, B., PLATE    
+J. and G BEL, M.(1999): Exploring GeoScience Data in     
+Virtual Environments. Proc. IEEE Visualization, 1999.    
+GAVER, W.W. (1986): Auditory Icons: using sound in       
+computer Interfaces. Human-Computer Interaction. 2.      
+167-177                                                  
+HUTCHINS, M. and GUNN, C. A (1999): Haptic               
+Constraints Class Library. Proceedings of the Fourth     
+PHANTOM Users Group Workshop. A.I. Laboratory            
+Technical Report No. 1675. November, 1999. MIT.          
+KRAMER, G., WALKER, et al., (1997): Sonification         
+Report: Status of the Field and Research Agenda. 1997,   
+Prepared for the National Science Foundation by members  
+of the International Community for Auditory Display.     
+MACKINLAY J.D. (1999): Automating the Design of
+Graphical Presentations (1986).        In   Readings in
+Information Visualization: Using Vision to Think.
+Morgan Kaugmann Publishers.                  
+NESBITT, K. V. (2000): A Classification of Multi-sensory 
+Metaphors for Understanding Abstract Data in a
+Virtual Environment. Proc. of IEEE international
+Conference on Information Visualisation, London.
+SALISBURY, J. K. and SRINIVASAN, M. A. (1997): Phantom-Based 
+Haptic Interaction with Virtual Objects. IEEE
+Computer Graphics and Applications, 17( 5): 6-10.
+

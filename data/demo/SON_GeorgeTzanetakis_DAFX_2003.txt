@@ -1,0 +1,98 @@
+MUSESCAPE: AN INTERACTIVE CONTENT-AWARE MUSIC BROWSER
+
+George Tzanetakis                               
+ComputerScience Department                            
+Carnegie Mellon University, USA                         
+gtzan@cs.cmu.edu                                  
+
+
+
+ABSTRACT
+Advances in hardware performance, network bandwidthand audio
+compression have made possible the creation of large personal   
+digital music collections. Although, there is a significant body                                   
+of work in image and video browsing, there has been little work                                     
+that directly addresses the problem of audio and especially music                                      
+browsing. In this paper, Musescape, a prototype music browsing                                     
+system is described and evaluated. The main characteristics of the                                      
+system are automatic configuration based on Computer Audition                                          
+techniques and the use of continuous audio-music feedback while                                          
+browsing and interacting with the system. The described ideas and                                         
+techniques take advantage of the unique characteristics of music                                      
+signals. A pilot user study was conducted to explore and evaluate                                      
+the proposed user interface. The results indicate that the use of                                  
+automatically extracted tempo information reduces browsing time                                         
+and that continuous interactive audio feedback is appropriate for                                     
+this particular domain.                                                                            
+
+
+
+
+
+REFERENCES
+[1] Hyunmo Kang and Ben Shneiderman, Visualization Methods
+for Personal Photo Collections: Browsing and Searching              
+in the PhotoFinder, in Proc. Int. Conf on Multimedia and             
+Expo, New York,2000, IEEE.                                 
+[2] Alex Pentland, Rosalind Picard, and Stanley Sclaroff, Photobook: 
+Tools for Content-Based Manipulation of Image       
+Databases, IEEE Multimedia, pp.73 75, July 1994.           
+[3] Michael G. Christel, Michael A. Smith, Roy C. Taylor, and
+David B. Winkler, Evolving video skims into useful multimedia
+abstractions, in Proc. of the SIGCHI Conf. on Human           
+Factors in Computing Systems, Los Angeles, USA, 1998, pp.       
+171 178.                                                    
+[4] S. M. Drucker and etal., Smart Skip: Consumer level browsing 
+and skippingof digital video content, in Proc.CHI            
+2002, Minneapolis, Minnesota, July 2002, ACM Press, pp.             
+219 226.                                                          
+[5] Barry Arons,   Speech Skimmer: a system for interactively 
+skimming recorded speech, ACM Transactions             
+Computer Human Interaction, vol. 4, pp. 3 38, 1997,                
+http://www.media.mit.edu/people/barons/papers/ToCHI97.ps.         
+[6] L. Stifelman, B. Arons, and C. Shmantdt, The Audio Notebook: 
+paper and pen interaction with structured speech, in 
+Proc. Computer Human Interaction Conf. (CHI), Seattle,
+WA, July 1, pp.182 192, ACM Press.                                 
+[7] A. Singer and et al., Tangible Progress: Less is more in         
+Some wire audiospaces, in Proc. of Computer Human Interaction
+(CHI), Pittsburgh, PA, May 1999, pp.104 111,ACM Press.                                                            
+[8] Mikael Fernstrom and Eoin Brazil, Sonic Browsing: an             
+auditory tool for multimedia as set management, in Proc.            
+Int. Conf. on Auditory Display (ICAD), Espoo, Finland, July              
+2001.                                                             
+[9] Eoin Brazil, Mikael Fernstrom, George Tzanetakis, and             
+Perry Cook, Enhancing Sonic Browsing using Audio Information
+Retrieval, in Proc. of International Conference            
+on Auditory Display(ICAD), Kyoto,Japan,2002.                        
+[10] M. Kobayashi and C. Schmandt, Dynamic Soundscape:
+mapping time to space for audio browsing, in Proc. Computer
+Human Interaction Conf. (CHI), Atlanta, GA, Apr.               
+1997, pp.194 201, ACM Press.                                       
+[11] Asif Ghias, Jonathan Logan, David Chamberlin, and Brian
+Smith, Query by Humming: Musical Information Retrieval              
+in an Audio Database,  ACM Multimedia, pp. 213 236, 1995.                                                             
+[12] C. De Roure, D. and S Blackbrun, Content-based navigation             
+of music using melodic pitch contours, ACM Multimedia             
+Systems, vol. 8, no.3, pp.190 200,2000.                           
+[13] George Tzanetakis and Perry Cook, Musical Genre Classification
+of Audio Signals, IEEE Transactions on Speech and Audio Processing, 
+vol. 10, no.5, July 2002.                     
+[14] Eric Scheirer, Tempo and beat analysis of acoustic musical
+signals, Journal of the. Acoustical Society of America, vol.
+103, no.1, pp.588,601, Jan. 1998.
+[15] Jean Laroche, Estimating Tempo, Swing and Beat Locations 
+in Audio Recordings, in Proc. Int. Workshop on applications
+of Signal Processing to Audio and Acoustics WASPAA, 
+Mohonk,NY, 2001, IEEE, pp.135 139.
+[16] Proc. Int. Conference on Music Information Retreival (ISMIR), Paris, France,2002.
+[17] D. PerrotandRobert Gjerdigen, Scanning the dial: An exploration
+of factors in identification of musical style, in
+Proc. Society for Music Perception and Cognition, 1999,
+p.88, (abstract).
+[18] Ben Shneiderman, Designing the User Interface: Strategies
+for Effective Human-Computer Interaction, Addison-Wesley, 3rd ed.edition,1998.
+[19] Glenn E. Krasner and Stephen T. Pope, A cookbook for
+using the model-view-controller user interface paradigm in
+Smalltalk-80, Journal of Object-Oriented Programming,
+vol. 1, no.3, pp.26 49,Aug. 1988.

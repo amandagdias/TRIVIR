@@ -1,0 +1,46 @@
+Container Shipping: Operating System Support for I/O Intensive Applications                       
+
+Joseph Pasquale and Eric Anderson                            
+Computer Systems Laboratory                              
+Department of Computer Science and Engineering                       
+University of California at San Diego                        
+La Jolla, CA 92093-0114                               
+P. Keith Muller                                 
+AT&T Global Information Solutions                            
+Decision Enabling System Division                           
+San Diego, CA 92127                                 
+{pasquale, ewa, muller}@cs.ucsd.edu                           
+
+
+Abstract                                     
+We present an operating system facility for efficiently transferring very large      
+volumes of data between multiple processes and I/O devices, benefitting I/O intensive 
+applications such as multimedia (e.g. video and image) and scientific computing. 
+The execution of these programs often create an I/O pipeline, a set of
+processes that repeatedly carry out the following steps: a large data block (on the      
+order of Mbytes) is input from a device, is transferred between and possibly modified 
+by the processes, and eventually is output to a device. Each transfer may            
+require a protection domain crossing, often with significant cost in CPU time,            
+memory bandwidth and space, and bus bandwidth. Our container shippinginterdomain 
+transfer facility involves no physical copying between domains, and only          
+incurs cost proportional to the amount of data actually accessed, which is often a       
+small fraction of the amount of data transferred, leading to increased throughput        
+and reduced delay.                                                                       
+
+
+References                                                                                             
+[1]  D. G. Bobrow, J. D. Burchfiel, D. L. Murphy, and R. S. Tomlinson, TENEX, a paged time sharing system for
+the PDP-10,Comm. ACM, Vol. 15 (3), (March 1972), pp. 135-143.                                        
+[2]  P. Druschel and L. Peterson, Fbufs: a high-bandwidth cross-domain transfer facilityProc. 14th ,    ACM Symp.
+Operating System Principles (SOSP), Asheville, NC, (December 1993), pp. 189-202.                       
+[3]  K. Fall and J. Pasquale, Improving continuous-media receiver performance with in-kernel datapaths,Proc.
+IEEE Intl. Conf. on Multimedia Computing and Systems (ICMCS), Boston, MA, (May 1994), to appear.       
+[4]  J. Kay and J. Pasquale, The importance of non-data touching processing overheads in TCP/IPProc. A,CM
+Communications Architectures and Protocols Conf. (SIGCOMM), San Francisco, CA, (September 1993), pp.   
+259-269.                                                                                               
+[5]  J. K. Ousterhout, Why are not operating systems getting faster as fast as hardware,Proc. USENIX Summer Conference, 
+(June 1990), pp. 247-256.                                                                     
+[6]  R. Rashid and G. Robertson, Accent: a communication-oriented network operating system kernel,Proc. 8th
+ACM Symp. Operating System Principles (SOSP), Pacific Grove, CA, (December 1981), pp. 64-85.            
+[7]  S-Y. Tzou and D. P. Anderson, The performance of message-passing using restricted virtual memory remapping,
+Software - Practice and Experience, Vol. 21 (3), (March 1991), pp. 251-267.                     

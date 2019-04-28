@@ -1,0 +1,78 @@
+Probabilistic Surfaces: Point Based Primitives to Show Surface Uncertainty
+
+Gevorg Grigoryan                                   Penny Rheingans             
+University of Maryland Baltimore County            University of Maryland Baltimore County  
+
+
+Abstract                                                          
+Eficient and informative visualization of surfaces with uncertainties 
+is an important topic with many applications in science and    
+engineering. Examples include environmental pollution border line       
+identification, identification of the limits of anoil basin, or discrimination
+between contaminated and healthy tissue in medicine. This       
+paper presents an approach for such visualization using points as      
+display primitives. Our approach is to render each polygon as a collection
+of points and to displace each point from the surface in the     
+direction of the surface normal by an amount proportional to some       
+random number multiplied by the uncertainty level at that point.      
+This approach can be used in combination with other techniques      
+such as pseudo-coloring and shading to give rise to eficient and    
+revealing visualizations. The method is used to visualize real and  
+simulated tumor formations with uncertainty of tumor boundaries.        
+
+
+
+References
+[1] R.E. Barnhill, K. Opitz, and H. Pottmann. Fat surfaces: A                                             
+tri variate approach to triangle-based interpolation on surfaces.   
+Computer Aided Geometric Design, 9(5):365 378,1992.                                                      
+[2] Andrej Cedilnik and Penny Rheingans. Procedural annotation
+of uncertain information. In Proceedings of IEEE Visualization'00, 
+pages7784.IEEE, 2000.                                                                       
+[3] Baoquan Chenand Minh Xuan Nguyen. POP: A hybridpoint
+and polygon rendering system for large data. In Proceedings                                               
+of Visualization 2001, pages 45 52.IEEE, 2001.                                                           
+[4] C.R. Ehlschlaeger, A.M. Shortridge,andM.F. Goodchild.
+Visualizing spatial data uncertainty using animation. Computers                                               
+in GeoSciences, 23(4):387 395,1997.                                                                    
+
+[5] Markus Gross.   Are points the better graphics primitives?
+Computer Graphics Forum, 20(3), 2001. 
+[6] A.R. Kansal, S. Torquato, G.R.IV Harsh, E.A. Chiocca, and
+T.S. Deisboeck. Simulated brain tumor growth dynamics using 
+a three-dimensional cellular automaton. Journal of Theoretical
+Biology, 203:367 382,2000.   
+[7] Gregory Kramer. Auditory Display, Sonification, Audification,
+and Auditory Interfaces, pages 1 78. Addison-Wesley, 1994.
+[8] Marc Levoy and Turner Whitted. The use of points as a display
+primitive. Technical Report 85-022, University of North
+Carolina at Chapel Hill, January 1985. 
+[9] S. K. Lodha, C. M. Wilson, and R. E. Sheehan. LISTEN:
+sounding uncertainty visualization. In Proceedings of Visualization
+96, pages 189 195.IEEE, 1996. 
+[10] Suresh Lodha, Robert Sheehan, Alex Pang, and Craig Wittenbrink. 
+Visualizing geometric uncertainty of surface interpolants. 
+In Proceedings of Graphics Interface, pages 238 245, May 1996.
+[11] R. Minghim and A.R. Forrest. An illustrated analysis of sonification
+for scientific visualization. In Proceedings of Visualization
+95, pages 110 117.IEEE, 1995. 
+[12] A. T. Pang, C. M. Wittenbrink, and S. K. Lodha. Approaches
+to uncertainty visualization. The Visual Computer, 13(8):370 390, 1997.                          
+[13] Hanspeter Pster and Jeroenvan Baar. Surfels: Surface elements
+as rendering primitives. In Kurt Akele, editor, Proceedings
+of SIGGRAPH2000, pages 335 342. ACM SIGGRAPH,
+Addison Wesley Longman, July 2000.    
+[14] P. Rheingans and S. Joshi. Visualization of molecules with
+positional uncertainty. In E. Groller, H. Lof felmann, and
+W. Ribarsky, editors, DataVisualization'99, pages 299 306.
+Springer-VerlagWien,1999.
+[15] G.G. Steel. Growth Kinetics of Tumors. Oxford: Clarendon
+Press,1977.                         
+[16] C. M. Wittenbrink,A. T. Pang, andS.K. Lodha. Glyphs for
+visualizing uncertaintyin vector elds. IEEE Transactions on
+Visualization and Computer Graphics, 2(3):226 279,1996.
+[17] C.M. Wittenbrink, A.T. Pang, and S. Lodha. Verity visualization: 
+Visual mappings. Technical Report UCSC-CRL-95-48,
+University of California Santa Cruz, 1995.
+[18] Craig M. Wittenbrink. IFS fractal interpolation for 2D and
+3D visualization. In Proceedings to Visualization'95, pages

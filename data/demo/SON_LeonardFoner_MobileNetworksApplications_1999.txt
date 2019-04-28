@@ -1,0 +1,35 @@
+Artificial Synesthesia via Sonification: A Wearable Augmented Sensory System                                                 
+
+Leonard N. Foner                                         
+MIT Media Lab                                          
+20 Ames St, E15-305                                       
+Cambridge, MA 02139                                        
+foner@media.mit.edu                                       
+
+
+Abstract                                                                            
+A design for an implemented, prototype wearable artificial                                                 
+sensory system is presented which uses data soniﬁcation to                                                   
+compensate for normal limitations in the human visual system. 
+The system gives insight into the complete visible-light                                                
+spectra from objects being seen by the user; long-term wear                                                  
+nd consequent training might lead to identiﬁcation of various 
+visually-indistinguishable materials based on the sounds  
+sible extensions to both the soniﬁcation and the sensor package 
+are discussed.                                            
+
+
+
+References                
+[1] Cornsweet, Tom,   Visual Perception , Harcourt Brace Jovanovich, 1970.                                      
+[2] Handel, Stephen,  Listening, MIT Press, 1989.    
+[3] Kramer, Gregory, ed., Auditory Display: Sonification, Audification, 
+and Auditory Interfaces , Addison-Wesley, 1994.
+[4] Wenzel, Elizabeth, Spatial Sounds and Sonification, 
+Auditory Display: Sonification, Audification, and Auditory
+Interfaces, Gregory Kramer, ed., Addison-Wesley, 1994.
+[5] Winston, Mark,   The Biology of the Honey Bee   , Harvard
+University Press, 1987.                              
+[6] Young, Laurence, and Sheena, David, Survey of Eye
+Movement Recording Methods, Behavior Research Methods & 
+Instrumentation 1975   , Volume 7, number 5, pp. 397-429.

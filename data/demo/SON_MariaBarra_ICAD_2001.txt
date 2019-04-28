@@ -1,0 +1,128 @@
+PERSONAL WEBMELODY: CUSTOMIZED SONIFICATION OF WEB SERVERS                                     
+
+Maria Barra     Tania Cillo    Antonio De Santis                                     Teenie Matlock   
+Umberto Ferraro Petrillo                                                               
+Paul P. Maglio   
+Alberto Negro                       Vittorio Scarano                                                
+Dipartimento di Informatica ed Applicazioni                              IBM Almaden Research Center
+Università di Salerno                                        650 Harry Rd., NWE-B2  
+Baronissi (Salerno), 84081 Italy                                    San Jose, CA 95120 USA 
+{marbar,umbfer,alberto,vitsca}@unisa.it          {tmatlock, pmaglio}@almaden.ibm.com                 
+
+
+ABSTRACT
+This paper presents Personal WebMelody, a sonified web                                                
+server that informs its administrator of both normal and                                              
+abnormal operation through background music. It allows                                                
+customization and full integration of system-generated music                                          
+representing web server activity with external music sources                                          
+(audio CD, MP3, etc) selected by the administrator.                                                   
+Our sonification technique works by associating MIDI or WAV                                           
+sound tracks with web server events. In an attempt to enable                                          
+the webmaster to listen to such system-generated music for a                                          
+long period without becoming fatigued, we introduce the                                               
+opportunity of mixing an external music source with system-                                           
+generated music. In this way, the administrator cheanar  the                                          
+status of the web server while listening to his or her preferred                                      
+music.                                                                                                
+We present an empirical study that shows how our web server                                           
+sonification can convey useful information efficiently.                                               
+
+
+
+REFERENCES                                                                              
+[1] Apache Software Foundation (2000).  Apache Web           
+    Server.  Available at http://www.apache.org.             
+[2] Barra, M, et al. (2000) WebMelody: Sonification of Web  
+    servers.” In Poster Proceedings of the Ninth Annual      
+    World Wide Web Conferen (ceWWW9). Amsterdam                                                                
+    (Holland).                                                                                                 
+[3] Barra, M, et al. (2000) MMM: Multi-Modal Monitoring                                                       
+    of Web Servers”. Submitted fopr ublication.                                                                
+[4] Blattner M., Greenberg, R.M., and Kamegai, M., (1992),                                                     
+    Listening to turbulence: An example of scientific                                                         
+    audiolisation,” inMu ltimedia Interface Design, (Blattner,                                                 
+    M., & Dannenberg, R.M., eds.) , Chapter 6, pp. 87 - 102,                                                   
+    Wokingham: ACM Press                                                                                       
+[5] Blattner, M. M., Sumikawa, D. A., & Greenberg, R. M.                                                       
+    (1989). Earcons and icons: Their structure and common                                                     
+    design principles”.H uman-Computer Interaction , 4, 11-                                                    
+    44.                                                                                                        
+[6] Brown, M.L., Newsome, S.L. and Glinert, E.P. (1989).                                                       
+    An experiment into the use of auditory cues to reduce                                                     
+    visual workload.” In CHI ’89 Proceedings, pp. 339-346.                                                     
+    New York, NY, USA: ACM.                                                                                    
+[7] Buxton, B. (1989).  Introduction to this special issue on                                                  
+    nonspeech audio.  Human-Computer Interaction, 4, 1-9.                                                      
+[8] Cohen, J. (1994). Monitoring background acitietivs.” In                                                   
+    G. Kramer (Ed.), Auditory display: Sonification,                                                           
+    audification, and auditory interfaces.  Reading, MA:                                                       
+    Addison-Wesley.                                                                                            
+[9] Deutsch, D. (1986). Auditory pattern recoitiognn.” In K.                                                  
+    R. Boff, L. Kaufman, & J. P. Thomas (Eds.), Handbook of                                                    
+    human perception and performance (Vol II, pp. 32.1 -                                                       
+    32.49).  New York: Wiley.                                                                                  
+[10] Francioni, J. F., L. Albright, and J. A. Jackson. (1991)                                                  
+    Debugging parallel programs Using sound”, in                                                              
+    Proceedings of the ACM/ONR Workshop on Parallel and                                                        
+    Distributed Debugging, 68--73. Reading, MA: ACM                                                            
+    Press/Addison-Wesley, 1991.                                                                                
+[11] Gaver, W. (1986). Auditory icons: Using sounds in                                                        
+    computer interfaces.”H uman-Computer Interaction  , 2,                                                     
+    167-177.                                                                                                   
+[12] Bill Gaver (1991). Effective Sounds in Complex                                                           
+    Systems: The ARKola Simulation”, In CHI ’91                                                                
+    Proceedings ACM.                                                                                           
+[13]  Hallam-Baker P.,Behlendorf B.. Extended Log File                                                        
+    Format.” World Wide Web Consortium Working Draft                                                           
+    960323.  http://www.w3.org/pub/WWW/TR/WD-logfile.html.                                                                                              
+[14] Katz, E. D., Butler, M., and McGrath, R. (May 1994). A
+Scalable HTTP Server: The NCSA Prototype”, in
+Proceedings of the First International WWW Conference.
+[15] Lemmens, P. M. C., Bussemakers, M. P., & de Haan, A.
+(2000).  The effect of earcons on reaction times and
+error-rates in a dual-task vs. single-task experiment.”  In
+Proceedings of International Conference on Auditory
+Displays 2000.                            
+[16] Lohda, S. K., Whitmore, D., Hansen, M, & Charp, E.
+(2000).  Analysis and user evaluation of a musical-visual
+system: Does music make any difference?”  in
+Proceedings of International Conference on Auditory
+Displays 2000.                            
+[17] LoevstrandL. (1991). Being selectively aware with the
+Khronika System”. InP roc. of 2    European Conf. on
+Computer-Supported Cooperative Work (ECSCW’91)
+Sept. 24-27 Amsterdam, NL. Kluwer Academic
+Publishers, pp.265-278.                   
+[18] Luotonen A. The Common Log file Format.” 
+http://www.w3.orgpub//WWW/Daemon/User/Config/Logg
+ing.html.                                 
+[19] Maglio, P. P. & Campbell, C. S. (2000) Tradeoffs in the
+display of peripheral information”, inProce edings of the
+Conference on Human Factors in Computing Systems
+(CHI 2000).                               
+[20] McCrickard, D. S. (2000). Maintaining information
+awareness in a dynamic environment: Assessing
+animation as a communication mechanism”.  Doctoral
+dissertation.  Georgia Institute of Technology.
+[21] Netcraft (August, 2000).  Netcraft web server survey.
+Available as http://www.netcraft.com/survey.
+[22] Pool, M. M., van der Voort, T.H.A., Beentjes, J. W. J.,
+Koolstra, C. M. (2000). Background television as an
+inhibitor of performance on easy and difficult  homework
+assignments.”  Communication Research, 27, 293-326.
+[23] Scullin Will H., Kwan Thomas T., & Reed Daniel A.
+(1995). Real-time Visualization of World Wide Web
+Traffic,” in  Proceedings  of Symposium on Visualizing
+Time-Varying Data.                        
+[24] Vickers P., Alty, J.L.. Musical Program Auralisation:
+Empirical Studies”. InP roc. of 6 International Conf. on
+auditory DisplayP..R. Cook, Ed. Atlanta GA:
+International Community for Auditory Display, April
+2000, pp.157-166. ISBN 0-9670904-1-5.     
+[25] Wickens, C. D. (1992). Engineering psychology and
+human performance (2nd Eitiod n). New York, NY:
+Harper Collins.                           
+[26] Young, H.H., & Berry, G. L. (1979) The impact of
+environment on the productivity attitudes of intellectually
+challenged office workers.” Human Factors, 21, 399-407

@@ -1,0 +1,114 @@
+A Multimodal Electronic Travel Aid Device                                  
+
+A. Fusiello, A. Panuccio, V. Murino, F. Fontana, D. Rocchesso                   
+Dipartimento di Informatica - Universit`a degli Studi di Verona
+Strada Le Grazie, 15 - 37134 Verona, Italy
+{fusiello,panuccio,murino,fontana,rocchesso}@sci.univr.it
+
+Abstract
+This paper describes an Electronic Travel Aid device,
+that may enable blind individuals to see the world with
+theirears. Awearable prototype will be assembled using
+low-cost hardware: earphones, sunglasses tted with two
+micro cameras, anda palmtop computer. The system, which
+currently run sona desktopccomputer, is able to detect the
+light spot produced by a laser pointer, compute its angular 
+position and depth, and generate a corresponding sound
+providing the auditory cues for the perception of the position
+and distance of the pointed surface patch. It permits
+differents on ication modes that can be chosen by drawing,
+with the laser pointer, a predened stroke which will be recognized 
+by a Hidden Markov Model. In this way the blind
+person can use a common pointer as a replacement of the
+can e and will interact with the device by using a exible and
+natural sketch based interface.                                                                            
+
+
+
+References
+
+[1] Y. Bar-Shalom and T. E. Fortmann. Tracking and data Association. 
+Academic Press, Orlando, FL, 1988.       
+[2] D. R. Begault. 3D Sound for virtual reality and multimedia.
+AP Professional, Cambridge, MA, 1994.                                                                                
+[3] J. M. Benjamin, N. A. Ali, and A. F. Schepis. A laser cane
+for the blind. In Proceedings of the San Diego Biomedical       
+Symposium, volume 12, pages 53 57, 1973.                  
+[4] M. Bicego and V. Murino.   Investigating Hidden Markov                                                               
+Models capabilities in 2D shape classi cation. Submitted
+for publication, 2002.                                  
+[5] J. Blauert. SpatialHearing: the Psychophysics of Human     
+Sound Localization. MIT Press, Cambridge, MA, 1983.                                                                   
+[6] C. Brown and R. Duda.    A structural model for binaural
+sound synthesis. IEEE Transactions on Speech and Audio       
+Processing, 6(2):476 488, September 1998.               
+[7] C. Collins, L. Scadden, and A. Alden. Mobility studies with
+a tactile imaging device. In Fourth Conf. on Systems and    
+Devices for the disabled, Seattle, WA, June 1977.             
+[8] I. J. Cox, S. Hingorani, B. M. Maggs, and S. B. Rao. A     
+maximum likelihood stereo algorithm. Computer Vision and
+Image Understanding, 63(3):542 567, May 1996.         
+[9] J. D. R. Olsen and T. Nielsen. Laser pointer interaction. In
+ACM SIG CHI Conf. on Human Factors in Computing Systems, pages
+17 22, Seattle, Washington, 2001.
+[10] J. S. A. Dallas. Sound pattern generator. WIPO Patent Application 
+No. WO82/00395., 1980.                         
+[11] O. Faugeras. Three-Dimensional Computer Vision: A Geometric
+Viewpoint. MIT Press, Cambridge, MA, 1993.                                                                     
+[12] R. M. Fish. An audio display for the blind. IEEE Trans.   
+Biomed. Eng,.23(2):144 154, 1976.                         
+[13] F. Fontana, D. Rocchesso, and L. Ottaviani. A structural
+approach to distance rendering in personal auditory displays.
+In IEEE International Conference on Multimodal Interfaces                                                                 
+(ICMI), Pittsburgh, PA, 2002.                                                                                        
+[14] A. Fusiello, V. Roberto, and E. Trucco. Symmetric stereo                                                             
+with multiple windowing. International Journal of Pattern                                                                
+Recognition and Arti cial Intelligence, 14(8):1053 1066,  
+December 2000.                                                                                                       
+[15] L. Kay. Air sonar with acoustical display of spatial information. 
+In R. G. Busnel and J. F. Fish, editors, Animal Sonar
+System, pages 769 816. Plenum Press, New York, 1980.                                                                 
+[16] M. Kubovy and D. Van Valkenburg. Auditory and visual
+objects. Cognition, 80:97 126, 2001.                
+[17] H. Kuttruff. Room Acoustics. Elsevier Science, Essex, England, 1991.                                         
+[18] T. Lokki, L. Savioja, R. V ¨aan¨ anen,¨J. Huopaniemi, and
+T. Takala.  Creating interactive virtual auditory environments. 
+Computer Graphics and Applications, 22(4):49 57, July 2002.                                          
+[19] M. P. B. L. An experimental system for auditory image
+representations. IEEETrans. Biomed. Eng., 39(2):112 121,
+February 1992.                                      
+[20] J. Rekimoto and M. Saitoh. Augmented surfaces: A spatially
+continuous work space for hybrid computing environments.
+In Proceedings of CHI99, pages 378 385. ACM,1999.                                               
+[21] D. Rocchesso. Spatial effects. In U. Zolzer¨, editor, Digital
+Audio Effects, pages 137 200. John Wiley and Sons, Ltd.,
+Chichester Sussex, UK, 2002.                        
+[22] D. Rocchesso, M. Fernstrom,¨  R. Bresin, and B. Moynihan. 
+The Sounding Object.Computer Graphics and Applications, 22(4), 
+July 2002. CDROM addendum, see also http://www.soundobject.org.                         
+[23] D. A. Ross and B. B. Blasch.   Evaluation of orientation
+interfaces for wearable computers. In Proceedings of the
+Fourth International Symposium on Wearable Computer, s
+pages 51 68. IEEE Computer Society, October 2000.   
+[24] D. Scharstein and R. Szeliski. A taxonomy and evaluation
+of dense two-frame stereo correspondence algorithms.International 
+Journal of Computer Vision, 47(1):7 42, May 2002.                                               
+[25] J. Strikwerda. Finite Difference Schemes and Partial Differential
+Equations. Wadsworth & Brooks, Pacic Grove, CA, 1989.                                               
+[26] S. A. Van Duyne and J. O. Smith. Physical modeling with
+the 2-D digital waveguide mesh.   In Proc. Int. Computer
+MusicConf., pages 40 47, Tokyo, Japan, 1993. ICMA.  
+[27] S. A. Van Duyne and J. O. Smith. A Simpli ed Approach
+to Modeling Dispersion Caused by Stiffness in Strings and
+Plates. InProc.Int.ComputerMusicConf,.pages 407 410,
+Aarhus, Denmark, September 1994. ICMA.              
+[28] The LAR-DEIS VIDET project. University 
+of Bologna, Italy. Available  at   URL
+http://www.lar.deis.unibo.it/activities/videt.      
+[29] B. N. Walker and D. M. Lane. Psychophysical scaling of
+sonification mappings: A comparision of visually impaired
+and sighted listeners. In Int. Conf. Auditory Display, pages
+90 94, 2001.                                        
+[30] Z. Zhang. A exible new technique for camera calibration.
+IEEE Transactions on Pattern Analysis and Machine Intelligence,
+22(11):1330 1334, 2000.                      

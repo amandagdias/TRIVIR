@@ -1,0 +1,100 @@
+MODELING AND SONIFYING PEN STROKES ON SURFACES   
+
+Christian Müller-Tomfelde and Tobias Münch
+IPSI - Integrated Publication and Information Systems Institute
+Fraunhofer - IPSI, Dolivostr. 15, D-64293 Darmstadt, Germany
+{mueller-tomfelde,muench}@ipsi.fhg.de     
+
+ABSTRACT
+This paper will describe the approach of modeling and sonifying   
+the interaction with a pen on surfaces. The main acoustic parts   
+and the dynamic behavior of the interaction are identified and a       
+synthesis model is proposed to imitate the sound emanation        
+during typical interactions on surfaces. Ahouglth a surace ifs
+dimensional, modeling acoustical qualities of surfaces has to          
+employ volumes to form resonances. Specific qualities of surfaces 
+like the roughness and the texture are imitated by a noise        
+generator which is controlled by the pen movement in real-time         
+to achieve a maximum of acceptance of thound ee s  ffect. The     
+effect will be used one hand to produce natural and coherent      
+interaction on nearly silent electronic white boards or pen-tablets,   
+i.e., reinventing of lost sound qualities. On the other hand      
+modeling and sonifying pen strokes on surfaces allow to convey    
+information about the properties of different areas or the current     
+state of a windows of a computer display by using this sound      
+feedback.                                                         
+
+
+
+REFERENCES 
+[1] Eckel, G., Application for the CyberStage Spatial Sound     
+     Server, In Proceedings of the AES 16th Internaonalti       
+     Conference: Spatial Sound Reproduction, Rovaniemi,         
+     Finland, 1999 April 10-12, pp. 478-484.                    
+[2] Shneiderman, B., Designing the User Interface - Strategies  
+     for Effective Human-Computer Interaction, 2nd Edition,     
+     Reading (Ma.) etc.: Addison-Wesley, 1992.                  
+[3] Norman, D. A., The Invisible Computer. MIT Press,           
+     Cambridge, MA. 1998.                                       
+[4] Weiser, M., Designing Calm Technology, PowerGrid            
+     Journal, v101, July 1996,                                  
+     http://powergrid.electriciti.com/1.01.                     
+[5] Weiser, M., The computer for the twenty-first century.      
+     Scientific American, Vol. 265, No. 3, pp. 94-104, 1991.                                                                  
+[6] Streitz, N. et al, i-LAND: An interactive Landscape for                                                                   
+     Creativity and Innovation InA: CM Conference on Human                                                                    
+     Factors in Computing Systems (CHI '99), Pittsburgh,                                                                      
+[7] Müller-Tomfelde, C. and Steiner, S., Audio-Enhanced    
+Collaboration at an Interactive Electronic Whiteboard. In
+Proc. of 7th International Conference on Auditory Disp,lay
+ICAD, Espoo, 2001. Pp 267-271.                         
+[8] Gaver, W., Synthesizing auditory icons. In INTERCHI     
+'93,24-29 April 1993, pages 228-235, 1993.             
+[9] Gaver, W., Sound Support for Collaboration, In:       
+Proceedings of ECSCW ´9, A1 msterdam, 1991.            
+[10] Gaver, W., The SonicFinder: An Interface That Uses     
+Auditory Icons, In Human Computer Interaction, 4(1),   
+1989, pp. 67-94.                                       
+[11] Gaver, W., Auditory Interfaces, In: M.G. Helander, T.K.
+Landauer, P.V. Prabhu (Eds.), Handbook of Human-Computer-Interaction, 
+2. Edition, Part VI "Multimedia, 
+Video and Voice, North-Holland 1997.                   
+[12] Dutilleux, P. and Müller-Tomfelde, C., AML: Architecture
+and Music Laboratory, In Proceedings of the AES 16th   
+International Conferenc: e Spatial Sound Reproduction, 
+Rovaniemi, Finland, 1999 April 10-12, pp. 191-206.     
+[13] Rocchesso, D. and Dutilleux, P., Generalization of a 3-D
+resonator model for the simulation of spherical enclosures,
+Applied Signal Processing, vol. 2001, no. 1, pp. 15 26,
+2001.                                                  
+[14] Rocchesso, D., Acoustic cues for 3-d shape information. In
+ICAD 2001, Espoo, Finland, July 29-August 1, 2001, pages
+180-183.                                               
+[15] Roads, C., The Computer Music Tutorial,3. Edition, T  he
+MIT Press, 1996.                                       
+[16] Zölzer, U., Digital Audiosignalverarbeitung            
+Vorlesungsskriptum der TU Hamburg Harburg.             
+[17] Farina, A., Langhoff, A., Tronchin, L., Realisation of 
+'virtual' musical instruments: measurements of the Impulse
+Response of violins using MLS technique, in Proc. of   
+CIARM95, 2nd Internat. Conf. on Acoustics and Musical  
+esearch, Ferrara 19-21 May 1995.                      
+[18] Siira, J. and Pai, D.K. Haptic Textures A Stochastic 
+Approach. IEEE International Conference on Robotics and
+Automation,Minneapolis MN, April 1996.                 
+[19] van Doel, K., Sound Synthesis for Virtual Reality and  
+Computer Games, Thesis at the The University of British
+Columbia, 1998                                         
+[20] Max/MSP, Cycling 74, http://www.cycling74.com.         
+[21] DiFilippo, D. and Pai, D.K. Contact Interaction with   
+Integrated Audio and Haptics, in ProcIC. AD 2000, Atlanta,
+Georgia, USA, April 2-5, 2000                          
+[22] van Doel, K., Physically-based Sound Effects for Interactive
+Simulation and Animation, ACM SIGGRAPH 2001, 12-17     
+August 2001, Los Angles, CA, USA.                      
+[23] Cook, P. R., Physically Informed Sonic Modeling (PhISM):
+Synthesis of Percussive SoundsC. omputer Music Journal,
+21:3 1997, 38-49.                                      
+[24] Cook, P. R. and Scavone, G. P., The Synthesis ToolKit  
+(STK), version 2.1. In Proc. of the International Computer
+Music Conference, Beijing, 1999.                       

@@ -1,0 +1,43 @@
+From Dots To Shapes: an auditor y haptic game platform for teaching geometry to blind pupils
+
+Patrick Roth, Lori Petrucci, Thierry Pun
+Computer Science Department
+CUI, University of Geneva
+CH - 1211 Geneva 4, Switzerland
+Patrick.Roth@cui.unige.ch
+
+
+
+
+Abstract                                    
+This paper describes "From Dots to Shapes" (FDTS), an auditory platform composed by three
+classic games (Simon, Point Connecting and concentration game) for blind and visually
+impaired pupils. Each game was adapted to work on a concept of the Euclidean geometry (e.g. )
+The tool, , is based on sonic and haptic interaction, and therefore could be used by special
+educators as a help for teaching basic planar geometry.
+
+
+REFERENCES
+
+[1] Gill, T. P., The Doppler Effect, Logos Press, 1965.
+[2] Hollander, A. J., "An Exploration of Virtual Auditory Shape Perception", Diploma thesis, University of
+Washington,  1994.
+[3] K awai, Y., Ohnishi, N., Sugie, N., A Support System for the Blind to Recognize a Diagram, Systems and
+Computers in Japan, vol.21, No.7, pp.75-85, 1990.
+[4] Koczmarec, K.A., Webster, J.G., Tompkins, W.J., Electrotactile and Vibrotactile Displays for Sensory
+Substitution Systems, IEEE Trans. Biomed. Eng., vol.38, pp.1-16, 1991.
+[5] L oge, K., Cram, A., Inman, D., Teaching Orientation and Mobility Skills to Blind Children Using Computer
+Generated 3-D Sound Environments, Proc. ICAD 2000, Atlanta, GA, USA, April 2000, 1-5.
+[6] L umbreras, M., Sanchez, J., "Interactive 3D sound hyperstories for blind children", Proc. CHI'99, Pittsburgh, PA,
+USA, May 1999, 318-325.
+[7] Osterhaus, S., Teaching Strategies, http://www.tsbvi.edu/math/teaching.htm.
+[8] Petrucci, L., Roth, P., Assimacopoulos, A., Pun, T., "An audio browser for increasing access to World Wide Web
+sites for blind and visually impaired computer users", Proc. HCI'99, Munich, Germany, August 1999, 995-998.
+[9] R oth, P., Petrucci, P., Assimacopoulos, A., Pun, T., "AB-Web: Active audio browser for visually impaired and
+blind users", Proc. ICAD'98, Glasgow, UK, November 1998.
+[10] S herry, L. (1996). Issues in Distance Learning. International Journal of Educational Telecommunications, 1 (4),
+337-365.
+[11] Shimizu, M., Itoh, K., Nakazawa, T., "Pattern representation system using movement sense of localized sound",
+Proc. HCI'99, Munich, Germany, 22-27 August 1999, 990-994.
+[12] Wightman, F.L., Kistler, D.J. , "Headphone simulation of free-field listening II: Psychophysical validation", J.
+of the Acoustical Society of America, 85, 2, 1989, 868-878.

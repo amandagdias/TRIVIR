@@ -1,0 +1,133 @@
+A Haptic Back Display for Attentional and Directional Cueing                                                     
+
+Hong Z. Tan,         Robert Gray,         J. Jay Young,        and Ryan Traylor          
+Haptic Interface Research Laboratory                           Nissan Cambridge Basic Research   
+Purdue University                           4 Cambridge Center, Cambridge, MA, 02142  
+1285 Electrical Engineering Building                                       Currently at:         
+West Lafayette, IN 47907                               Department of Applied Psychology   
+{hongtan, youngj, traylorr}@purdue.edu                             Arizona State University East   
+7001 E Williams Field Road, Bldg. 20 
+Mesa, AZ 85212          
+{robgray}@asu.edu         
+
+
+ABSTRACT                                           
+We have been developing a haptic back display using a 3-by-3 tactor array.  This paper             
+reports two studies that investigated the use of such a display for delivering attention- and          
+direction-related information to its user.  The first study measured the effectiveness of haptic       
+cues in redirecting an observer’s visual spatial attention.  The observer was first tapped on the      
+back, and then asked to detect a change between two similar visual scenes.  We found that              
+reaction time decreased by an average of 41% (1630 ms) when the location of the tactor                 
+coincided with the quadrant of the visual scene where a change occurred.  We also found that           
+reaction time increased by an average of 19% (781 ms) when the locations of the tapping and            
+visual change did not coincide.  Such a haptic attentional cueing system can be beneficial to a        
+user who must attend to information in small areas within a large and complex visual display           
+(e.g., an aircraft cockpit).  In the second study, sequenced pulses were employed to impart            
+directional information.  We found that naïve and minimally-trained observers were able to             
+discern the directions of a set of horizontal, vertical and diagonal directional lines with an overall 
+accuracy of 81%.  Means of improving the overall accuracy were suggested and tested.  These            
+directional lines can be applied to a haptic navigation guidance or situation awareness system.        
+
+
+REFERENCES                                          
+[1]      S. Oviatt, Ten myths of multimodal interaction, Communications of the ACM, vol. 42, 
+         pp. 74–81, 1999.                                
+[2]      G. A. Miller, The magical number seven, plus or minus two:  Some limits on our 
+         capacity for processing information, The Psychological Review, vol. 63, pp. 81-97, 
+         1956.                                           
+[3]      S. Ertan, C. Lee, A. Willets, H. Z. Tan, and A. Pentland, A wearable haptic navigation 
+         guidance system, Digest of the Second International Symposium on Wearable 
+         Computers, IEEE Computer Society, 1998, pp. 164–165. 
+[4]      H. Tan, A. Lim, and R. Traylor, A psychophysical study of sensory saltation with an 
+         open response paradigm, Proceedings of the Ninth (9th) International Symposium on 
+         Haptic Interfaces for Virtual Environment and Teleoperator Systems, American Society 
+         of Mechanical Engineers Dynamic Systems and Control Division, vol. 69-2, 2000, pp. 
+         1109–1115.                                      
+[5]      H. Z. Tan and A. Pentland, Tactual Displays for Sensory Substitution and Wearable 
+         Computers, in Fundamentals of Wearable Computers and Augmented Reality, W. 
+         Barfield and T. Caudell (Eds.), Mahwah, NJ: Lawrence Erlbaum Associates, 2001, pp. 
+         579–598.                                        
+[6]      R. Gray and H. Z. Tan, Dynamic and predictive links between touch and vision, 
+         Experimental Brain Research, vol. 145, pp. 50-55, 2002. 
+[7]      H. Z. Tan, R. Gray, J. J. Young, and P. Irawan, Haptic cueing of a visual change-
+         detection task:  Implications for multimodal interfaces, in Usability Evaluation and 
+         Interface Design:  Cognitive Engineering, Intelligent Agents and Virtual Reality (Vol. 1 
+         of the Proceedings of the 9th International Conference on Human-Computer 
+         Interaction), M. J. Smith, G. Salvendy, D. Harris, and R. J. Koubek (Eds.), Mahwah, NJ: 
+         Lawrence Erlbaum Associates, 2001, pp. 678-682. 
+[8]      S. Weinstein, Intensive and extensive aspects of tactile sensitivity as a function of body 
+         part, sex, and laterality, in The Skin Senses, D. Kenshalo (Ed.), Springfield, IL: Thomas, 
+         1968, pp. 195–222.                              
+[9]      P. Bach-y-Rita, A tactile vision substitution system based on sensory plasticity, in 
+         Visual Prosthesis:  The Interdisciplinary Dialogue, T. D. Sterling, J. E. A. Bering, S. V. 
+         Pollack, and J. H. G. Vaughan (Eds.), New York: Academic Press, 1971, pp. 281–293. 
+[10]     B. W. White, What other senses can tell us about cutaneous communication, in 
+         Cutaneous Communication Systems and Devices, F. A. Geldard (Ed.), The Psychonomic 
+         Society, Inc., 1973, pp. 15–19.                 
+[11]     G. L. Calhoun, M. H. Draper, H. A. Ruff, and J. V. Fontejon, Utility of a tactile display 
+         for cueing faults, Proceedings of the Human Factors and Ergonomics Society 46th 
+         Annual Meeting, 2002, pp. 2144-2148.            
+[12]     J. T. Dennerlein, P. A. Millman, and R. D. Howe, Vibrotactile feedback for industrial 
+         telemanipulators, Proceedings of the ASME Dynamic Systems and Control Division, 
+         vol. 61, 1997, pp. 189–195.                     
+[13]     M. Nakamura and L. A. Jones, An actuator for the tactile vest - A torso-based haptic 
+         device, Proceedings of the 11th International Symposium on Haptic Interfaces for 
+         Virtual Environment and Teleoperator Systems: IEEE, 2003, pp. 333-339. 
+[14]     M. I. Nikolic, A. E. Sklar, and N. B. Sarter, Multisensory feedback in support of pilot-
+         automation coordination:  The case of uncommanded mode transitions, Proceedings of 
+         the Human Factors and Ergonomics Society  42nd Annual Meeting, 1998, pp. 239-243. 
+[15]     A. H. Rupert, An instrument solution for reducing spatial disorientation mishaps - A 
+         more ‘natural’ approach to maintaining spatial orientation, IEEE Engineering in 
+         Medicine and Biology Magazine, vol. 19, 2000, pp. 71-80. 
+[16]     A. E. Sklar and N. B. Sarter, Good vibrations: Tactile feedback in support of attention 
+         allocation and human-automation coordination in event- driven domains, Human 
+         Factors Operations Research Laboratories, vol. 41, pp. 543-552, 1999. 
+[17]     C. Spence and J. Driver, Cross-modal links in attention between audition, vision, and 
+         touch:  Implications for interface design, International Journal of Cognitive 
+         Ergonomics, vol. 1, pp. 351–373, 1997.          
+[18]     C. Wall, M. S. Weinberg, P. B. Schmidt, and D. E. Krebs, Balance prosthesis based on 
+         micromechanical sensors using vibrotactile feedback of tilt, IEEE Transactions on 
+         Biomedical Engineering, vol. 48, pp. 1153-1161, 2001. 
+[19]     R. A. Rensink, J. K. O'Regan, and J. J. Clark, To see or not to see:  The need for 
+         attention to perceive changes in scenes, Psychological Science, vol. 8, pp. 368–373, 
+         1997.                                           
+[20]     D. J. Simons and D. T. Levin, Failure to detect changes to people during a real-world 
+         interaction, Psychonomic Bulletin and Review, vol. 5, pp. 644-649, 1998. 
+[21]     R. A. Rensink, Visual search for change:  A probe into the nature of attentional 
+         processing, Visual Cognition, vol. 7, pp. 345-376, 2000. 
+[22]     J. M. Pickett and P. H. Pickett, Communication of speech sounds by a tactual vocoder, 
+         Journal of Speech and Hearing Research, vol. 6, pp. 207–222, 1963. 
+[23]     P. J. Blamey and G. M. Clark, A wearable multiple-electrode electrotactile speech 
+         processor for the profoundly deaf, Journal of the Acoustical Society of America, vol. 77, 
+         pp. 1619–1620, 1985.                            
+[24]     P. J. Blamey and G. M. Clark, Psychophysical studies relevant to the design of a digital 
+         electrotactile speech processor, Journal of the Acoustical Society of America, vol. 82, 
+         pp. 116–125, 1987.                              
+[25]     C. M. Reed and L. A. Delhorne, Current results of field study of adult users of tactile 
+         aids," Seminars in Hearing, vol. 16, pp. 305–315, 1995.
+[26]    J. G. Linvill and J. C. Bliss, A direct translation reading aid for the blind, Proceedings        
+         of the Institute of Electrical and Electronics Engineers, vol. 54, pp. 40–51, 1966.                
+[27]    B. W. White, F. A. Saunders, L. Scadden, P. Bach-Y-Rita, and C. C. Collins, Seeing                 
+         with the skin, Perception & Psychophysics, vol. 7, pp. 23–27, 1970.                               
+[28]    T. H. Massie and J. K. Salisbury, The PHANToM haptic interface: A device for probing               
+         virtual objects, Proceedings of the ASME Dynamic Systems and Control Division, vol.               
+         55–1, 1994, pp. 295–299.                                                                           
+[29]    R. W. Cholewiak and A. A. Collins, The generation  of vibrotactile patterns on a linear            
+         array:  Influences of body site, time, and presentation mode, Perception &                        
+         Psychophysics, vol. 62, pp. 1220–1235, 2000.                                                       
+[30]    H. Z. Tan and A. Pentland, Tactual displays for wearable computing, Personal 
+         Technologies, vol. 1, pp. 225–230, 1997.                                                           
+[31]    F. A. Geldard, Sensory Saltation:  Metastability in the Perceptual World. Hillsdale, New 
+         Jersey: Lawrence Erlbaum Associates, 1975.                                                         
+[32]    F. A. Geldard, The mutability of time and space on the skin, Journal of the Acoustical            
+         Society of America, vol. 77, pp. 233–237, 1985.                                                    
+[33]    F. A. Geldard and C. E. Sherrick, The cutaneous ‘rabbit’:  A perceptual illusion,                 
+         Science, vol. 178, 1972, pp. 178–179.                                                              
+[34]    F. A. Geldard, Saltation in Somesthesis, Psychological Bulletin, vol. 92, pp. 136–175,            
+         1982.                                                                                              
+[35]    F. A. Geldard and C. E. Sherrick, The cutaneous saltatory area and its presumed neural             
+         basis, Perception & Psychophysics, vol. 33, pp. 299–304, 1983.                                    
+[36]    B. J. Scholl, Attenuated change blindness for exogenously attended items in a flicker              
+         paradigm, Visual Cognition, vol. 7, pp. 377-396, 2000.                                            
+[37]    C. Spence and J. Driver, Inhibition of return following an auditory cue:  The role of              
+         central reorienting events, Experimental Brain Research, vol. 118, pp. 352-360, 1998.

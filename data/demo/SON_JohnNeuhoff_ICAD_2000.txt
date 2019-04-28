@@ -1,0 +1,45 @@
+Sonification and the Interaction of Perceptual Dimensions: Can the Data Get Lost in the Map?                                    
+
+John G. Neuhoff                     Gregory Kramer               Joseph Wayand
+Department of Psychology            Metta Foundation             Department of Psychology
+Lafayette College                   310 NW Brynwood Lane         Kent State University
+Easton, PA, 18042-1781              Portland, OR 97229           Kent, OH 44242
++1 610 330 5287                     +1 503 292 8550              +1 330 672 7834
+neuhoffj@lafayette.edu              greg@metta.org               jwayand@kent.edu
+
+
+ABSTRACT                                                                                          
+Many sonification techniques use acoustic attributes such as frequency, intensity, and timbre to represent different
+characteristics of multidimensional data.  Here we demonstrate a perceptual interaction between changes in pitch and
+loudness, as well as perceived asymmetries in directional change.  Three experiments show that changes in loudness can
+influence judgments of pitch change, changes in pitch can influence loudness change, and that increases in loudness are
+judged to change more than equivalent decreases.  Within a sonification of stock market data, these characteristics created
+perceptual distortions in the data set.  The results imply that in situations where precision is critical, caution should be
+exercised when using lower level acoustic dimensions such as frequency and intensity to represent multidimensional data.
+
+REFERENCES
+1. Canévet, G., Scharf, B. The loudness of sounds that increase and decrease continuously in level. Journal of the
+    Acoustical Society of America 85: (1990) 2136-2142.
+2. Grau, J.A., Kemler-Nelson, D.G. The distinction between integral and separable dimensions: Evidence for the integrality
+    of pitch and loudness. Journal of Experimental Psychology: General 117: (1988) 347-370.
+3. Kemler-Nelson, D.G. Processing integral dimensions:  The whole view. Journal of Experimental Psychology:  Human
+    Perception and Performance 19: (1993) 1105-1113.
+4. Kramer, G. Mapping a single data stream to multiple auditory variables: A subjective approach to creating a compelling
+ design. Proceedings of the International Conference on Auditory Display. (1996).
+5. Kramer, G. Some organizing principles for auditory display. In: Kramer G (ed) Auditory Display: Sonification,
+    Audification, and Auditory Interface, SFI Studies in the Sciences of Complexity, Proc. XVIII. Addison-Wesley, Reading,
+    MA (1994).
+6. Marks, L. E. Bright sneezes and dark coughs, loud sunlight and soft moonlight.  Journal of Experimental Psychology:
+    Human Perception and Performance, 8(2): (1982) 177-193.
+7. Melara, R.D., Marks, L.E. Interaction among auditory dimensions: Timbre, pitch, and loudness. Perception and
+    Psychophysics 482: (1990) 169-178.
+8. Melara, R.D., Marks, L.E. Perceptual primacy of dimensions: Support for a model of dimensional interaction. Journal of
+    Experimental Psychology Human Perception and Performance 16: (1990) 398-414.
+9. Melara, R.D., Marks, L.E., Potts, B.C. Early-holistic processing or dimensional similarity? Journal of Experimental
+    Psychology Human Perception and Performance 19: (1993) 1114-1120.
+10. Neuhoff, J.G. Perceptual bias for rising tones. Nature 395: (1998) 123-124.
+11. Neuhoff, J.G., McBeath, M.K. The Doppler illusion: The influence of dynamic intensity change on perceived pitch.
+    Journal of Experimental Psychology: Human Perception and Performance 22: (1996) 970-985.
+12. Neuhoff, J.G., McBeath, M.K., Wanzie, W.C. Dynamic frequency change influences loudness perception: A central,
+    analytic process. Journal of Experimental Psychology: Human Perception and Performance 25: (1999) 1050-1059.
+13. Trumbo, B.E. A theory for coloring bivariate statistical maps. The American statistician 35: (1981) 220-226.

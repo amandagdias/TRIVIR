@@ -1,0 +1,50 @@
+Performance Issues in a Real-Time True Color Data Display            
+
+Robert F. Erbacher and Georges G. Grinstein                             
+Institute for Visualization and Perception Research                        
+Department of Computer Science                                   
+University of Massachusetts-Lowell                                
+One University Avenue                                      
+Lowell, MA 01854                                        
+
+
+Abstract                                             
+We discuss the integration of          visualization and      supercomputing in a low cost     
+environment. Computational requirements continue to increase dramatically as                   
+computational capabilities do. Yet most architectures still separate both processes. The       
+computation is done on one system and the visualization on another. We describe an             
+innovative architecture developed by the Supercomputer Research Center of the Institute        
+for Defense Analysis within which the integration of visualization and                         
+supercomputation is realized. Immediate gains are obvious: program visualization,              
+real-time computational steering, and rapid porting of current applications. We                
+describe the issues in porting our experimental visualization          software1,2,7 and issues
+e encountered. We describe limitations and advantages of the hardware/software                
+coupling. We also discuss a proposed extension of that architecture.                           
+
+
+
+References                                                                                                           
+1.  G. G. Grinstein , R. M.       Pickett, and M. G. Williams,         EXVIS: An Exploratory Visualization          
+    Environment, Graphics Interface ‘89, London, Ontario, 1989.                                                     
+2.  G. G. Grinstein and S. Smith, The Perceptualization of Scientific Data, Proceedings of SPIE ‘90,               
+    February 1990.                                                                                                   
+3.  H. Levkowitz and G. T. Herman, Towards a Uniform Lightness, Hue, and Saturation Color                     
+    Model, Proceedings of the         SPIE Conference Image Processing, Analysis, Measurement, and            
+    Quality, pp. 215-222, 1988.                                                                                
+4.  H. Levkowitz, Color Icons: Merging Color and Texture Perception for Integrated Visualization of           
+    Multiple Parameters,      Proceedings of the Visualization ‘91 Conference          , IEEE Computer Society
+    Press, San Diego, CA, October 22-25, 1991.                                                                 
+5.  H. Levkowitz and G. T. Herman,           GLHS: A Generalized Lightness, Hue, and Saturation Color         
+    Model, CVGIP: Graphical Models and Image Processing             , Vol. 55, No. 4, July, pp. 271-285, 1993.
+6.  Jennifer Marsh and Mark         Norder, Pim Chip Specification, Technical Report            SRC-TR-93-088,
+    Super Computing Research Center, Institute for Defense Analyses, Bowie, MD, 1993.                          
+7.  R. M.   Pickett and G. G.       Grinstein, Iconographic Displays for Visualizing Multidimensional         
+    Data, Proceedings of the 1988 IEEE Conference on Systems, Man and Cybernetics, Beijing and                
+    Shenyang, People’s Republic of China, 1988.                                                                
+8.  J. Rosario and A. Choudhary, High Performance I/O for Massively Parallel Computers,                      IEEE
+    Computer, March 1994, pp. 59-68.                                                                           
+9.  S. Smith, G. Grinstein, and R. D. Bergeron, Interactive Data Exploration with a             Supercomputer,
+    Proceedings of the IEEE Visualization ‘91 Conference , IEEE Computer Society Press, San Diego,             
+    CA, 1991.                                                                                                  
+10. H. Douglas      Sweely, Terasys Demonstration Hardware Manual,                    SRC No. 101.93, Super  
+    Computing Research Center, Institute for Defense Analyses, Bowie, MD, 1993.

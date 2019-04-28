@@ -1,0 +1,94 @@
+Real Time Holter Monitoring of Biomedical Signals
+
+Emil Jovanov, Pedro Gelaber, Reza Adhami, Bryan Wheelock, Robert Adams
+The University of Alabama in Huntsville
+Electrical and Computer Engineering Dept.
+Huntsville, AL 35899
+e-mail: jovanov@ece.uah.edu
+Texas Instruments
+New Business Development
+
+
+Abstract   
+Monitoring of the electrocardiogram during normal activity using Holter devices
+has become standard procedure for detection of cardiac arrhythmias, transient ischemic
+episodes and silent myocardial ischemia. Existing devices mostly record "twenty-four"
+hour activity and then perform off-line record analysis.    
+We present realization of an intelligent DSP-based Holter device for continuous
+electrocardiogram monitoring. Battery operated Holter device is realized using Texas
+Instruments TMS320C542 DSP board with Del Mar PWA Amplifier Digicorder. The
+proposed device could be used either for acquisition of anomalous ECG sequences
+(arrhythmic events, ST segment deviation, etc.) and storing to flash memory, or as a
+warning device during normal activity or exercise stress test.
+Implemented environment could be used as high-performance input/output
+processor. It could provide 3D virtual reality stereo output and new inputs such as user's
+emotional state, which could be used as significant feedback for computer applications.
+
+
+References                                                  
+[Deanfield87] Deanfield J., Holter monitoring in assessment of angina pectorTheis, 
+                  American Journal of  Cardiology, Vol. 59, No. 7, 1987, pp. 18C-22C.
+[VanAlste85] Van Alste, J.A., Schilder, T.S., "Removal of Base-Line Wander and Power-
+                  Line Inerference from the ECG by an Efficient FIR Filter with a Reduced
+                  Number of Taps", IEEE Transactions on Biomedical Engineering, Vol.
+                  BME-32, No. 12, December 1985, pp. 1052-1060.
+[Bahoura97]       Bahoura, M., Hassani, M., Hubin, M., "DSP implementation of wavelet
+                  transform for real time ECG wave forms detection and heart rate analysis",
+                  Comput Methods Programs Biomed, 52:1, pp. 35-44, 1997.
+[Begault94]       Begault, D.R., 3D Sound for Virtual Reality and Multimedia, Academic
+                  Press, Inc., Boston, 1994.                
+[Burdea96]        Burdea, G.C., Force and Touch Feedback for Virtual Reality, John Wiley &
+                  Sons, Inc., New York, 1996.               
+[DelMar]         DEL MAR Medical Systems, http://www.dma.com/Pages/medicsys.htm
+[Hoyer98]         Hoyer, D., Pompe, B., Herzel, H., Zwiener, U., "Nonlinear Cooridantion of
+                  Cardiovascular Autonomic Control",I EEE Engineering in Medicine and
+                  Biology, Vol 17, No. 6, pp. 17-21, 1998.  
+[Jovanov97]       Jovanov, E.,. Radivojevic, V., Software support for monitoring EEG
+                  changes in altered states of Consciousness, Brain and Consciousnes,s
+                  Workshop on Scientific Bases of Consciousness, Belgrade, Yugoslavia,  
+                  September 22-23, 1997, also onh  ttp://www.vxm.com/                   
+[Jovanov99]       Jovanov, E., Starcevic, D., Radivojevic, V., Samardzic, A., Simeunovic, V.,
+                  "Perceptualization of biomedical dataI",E EE Engineering in Medicine and
+                  Biology, Vol 18, No. 1, pp. 50-55, 1999.                              
+[Jovanov99b] Jovanov, E., Wagner, K., Radivojevic, V., Starcevic, D., Quinn, M.,        
+                  "Tactical Audio and Acoustic Rendering in Biomedical Applications",   
+                  IEEE Transactions on Information Technology in Biomedicine, Vol. 3, No.
+                  2, June 1999, pp. 109-118.                                            
+ [Levin86]       Levin, R.I., Cohen, D., Frisbie, W., Selwyn, A.P., Barry, J., Deanfield, J.E.,
+                  Keller, B., Campbell, D.Q., "Potential for Real-Time Processing of the
+                  Continuosly Monitored Electrocardiogram in the Detection, Quantitation,
+                  and Intervention of Silent Myocardical IschemiaC",a rdiology Clinics, Vol.
+                  4, No. 4, November 1986, pp. 735-745.                                 
+[Maglaveras98] Maglaveras, N., Stamkopoulos, T., Pappas, C., Strintzis, M.G., "An       
+                  adaptive backpropagation neural network for real-time ischemia episodes
+                  detection: development and performance analysis using the European ST-T
+                  database", IEEE Transactions on Biomedical Engineering, 45:7, pp. 805-
+                  813, July 1998.                                                       
+[Mulcahy89]      Mulcahy D., Keegan J., Sparrow J., Park A., Wright C., and Fox K.,     
+                  Ischemia in the ambulatory setting - the total ischemic burden: relation to
+                  exercise testing and investigative and therapeutic implication Jours, nal of
+                  the American College of Cardiology, Vol. 14,                    No. 5, 1989, pp. 1166-
+                  1172.                                                                 
+[MIT-BIH]        MIT-BIH database and Software Catalog, http://ecg.mit.edu/dbinfo.html  
+[Pan85]           Pan, J., Tompkins, W.J., "A Real Time QRS Detection Algorithm"IE, EE  
+                  Transactions on Biomedical Engineering, Vol. BME-32, No. 3, March     
+                  1985, pp. 230-236.                                                    
+[Pavic98]        Pavic, M., Dictionary of the Khazar, Cs              D-ROM, Multimedia, Belgrade,
+                  1998.                                                                 
+[Schnek99]        Schneck, D.J., Berger, D.S., "The Role of Music in Physiologic        
+                  Accomodation", IEEE Engineering in Medicine and Biology, Vol 18, No. 2,
+                  pp. 44-53, 1999.                                                      
+[Subramanian86] Subramanian V., Clinical and research applications of ambulatory       
+                  Holter ST-segment and heart rate monitoringThe American Journal of
+                  Cardiology, Vol. 58, No. 4, 1986, pp. 11B-20B.                        
+[Taddei92]        Taddei, A., Distante, G., Emdin, M., Pisani, P., Moody, G.B., Zeelenberg,
+                  C., Marchesi, C., "The European ST-T database: standard for evaluating
+                  systems for the analysis of ST-T changes in ambulatory                
+                  electrocardiography", European Heart Journal, 13:9, pp. 1164-72,      
+                  September 1992.
+[Thaut99]         Thaut, M.H., Kenyon, G.P., Schauer, M.L., McIntosh, G.C., "The
+                  Connection Between Rhythmicity and Brain FunctionI"E,E E Engineering
+                  in Medicine and Biology, Vol 18, No. 2, pp. 101-108, 1999.
+[Tsoi94]         Tsoi, A.C., So, D.S.C., Sergejew, A., "Classification of
+                  electroencephalogram using artificial neural networksA"d, vances in neural
+                  information processing systems, 6: pp. 1151-1158, 1994.

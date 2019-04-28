@@ -1,0 +1,73 @@
+MODELING COLLISION SOUNDS: NON-LINEAR CONTACT FORCE                
+
+Federico Avanzini   						Davide Rocchesso
+Dip. Elettronica ed Informatica                       Dip. Informatica
+University of Padova                                  University of Verona
+Via Gradenigo 6/A, 35131 - Padova, Italy              Strada Le Grazie, 37134 - Verona, Italy
+<avanzini@dei.unipd.it>                               <rocchesso@sci.univr.it>
+
+
+ABSTRACT 
+A model for physically based synthesis of collision sounds
+is proposed. Attention is focused on the non-linear contact
+force, for which both analytical and experimental results are
+presented. Numerical implementation of the model is discussed, 
+with regard to accuracy and efﬁciency issues. As an
+application, a physically based audio effect is presented.
+
+
+
+References
+[1] W. A. Richards, Sound Interpretation, in Natural                                                             
+Computation, W. A. Richards, Ed., pp. 301–308. MIT
+Press, 1988.                                      
+[2] W. H. Warren and R. R. Verbrugge,            
+Perception of Breaking and Bouncing Events: Psychophysics,
+in Natural Computation, W. Richards, Ed., pp. 364–375. MIT Press, 1988.                
+[3] W. Gaver, “How Do We Hear in the World? Explorations 
+in Ecological Acoustics, Ecological Psychology, 
+vol. 5, no. 4, pp. 285–313, Apr. 1993.                                                                   
+[4] G. Borin, G. De Poli, and D. Rocchesso, Elimination
+of Delay-free Loops in Discrete-Time Models of Non-
+linear Acoustic Systems, IEEE Trans. Speech Audio
+Process., vol. 8, pp. 597–606, 2000.        
+[5] W. Gaver, Using and Creating Auditory Icons,
+in Auditory Display: Sonification, Audi cation, and
+Auditory Interfaces, G. Kremer, Ed., pp. 417–446.
+Addison-Wesley, 1994.                       
+[6] K. Tadamura and E. Nakamae, Synchronizing Computer 
+Graphics Animation and Audio, IEEE Multimedia, 
+vol. 5, no. 4, pp. 63–73, Oct. 1998. 
+[7] D. Rocchesso, “Acoustic Cues for 3-D Shape Information,
+in Proc. Int. Conf. Auditory Display(ICAD01),
+Espoo, Finland, July 2001.                  
+[8] F. Avanzini and D. Rocchesso, Controlling Material
+Properties in Physical Models of Sounding Objects,
+in Proc.Int.ComputerMusicConf.(ICMC01), Cuba,
+Sept. 2001.                                 
+[9] F. Fontana and E. Apollonio, Acoustic Cues from
+Shapes between Spheres and Cubes, in Proc. Int.
+Computer Music Conf.(ICMC01), Cuba, Sept. 2001.
+[10] D. Rocchesso, Simple Resonators with Shape Control,
+in Proc.Int.ComputerMusicConf.(ICMC01), Cuba, Sept. 2001.                           
+[11] D. Rocchesso and L. Ottaviani, Can One Hear the
+Volume of a Shape?, in Proc. IEEE Workshop on
+Applicationsof Sig. Process. to Audio and Acoustics
+(WASPAA01), New Paltz (NY), Oct.. 2001.     
+[12] D. J. Freed, Auditory Correlates of Perceived Mallet
+Hardness for a Set of Recorded Percussive Events,
+J.Acoust.Soc.Am, vol. 87, no. 1, pp. 311–322, Jan.
+1990.                                       
+[13] D. W. Marhefka and D. E. Orin, A Compliant Contact
+Model with Nonlinear Damping for Simulation
+of Robotic Systems, IEEE Trans. Systems, Manand
+Cybernetics-PartA, vol. 29, no. 6, pp. 566–572, Nov.
+1999.                                       
+[14] A. Stulov,   Hysteretic Model of the Grand Piano
+Hammer Felt, J. Acoust. Soc. Am, vol. 97, no. 4, pp.
+2577–2585, Apr. 1995.                                            
+[15] N. Giordano and J. P. Mills, Hysteretical Behavior
+of Piano Hammers, in Proc. Int. Symp. Mus. Acoust.
+(ISMA01), Perugia, Sept. 2001, pp. 237–241. 
+[16] M. Puckette, “PureData Documentation, available at
+http://www.pure-data.org/doc/, 2001.

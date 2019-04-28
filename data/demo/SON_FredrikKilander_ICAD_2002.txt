@@ -1,0 +1,137 @@
+A WHISPER IN THE WOODS AN AMBIENT SOUNDSCAPE FOR PERIPHERAL AWARENESS OF REMOTE PROCESSES                 
+
+Fredrik Kilander, Peter Lonnqvist
+Department of Computer and Systems Sciences    
+Stockholm University/KTH           
+Forum 100, SE-164 40 KISTA, Sweden        
+{fk, peterl}@dsv.su.se        
+
+ABSTRACT
+The concept of a weakly intrusive ambient soundscape WI(SP) is   
+presented as a means to provide a peripheral awareness of processes 
+beyond a user's immediate attention. The WISP is a component 
+in a larger environment for ubiquitous computing, centered 
+around a conference room scenario. The experiences from   
+a demonstration prototype indicate that the choice of sounds and                
+the intensity of their presentation can greatly influence the way
+theWISP is perceived. The work relates in various ways to the   
+sonification of data and audio-based techniques for maintaining 
+peripheral awareness.                                          
+
+
+
+
+REFERENCES                          
+[1] John R. Anderson, Cognitive Psychology and its Implications, 
+W. H. Freeman and Company, fourth edition, 1995.
+[2] Patrik Werle, Fredrik Kilander, Martin Jonsson, Peter 
+Lonnqvist,¨and Carl Gustaf Jansson, A ubiquitous service
+environment with active documents for teamwork support,
+in Ubicomp2001: Ubiquitous computing: international conference; 
+proceedings, D. Abowd, Gregory, Ed. 2001, vol.
+2201 of Lecture notes in computer science, pp. 139 155,
+Springer-Verlag.                                       
+[3] Fredrik Kilander and Peter Lonnqvist, A weakly intruthesive
+ambient soundscape for intuitive state perception, in
+Continuity in Future Computing Systems, J. Doherty, G.,
+M. Massink, and D. Wilson, M., Eds., Library and Information 
+Services, Rutherford Appleton Laboratory, Chilton,
+Didcot, Oxfordshire, OX11 0QX, 2001, pp. 70 74, The Central 
+Laboratory of the Research Councils.              
+[4] Smartboard, SmartBoard is a product of SMART Technologies Inc.                                          
+(http://www.smarttech.com).                            
+[5] ibutton, iButton is a product of Dallas Semiconductor Corp.                                                  
+(http://www.ibutton.com).                              
+[6] Edward Childs, The sonification of numerical uid  
+ow simulations, inProceedings of the 7th International 
+Conference on Auditory Display,       Helsinki
+University of Technology, Espoo, Finland, 2001, Laboratory 
+of Acoustics and Audio Signal Processing and the
+Telecommunications Software and Multimedia Laboratory, 
+http://www.acoustics.hut./icad2001/proceedings/index.htm.
+[7] Chris Chafe and Randal Leistikow,     Levels of temporal 
+resolution in sonification of network performance, 
+in  Proceedings of the 7th International Conference    
+on Auditory Display,     Helsinki  University of  Technology,  
+Espoo,   Finland, 2001,  Laboratory of Acoustics and
+Audio Signal Processing and the Telecommunications    
+Software   and   Multimedia    Laboratory,
+http://www.acoustics.hut./icad2001/proceedings/index.htm.
+[8] H. Hansen, M. and B. Rubin,   Babble online:    applying  
+statisticsand   design  to  sonify the  internet,
+in  Proceedings of the 7th International Conference    
+on Auditory Display,     Helsinki  University of  Technology,  
+Espoo,   Finland, 2001,  Laboratory of Acoustics 
+and Audio Signal Processing and the Telecommunications    
+Software   and   Multimedia    Laboratory,
+http://www.acoustics.hut./icad2001/proceedings/index.htm.
+[9] B. Bederson, B. and A. Druin, Audio augmented reality: A
+prototype automated tour guide, The in ACM Human Computer
+in Computing Systems conference (CHI'95) conference    
+companion, 1995, pp. 210 211.                          
+[10] E. Hudson, Scott and Ian Smith, Electronic mail previews
+using non-speech audio, in CHI'96 conference companion.  
+1996, pp. 237 238, ACM.                                
+[11] Elizabeth Mynatt, D., Maribeth Back, Roy Want, and Ron 
+Frederick, Audio aura: Light-weight audio augmented reality,
+in Proceedings of the 10th annual ACM symposium       
+on User interface software and technology, New York, 1997,  
+pp. 211 212, ACM Press.                                
+[12] Elizabeth Mynatt, D., Maribeth Back, Roy Want, Michael 
+Baer, and B. Ellis, Jason, Designing audio aura, Conferinence 
+proceedings on Human factors in computing systems.
+1998, pp. 556 573, ACM Press/Addison-Wesley Publishing 
+Co.                                                    
+[13] Nitin Sawhney and Chris Schmandt, Nomadic radio: 
+Scaleable and contextual notification for wearable audio
+messaging, inProceedings of the CHI 99 Conference on  
+Human factors in computing systems: the CHI is the limit,      
+New York, NY, USA, 1999, pp. 96 103, ACM Press.        
+[14] Nitin Sawhney and Chris Schmandt, Nomadic radio: 
+speech and audio interaction for contextual messaging in nomadic 
+environments, in ACM Transactions on Computer-Human 
+Interaction (TOCHI), New York, NY, USA, 2000,    
+pp. 353 383, ACM Press.                                
+[15] Ahsley Walker and Stephen Brewster, Spatial audio in small
+screen device displays, Tech. Rep., Department of Computing 
+Science, University of Glasgow, Scotland G12 8QQ,
+2000.                                                  
+[16] Rønby Pedersen, Elin and Tomas Sokoler, Aroma: abstract
+representation of presence supporting mutual awareness, in
+Proceedings of Conference on Human Factors in Computing       
+Systems(CHI'97). March 1997, pp. 51 58, ACM Press.     
+[17] Rønby Pedersen, Elin, People presence or room activity
+supporting peripheral awareness over distance, Conferinence 
+proceedings on Human factors in computing systems.
+1998, pp. 283 284, ACM Press/Addison-Wesley Publishing 
+Co.                                                    
+[18] Ian Smith and E. Hudson, Scott, Low disturbance audio 
+for awareness and privacy in media space applications, in
+Proceedings of the third ACM international conference on
+multimedia. 1995, ACM.                                 
+[19] Maria Barra, Tania Cillo, Antonio De Santis, Teenie Matlock, 
+Ferraro Petrillo, Umberto, Alberto Negro, Vittorio
+Scarano, and Paul Maglio, Personal webmelody: customized 
+sonification of web services,  in Proceedings of the
+7th International Conference on Auditory Display, Helsinki  
+University of Technology, Espoo, Finland, 2001, Laboratory of 
+Acoustics and Audio Signal Processing and the
+Telecommunications Software and Multimedia Laboratory, 
+http://www.acoustics.hut./icad2001/proceedings/index.htm.
+[20] W. Gaver, W., B. Smith, R., and T. O'Shea, Effective sounds
+in complex systems: TheARK ola simulation, inProceedings of CHI'91, 
+April 28 May 2 1991.                     
+[21] H. Ishii and B. Ullmer, Tangible bits: Towards seamless
+interfaces between people, bits and atoms, Prinoceedings of
+Conference on Human Factors in Computing Systems(CHI         
+'97). March 1997, pp. 234 241, ACM Press.              
+[22] H. Ishii, C. Wisnecki, S. Brave, A. Dahley, M. Gorbet, 
+B. Ullmer, and P. Yarin, ambientroom: Integrating ambient 
+media with architectural space, inProceedings of CHI
+'98, New York, 1998, pp. 173 174, ACM.                 
+[23] Craig Wisneski, Hiroshi Ishii, Andrew Dahley, Matt Gorbet,
+Scott Brave, and Paul Yarin, Ambient displays: Turning architectural 
+space into an interface between people and digital
+information, inProceedings of the First International Workshop
+on Cooperative Buildings(CoBuild'98). Febrary 1998,  
+Springer.

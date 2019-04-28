@@ -1,0 +1,157 @@
+Rendering Localized Spatial Audio in a Virtual Auditory Space                                                                 
+
+
+                  Dmitry N. Zotkin*, Ramani Duraiswami, Larry S. Davis                                                
+                          {dz,ramani,lsd}                  @umiacs.umd.edu                                            
+                           Phone: (301)405-1049 Fax: (301)405-6707                                                    
+                          Perceptual Interfaces and Reality Laboratory                                                
+                             Institute for Advanced Computer Studies                                                  
+                       University of Maryland, College Park, MD 20742                                                 
+
+Abstract                                                        
+High-quality virtual audio scene rendering is required for eremging virtual and augmented reality applications,   
+perceptual user interfaces, and sonification of data. We describe algorithms for creation of virtual auditory spaces by
+rendering cues that arise from anatomical scattering, enonmentalvir  scattering, and dynamical effects. We use a novel
+way of personalizing the head related transfer functions R(HTFs) from a database, based onanatomical measurements.     
+Details of algorithms for HRTF interpolation, room impulse response creation, HRTF selection from a database,         
+and audio scene presentation are presented. Our system runs in real time on fiacen oPCf without specialized DSP  
+hardware.                                                                                                             
+
+
+REFERENCES                                                         
+[1] Y. Bellik (1997). Media integration in multimodal interfaces, Proc. IEEE First Workshop on Multimedia Signal Processing,
+     Princeton, NJ, pp. 31-36.                                                                                       
+[2] R. L. McKinley and M. A. Ericson (1997). Flight demonstration of a 3-D auditory display, in Binaural and Spatial Hearing
+     in Real and Virtual Environments, ed. by R. H. Gilkey and T. R. Anderson, Lawrence Earlbaum Assoc., Mahwah, NJ, pp.
+     683-699.                                                                                                        
+[3] M. Casey, W. G. Gardner, and S. Basu (1995). Vision steered beamforming and transaural rendering for the arfiticial life
+     interactive video environment, Proc. 99th AES Convention, New York, NY, pp. 1-23.                              
+[4] S. A. Brewster (1998). Using nonspeech sounds to provide nigavation cues, ACM Transactions on Computer-Human Interaction 
+(TOCHI), vol. 5, no. 3, pp. 224-259.                                                                     
+[5] J. M. Loomis, R. G. Golledge, and R. L. Klatzky (1998). Navigation system for the blnd:iAuditory display modes and
+     guidance, Presence, vol. 7, no. 2, pp. 193-203.                                                                
+[6] G. Kramer et al. (1997). Sonification report: Status of thefield and research agenda, Prepared for the NSF by members of
+     the ICAD. (Available on the World Wide Web at http://www.icad.org/websiteV2.0/References/nsf.html).             
+[7] S. Bly (1994). Multivariate data mappings. In Auditory display: Sonification, audification and auditory interfaces, G.
+     Kramer, ed. Santa Fe Institute Studies in the Sciences of Copmlexity, Proc. Vol. XVIII, pp. 405-416. Reading, MA, Addison
+     Wesley.                                                                                                         
+[8] A. S. Bregman (1994). Auditory scene analysis: The perceptual organization of sound, MIT Press, Cambridge, MA. 
+[9] J. P. Blauert (1997). Spatial hearing(revised edition), MIT Press, Cambridge, MA.                              
+[10] M. Slaney (1998). A critique of pure audition, in Computational Auditory Scene Analysis, ed. by D. F. Rosenthal, H. G.
+     Okuno, Lawrence Erlbaum Assoc., Mahwah, NJ, pp. 27-42.                                                          
+[11] C. Jin, A. Corderoy, S. Carlile, and A. van Schaik (2000). Spectral cues in human sound localization, Advances in Neural
+     Information Processing Systems 2,1 edited by S.A. Solla, et al., MIT Press, Cambridge, MA, pp. 768-774.         
+[12] J.W.Strutt (Lord Rayleigh) (1907). On our percepiontof sound direction, Phil.Mag., vol. 13, pp. 214-232.      
+[13] D. W. Batteau (1967). The role of the pinna in human localization, Proc. Royal Society London, vol. 168 (series B), pp.
+     158-180.                                                                                                        
+[14] D. Wright, J. H. Hebrank, and B. Wilson (1974). Pinna rﬂeections as cues for localization, J. Acoustic Soc. Am., vol. 56,
+     no. 3, pp. 957-962.                                                                                             
+[15] R. O. Duda (1993). Modeling head related transfer functions, Proc. 27th Asilomraconf. on Signal, Systems and Computers,
+     Asilomar, CA, pp. 457-461.                                                                                      
+[16] E. A. Lopez-Poveda and R. Meddis (1996). A physical model of sound diffraction andﬂreections in the human concha, J.
+     Acoust. Soc. Am., vol. 100, no. 5, pp.3248-3259.                                                                
+[17] E. A. Durant and G. H. Wakefield (2002). Efficient modelfitting using a genetic algorithm:pole-zero approximations of
+     HRTFs, IEEE Trans. on Speech and Audio Processing, vol. 10, no. 1, pp. 18-27.                                  
+[18] C. P. Brown and R. O. Duda (1998). A structural model forbinaural sound synthesis,EEEI Trans. Speech and Audio
+     Processing, vol. 6, no. 5, pp. 476-488.                                                                         
+[19] T. Funkhouser, P. Min, and I. Carlbom (1999). Real-time acoutics modeling for distributed virtual environments, Proc.
+     SIGGRAPH 1999, Los Angeles, CA, pp. 365-374.                                                                    
+[20] J.-M. Jot (1999). Real-time spatial processing of sounds for music, multimedia and interactievhuman-computer interfaces,
+     Multimedia Systems, vol. 7, no. 1, pp. 55-69.                                                                   
+[21] B. G. Shinn-Cunningham (2000). Distance cues for virtual auditory space, Proc. IEEE PCM2000, Sydney, Australia, pp.
+     227-230.                                                                                                        
+[22] E. M. Wenzel, J.D .M iller, andJ .S .A bel( 2000). As oftware-based system for interactive spatial sound synthesis, Proc.
+     ICAD 2000, Atlanta, GA, pp. 151-156.                                                                            
+[23] N. Tsingos (2001). A versatile software architecture for vrtualiaudio simulations, Proc. ICAD 2001, Espoo, Finland, pp.
+     38-43.                                                                                                          
+[24] M. B. Gardner and R. S. Gardner (1973). Problem of localization in the median plane: effect of pinna cavity occlusion, J.
+     Acoust. Soc. Am., vol. 53, no. 2, pp. 400-408.                                                                  
+[25] M. Morimoto and Y. Ando (1980). On the simulation of sound localization, .J Acoust. Soc. Jpn. (E), vol. 1, no. 2, pp.
+     167-174.                                                                                                        
+[26] E. M. Wenzel, M. Arruda, D. J. Kistler, and F. L. Wightman (1993). Localization using non-individualized head-related
+     transfer functions, J. Acoust. Soc. Am., vol, 94, no. 1, pp. 111-123.                                          
+[27] E. M. Wenzel (1999). Effect of increasing system latency on localization of virtual sounds, Proc. 16th AES Conference on
+     Spatial Sound Reproduction, Rovaniemi, Finland, pp. 42-50.                                                      
+[28] W. M. Hartmann (1999). How we localizeous nd, Physics Today, November 1999, pp. 24-29.                        
+[29] S. Carlile, ed. (1996). Virtual auditory space: Generation and applications, R. G. Landes Company, Austin, TX.
+[30] D. S. Brungart and W. R. Rabinowitz (1996). Auditory localization in the nearfield, Proc. ICAD 1996, Palo Alto, CA
+     (http://www.santafe.edu/~icad/ICAD96/proc96/INDEX.HTM)                                                          
+[31] R. O. Duda and W. L. Martens (1998). Range dependence of the response of a spherical head model, J. Acoust. Soc. Am.,
+     vol. 104, no. 5, pp. 3048-3058.                                                                                 
+[32] B. G. Shinn-Cunningham, S. G. Santarelli, and N. Kopco (2000). Tori of confusion: Binaural cues for sources within reach
+     of a listener, J. Acoust. Soc. Am., vol. 107, no. 3, pp. 1627-1636.                                            
+[33] R. A. Butler (1975). The inﬂuence of the external and middle ear on audryitodiscriminations, in Handbook of Sensory
+     Physiology, edited by W. D. Keidel and W. D. Neff (Springer Verlag, New York), pp. 247-260.                     
+[34] H. L. Han (1994). Measuring a dummy head in search of pinnae cues, J. Audio Eng. Soc., vol. 42, no. 1, pp. 15-37.
+[35] E. A. G. Shaw (1997). Acoustical features of the human external ear, in Binaural and Spatial Hearing in Real and Virtual
+     Environments, ed. by R. H. Gilkey and T. R. Anderson, Lawrence Earlbaum Associates, Mahwah, NJ, pp. 25-48.      
+[36] J. Schoukens and R. Pintelon (1990). Measurement of frequency response functions in noisy environments, IEEE Trans. on
+     Instrumentation and Measurement, vol. 39, no. 6, pp. 905-909.                                                   
+[37] A. Kulkarni and H. S. Colburn (1995). Efficient finite-impulse-response models of the head-related transfer function, J.
+     Acoust. Soc. Am., vol. 97, p. 3278.                                                                             
+[38] M. A. Blommer and G. H. Wakefield (1997). Pole-zeroapproximations for head-latedretransfer functions using a logarithmic
+     error criterion, IEEE Trans. Speech Audio Processing, vol. 5, pp. 278-287.                                     
+[39] S. Carlile, C. Jin, and V. van Raad (2000) Continuous virtual auditory space using HRTF interpolation: acoustic and psychophysical 
+errors, in International Symposium onultimMedia Information Processing, Sydney, p 220-223.         
+[40] A. Kulkami, S. K. Isabelle, and H. S. Colburn (1999). Sensitivity of human subjects to head-related transfer-function phase
+     spectra, J. Acoust. Soc. Am., vol. 105, no. 5, pp. 2821-2840.                                                  
+[41] J. B. Allen and D. A. Berkeley (1979). Image method for efifciently simulating small-room acoustics, J. Acoust. Soc. Am.,
+     vol. 65, no.5, pp. 943-950.                                                                                     
+[42] J. Borish (1984). Extension of the image model to arbitrary polyhedra, J. Acoust. Soc. Am., vol. 75, no. 6, pp. 1827-1836.
+[43] R. Duraiswami, N. A. Gumerov, D. N. Zotkin, and L. S. Davis (2001). Efficient evaluation of reverberant soundfields, Proc.
+     IEEE WASPAA01, New Paltz, NY, pp. 203-206.                                                                      
+[44] H. Wallach (1940). The role of head movement and vestibular and visual cues in sound localization, J. Experimental
+     Psychology, vol. 27, pp. 339-368.                                                                               
+[45] S. Perret and W. Noble (1997). The effect of head rotations onvertical plane sound localization, J. Acoust. Soc. Am., vol.
+     102, no. 4, pp. 2325-2332.                                                                                      
+[46] F. L. Wightman and D. J. Kistler (1999). Resolution of front-back ambiguity in spatial hearing by listener and source movement, 
+J. Acoust. Soc. Am., vol. 105, pp. 2841-2853.                                                            
+[47] http://www.fftw.org/                                                                                            
+[48] V. R. Algazi, R. O. Duda, D. P. Thompson, and C. Avendano (2001). The CIPIC HRTF database, Proc. IEEE WASPAA01,
+     New Paltz, NY, pp. 99-102.                                                                                      
+[49] R. Duraiswami et al. (2000). Creating virtual spatial audio via scientific computing and computer vision, Proc. of
+     140th meeting of the ASA, Newport Beach, CA, December 2000, p. 2597. Available on the world wide web at         
+     http://www.acoustics.or/pgress/140th/duraiswami.htm                                                             
+[50] R. S. Woodworth and G. Schlosberg (1962). Experimental psychology, Holt, Rinehard and Winston, NY, pp.349-361.
+[51] C. Kyriakakis (1998). Fundamental and technological limationits of immersive audio systems, Proc. IEEE, vol. 86, no. 5,
+     pp. 941-951.                                                                                                    
+[52] L. E. Kinsler (editor), A. R. Frey, A. B. Coppens, and J. V. Sanders (1982). Fundamentals of acoustics (third edition), John
+     Wiley & Sons, pp. 313-321.                                                                                      
+[53] B. Rakerd and W. M. Hartmann (1985). Localization of sound in rooms, II: The effects of a singleﬂectre ing surface, J.
+     Acoust. Soc. Am., vol. 78, no.2, pp. 524-533.                                                                   
+[54] B. G. Shinn-Cunningham (2001). Localizing soudnin rooms, Proc. ACM SIGGRAPH and Eurographics Campfire: Acous-  
+     tic Rendering for Virtual Environments, Snowbird, Utah.                                                         
+[55] M. R. Schroeder (1962). Natural-sounding artificial reverberation, J. Audio Eng. Soc., vol. 10, no. 3, pp. 219-223.
+[56] J.-M. Jot (1997). Ef ficient models for reverberation and distance rendngeriin computer music and virtual audio reality,
+     Proc. 1997 Int. Computer Music Conference, pp. 236-243.                                                         
+[57] W. G. Gardner (1995). Efficient convolution without input-output delay. J. Audio Eng. Soc., vol. 43, no.3, pp. 127-136.
+[58] D. R. Begault, E. M. Wenzel, and M. R. Anderson (2001). Direct comparison of the impact of head-tracking, reverberation,
+     and individualized head-related transferunctionsfon the spatial perception of a vtuiral speech source, J. Audio Eng. Soc.,
+     vol. 49, no. 10, pp. 904-916.                                                                                   
+[59] CIPIC HRTF Database Files, Release 1.0, August 15, 2001, available from http://interface.cipic.ucdavis.edu/     
+[60] S. Carlile, C. Jin, V. Harvey (1998). The generation and validation of higfihdelity virtual auditory space, Proc. 20th Annual
+     Intl. Conf. of the IEEE Engineering in Medicine and Biology Society, vol. 20, no. 3, pp. 1090-1095.             
+[61] P. Runkle, A. Yendiki, and G. Wakefield (2000). Active sensory tuning for immersive spatialized audio, Proc. ICAD 2000,
+     Atlanta, GA.                                                                                                    
+[62] S. Shimada, M. Hayashi and S. Hayashi (1994). A clustering method for sound localizationransfertfunctions, J. Audio
+     Eng. Soc., vol. 42, no. 7/8, pp. 577-584.                                                                       
+[63] J. Chen, B. D. van Veen, K. E. Hecox (1993). Synthesis of 3D virtual auditory space via a spatial feature extraction and
+     regularization model, Proc. IEEE Virtual Reality Annual Int. Symp., pp. 188-193.                               
+[64] V. R. Algazi, R. O. Duda, R. P. Morrison, and D. M. Thompson (2001). Structural composition and decomposition of
+     HRTFs, Proc. IEEE WASPAA01, New Paltz, NY, pp. 103-106.                                                        
+[65] C. Jin, P. Leong, J. Leung, A. Corderoy, and S. Carlile (2000). Enabling individualized virtual auditory space using morphological 
+measurements, Proceedings of the First IEEE Pacific-Rim Conference on Multimedia (2000 International Symposium
+     on Multimedia Information Processing), pp. 235-238.                                                             
+[66] J. C. Middlebrooks (1999). Individual differences in external-ear transfer functions reduced by scaling in frequency, J.
+     Acoust. Soc. Am., vol. 106, no.3, pp. 1480-1492.                                                                
+[67] J. C. Middlebrooks (1999). Virtual localization improved bycalingsnon-individualized external-ear transfer functions in
+     frequency, J. Acoust. Soc. Am., vol. 106, no.3, pp. 1493-1510..                                                
+[68] J. C. Middlebrooks, E. A. Macpherson, and Z. A. Onsan (2000). Psychophysical customization of directional transfer func-
+     tions for virtual sound localization, J. Acoust. Soc. Am., vol. 108, no. 6, pp. 3088-3091.                     
+[69] E. M. Wenzel (1998). The impact of system latency on dynamicperformance in virtual acoustic environments, Proceedings
+     of the 16th International Congress on Acoustics and 135th Mtingee of the Acoustical Society of America, Seattle, WA, pp.
+     2405-2406.                                                                                                      
+[70] N. F. Dixon and L. Spitz (1980). The detection of auditory visual desynchroyn, Perception, vol. 9, pp. 719-721.
+[71] H. Moller (1992). Fundamentals of BinauralechnologyT, Applied Acoustics, vol. 36, pp. 171-218.                
+[72] K. McAnally and R. Martin (2001). Variability in the headphone-to-ear-canal transfer function, J. Audio Eng. Soc., vol.
+     50(4), pp. 263-267.

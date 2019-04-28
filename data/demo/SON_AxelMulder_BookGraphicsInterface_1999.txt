@@ -1,0 +1,74 @@
+Design of Virtual 3D Instruments for Musical Interaction
+
+Axel G.E. Mulder
+School of Kinesiology, Simon Fraser University, Burnaby, BC, Canada V5A 1S6. Email amulder@sfu.ca
+S. Sidney Fels
+Dept. of Electrical and Computer Eng., UBC, Vancouver, BC, Canada V6T 1Z4. Email ssfels@ece.ubc.ca
+Kenji Mase
+ATR MI & C Research Labs, Seika-cho, Soraku-gun, Kyoto, 619-02 Japan. Email mase@mic.atr.co.jp
+
+Abstract
+An environment for designing virtual instruments with     
+3D geometry has been prototyped and applied to realtime
+sound control and design. It was implemented by extending
+a realtime, visual programming language called    
+Max/FTS, running on an SGI Onyx, with software objects
+to interface CyberGloves and Polhemus sensors and   
+to compute human movement and virtual object features.    
+Virtual input devices with behaviours of a rubber balloon
+and sheet were designed for the control of sound     
+spatialization and timbre parameters.     Informal evaluation
+showed that a sonification inspired by the physical
+world appears natural and effective. More research    
+is required for a natural sonification of virtual input device
+features such as shape, taking into account possible
+co-articulation of these features. While both hands    
+can be used for manipulation, left-hand-only interaction   
+with a virtual instrument may be a useful replacement for  
+and extension of the standard music synthesizer keyboard   
+modulation wheel. More research is needed to identify      
+and apply manipulation pragmatics and movement features,
+and to investigate how they are co-articulated, in  
+the mapping of virtual object parameters.                  
+
+
+References                                            
+[1] Paul Kabbash, William Buxton and Abigail Sellen, Two-
+Handed Input in a Compound Task, ProceedingsofCHI'94,
+pp 417-423, 1994.                                   
+[2] S. Sidney Fels and Geoffrey E. Hinton, Glove-TalkII: Glove-
+TalkII: A neural network interface which maps gestures to parallel
+formant speech synthesizer controls, IEEE Transactionson
+Neural Networks, Vol. 9, No. 1, pp. 205-212, 1998.   
+[3] S. Sidney Fels and Geoffrey E. Hinton, Glove-Talk: a neural
+network interface between a data-glove and a speech synthesizer,
+IEEE Transactions on Neural Networks, Vol. 4, No. 1,
+pp. 2-8, 1993.                                      
+[4] Tinsley A. Galyean, Sculpting: An Interactive Volumetric Modeling
+Technique, ACM Computer Graphics, Vol. 25, No. 4,
+(SIGGRAPH '91, Las Vegas, 28 July - 2 August 1991), pp. 267-
+274, 1991.                                          
+[5] Axel G.E. Mulder. Design of virtual 3D instruments for
+sound control. PhD. thesis. Burnaby,BC, Canada:    Simon 
+Fraser University, 1998. Available on the web at
+http://www.cs.sfu.ca/amulder/personal/vmi/AM98-thesis.ps.Z
+and      http://www.cs.sfu.ca/amulder/personal/vmi/AM98-thesis.pdf.                                         
+[6] Axel G. E. Mulder, Getting a GRIP on alternate controllers: Addressing
+the variability of gestural expression in musical instrument 
+design, Leonardo Music Journal, Vol. 6, pp. 33-40, 1996.
+[7] Axel G. E. Mulder,  Hand gestures for HCI, Technical Report,  
+NSERC Hand Centered Studies of Human Movement project,  Burnaby, 
+BC, Canada:   Simon Fraser University, 1996. Available through the WWW at
+http://www.cs.sfu.ca/amulder/personal/vmi/HCI-gestures.htm
+[8] Axel G. E. Mulder, Human Movement Tracking Technology,
+Technical Report, NSERC Hand Centered Studies of
+Human Movement project, Burnaby, BC, Canada:   Simon
+Fraser University, 1994. Available through the WWW at
+http://www.cs.sfu.ca/amulder/personal/vmi/HMTT.pub.html
+[9] Miller Puckette, FTS: A real time monitor for multiprocessor
+music synthesis, Computer music journal, Vol. 15, No. 3, pp.
+58-67, 1991.
+[10] Franc Solina and Ruzena Bajcsy, Recovery of parametric models
+from range images: the case for superquadrics with global
+deformations, IEEE Transactions on Pattern Analysis and Machine
+Intelligence, Vol. 12, No. 2, February, pp. 131-147, 1990.

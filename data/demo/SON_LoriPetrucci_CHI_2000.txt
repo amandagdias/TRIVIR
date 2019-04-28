@@ -1,0 +1,55 @@
+WebSound: a generic Web sonification tool allowing HCI researchers to dynamically create new access modalities                                                                
+
+Lori Stefano Petrucci        , Eric Harth     , Patrick Roth     , Assimacopoulos André          , Thierry Pun      
+Computer Science Department                                                        UCBA                      
+CUI, University of Geneva                                  Swiss Central Union of and for the Blind         
+CH – 1211 Geneva 4, Switzerland                                    Schützengasse 4, CH- 900 St-Gallen,           
++41 22 705 76 32                                                       Switzerland                    
+Lori.Petrucci@cui.unige.ch                                                                                  
+
+
+ABSTRACT
+The World Wide Web (WWW) has recently become the                
+main source of digital information accessible everywhere        
+and by everyone. Nevertheless, the inherent visual nature of    
+Internet browsers makes the Web inaccessible to the             
+visually impaired. To solve this problem, non-visual            
+browsers have been developed. One of the new problems,          
+however, with those non-visual browsers is that they often      
+transform the visual content of HTML documents into             
+textual information only, that can be restituted by a text-to-speech 
+converter or a Braille device. The loss of spatial       
+layout, and textual attributes such as boldface, italic,        
+underline, color or even size should be avoided since they      
+often bear visually important information. Moreover,            
+typical non-visual Internet browsers do not allow visually      
+impaired and sighted individuals to easily work together        
+using the same environment. These new problems have to          
+be solved with new alternative non-visual display               
+techniques. This paper presents WebSound, a new generic          
+Web sonification tool and its application to a 3D audio          
+augmented Internet browser (Internet Explorer 5.0)               
+developed at the University of Geneva.                           
+
+
+
+
+
+
+REFERENCES                                                 
+1. Petrucci L., Roth P., Assimacopoulos A., Pun T.        An
+Audio Browser for Increasing Access to World Wide      
+Web Sites for Blind and Visually Impaired Computer     
+Users. HCI’99, Munich, pp. 995-998.                    
+2. Harth E., Plate-forme de Sonification Dynamique de      
+Pages Web Pour       Aveugles et Malvyants. Diploma    
+thesis, University of Geneva, 1999.                    
+3. Brewster S.A. Using Non-Speech Sounds to provide        
+Navigation Cues. ACM transaction on Computer-          
+Human Interaction 5(3), pp. 224-259.                   
+4. James F. Presenting HTML Structure in Audio: User       
+Satisfaction with Audio Hypertext.           ICAD’96   
+Proceedings. Xerox PARC, 4-6 Nov. 1996, pp. 97-103.    
+5. Lumbreras M., J. Sanchez.         Interactive 3D Sound  
+Hyperstories for Blind Children. CHI’99 Pittsburgh PA, 
+USA.

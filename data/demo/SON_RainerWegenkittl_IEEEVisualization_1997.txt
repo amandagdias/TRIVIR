@@ -1,0 +1,86 @@
+Visualizing the Behavior of Higher Dimensional Dynamical Systems                                                        
+
+Rainer Wegenkittl
+Helwig Lof felmann 
+Eduard Grolle r                                 
+Vienna University of Technology, Institute of Computer Graphics                                
+
+
+Abstract
+In recent years scientific visualization has been driven by the need                                                          
+to visualize high-dimensional data sets within high-dimensional                                                              
+spaces. However most visualization methods are designed to show  
+nly some statistical features of the data set. This paper deals with                                                        
+the visualization of trajectories of high-dimensional dynamical sytems 
+which form a L n data set of a smoothn-dimensional ow.     
+Three methods that are based on the idea of parallel coordinates 
+are presented and discussed. Visualizations done with these new                                                              
+methods are shown and an interactive visualization tool for the exploration 
+of high-dimensional dynamical systems is proposed.     
+
+
+
+
+
+
+References                                       
+[1] Bergeron, G. Grienstein, A Reference Model for the Visualization 
+of Multi-Dimensional Data, Proceedings of Eurographics '89, 1989.                         
+[2] J. LeBlanc,  M. O. Ward,     N. Wittels,   Exploring N-
+Dimensional Databases, IEEE Visualization '90 Proceedings,
+pages 230 239, 1990.                        
+[3] A.Buja, C. Hurley, J .A. McDonald, Elements of a viewing
+pipeline for Data Analysis, Dynamic Graphics for Statistics,
+Wadsworth and Brooks/Colr, Belmont, CA, 1988.
+[4] H. Chernoff, The use of faces to represent points in k-dimensional 
+space graphicall, Journal of the American Statistical 
+Association, 68, pages 361 368, 1993.
+[5] G. W. Furnas, Generalized Fish eye View, Proceedings of
+CHI '86, Human Factors in Computing Systems, New York,
+1986                                        
+[6] G.W. Furnas, Dimensionality Constraints on Projection and
+Section Views of High Dimensional Loci, Computer Science
+and Statistics: Proceedings of the 20 Symposium on the Interface, 
+Washington, D.C., 1988                
+[7] G. Grienstein, S. Smith, The perceptualization of scientific
+data, Proceedings of SPIE '90, Santa Clara, CA,1990.
+[8] E. Gr oller, R. Wegenkittl, A. Milik, A. Prskawetz, G. Feichtinger, 
+W. C. Sanderson, The Geometry of Wonderland,
+     Chaos, Solitons & Fractals, 7(12), pages 1989 2006, 1996.
+ [9] A.J .H anson, R. A. Cross, Interactive Visualization Methods 
+for Four Dimensions, IEEE Visualization '93 Proceedings, pages 
+196 203, 1993.                
+[10] T. Hauck, F. W. Schneider, Mixed-Mode and Quasi periodic
+     Oscillations in the Peroxidase-Oxida see act Rion, The Journal
+     of Physical Chemistry, 97(2), pages 391 397, 1993.
+[11] D. A. Henderson, S. K. Card, Rooms: The Use of Multiple 
+Virtual Workspaces to Reduce Space Contention in a
+     Window-Based Graphical User Interface, ACM Transactions
+     on Graphics, Vol. 5(3), pages 211 243, July 1986.
+[12] A. Inselberg, B. Dimsdale, Parallel Coordinates: a Tool for
+     Visualizing Multidimensional Geometry, Visualization 90
+     Proceedings, pages 361 378, 1990.         
+[13] G. D. Kerlick, Moving Iconic Objects in Scientific Visualization,
+IEEE Visualization '90 Proceedings, pages 124 129,
+     1990.                                     
+[14] W. C. de Leeuw, J. J. van Wijk, A Probe for Local Flow Field
+     Visualization, IEEE Visualization '93 Proceedings, pages 39 45, 1993.                                 
+[15] H. Levkowitz, Color Icons: Merging Color and Texture Perception 
+for Integrated Visualization of Multiple Paramete,rs
+     IEEE Visualization '91 Proceedings, pages 164 170, 1991.
+[16] T. Mihalisin, J. Timlin, J. Schwegler, Visualization and Analysis of 
+Multi-variate Data: A Technique for All Fields,IEEE
+     Visualization '91 Proceedings, pages 171 178, 1991.
+[17] R. M. Pickett, Visual Analyses of Texture in the Detection
+     and Recognition of Object, s Picture Processing and Psycho-Pictories, 
+Academic Press, New York, 1970.
+[18] R. M. Pickett, G. Grienstein, Iconographic Displays for Visualizing 
+Multidimensional Data, Proceedings of IEEE International 
+Conference on Systems, Man, and Cybernetics, China,
+     pages 514 519, 1988.                      
+[19] H. Schumann, Visual is ierungwissenschaftlicherDate,nlec-
+     ture notes, University of Rostock, 1993.  
+[20] R. Wegenkittl, E. Gr oller, W. Purgathofer, Animating Flow
+     Fields: Rendering of Oriented Line Integral Convolutio, Proceedings 
+of Computer Animation '97, IEEE Computer Society, pages 15 21, 1997.                   
+

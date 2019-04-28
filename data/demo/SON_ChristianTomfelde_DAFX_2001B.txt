@@ -1,0 +1,77 @@
+TIME-VARYING FILTER IN NON-UNIFORM BLOCK CONVOLUTION 
+
+Christian Müller-Tomfelde
+IPSI - Integrated Publication and Information Systems Institute
+Fraunhofer - IPSI, Dolivostr. 15, D-64293 Darmstadt, Germany
+mueller-tomfelde@ipsi.fhg.de  
+
+
+
+ABSTRACT
+This paper will describe further research on a real-time         
+convolution algorithm for long a FIR filter based on non-uniform 
+bock partitioning. The static behaviour of the           
+algorithm which solves the dilemma between the computational     
+load and the latency of the processing operation is well         
+examined in literature. New directions are investigated to       
+exploit the inherent features of the algorithm and utilise them  
+for audio applications. Especially a dynamic exchange of filter  
+coefficients or subsets of them of a room impulse response is    
+discussed and implemented. Unlike to traditional DSP             
+solutions the prototype is realised in portable software objects 
+and components that can be compiled on multi-propose             
+processing units like off-the-shelf computers with standard 
+audio facilities and different operating systems.                
+
+
+REFERENCES
+[1] Kammeyer, K.D. and Kroschel, K., Digitale
+Signalverarbeitung. B.G. Teubner, Stuttgart, 1989.
+[2] Egelmeers, G. P. and Sommen, P. C. W., A new method
+for efficient convolution in frequency domain by non-uniform 
+partitioning. In Proceeding EUSIPCO, volume 2,
+pp 1030-1033, Edinburgh, September 1994.
+[3] Gardner, W.G., Efficient convolution without input-output 
+delay. Journal of Audio Engineering Society,
+43(3):127-136, March 1995.
+[4] Dalenbäck, B.-I. and McGrath, D., The narrow gap
+between virtual reality and auralisation. In Proc. 15th
+ICA, volume 2, pages 429-432, July 1995.
+[5] Huron , Lake DSP, http://www.lakedsp.com/
+[6] Müller-Tomfelde, C., Low Latency convolution for real
+time application, In Proceedings of the AES 16th
+International Conference: Spatial Sound Reproduction,
+Rovaniemi, Finland, 1999 April 10-12, pp. 454-460.
+[7] Stautner, J. and Puckette, M., Designing multichannel
+reverberators. Computer Music Journal, 6(1), 1982.
+[8] Moorer, J.A., About This Reverberation Business, chapter
+Perception and Digital Signal Processing, pp 605-639.
+Foundations of Computer Music. MIT Press, 1987.
+[9] Griesinger, D., Practical processors and programs for
+digital reverberation. In Audio in digital times, pp 187-
+195, Toronto, May 1989. Audio Engineering Society.
+[10] Schröder, M.R., Digital Simulation of Sound
+Transmission in Reverberant Spaces. Journal Acoust. Soc.
+Amer., 47:424-431, February 1970.
+[11] Jot, J.-M., Etude et Realisation d'un Spatialisateur de sons
+par Modèles Physique et Perceptifs. PhD thesis, Telecom
+Paris, September 1992.
+[12] Dutilleux, P., Müller-Tomfelde, C., AML: Architecture
+and Music Laboratory, InPr oceedings of the AES 16th
+International Conference: Spatial Sound Reproduction,
+Rovaniemi, Finland, 1999 April 10-12, pp. 191-206.
+[13] Zölzer, U., Digital Audiosignalverarbeitung
+Vorlesungsskriptum der TU Hamburg Harburg.
+[14] Fliege, N.J., Multirate Digital Signal Processing. Wiley,
+1994.                 
+[15] Signal Processing Library, Intel,
+http://developer.intel.com/software/products/perflib/spl/
+[16] Wenzel, E.M., J.D. Miller, and J.S. Abel, A software-based 
+system for interactive spatial sound synthesis,
+ICAD’2000, May 2000.  
+[17] Freed, A., Clear, efficient audio signal processing in ansi
+c. C Users Journal, 11(9), September 1993.
+[18] Dannenberg, R.B., The Platform Blues or Looking for Mr.
+Real Time. ICMA Array, 16(1):31-32, 1996.
+[19] Dannenberg, R.B., A Perspective on Computer Music,
+Computer Music Journal, 20(1):52{56, 1996.

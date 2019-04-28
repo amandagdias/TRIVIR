@@ -1,0 +1,96 @@
+An Interactive Beat Tracking and Visualisation System    
+
+Simon Dixon    
+Austrian Research Institute for Artificial Intelligence, Vienna
+email: simon@oef ai.at
+
+Abstract
+This paper describes Beat Root, a system which performs 
+automatic beat tracking on audio or MIDI data and creates a            
+graphical and audio representation of the data and results,         
+as part of an interactive interface for correcting errors or    
+selecting alternative metrical levels for beat tracking. The     
+graphical interface displays the input data and the computed       
+beat times, and allows the user to add, delete and adjust the         
+beat times and then automatically re-track the remaining data      
+based on the user input. The system also provides audio feedback
+consisting of the original input data accompanied by a         
+percussion instrument sounding at the computed beat times.        
+At the heart of the system is abe attracking algorithm which         
+estimate stempo based on the frequency of occurrence of the         
+various time durations between pairs of note on set times, and       
+then uses a multiple hypothesis search to nd the sequence         
+of note on sets that best matches one of the possible tempos.         
+The primary application of this system is in the analysis of        
+tempo and timing in musical performance, although the beat         
+tracking algorithm itself has been shown to perform at least        
+as well as other state-of-the-art systems.                      
+
+
+
+References
+Cemgil, A., B. Kappen, P. Desain, and H. Honing (2000). On
+tempo tracking: Tem pogram representation and Kalman l
+tering. In Proceedings of the 2000 International Computer
+Music Conference, pp. 352 355. International Computer
+Music Association.
+
+Cemgil, A., B. Kappen,P. Desain, and H. Honing (2001). On
+tempo tracking: Tem pogram representation and Kalman l-
+tering. Journal of New Music Research. To appear.
+
+Clarke, E. (1999). Rhythm and timing in music. In D. Deutsch
+(Ed.), The Psychology of Music, pp. 473 500. Academic
+Press.
+
+Dixon,S. (2000). A light weight multi-agent musical beat
+tracking system. In PRICAI 2000: Proceedings of the Pacic Rim
+International Conference on Articial Intelligence, pp.778 788. 
+Springer.
+
+Dixon, S. (2001a). Automatic extraction of tempo and beat
+from expressive performances. Journal of NewMusic Research30(1). To appear.
+
+Dixon, S. (2001b). An empirical comparison of tempo trackers.
+In Proceedings of the 8th Brazilian Symposiumon Computer
+Music. To appear.
+
+Dixon, S. and E. Cambouropoulos(2000). Beat tracking with
+musical knowledge.In ECAI 2000: Proceedings of the 14th
+European Conference on Articial Intelligence, pp.626 630.
+IOS Press.
+
+Dixon, S., W. Goebl, and E. Cambouropoulos(2001). Beat
+extraction from expressive musical performances. In 2001
+Meeting of the Society for Music Perception and Cognition
+(SMPC2001), Kingston, Ontario. To appear.
+
+Goebl,W. andS. Dixon(2001).Analysis of tempo classes in performances
+of mozart sonatas. In Proceedings of the VII International
+Symposiumon Systematic and Comparative Musicology, Jyvask¨ yla,¨Finland. To appear.
+
+Goto,M. andY. Muraoka(1995). A real-time beat tracking system
+for audio signals. In Proceedings of the International
+Computer Music Conference, pp.171 174. Computer Music
+Association, San Francisco CA.
+
+Goto, M. and Y. Muraoka (1999). Real-time beat tracking for
+drumless audio signals. Speech Communication 27(3 4),
+331 335.
+
+Large, E. (1996). Modelling beat perception with a non linear oscillator.
+In Proceeding sof the 18th Annual Conference of the
+Cognitive Science Society.
+
+Large, E. andJ. Kolen(1994). Resonance and the perception of
+musicalmeter. Connection Science 6, 177 208.
+
+Rosenthal, D. (1992). Emulation of humanrhythm perception.
+Computer Music Journal 16(1), 64 76.
+
+Rowe,R. (1992). Machine listening and composing with cypher.
+Computer Music Journal 16(1), 43 63.
+
+Scheirer, E. (1998). Tempo and beat analysis of acoustic musical
+signals. Journal of the Acoustical Society of America 103(1),
+588 601.

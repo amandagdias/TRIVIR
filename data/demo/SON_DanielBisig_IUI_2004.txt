@@ -1,0 +1,69 @@
+BioSonics: Sensual Explorations of a Complex System                                                                      
+
+Daniel Bisig                                                          
+Artificial Intelligence Laboratory                                             
+University of Zurich                                                    
+Andreasstrasse 15                                                       
+8050, Zurich Switzerland                                                   
++41 1 635 4577                                                        
+dbisig@ifi.unizh.ch                                                       
+
+ABSTRACT                                                                                                                     
+Complex systems abound in nature and are becoming increasingly                                                               
+important in artificial systems. The understanding and controlling                                                           
+of such systems is a major challenge. This paper tries to take a                                                             
+fresh approach to these issues by describing an interactive art                                                              
+project that involves cross-modal interaction with a complex                                                                 
+system. By combining sound and vision, the temporal and spatial                                                              
+dynamics of the system are conveyed simultaneously. Users can                                                                
+influence its dynamics in real time by using acoustics. Preliminary                                                          
+experiments with this system show that the combination of sound                                                              
+and vision can help users to obtain an intuitive understanding of                                                            
+the system’s behavior. In addition, usability profits from the fact                                                          
+that the same modality is employed for both interaction and                                                                  
+feedback.
+
+
+REFERENCES                                       
+[1] SONY, "Lemmings", 1998,                         
+http://www.us.playstation.com/games/sl00760.aus-sp 
+[2] Electronic Arts, "SimCity 4", 2003, http://simcity.ea.com 
+[3] Massive Limited, MASSIVE, 2002,               
+http://www.massivesoftware.com                 
+[4] Fleischer, K. The Biological Simulator Behind Cellular 
+Texture Generation. Siggraph Course Notes, 1997. 
+[5] Milicevic, M. The Impact of Fractals, Chaos and Complexity 
+n Computer Music Composition. In Proceedings  
+International Computer Music Association (San Francisco, 
+1996), 473-476.                                
+[6] Sommerer, C., and Mignonneau, L. A-Volve, 1994. 
+[7] Sommerer, C., and Mignonneau, L. Phototropy, 1995. 
+[8] Sommerer, C., and Mignonneau, L. Life Spacies I & II, 
+1999.                                          
+[9] Sommerer, C., and Mignonneau, L. PICO_SCAN, 2000. 
+[10] Plancton Art Studio, Relationi Emergenti, 2000. 
+[11] Rinaldo, K., Autopoiesis, 2001.                
+[12] Sommerer, C., and Mignonneau, L. Modeling Complex 
+Systems for Interactive Art. In Applied Complexity - From 
+Neural Nets to Managed Landscapes (Institute for Crop & 
+Food Research, Christchurch, New Zealand, 2000), 25-38. 
+[13] Turing, A. The Chemical Basis of Morphogenesis. 
+Philosophical Transactions of the Royal Society (London, 
+1952), 237, 37-72.                             
+[14] Dittrich, P., Ziegler, J., and Banzhaf, W. Artificial 
+Chemistries A Review. Artificial Life, 2001, 7(3), 225-275. 
+[15] Shneiderman B., Direct Manipulation for Comprehensible, 
+Predictable and Controllable User Interfaces. In Proceedings 
+of International Conference on Intelligent User Interfaces 
+(Orlando, FL. 1997).                           
+[16] Waibel, A., Vo, M. T., Duchnowski, P., and Manke, S. 
+Multimodal interfaces. Artificial Intelligence Review, 
+Special Volume on Integration of Natural Language and 
+Vision Processing, 1995, 10(3-4), 299-319.     
+[17] Mulder, J., van Wijk, J., and van Liere, R. A Survey of 
+Computational Steering Environments. Future Generation 
+Computer Systems, 1999, 15(2), 91-102.         
+[18] Bernstein, L. and Benoit, C. For Speech Perception By 
+Humans or Machines, Three Senses Are Better Than One. In 
+Proceedings of the International Conference on Spoken 
+Language Processing, 1996, 3, 1477-1480.

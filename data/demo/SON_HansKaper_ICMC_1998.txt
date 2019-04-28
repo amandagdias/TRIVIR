@@ -1,0 +1,52 @@
+MANIFOLD COMPOSITIONS, MUSIC VISUALIZATION, AND SCIENTIFIC SONIFICATION IN AN IMMERSIVE VIRTUAL-REALITY ENVIRONMENT
+
+								Hans G. Kaper
+                                           Senior Mathematician
+                               Mathematics and Computer Science Division
+                                       Argonne National Laboratory
+                                    Argonne, Illinois 60439-4844, USA.
+                                         email: kaper@mcs.anl.gov
+                             http://www.mcs.anl.gov/people/kaper/index.html
+                                                Sever Tipei
+                                Professor, Manager Computer Music Project
+                                University of Illinois at Urbana-Champaign
+                                            1114 W. Nevada St.
+                                       Urbana, Illinois, 61801, USA.
+                                          email: s-tipei@uiuc.edu
+                            http://cmp-rs.music.uiuc.edu/people/tipei/index.html
+
+Abstract                                        
+An interdisciplinary project encompassing sound synthesis, music composition, sonification, and
+visualization of music is facilitated by the high-performance computing capabilities and the virtual-reality
+environments available at Argonne National Laboratory.  The paper describes the main features of the
+project's centerpiece, DIASS (Digital Instrument for Additive Sound Synthesis); "A.N.L.-folds", an
+equivalence class of compositions produced with DIASS; and aplication of DIASS in two experiments in
+the sonification of complex scientific data.  Some of the larger issues connected with this project, such as
+the changing ways in which both scientists and composers perform their tasks, are briefly discussed.
+
+References                  
+ - J. Beauchamp - Music 4C Introduction, Computer Music Project, School of Music, University of Illinois,
+Urbana IL, 1993.  WWW:htp://cmp-rs.music.uiuc.edu/cmp/software/m4c.html.
+ - T. DeLio - Circumscribing the Open Universe, University Press of America, Lanham MD, 1984.
+ - U. Eco - The Role of the Reader, Indiana University Press, Bloomington IN, 1979.
+ - Interface: Journal of New Music Research vol. 16 (1987).  Issue dedicated to the topic "Open Structure in
+         Twentieth-century Music".
+ - H. G. Kaper, D. Ralley, J. M. Restrepo, and S. Tipei, - Additive Synthesis with DIASS_M4C on Argonne
+national Laboratory's IBM POWERparallel System (SP), Proc. 1995 Int'l Computer Music Conference
+(Banff, Canada), pp. 351-352.
+ - H. G. Kaper, D. Ralley, and S. Tipei - Perceived Equal Loudness of Complex Tones: a Software
+Implementation for Computer Music Composition, Proc. 1996 Int'l Conference in Music Perception and
+Cognition         (Montreal, Canada), pp. 127-132.
+ - H. G. Kaper, S. Tipei, and E. Wiebel - High-performance Computing, Music Composition, and the
+Sonification of Scientific Data,  (1997).  Preprint ANL/MCS-P690-0997, Matematics and Computer
+Science Division,          Argonne National Laboratory.
+ - C. Kriese, and S. Tipei - A Compositional Approach to Additive Synthesis on Supercomputers, Proc. 1992
+Int'l.   Computer Music Conference (San Jose, California), pp. 394-395.
+ - H. Pousseur - La nova sensibilita musicale, Incontri Musicali vol. 2, 1958, p. 25.
+ - K. Stockhausen - ...how time passes..., Die Reihe vol.3, Universal Edition, 1959, p. 32.
+ - S. Tipei - The Computer: a Composer's Collaborator, Leonardo vol. 22 no. 2, 1989, pp. 189-195.
+ - S. Tipei - Manifold Compositions - A (Super)computer-assisted Composition Experiment in Progress,
+1989 Int'l        Computer Music Conference (Columbus, Ohio), pp. 324-327.
+ - S. Tipei - A.N.L.-folds. mani 1943-0000; mani 1985r-2101; mani 1943r-0101; mani 1996m-1001; mani
+1996t-   2001(1996). Preprint ANL/MCS-P679-0897, Mathematics and Computer Science Division,
+Argonne           National Laboratory.

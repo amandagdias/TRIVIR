@@ -1,0 +1,65 @@
+Responsive Sonification of Well-logs
+                           
+
+Stephen Barrass                     
+CSIR O Mathematical and Information Sciences          
+GPO Box 664                       
+Canberra, ACT, Australia 2601               
+Telephone: +61 2 6216 7000         
+Fax: +61 2 6216 7111           
+stephen.barrass@cmis.csiro.au               
+Björ n Zehner                     
+GMD German National Research Center               
+for Information Technology                
+Schloss Birlinghoven                  
+D-53754 Sankt Augustin, Germany                
+bjoern.zehner@gmd.de                   
+
+ABSTRACT                                                                               
+Our goal is to apply and evaluate soniﬁcation for oil and gas exploration on a Responsive Workbench. The end-users are geological
+interpreters who build up models of underground formations, and stake holders in a consortium of oil and gas companies, 
+software vendors, and Virtual Environments researchers. Based on the goals and users we formulated development
+criteria that the soniﬁcation should be easy to explain, quick to understand, useful and usable. The development is based on a
+scenario of interpreting a reservoir from multi-attribute well logs. The scenario helped us identify a Geiger-counter metaphor
+that is congruent with the domain and familiar to most users. The psychoacoustic design of the Virtual Geiger allows several
+logs to be heard together so that listeners may answer higher level questions about relations between logs. The Virtual Geiger
+has been demonstrated to hundreds of people at oil and gas summits and review meetings. Many who tried it have made suggestions
+for further sonifications. The consortium voted to continue work on sonification in the second round of the project.
+The work described here is supported by a demonstration video.                          
+
+REFERENCES
+1  Adams JT. Ayodel JK. Bedford J. Kaars-sijpesteijn C. and Watts NL. (1992) Application of dipmeter data in structural
+interpretation, Niger Delta, inGeological Applications of Wireline Logs II. Geological Society Special Publications No.
+65, 1992
+2  Albers M. Barrass S. Brewster S. and Mynatt B. (1997) Dissonance on Audio Interfaces, IEEE Intelligent Systems and
+their applications, September, 1997,<http://www.computer.org/pubs/expert/>
+3  Bertin J. (1967)Semiology of Graphics, 1967, reprinted by University of Wisconsin Press, Madison, WI, 1983.
+4  Barrass S (1998)Auditory Information Design, Ph.D. Thesis, Australian National University, <http://viswiz.gmd.de/~barrass/thesis/index.html>.
+5  Barrass S. (2000) Some Golden Rules for Designing Auditory Displays, in Boulanger R. (ed)Csound Book: Perspectives
+in Software Synthesis, Sound Design, Signal Processing and Programming, MIT Press, ISBN 0-262-52261-6.
+6  Bregman AS. (1990)Auditory Scene Analysis, MIT Press, 1990.
+7  Carroll JM. (ed) (1991) Designing Interaction : Psychology at the Human-Computer Interface, Cambridge University
+Press.
+8  Dechelle F. and DeCecco M. (1999) The IRCAM Real-Time Platform and Applications,Proceedings of the 1995 International
+Computer Music Conference, International Computer Music Association, San Francisco, 1995.
+9  Eckel G. Rocha-Iturbide M and Becker B. (1995) The development of GiST, a Granular Synthesis Toolkit Based on an
+Extension of the FOF Generator, Proceedings of the 1995 International Computer Music Conference, International Computer
+Music Association, San Francisco, 1995.
+10 Eckel G. (1998) A Spatial Auditory Display for the CyberStage,Proc. 5th International Conference on Auditory Display,
+electronic Workshops in Computing (eWiC) series, British Computer Society and Springer, Glasgow, 1998.
+11 Fr hlich B. (1998) VRGeo Project Description <http://imk.gmd.de/docs/ww/ve/projects/proj1_4.mhtml>.
+12 Fr hlich B. Barrass S. Zehner B. Plate J. and G bel M. (1999) Exploring Geoscience Data in Virtual Environments, Proceedings
+of IEEE Conference on Visualization, San Fransisco, 1999.
+13 Gaver WW. (1986) Auditory Icons,Human-Computer Interaction, Vol 2, Num 2, Lawrence Erlbaum Associates, London.
+14 Hayward C. (1994) Listening to the Earth Sing. in Kramer G. (ed) (1994)Auditory Display : Sonification, Audification
+and Auditory Interfaces, SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII, Addison-Wesley Publishing
+Company, Reading, MA, U.S.A.
+15 Kr ger W. and Fr hlich B. (1994) The Responsive Workbench.IEEE Computer Graphics and Applications, May, 1994.
+16 Rogowitz BE. Ling DT. and Kellogg WA. (1992) Task Dependence, Veridicality, and Pre-Attentive Vision: Taking Advantage
+of Perceptually-Rich Computer Environments,SPIE Human Vision, Visual Processing and Digital Display, 1666, pp.
+504-512
+17 Selley RC. (1998) Elements of Petroleum Geology (Second Edition) 1998 Academic Press, ISBN 0-12-636370-6
+18 Stevens SS. and Galanter EH. (1957) Ratio scales and category scales for a dozen perceptual continua,Journal of Experimental
+Psychology, 54, pp 377-411.
+19 Tramberend H. Hasenbrink F. and Froehlich B. (1999) Tools, Mediators, and Interaction Operators : A Concept for Interaction
+in Virtual Environments,International Immersive Technology Workshop, Stuttgart, Springer-Verlag, May 1999

@@ -1,0 +1,98 @@
+Near Critical Path Analysis of Program Activity Graphs
+
+Cedell Alexander, Donna Reese, and James Harden
+
+NSF Engineering Research Center for Computational Field Simulation
+Mississippi State University
+
+Abstract
+Program activity graphs can be constructed from time-stamped
+traces of appropriate execution events.  Information
+ about the activities on the k longest execution paths is
+useful in the analysis of parallel program performance.
+this paper, four algorithms for finding the near±critical
+paths of program activity graphs are presented and
+compared, including an efficient new algorithm that utilizes
+slack values calculated by the critical path method to
+perform a best±first search in linear space.  The worst
+case time and memory requirements of the new algorithm are in
+O(ke) and O(k+e), where e is the number of edges in the
+graph.  Results confirming the efficiency of the algorithm
+are presented for five application programs.  A framework
+for utilizing the near±critical path information is also described.
+The framework includes both statistical summaries
+and visualization capabilities.
+References
+[3]  B. P. Miller et al., ªIPS±2:  The second generation of a parallel
+program measurement system,º IEEE Trans. Parallel Distrib.
+Syst., vol. 1, no. 2, pp. 206±217, Apr. 1990.
+[4]  E. W. Dijkstra and C. S. Scholten, ªTermination detection for
+diffusing computations,º Inform. Processing Lett., vol. 11,
+no. 1, pp. 1±4, Aug. 1980.
+[5]  C. Q. Yang and B. P. Miller, ªPerformance measurement of
+parallel and distributed programs:  A structural and automatic
+approach,º IEEE Trans. Software Eng., vol. 15, no. 12, pp.
+1615±1629, Dec. 1989.
+[6]  J. D. Wiest and F. K. Levy, A Management Guide to PERT/
+CPM.  Englewood Cliffs, NJ:  Prentice±Hall, 1977.
+[7]  J. E. Hopcroft and R. E. Tarjan, ªEfficient algorithms for
+graph manipulation,º Commun. ACM, vol. 16, no. 6, pp.
+372±378, Jan. 1973.
+[8]  E. Horowitz and S. Sahni, Fundamentals of Data Structures,
+Rockville, MD:  Computer Science Press, 1983.
+[9]  E. Rich, Artificial Intelligence.  New York:  McGraw±Hill,
+1983.
+[10] W. Zhang and R. E. Korf, ªAn average±case analysis of
+branch±and±bound with applications:  Summary of results,º
+in Proc. 10th Nat. Conf. AI, AAAI Press, July 12±16, 1992,
+pp. 545±550.
+[11] C.±Q. Yang and B. P. Miller, ªCritical path analysis for the
+execution of parallel and distributed programs,º in Proc. 8th
+Int. Conf. Distrib. Computing Syst., IEEE Comput. Soc., June
+1988, pp. 366±375.  
+[12] R. E. Korf, ªLinear±space best±first search:  Summary of results,
+in Proc. 10th Nat. Conf. AI, AAAI Press, July 12±16,
+1992, pp. 533±538.
+[13] G. Brassard and P. Bratley, Algorithmics Theory and Practice.
+Englewood Cliffs, NJ:  Prentice±Hall, 1988.
+[14] M.D. Atkinson, J.±R. Sack, N. Santoro, and T. Strothotte,
+Min±max heaps and generalized priority queues,º Commun.
+ACM, vol. 29, no. 10, pp. 996±1000, Oct. 1986.
+[15] S. Carlsson, ªDeap ± A double±ended heap to implement
+double±ended priority queues,º  Inform. Processing Lett., vol.
+26, no. 1, pp. 33±36, Sept. 15, 1987.
+[16] S.H. Yen, D. H. Du, and S. Ghanta, ªEfficient algorithms for
+extracting the k most critical paths in timing analysis,º in
+Proc. 26th ACM/IEEE Design Automation Conf., June
+25±29, 1989, pp. 649±654.
+[17] Y.±C. Ju and R. A. Saleh, ªIncremental techniques for the
+identification of statically sensitizable critical paths,º in Proc.
+28th ACM/IEEE Design Automation Conf., June 17±21,
+1991, pp. 541±546.
+[18] C. A. Alexander, ªNear±critical path algorithms for program
+activity graphs,º Ph.D. dissertation, Dept. of Comput. Engr.,
+Mississippi State Univ., May 1994.
+[19] J. C. Harden et al., ºA performance monitor for the MSPARC
+multicomputer,º in Proc. IEEE Southeastcon'92, Apr. 12±15,
+1992, pp. 724±729.
+[20] D. Reese and E. Luke, ºObject oriented fortran for development
+ of portable parallel programs,º in Proc. 3rd IEEE Symp.
+Parallel and Distrib. Syst., Dec. 2±5, 1991, pp. 608±615.
+[21] A. Mink, R. Carpenter, G. Nacht, and J. Roberts, ªMultiprocessor
+ performance measurement instrumentation,º IEEE
+Computer, pp. 63±75, Sept. 1990.
+[22] D. Bailey, J. Barton, T. Lasinski, and H. Simon, ed., ªThe
+NAS parallel benchmarks,º Tech. Rep. RNR±91±002, NASA
+Ames Research Center, Aug. 1991.
+[23] D. L. Whitfield and J. M. Janus, ªThree dimensional unsteady
+euler equations solutions using flux vector splitting,º 17th     
+paper no. 84±1552, June 25±27, 1984.
+[1]  B. P. Miller and C.±Q. Yang, ªIPS:  An interactive and auto
+programs,º in Proc. 7th Int. Conf. Distrib. Computing       
+Syst., IEEE Comput. Soc., Sept. 21±25, 1987, pp. 482±489.   
+[24] G. J. Henley and J. M. Janus, ªParallelization and convergence
+of a 3D implicit unsteady turbomachinery flow code,º in
+Proc. 5th SIAM Conf. Parallel Processing for Scientific Computing, 
+March 25±27, 1991, pp. 238±245.
+[2]  D. A. Reed et al., ªThe Pablo performance analysis environment,
+Tech. Rep., Dep. of Comput. Sci., Univ. of Illinois, Nov. 1992.                                                       

@@ -1,0 +1,64 @@
+Augmenting Reality Through The Coordinated Use of Diverse Interfaces                                                    
+                                                                                                                    
+Chris Greenhalgh, Steve Benford, Tom Rodden, Rob Anastasi, Ian Taylor, Martin Flintham, Shahram                     
+Izadi, Paul Chandler, Boriana Koleva, Holger Schnädelbach                                 
+The Mixed Reality Laboratory                                          
+The University of Nottingham                                         
+Nottingham NG7 2RD, UK                                              
+Tel: +44 115 951 4203                                             
+{cmg, sdb, tar, rma, imt, mdf, sxi, pmc, bnk, hms}@cs.nott.ac.uk                            
+
+
+
+ABSTRACT                                                      
+We present seven diverse augmented reality interfaces                                                               
+including audio tunnels from a virtual environment to fixed   
+and mobile phones; digital activity meters for locating       
+hotspots of activity in a parallel virtual world; a tripod   
+mounted display for small groups to view virtual events;                                                            
+and public projections of shadows and sound from a virtual  
+world. An analys is of how these match different design     
+goals and real world constraints demonstrates the potential 
+utility of each. We explore how the use of a shared         
+underlying virtual world enables multiple interfaces such as
+these to be coordinated to provide a rich and coherent 
+augmented reality experience.                               
+
+
+
+REFERENCES                                                
+1. Azuma, R. T., A Survey of Augmented Reality ,
+Presence: Teleoperators and Virtual Environments ,     
+6(4): 355-385, Aug. 1997.                              
+2. Azuma, R., The Challenge of Making Augmented          
+Reality Work Outdoors, In Mixed Reality: Merging      
+Real and Virtual Worlds (Yuichi Ohta and Hideyuki      
+Tamura, eds), 1999, Springer-Varlag.                   
+3. Benelli, G., Bianchi, A., Marti, P., Not, E., Sennati, D. 
+(1999a). HIPS: Hyper -Interaction within Physical     
+Space, Proc. IEEE ICMCS99 , Florence, June 1999.      
+4. Benford, S., Bowers, J.,    et al ., Unearthing virtual 
+history: using diverse interfaces to re    veal hidden 
+virtual worlds, Proc. Ubicomp 2001, Atlanta, 2001.    
+5. Cheverst, K., Davies, N., Mitchell, K., Friday, A. and 
+Efstratiou, Developing a Context -Aware Electronic    
+Tourist Guide: Some Issues and Experiences, Proc.     
+CHI’2000, 17-24, The Hague, Netherlands, 2000.         
+6. Greenhalgh, C., Purbrick J., and Snowdon, D., Inside   
+MASSIVE -3: Flexible Support for Data Consistency      
+and World Structuring,     Proc. Third International   
+Conference on Collaborative Virtual Environments       
+(CVE2000), Sept 2000, San Francisco, USA, pp . 119-    
+127, ACM, New York.                                    
+7. Höllerer, T., Feiner, S., Terauchi, T., Rashid, G.,    
+Hallaway, D., Exploring MARS: Developing Indoor       
+and Outdoor User Interfaces to a Mobile Augmented      
+Reality System, Computers and Graphics , 23(6),       
+Elsevier Publishers, Dec. 1999, pp. 779-785            
+8. Koleva, B., Taylor, I., Benford, S., et al., Row-Farr, J., 
+Adams, M, Orchestrating a Mixed Reality               
+Performance, Proc. CHI’2001, Seattle, April 2001.     
+9. http://www.immersence.com/ (verified Sept 2001)        
+10. Pinhanez, C., Using a Steerable Projector and Camera 
+to Transform Surfaces into Interactive Displays, Proc. 
+CHI 2001 Extended Abstracts, 369-370, April 2001.      

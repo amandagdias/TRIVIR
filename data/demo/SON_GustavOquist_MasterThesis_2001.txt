@@ -1,0 +1,181 @@
+Adaptive Rapid Serial Visual Presentation     
+                                                  
+Gustav Öquist 
+gustav@stp.ling.uu.se 
+Language Engineering Programme 
+Department of Linguistics 
+Uppsala University 
+
+ 
+Abstract 
+Can readability on small screens be improved by using Rapid Serial Visual 
+Presentation (RSVP) that adapts the presentation speed to characteristics found in 
+the text? In this thesis Adaptive RSVP is introduced together with two algorithms for 
+adaptation. Findings from a usability evaluation, where the ability to read long and 
+short texts on a mobile device in a realistic setting was assessed, are reported. In a 
+balanced repeated-measurement experiment employing 16 subjects two variants of 
+Adaptive RSVP were benchmarked against Fixed RSVP and traditional text 
+presentation. No significant differences were found for reading speed and 
+comprehension for long texts but for short texts all RSVP formats increased reading 
+speed by 33%. For long texts Adaptive RSVP decreased task load compared to Fixed 
+RSVP and repeated use of RSVP, regardless of type, was also found to decrease task 
+load. No differences in task load were however found for short texts. Causes, 
+implications and effects of these findings are discussed together with directions for 
+further work. 
+ 
+ 
+
+References                                                                            
+                                                                                      
+ 1. Björnsson, C.H. (1968). Läsbarhet, Stockholm, Liber.                              
+ 2. Bruce, B., Rubin, A. and Starr, K. (1981). Why readability formulas fail.         
+      IEEE Transactions on Professional Communicatio, nPC-24, 50-52.                  
+ 3. Bruijn, O. Spence, R. (2000). Rapid Serial Visual Presentation: A space-time 
+trade-off in information presentation. In Proceedings of Advanced          
+      Visual Interfaces, AVI2000, 189-192.                                            
+ 4. Castelhano, M.S. and Muter, P. (2001). Optimizing the reading of                  
+      electronic text using rapid serial visual presentation. Behaviour &             
+      Information Technology, 20(4), 237-247.                                         
+ 5. Chen, H.C. and Chan, K.T. (1990). Reading computer-displayed moving               
+      text with and without self-control over the display rate. Behaviour &           
+      Information Technology, 9(3), 467-477.                                          
+ 6. Cocklin, T.G., Ward, N.J., Chen, H.C. and Juola, J.F. (1984). Factors             
+      influencing readability of rapid presented text segments. Memory &              
+      Cognition, 12(5), 431–442.                                                      
+ 7. Dillon, A., Richardson, J. and McKnight, C. (1990). The effect of display         
+      size and text splitting on reading lengthy text from screen. Behaviour and      
+      Information Technology, 9(3), 215-227.                                          
+ 8. Dillon, A. (1992). Reading From Paper Versus Screens: A Critical Review           
+      of the Empirical Literature. Ergonomics, 35(10): 1297-1326.                     
+ 9. Duchnicky, R.L. and Kolers, P.A. (1983). Readability of text scrolled on          
+      visual display terminals as a function of window sizHuman Factorse.            , 25, 
+      683-692.                                                                        
+ 10. Dodge, R. (1900). Visual perceptions during eye movemePsychological nt.          
+      Review, VII, 454-465.                                                           
+ 11. Ericsson, T., Chincholle, D. and Goldstein, M. (2001). Both the device and       
+      the service influence WAP usabilityIHM-HCI2001, ,            Volume II, Usability 
+      in Practice by J. Vanderdonckt, A. Blandford and A. Derycke (Eds.), Short       
+      paper, 10-14 September, Lille, France, 79-85.                                   
+ 12. Fine, E.M. and Peli, E. (1995). Scrolled and rapid serial visual presentation    
+      texts are read at similar rates by the visually impaired. Journal of Optical    
+      Society of America, 12(10), 2286-2292.                                          
+ 13. Forster, K. I. (1970). Visual perception of rapidly presented word               
+      sequences of varying complexityPercep. Psychophys. .          8, 215-221.       
+ 14. Goldstein, M., Sicheritz, K. and Anneroth, M., (2001). Reading from a            
+      small display using the RSVP technique. Nordic Radio Symposium,                 
+      NRS01, Nynäshamn, Sweden.                                                       
+ 15. Goldstein, M., Öqvist, G., Bayat-M, M., Ljungstrand, P. and Björk, S.            
+      (2001). Enhancing the reading experience: Using adaptive and sonified           
+      RSVP for reading on small displaysProceedings of W.             orkshop on Mobile 
+      Devices at IHM-HCI 2001, Lille, September 2001.                                 
+ 16. Goldstein, M., Öquist, G. and Björk, S. (2001). Immersion does not               
+      Guarantee Excitement: Evaluating Sonified Rapid Serial Visual                   
+      Presentation. Full paper submitted to Designing Interactive Systems,            
+      DIS2002.                                                                        
+ 17. Gould, J.D. and Grischkowsky, N. (1984). Doing the same Work with Hard           
+      Copy and with Cathode-Ray (CRT) computer terminals. Human Factors,              
+      26(3), 323-337.                                                                 
+ 18. Gould, J.D., Alfaro, L., Finn, R., Haupt, B. and Minuto, A. (1987). Reading      
+      From CRT Displays Can Be as Fast as Reading From Paper. Human                   
+      Factors, 29(5), 497-517.                                                        
+ 19. Granaas, M. M., McKay, T. D., Laham, R. D., Hurt, L. D., & Juola, J. F.          
+      (1984). Reading moving text on a CRT screen. Human Factors, 26(1), 97-          
+      104.                                                                            
+ 20. Hart, S.G. and Staveland, L.E. (1988). Development of Nasa-TLX (Task             
+      Load Index): Results of empirical and theoretical research. Human Mental        
+      Workload, by P.A. Hancock and N. Meshkati (eds.). Elsevier Science              
+      Publishers, B.V.: North-Holland.                                                
+ 21. Hill, B. (1999). The Magic of Reading. Available at:                             
+      http://slate.msn.com/ebooks/ (December 2001).                                   
+ 22. Huey, E.B. (1968). The psychology and pedagogy of reading. Cambridge,            
+      MA: MIT Press. (Originally published 1908).                                     
+ 23. Jackson, M.D. and McClelland, J.L. (1979). Processing determinants of            
+      reading speed. Journal of experimental psychology, 108, 151–181.                
+ 24. Joula, J.F., Ward, N.J. and MacNamara, T. (1982). Visual search and              
+      reading of rapid serial presentations of letter strings, words and text. J.     
+      Exper. Psychol.: General, 111, 208-227.                                         
+ 25. Juola, J.F., Tiritoglu, A., and Pleunis, J. (1995). Reading text presented on a  
+      small display. Applied Ergonomics, 26, 227-229.                                 
+ 26. Judd, C.H. and Buswell, G.T. (1922). Silent reading: A study of the various      
+      types. Chicago, IL: University of Chicago Press.                                
+ 27. Just, M. A., and Carpenter, P. A. (1980). A theory of reading: From eye          
+      fixations to comprehension. Psychological Review, 87(4), 329-354.               
+ 28. Just, M.A., Carpenter, P.A. and Masson, M.E.J. (1982). What eye fixations        
+      tell us about speed-reading and skimming. (Eye-lab Technical Report)            
+      Carnegie-Mellon University.                                                     
+ 29. Kang, T.J., and Muter, P. (1989). Reading Dynamically Displayed Text.            
+      Behaviour & Information Technology, 1989, 8(1), 33-42.                          
+ 30. Klare, G. R. (1984). Readability. InHandbook of Reading Research,                P.D. 
+      Pearson (Ed.), Longman Inc, New York, 681-743.                                  
+ 31. Kump, P. (1999). Break-trough rapid reading. New Jersey: Prentice-Hall           
+      Press.                                                                          
+ 32. Masson, MEJ. (1983). Conceptual processing of text during skimming and           
+      rapid sequential readingMem.      ory and Cognition, 11, 262-274.               
+ 33. McCrickard, D.S., Catrambone R. and Stasko, J.T. (2001). Evaluating              
+      Animation in the Periphery as a Mechanism for Maintaining Awareness. In         
+      proceedings of INTERACT 2001, 148-156.                                          
+ 34. Mills, C.B. and Weldon, L.J. (1987). Reading text from computer screens.         
+      ACM Computing Surveys, 19(4), ACM Press.                                        
+ 35. Muter, P., Kruk, R. S., Buttigieg, M. A., and Kang, T. J. (1988). Reader-        
+      controlled computerized presentation of text. Human Factors, 30, 473-486.       
+ 36. Muter, P. and Maurutto, P. (1991). Reading and skimming from computer 
+      screens and books: The paperless office revisited? Behavior & Information 
+      Technology, 10, 257–266.                                         
+ 37. Muter, P. (1996). Interface Design and Optimization of Reading of 
+      Continuous Text. InC ognitive aspects of electronic text processing. H. van 
+      Oostendorp and S. de Mul  (Eds.). Norwood, N.J.:Ablex.           
+ 38. Osborne, D.J. and Holton, D. (1988). Reading From Screen Vs. Paper: 
+      There Is No Difference. International Journal of Man-Machine Studies, 28, 
+      1-9.                                                             
+ 39. Paulson, L.J. and Goodman, K.S. (1999). Influential Studies in Eye-
+      Movement Research. International Reading Association. Available at: 
+      http://www.readingonline.org (December 2001).                    
+ 40. Potter, M. C. (1984). Rapid Serial Visual Presentation (RSVP): A method 
+      for studying language processing. InNew Methods in Reading       
+      Comprehension Research. D.E., Kieras and M.A., Just (Eds.). Hillsdale, 
+      N.J: Erlbaum.                                                    
+ 41. Proctor, R.W. and Proctor, J.D. (1997). Sensation and Perception. In G. 
+      Salvendy (Ed.), Handbook of Human Factors and Ergonomics. Second 
+      Edition, Wiley-Interscience, New York, 53-57.                    
+ 42. Rahman, T. and Muter, P. (1999). Designing an interface to optimize 
+      reading with small display windows. Human Factors, 1(1), 106-117, 
+      Human Factors and Ergonomics Society.                            
+ 43. Rayner, K. and Pollatsek, A. (1989). The psychology of reading.   
+      Englewood Cliffs, New York: Prentice Hall.                       
+ 44. Rayner, K. and Sereno, S.C. (1994). Eye movements in reading:     
+      Psycholinguistic studies. In M.A. Gernsbacher (Ed.), Handbook of 
+      psycholinguistics. San Diego, CA: Academic.                      
+ 45. Rayner, K. (1998). Eye movements in reading and information processing: 
+      20 years of research. Psychological Bulletin, 124, 372-422.      
+ 46. Redish, J. (1981). Understanding the limitations of readability formulas. 
+      IEEE Transactions on Professional Communicatio, PC-n            24, 46-48. 
+ 47. Reichle, E.D., Rayner, K. and Pollatsek, A. (2000). Comparing the E-Z 
+      Reader Model to Other Models of Eye Movement Control in Reading. 
+      CogPrints electronic archive for papers. Available at:           
+      http://cogprints.soton.ac.uk/ (December 2001).                   
+ 48. Reilly, R. (1993). A connectionist framework for modeling eye-movement 
+      control in reading. In G. d’Ydewalle & Van Rensbergen (Eds.), Perception 
+      and Cognition: Advances in Eye Movement Research, 191-212.       
+      Amsterdam: North Holland.                                        
+ 49. Robeck, M.C. and Wallace, R.R. (1990). The Psychology of Reading: An 
+      Interdisciplinary Approach, Second edition, Lawrence Erlbaum Associates, 
+      Hillsdale: New Jersey.                                           
+ 50. Russel, M., Hull, J. and Wesley, R. (2001). Reading with RSVP on a Small 
+      Screen: Does Font Size Matter? Usability News Winter 2001, Software ,
+      Usability Research Laboratory, Wichita State University  .       
+ 51. Shneiderman, B. (1998). Human-Computer Interaction, 3rd ed., Addison 
+      Wesley Longman, Inc, 412-414.                                    
+ 52. Sekey, A. & Tietz, J. (1982). Text display by saccadic scrollingVi. sible 
+      Language, 16, 62-76.                                             
+ 53. Sicheritz, K. (2000). Applying the Rapid Serial Presentation Technique to 
+      Personal Digital Assistants, Master’s Thesis, Department of Linguistics, 
+      Uppsala University. Available at: http://stp.ling.uu.se/ (December 2001). 
+ 54. Taylor, I. and Taylor, M.M. (1983). The Psychology of Reading. Toronto, 
+      Academic Press. 
+ 55. Tekfi, C. (1987). Readability formulas: An Overview, Journal of 
+      Documentation, 43(3) 261-73. 
+ 56. Wickens, C. D. (1992). Engineering psychology and human performance, 
+      2nd edition, Chapter 8, Harper Collins Publishers Inc., New York. 
+ 57. Öquist, G. and Goldstein, M. (2001). Towards an improved readability on 
+      mobile devices: Evaluating Adaptive Rapid Serial Visual Presentation. Full 
+      paper submitted to Advanced Visual Interfaces, AVI2002.  

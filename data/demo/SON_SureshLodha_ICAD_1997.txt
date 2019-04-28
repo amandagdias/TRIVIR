@@ -1,0 +1,61 @@
+MUSE: A Musical Data Sonification Toolkit                                 
+
+Suresh K. Lodha, John Beahan,            Travis Heppe, Abigail Joseph, and Brett Zane-Ulman                   
+Department of Computer Science                                               
+University of California, Santa Cruz, CA 95064                                       
+lodha@cse.ucsc.edu                                                   
+Tel: (408)-459-3773                                                  
+Fax: (408)-459-4829                                                  
+
+
+
+ABSTRACT                                                                                                                
+Data sonification is the representation of data using sound.  Last year we presented a flexible, interactive and portable data
+sonification toolkit called LISTEN, that allows mapping of data to several sound parameters such as pitch, volume, timbre
+and duration [20].  One of the potential drawbacks of LISTEN is that since the sounds generated are non-musical, they can
+be fatiguing when exploring large data sets over extended periods of time.  A primary goal in the design of MUSE -- a   
+MUsical Sonification Environment -- is to map scientific data to musical sounds.  The challenge is to ensure that the data
+meanings are preserved and brought out by these mappings.  MUSE provides flexible data mappings to musical sounds       
+using parameters such as pitch (melody), rhythm, tempo, volume, timbre and harmony.  MUSE is written in C++ for the     
+SGI platform and works with the freely available sound specification software CSound developed at MIT.  We have applied 
+MUSE to map uncertainty in some scientific data sets to musical sounds.                                                 
+
+
+
+
+REFERENCES                                             
+1.    U. Axen and I. Choi.  Investigating geometric data with sound.  In Proceedings of the Third International
+      Conference on Auditory Display, Palo Alto, pages 25--28. 1996.
+2.    P. Astheimer.  Sonification tools to supplement dataflow visualization.  In Patrizia Palamidese, editor, Scientific
+      Visualization:  Advanced Software Techniques, pages 15--36. Ellis Horwood, 1993.
+3.    Stephen Barrass.  Personify:  a toolkit for perceptually meaningful sonification.  ACMA '95, 1995.
+4.    R. Brady, R. Bargar, I. Choi, and J. Reitzer.  Auditory bread crumbs for navigating volumetric data.  In Proceedings
+      of the Late Breaking Hot Topics of IEEE Visualization '96, pages 25--27. IEEE Computer Society Press, 1996.
+5.    R. Bargar, I. Choi, S. Das, and C. Goudeseune.  Model-based interactive sound for an immersive virtual
+      environment.  In Proceedings of the International Computer Music Conference, Tokyo, Japan. International
+      Computer Music Association, 1994.                
+6.    Paul Cooper.  Perspectives in Music Theory: An Historical-Analytical Approach.  Harper & Row, New York, 1973.
+7.    W. Jay Dowling.  Melodic contour in hearing and remembering melodies.  In R. Aiello and J. A. Slobada, editors,
+      Musical Perceptions, pages 173--190. Oxford University Press, 1994.
+8.    Steven P. Frysinger.  Applied research in auditory data representation.  Proceedings of SPIE '90 Conference on
+      Extracting Meaning from Complex Data, 1259:130--139, 1990.
+9.    John P. Gather.  Amsterdam catalogue of CSound computer instruments.  http://mars.let.uva.nl/gather/accci, 1995.
+10.   W. W. Gaver.  Synthesizing auditory icons.  In Proceedings of INTERCHI, pages 228--235. 1993.
+11.   G.G. Grinstein and R.M. Pickett.  EXVIS - an exploratory visualization environment.  Proceedings of Graphics
+      Interface '89, 1989.
+12.   Paul Hindemith.  The Craft of Musical Composition, Book II.  Associated Music Publishers Inc., New York, 1941.
+      Translated by Otto Ortmann.
+13.   G. Kramer.  Auditory Display, Sonification, Audification, and Auditory Interfaces.  Addison-Wesley, 1994.
+14.   G. Kramer.  An introduction to auditory display.  In Gregory Kramer, editor, Auditory Display, Sonification,
+      Audification, and Auditory Interfaces, pages 1--78. Addison-Wesley, 1994.
+15.   S. K. Lodha, C. M. Wilson, and R. E. Sheehan.  LISTEN: sounding uncertainty visualization.  In Proceedings of
+      Visualization 96. IEEE, 1996.
+16.   R. Minghim and A.R. Forrest.  An illustrated analysis of sonification for scientific visualization.  In Proceedings of
+      Visualization 95, pages 110--117. IEEE, 1995.
+17.   Tara Madhyastha and Daniel Reed.  Data sonification: Do you hear what I see?  IEEE Software, 12(2):85--90, March
+      1995.
+18.   Carla Scaletti.  Sound synthesis algorithms for auditory data representations.  In Gregory Kramer, editor, Auditory
+      Display, Sonification, Audification, and Auditory Interfaces, pages 223--252. Addison-Wesley, 1994.
+19.   Barry Vercoe.  CSound Manual.  MIT, 1986.  http://www.leeds.ac.uk/music/Man/Csound/contents.html.
+20.   C. M. Wilson and S. K. Lodha.  LISTEN: a data sonification toolkit.  In Proceedings of the Third International
+      Conference on Auditory Display, Palo Alto, pages 35--40. 1996.

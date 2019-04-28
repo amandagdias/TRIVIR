@@ -1,0 +1,80 @@
+Panorama: A Portable, Extensible Parallel Debugger                                             
+
+John May                                     Francine Berman                     
+johnmay@cs.ucsd.edu                          berman@cs.ucsd.edu                 
+Computer Science and Engineering, 0114                                       
+University of California, San Diego                                  
+La Jolla, CA     92093                                      
+
+Abstract
+Many tools for debugging parallel programs offer valuable
+informati onto programmers but workin only a limited 
+range of situations. For example, they may help a                                                     
+programmer detect a specific class of program errors, or                                                       
+they may work on just one parallel machine. A broadly                                                     
+useful debugger should offer several views of a program's                                                      
+behavior, and it should work equally well on many paallel 
+architectures. Furthermore, the user should be able                                                   
+to design and install new program views that match the                                                     
+structure of a particular program. In this paper we describe 
+Panorama, a parallel debugger that should offer
+these benefits. Panorama offers the programmer multiple                                                        
+views of the program's behavior, andit includes a simple
+logging and replay facility that allows parallel programs                                                  
+be debugged either on-line or ost-mortem.
+
+
+
+
+References                                                                              
+[1] BERRYMAN , S., CLARKE , L., COWNIE, J., DONGARRA,
+J.,GEIST,A.,GROPP,B.,HEMPEL,R.,                
+KNIGHTEN, B., LITTLEFIELD , R., LUSK, R., OTTO, S.,  
+SKJELLUM , T., SNIR, M., WALKER , D.,AND ZENITH,     
+S. Document for a standard message-passing interface 
+(draft). Available electronicallyfrom Netlib,   
+March 1993.                                          
+[2] CHOI, J.,AND STONE, J. M. Balancing runtime and                                       
+replay costs in a trace-and-replay system. In Proceedings
+of the ACM/ONR Workshop on Parallel and Distributed 
+Debugging(May 1991), pp.13 22. 
+[3] GEIST, G. A., HEATH, M. T., PEYTON, B. W.,AND                                       
+WORLEY, P. H. PICL: A portable instrumented communication
+library.    Technical Report 11130, Oak                                   
+Ridge National Laboratory, Mathematical Sciences                                     
+Section,July 1990.                                                                  
+[4] HEATH, M. T.,AND ETHERIDGE, J. A. Visualizing the
+performance of parallel programs. IEEE Software8,                                      
+5 (September1991), 29±39.                                                           
+[5] KOHL, J. A.,AND CASAVANT, T. Generalizing the visualization
+of parallel programs. Presented at 1993 Workshop on Parallel 
+Computing Systems, Keystone,Colorado,April 1993.                                                          
+[6] LEBLANC , T. J.,AND MELLOR -CRUMMEY , J. M. Debugging
+parallel programs with Instant Replay. IEEE                                      
+[7] LEBLANC , T. J., MELLOR -CRUMMEY , J. M.,AND
+FOWLER , R. J. Analyzing parallel program executions
+using multipleviews. Journal of Parallel and
+Distributed Computing9(June1990), 203±217.
+[8] MELLOR -CRUMMEY , J. M. Debugging and analysis
+of large-scale parallel programs. Ph.D. dissertation,
+University of Rochester, Departmentof Computer
+Science, September1989.  
+[9] OUSTERHOUT, J. K. Tcl: An embeddable command
+lanugage.In Proc.USENIX Winter Conference (January 1990), 
+pp.133±146.  
+[10] OUSTERHOUT, J. K.      An X11 tookit based on the
+Tcl language. In Proc.USENIX Winter Conference
+(January1991), pp.105 115.
+[11] REED, D. A., OLSON, R. D., AYDT, R. A., MADHYASTHA,
+T.M.,        BIRKETT, T., JENSEN, D. W.,
+NAZIEF, B. A. A.,AND TOTTY, B. K. Scalable 
+performance environments for parallel systems. Technical
+report, University of Illinois, March 1991.
+[12] SOCHA, D., BAILEY , M. L.,AND NOTKIN, D. Voyeur:
+Graphical views of parallel programs. Proceedings
+of the ACM SIGPLAN/SIGOPS Workshopon Parallel and
+Distributed Debugging, published in ACM
+SIGPLAN NOTICES24, 1 (January1989), 206±215.
+[13] THINKING MACHINES . Prism User's Guide. Thinking
+Machines Corporation, Cambridge, MA, December
+1991.

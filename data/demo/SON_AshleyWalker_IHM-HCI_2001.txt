@@ -1,0 +1,65 @@
+Diary in the sky: A spatial audio display for a mobile calendar                                
+
+Ashley Walker, Stephen Brewster,                     
+David McGookin and Adrian Ng
+
+Glasgow Interactive Systems Group,
+Department of Computing Science, University of Glasgow,
+Glasgow, G12 8QQ, UK.
+Tel: +44 (0)141 330 4966,
+Email: stephen@dcs.gla.ac.uk,
+Web: www.dcs.gla.ac.uk/~stephen
+
+
+We present a spatial audio display technique that overcomes the 
+presentation rate bottleneck of traditional monaural audio displays. 
+Our compact speech display works by encoding message semantics 
+into the acoustic spatialisation. In user testing, this display facilitated 
+better recall of events than a conventional small screen visual display. 
+Moreover, results showed that this mapping aided in the recall of the 
+absolute position of events as opposed to merely their relative 
+orders in a temporally ordered data set.           
+
+
+References                                                                        
+B. Arons. A review of the cocktail party effect, Journal of the   
+   American Voice I/O Society, 12, pp. 35-50, 1992.                               
+D.R., Begault,       3-D sound for virtual reality and multimedia.                
+   Academic Press, Cambridge, MA, 1994.                                           
+S. A. Brewster . Overcoming the Lack of Screen Space on Mobile                    
+   Computers. To appear in Personal Technologies, 2001.                           
+M. Chion. Audio -Vision: Sound on screen, Columbia University                     
+   Press, 1990.                                                                   
+E. C. Cherry. Some experiments on the recognition of speech,                      
+   Journal of the Acoustical Society of America, 25, pp. 975-979,                 
+   1953.                                                                          
+M. Crease and S. A. Brewster. Making progress with sounds the                   
+   design and evaluation of an audio progress bar, Proceedings of                 
+   ICAD’98, British Computer Society Press, 1998.                                 
+shley Walker, Stephen Brewster, David McGookin and Adrian Ng 
+W. W. Gaver. The Sonic Finder: An auditory interface that uses                      
+   auditory icons, Human Computer Interaction, 4(1), pp. 67 -94,                    
+   1989.                                                                            
+S. Hart and L. Staveland. Development of NASA -TLX (Task Load                       
+   Index): Results of empirical and theoretical research,                  Human    
+   Mental Workload, Hancock, P. and Meshkati, N. (Eds.), North                      
+   Holland B.V., pp. 139-183, 1988.                                                 
+M. Kobayashi and C. Schmandt. Dynamic soundscape: Mapping                           
+   time to space for audio browsing, Proceedings of CHI’97, ACM                     
+   Press Addison-Wesley, pp. 194-201, 1997.                                         
+Lucent Technologies, Lucent Speech Solutions, http://                               
+   www.lucent.com/speech, 1999.                                                     
+E. D. Mynatt, M. Back, R. Want, M. Baer and J. B. Ellis. Designing                  
+   Audio Aura,        Proceedings of C HI’98, ACM Press Addison                    -
+   Wesley, pp. 566-573, 1998.                                                       
+Palm, Inc, http://www.palm.com.                                                     
+N. Sawhney and C. Schmandt,. Nomadic Radio: Scalable and                            
+   contextual notification for wearable messaging, Proceedings of                   
+   CHI’99, ACM Press, Addison-Wesley, pp. 96-103, 1999.                             
+C. Schmandt and A. Mullins,. AudioStreamer: Exploiting                              
+   simultaneity for listening, Proceedings of CHI’95, ACM Press                     
+   Addison-Wesley, pp. 218-219, 1995.                                               
+I. P. Howard and W. B. Templeton,                Human spatial orientation,         
+   Wiley, 1966.                                                                     
+V. A. Walker and S. Brewster. Spatial audio in small screen device                  
+   displays, Personal Technologies, 4(2) pp. 144-154, 2000.

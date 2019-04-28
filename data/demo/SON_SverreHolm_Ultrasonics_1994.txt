@@ -1,0 +1,72 @@
+Modelling of the Ultrasound Return from Albunex Microspheres                                         
+
+Sverre Holm                                              
+Marte Myhrum                                             
+Lars Hoff                                              
+Vingmed Sound AS, Research Department, Vollsveien 13 C, N-1324 Lysaker, Norway                      
+Faculty of Mathematics and Natural Sciences, University of Oslo, Norway                      
+Nycomed Imaging AS, P.O. Box 4220, Torshov, N-0401 Oslo, Norway                            
+
+
+Abstract                                                                              
+A mathematical model that predicts the changes to the ultrasound frequency spectrum           
+after passing through human tissue and Albunex (a registered trademark of 
+Molecular Biosystems Inc., San Diego, CA) microspheres is proposed. Changes in                
+backscattered intensity and mean frequency of the reflected signal can be estimated           
+as a function of imaging geometry, ultrasound frequency, and microsphere                      
+concentration and size distribution.                                                          
+An important result is that the frequency shifts and the intensity variations are caused      
+both by the microspheres in the path between the transducer and the region of interest,       
+and by the reflection properties of the contrast agent in the region of interest.             
+The model enables one to explain and predict clinically observed intensity effects            
+such as the shadow effect in the right ventricle, and the fact that received intensity        
+increases with concentration up to a certain point where it falls off.                        
+The effect of the removal of the larger microspheres in the lungs is so significant that      
+concentrations that give positive frequency shifts with increasing concentration in the       
+right ventricle will give negative shifts in the left ventricle. The frequency shift is only  
+a good indicator of concentration for ultrasound frequencies below 4 MHz, while the           
+intensity is very sensitive to Albunex microsphere concentration and imaged depth    
+also at the higher frequencies.                                                               
+It is also found that the periodic variation in heart muscle thickness during the heart       
+cycle will affect the intensity and mean frequency of the backscattered ultrasound            
+observed in the left ventricle significantly, and in such a way as to give them a             
+periodic variation over the heart cycle.                                                      
+
+
+References                                                                          
+[1]     E. L. Carstensen and H. P. Schwan, Absorption of sound arising from         
+the presence of intact cells in blood, J. Acoust. Soc. Amer., Vol. 31, p.   
+185, 1959.                                                                   
+[2]     D. Nicholas, Evaluation of backscattering coefficients for excised          
+human tissues: results, interpretation and associated measurements,         
+Ultrasound in Med. & Biol., pp 17-28, 1982.                                  
+[3]     J. C. Hogg, Neutrophil kinetics and lung injury, Physiological Review,     
+Vol. 67, No. 4, pp 1249-1295, October 1987.                                  
+[4]     M. J. Monaghan, P. J. Quigley, J. M. Metcalfe, S. D. Thomas, D. E.           
+Jewitt, Digital subtraction contrast echocardiography: a new method for     
+the evaluation of regional myocardial perfusion, Br. Heart Journ., vol      
+9, pp 12-19, 1988.                                                          
+[5]     H. J. Bleeker, K. K. Shung, Ultrasonic characterization of Albunex, a       
+new contrast agent, J. Acoust. Soc. Am., Vol. 87, No. 4, pp 1792-1797,      
+April 1990.                                                                  
+[6]     J. M. Glass, L. X. Yao, P. S. Rahko, J. A. Zagrebski, Frequency             
+dependence of the backscatter coefficient of Albunex. Abstract J. Am.       
+Coll. Cardiology, Vol. 17, No. 2, p 349A, February 1991.                     
+[7]     M. J. Monaghan, J. M. Metcalfe, S. O. Odunlami, S. D. Odunlami, S. D.        
+Thomas, A. Waaler, D. E. Jewitt, Digital radiofrequency ultrasound          
+analysis of myocardial contrast following i. v. Albunex injection,          
+abstract, Proceeding Eur. Congress on Cardiology, Amsterdam, p 68,           
+1991.                                                                        
+[8]     J. Cheirif, Emerging clinical role of contrast echocardiography,           
+American Journal of Cardiac Imaging, Vol. 5, No. 3, pp 230-236,              
+September 1991.                                                              
+[9]     M. Myhrum, Detection of ultrasound contrast agents in the heart             
+muscle, Thesis (in Norwegian), Department of Electrical Engineering         
+and Computer Science, Norwegian Institute of Technology, December            
+1991.                                                                        
+[10]    N. de Jong, L. Hoff, T. Skotland and N. Bom, Absorption and scatter of      
+encapsulated gas filled microspheres: theoretical considerations and         
+some measurements, Ultrasonics, Vol. 30, No. 2, pp 95-103, 1992.            
+[11]    N. de Jong and L. Hoff, Ultrasound scattering properties of Albunex         
+microspheres, Ultrasonics, Vol. 31, No. 3, pp 175-181, 1993.                
+Ultrasonics 1994, Vol 32, No 2, pp 123-130March 1, 1995

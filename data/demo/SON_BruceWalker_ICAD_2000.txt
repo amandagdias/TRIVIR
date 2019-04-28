@@ -1,0 +1,31 @@
+Psychophysical Scaling of Sonification Mappings                                 
+
+ Bruce N. Walker                             Gregory Kramer                          David M. Lane
+          Psychology Dept.                                   Clarity                         Psychology Dept.
+           Rice University                        310 NW Brynwood Lane                         Rice University
+            6100 Main St.                            Portland, OR 97229                        6100 Main St.
+     Houston, TX  77005 USA                             greg@metta.org                  Houston, TX  77005 USA
+          walkerb@rice.edu                                                                     
+
+ABSTRACT                                                                                        
+We determined preferred data-to-display mappings by asking experiment participants directly and then examined the
+psychophysical scaling functions relating perceived data values to underlying acoustic parameters. Presently, we are
+extending and validating the scaled mappings in practical data interpretation tasks. The resulting scaling functions, in
+conjunction with the experimental paradigm developed here, should spark further research in this area and have implications
+for the design of future sonifications.                                                         
+
+
+REFERENCES
+1. Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N.; Neuhoff, J., Bargar, R., Barrass, S., Berger, J.,
+    Evreinov, G., Fitch, W., Gr hn, M., Handel, S., Kaper, H., Levkowitz, H., Lodha, S., Shinn-Cunningham, B., Simoni,
+    M., Tipei, S. The Sonification Report: Status of the Field and Research Agenda. Report prepared for the National
+    Science Foundation by members of the International Community for Auditory Display. ICAD, Santa Fe, NM, 1999.
+2. Robinson, D. W., & Dadson, R. S. A re-determination of the equal-loudness relations for pure tones. British Journal of
+    Applied Physics, 7, May, 1956, 166-181.
+3. Stevens, S. S. Mathematics, measurement, and psychophysics. In S. S. Stevens (Ed.), Handbook of Experimental
+    Psychology. Wiley, New York, 1951, 1-49.
+4.  Stevens, S. S. Psychophysics: Introduction to its perceptual, neural, and social prospects. Wiley, New York, 1975.
+5. Walker, B. N., & Kramer, G. Mappings and metaphors in auditory displays: An experimental assessment. In S. Frysinger
+    & G. Kramer (Eds.), Proceedings of the Third International Conference on Auditory Display, ICAD Õ96, (Palo Alto, CA,
+    November 1996), ICAD, Palo Alto, CA, 71-74.
+

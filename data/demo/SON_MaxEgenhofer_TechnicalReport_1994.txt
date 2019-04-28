@@ -1,0 +1,103 @@
+Time in Geographic Space: Report on the Specialist Meeting of Research Initiative 10
+
+Max J. Egenhofer and Reginald G. Golledge
+National Center for Geographic Information and Analysis
+Report 94-9
+
+
+Abstract
+This report describes the Specialist Meeting of the National Center for Geographic
+Information and Analysis (NCGIA) Research Initiative on Spatio-Temporal Reasoning
+in GIS. This Research Initiative addresses space and time as it relates to objects and
+people in geographic space. The Specialist Meeting for the Research Initiative was held
+at Lake Arrowhead, CA May 8-11, 1993 to set and prioritize a research agenda. This
+meeting followed the workshop on Temporal Relations in Geographic Information
+Systems held in Orono (January 1990) and a joint seminar with European researchers on
+Methods of Spatio-Temporal Reasoning in GIS held in San Miniato, Italy (September
+1992), which served as a forum to assess the state-of-the-art in reasoning about
+geographic space and time and started a dialog among different disciplines involved in
+space-time reasoning. The focus of the Lake Arrowhead-workshop was on Time in
+Geographic Space.                               
+The primary goal of this report is to disseminate the results of the discussions and make
+them available to other researchers. Discussions at the workshop focused on cognitive
+and formalization issues as they relate to spatio-temporal reasoning. Participants
+identified a research agenda consisting of three complementary parts:
+
+studies of human cognitive representation, language, and culture with
+         respect to geographic space and time;        
+
+developments of formal systems for spatio-temporal reasoning; and
+
+efforts to bridge the gap between human and formal systems with
+         appropriate means for communication and interaction.
+
+Workshop participants found over 60 researchable questions, which they categorized
+according to this framework and subsequently prioritized. High priority was given to
+research that increases our knowledge of cognitive spatial representations and how such
+representations can be formalized. Also, the development of temporal taxonomies
+recurred throughout the discussions. Several times the need for alternatives to the
+snapshot space-time model were demanded, for instance by considering processes.
+An edited book with revised and extended manuscripts of selected papers is in
+preparation and scheduled to appear in early 1995.    
+
+References                                        
+Al-Taha, K., 1992. Temporal Reasoning in Cadastral Systems. Ph.D. Thesis, Department
+    of Surveying Engineering, University of Maine.    
+Al-Taha, K., Snodgrass, R., and Soo, M., 1994. Bibliography on Spatiotemporal
+    Databases. International Journal of Geographical Information Systems 8(1): 95-103.
+Allen, J., 1983. Maintaining Knowledge about Temporal Intervals. Communications of
+    the ACM 26(11): 832-843.                          
+Barrera, R., Frank, A., and Al-Taha, K., 1991. Temporal Relations in Geographic
+    Information Systems: A Workshop at the University of Maine. Santa Barbara, CA:
+    National Center for Geographic Information and Analysis, Report 91-4.
+Egenhofer, M. and Franzosa, R., 1991. Point-Set Topological Spatial Relations .
+    International Journal of Geographical Information Systems 5(2): 161-174.
+Egenhofer, M., Mark, D., and Herring, J., 1994.The 9-Intersection: Formalism and Its
+    Use for Natural-Language Spatial Predicates. Santa Barbara, CA: National Center
+    for Geographic Information and Analysis, Technical Paper 94-1.
+Frank, A., Campari, I, and Formentini, U. (eds.) 1992. Theories and Methods of Spatio-
+    Temporal Reasoning in Geographic Space. New York: Springer-Verlag.
+Goodchild, M. (ed.) 1989. Accuracy of Spatial Databases: Initiative 1 Specialist Meeting
+    Report. Santa Barbara, CA: National Center for Geographic Information and
+    Analysis, Report 89-1.                            
+HŠgerstand, T., 1967. Innovation Diffusion as a Spatial Process. Chicago, IL: The
+    University of Chicago Press.                      
+Hazelton, N.W.J., 1991. Integrating Time, Dynamic Modelling, and Geographical
+    Information Systems: Development of Four-Dimensional GIS. Ph.D. Thesis,
+    Department of Surveying and Land Information, The University of Melbourne,
+    Australia.                                        
+Kelmelis, J., 1991. Time and Space in Geographic Information: Toward a Four-
+    Dimensional Spatio-Temporal Data Model. Ph.D. Thesis, Department of Geography,
+    Pennsylvania State University.                    
+Langran, G., 1989. Time in Geographic Information Systems. Ph.D. Thesis, Department
+    of Geography, University of Washington, Seattle, WA.
+Langran, G. 1992. Time in Geographic Information Systems. London: Taylor & Francis.
+Mark, D., Frank, A., Egenhofer, M., Freundschuh, S., McGranaghan, M., and White, R.
+    M. 1989. Languages of Spatial Relations: Initiative 2 Specialist Meeting Report.
+    Santa Barbara, CA: National Center for Geographic Information and Analysis, Report
+    89-2.                                             
+Mark, D. and Frank, A., (eds.) 1991. Cognitive and Linguistic Aspects of Geographic
+    Space. Dordrecht, The Netherlands: Kluwer Academic Publishers.
+Mark, D. and Frank, A. (eds.), 1992. User Interfaces for Geographic Information
+    Systems: Report on the Initiative 13 Specialist Meeting. Santa Barbara, CA: National
+    Center for Geographic Information and Analysis, Report 92-3.
+NCGIA, 1988. Full Proposal. Santa Barbara, CA: National Center for Geographic
+    Information and Analysis, Report 88-1.            
+NCGIA, 1991. Initiative 12: Integration of Remote Sensing and Geographic Information
+    Systems, Report of the Specialist Meeting. Santa Barbara, CA: National Center for
+    Geographic Information and Analysis, Report 91-16.
+Pissinou, N., Snodgrass, R., Elmasri, R., Mumick, I., …zsu, T., Pernici, B., Segev, A.,
+    Theodoulidis, B., and Dayal, U., 1994. Towards an Infrastructure for Temporal
+    Databases: Report of an Invitational ARPA/NSF Workshop. SIGMOD RECORD
+    23(1): 35-51.                                      
+Sinton, D., 1978. The Inherent Structure of
+    Information as a Constraint to Analysis: Mapped Thematic Data as a Case Study. in:
+    G. Dutton (Ed.), Harvard Papers on Geographic Information Systems. 7, pp.
+    SINTON/1-SINTON/17, Reading, MA: Addison-Wesley.   
+Smith, T. and Frank, A., (eds.) 1989.
+    Research Initiative 5: Very Large Spatial Databases: Report on the Specialist
+    Meeting. Santa Barbara, CA: National Center for Geographic Information and
+    Analysis, Report 89-13.                            
+Tansel, A., Clifford, J., Gadia, S., Jajodia, S., Segev, A., and Snodgrass, R. (eds.) 1993.
+    Temporal Databases: Theory, Design, and Implementation. Redwood City, CA:
+    Benjamin/Cummings.

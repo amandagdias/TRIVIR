@@ -1,0 +1,27 @@
+On the Use of FastMap for Audio Retrieval and Browsing            
+
+Pedro Cano, Martin Kaltenbrunner, Fabien Gouyon and Eloi Batlle                                         
+Music Technology Group                                                     
+Universitat Pompeu Fabra                                                   
+08002, Barcelona, Spain                                                    
+34 93 542 22 02                                                       
+
+
+
+ABSTRACT
+In this article, a heuristic version of Multidimensional Scaling
+(MDS) named is used for audio retrieval and browsing.  ysis (PCA) is proposed.
+like MDS, maps objects into an Euclideanspace, such
+that similarities are preserved. In additionof being more eficient
+than MDS it allows query­by­example type of query, which makes      
+it suitable for a content­based retrieval purposes.               
+is proposed to address this issue. 
+
+REFERENCES
+[1] P. Cano, E. Batlle, H. Mayer, and H. Neuschmied. Robust
+Sound Modeling for Song Detection in Broadcast Audio.     
+[2] D. O. Maidin and M. Fernstrom. The Best Of Two Worlds:
+[3] G. Tzanetakisand P. Cook. Marsyas 3D: A Prototype Audio 
+Browser­Editor using a Large Scale Immersive Visualand      
+[4] C. Faloutsos and K. Lin. FastMap: A Fast Algorithm for
+Indexing, Data­Mining and Visualization of Traditional and

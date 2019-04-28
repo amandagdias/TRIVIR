@@ -1,0 +1,76 @@
+An Integrated Virtual Environment System       
+
+James Hahn, Larry Gritz, Rudolph Darken, Joseph Geigel, Daria Bergen, and Jong Won Lee
+Department of Electrical Engineering and Computer Science
+School of Engineering and Applied Science
+The George Washington University
+Washington, DC 20052
+hahn|gritz|darken|geigel|bergen|won@seas.gwu.edu
+ENEWS Program  
+Tactical EW Division (Code 5707)
+Naval Research Laboratory
+Washington, DC 20375-5000
+
+
+Abstract                                                       
+Virtual environment research involves a number of related problems from a variety of
+domains. A joint research at the George Washington University and the Naval Research Laboratory
+is bringing together issues from these domains to study the factors that contribute to an integrated
+virtual environment. The research can be divided into three general categories: human factors,
+motion control, and sound synchronization. Human factors issues involve development of new
+paradigms for movement and navigation essential for performance of general tasks in virtual spaces.
+Novel approaches to motion control are being explored to help users of virtual environments
+interact and control objects in the environment. This involves both interactive control as well as
+automation through evolutionary approaches. The sounds being generated as a result of these
+motions are modeled with compositional techniques to parameterize and synchronize them to the
+events in the environment. The research is being approached from both a fundamental point of view
+typical of an academic environment as well as from an application oriented point of view of interest
+to the Navy. The cooperative relationship has benefited both the George Washington University
+and the Naval Research Laboratory.   
+                          
+References                                            
+[BERG93]          Bergen, D. E., Darken, R., and Duckworth, A.N. "Applying Virtual Environment
+                  Technology to Large-Scale Simulation Systems," (Tech. Rep. NRL/FR/5707-93-
+                  9560). Washington, D.C.: U.S. Naval Research Laboratory.
+[DARK93]          Darken, R., and Sibert, J.L. "A Toolset for Navigation in Virtual Environments," To
+                  appear in Proc. ACM UIST '93.                
+[COOK84]          Cook, R. "Shade Trees," Proc. SIGGRAPH'84, ACM Computer Graphics, Vol.18,
+                  No.3, pp.195-206.                            
+[FOST91]          Foster, S and.Wenzel, E. "Virtual Acoustic Environments: The Convolvotron,"
+                  [multimedia installation] SIGGRAPH'91 Virtual reality and hypermedia show
+                  (August 1991).                               
+[GOLD89]          Goldberg, D. E. Genetic Agorithms in Search, Optimization, and Machine
+                  Learning. Addison-Wesley, 1989.              
+[GOLD82]          Goldin, S.E., & Thorndyke, P.W. (1982). Simulating Navigation for Spatial
+                  Knowledge Acquisition. Human Factors, 24(4), 457-471.
+[GRIT92]          Gritz, L, Bergen, D., and Darken, R. "Graphic Violence," (Computer Animation)
+                  ACM SIGGRAPH Video Review Issue 85, July 1992.
+[GWU92]           The George Washington University "Sound Rendering" (Computer Animation)
+                  SIGGRAPH'92 Film and video show.             
+[GWU93]           The George Washington University "Timbre Trees" (Computer Animation) Video
+                  Screening Room SIGGRAPH'93.                  
+[HAHN87]          Hahn, J. "Rigid Body Dynamics Simulations". ACM SIGGRAPH Video Review                    
+                  #28, Visualization in Scientific Computing, Computer Graphics, Vol. 21, No. 6,           
+                  1987.                                                                                    
+[HAHN88]          Hahn, J. "Realistic Animation of Rigid Bodies," Proc. SIGGRAPH'88, ACM                   
+                  Computer Graphics, Vol.22, No.3, pp.299-308                                              
+[KOZA92]          Koza, J. Genetic Programming, MIT Press, Cambridge, MA, 1992.                            
+[LYNC58]          Lynch, K., & Rodwin, L. (1958). A Theory of Urban Form. Journal of the                   
+                  American Institute of Planners. 24, 201-214.                                             
+[LYTL91]          Lytle, W. More Bells and Whistles, [video] in SIGGRAPH'90 film show. Also                
+                  described in Computer, Vol.24, No.7, July 1991, p.4 and cover.                           
+[PENT89]          Pentland, A. and Williams, J. "Good Vibrations: Modal Dynamics for Graphics and          
+                  Animation," Proc. SIGGRAPH'89, ACM                     Computer Graphics, Vol.23, No.3,  
+                  pp.215-222.                                                                              
+[PERL85]          Perlin, K. "An Image Synthesizer," Proc. SIGGRAPH'85, ACM                               Computer
+                  Graphics, Vol.19, No.3, pp.287-296.                                                      
+[REYN87]          Reynolds, C.W.. "Flocks, Herds, and Schools: A Distributed Behavioral Model".            
+                  Computer Graphics 21, 4 (July 1987), pp. 25-34.                                          
+[SMIT88]          Smith, J.W. Vibration of Structures - Applications in Civil Engineering Design,          
+                  Chapman & Hall 1988                                                                      
+[STEV78]          Stevens, A. & Coupe, P. (1978). Distortions in Judged Spatial Relations. Cognitive       
+                  Psychology. 10, 422-437.                                                                 
+[TAKA92]          Takala, T., and Hahn, J. "Sound Rendering," Proc. SIGGRAPH'92, ACM Computer              
+                  Graphics, Vol.26, No.2, pp.211-220.                                                      
+[WENZ92]          Wenzel, E.M. "Localization in Virtual Acoustic Displays." Presence: Teleoperators        
+                  and Virtual Environments, 1, 80-107, 1992.

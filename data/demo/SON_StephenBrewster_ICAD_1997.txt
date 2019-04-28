@@ -1,0 +1,104 @@
+The Design of Sonically-Enhanced Widgets
+
+Stephen  Brewster
+Glasgow Interactive Systems Group
+Department of Computing Science
+University of Glasgow, Glasgow, G12 8QQ, UK
+Tel: +44 (0)141 330 4966, Fax: +44 (0)141 330 4913
+Email: stephen@dcs.gla.ac.uk, Web: www.dcs.gla.ac.uk/~stephen/
+
+
+This paper describes the design of user-interface widgets that include non-speech sound. Previous research has shown
+that the addition of sound can improve the usability of human-computer interfaces. However, there is little research to
+show where the best places are to add sound to improve usability. The approach described here is to integrate sound into
+widgets, the basic components of the human-computer interface. An overall structure for the integration of sound is
+presented. There are many problems with current graphical widgets and many of these are difficult to correct by using
+more graphics. This paper presents many of the standard graphical widgets and describes how sound can be added. It
+describes in detail the usability problems with the widgets and then the non-speech sounds to overcome them. The non-
+speech sounds used are earcons. These sonically-enhanced widgets allow designers who are not sound-experts to create
+interfaces that effectively improve usability and have coherent and consistent sounds.
+
+
+References
+Arons, B. and Mynatt, E. (1994). The future of speech and audio in the interface. SIGCHI Bulletin, 26, 4, 44-48.
+Barfield, W., Rosenberg, C. and Levasseur, G. (1991). The use of icons, earcons and commands in the design of an
+       online hierarchical menu. IEEE Transactions on Professional Communication, 34, 2, 101-108.
+Beaudouin-Lafon, M. and Conversy, S. (1996). Auditory illusions for audio feedback in Tauber, M. (ed), ACM
+       CHI96 Conference Companion ACM Press, Addison-Wesley, 299-300.
+Berglund, B., Preis, A. and Rankin, K. (1990). Relationship between loudness and annoyance for ten community
+       sounds. Environment International, 16, 523-531.
+Blattner, M., Sumikawa, D. and Greenberg, R. (1989). Earcons and icons: Their structure and common design
+       principles. Human Computer Interaction, 4, 1, 11-44.
+Brewster, S.A. (1994) Providing a structured method for integrating non-speech audio into human-computer
+       interfaces. PhD Thesis, University of York, UK.
+Brewster, S.A. (1997). Using Non-Speech Sound to Overcome Information Overload. Displays, 17, 179-189.
+Brewster, S.A. and Crease, M.G. (1997). Making Menus Musical in Howard, S., Hammond, J. and Lindgaard, G.
+       (eds), Proceedings of IFIP Interact97 Chapman & Hall, 389-396.
+Brewster, S.A., Raty, V.-P. and Kortekangas, A. (1996). Earcons as a method of providing navigational cues in a
+       menu hierarchy in Sasse, A., Cunnigham, R. and Winder, R. (eds), Proceedings of BCS HCI96 Springer,
+       169-183.
+Brewster, S.A., Wright, P.C., Dix, A.J. and Edwards, A.D.N. (1995a). The sonic enhancement of graphical buttons
+       in Nordby, K., Helmersen, P., Gilmore, D. and Arnesen, S. (eds), Proceedings of IFIP Interact95 Chapman
+       & Hall, 43-48.
+Brewster, S.A., Wright, P.C. and Edwards, A.D.N. (1992). A detailed investigation into the effectiveness of earcons
+       in Kramer, G. (ed), Proceedings of ICAD92 Addison-Wesley, 471-498.
+Brewster, S.A., Wright, P.C. and Edwards, A.D.N. (1993). An evaluation of earcons for use in auditory human-
+       computer interfaces in Ashlund, S., Mullet, K., Henderson, A., Hollnagel, E. and White, T. (eds),
+       Proceedings of ACM/IFIP INTERCHI93 ACM Press, Addison-Wesley, 222-227.
+Brewster, S.A., Wright, P.C. and Edwards, A.D.N. (1994). The design and evaluation of an auditory-enhanced
+       scrollbar in Adelson, B., Dumais, S. and Olson, J. (eds), Proceedings of ACM CHI94 ACM Press, Addison-
+       Wesley, 173-179.
+Brewster, S.A., Wright, P.C. and Edwards, A.D.N. (1995b). Experimentally derived guidelines for the creation of
+       earcons in Kirby, M., Dix, A. and Finlay, J. (eds), Adjunct Proceedings of BCS HCI95 , 155-159.
+Brown, M.L., Newsome, S.L. and Glinert, E.P. (1989). An experiment into the use of auditory cues to reduce visual
+       workload in Proceedings of ACM CHI89 ACM Press, Addison-Wesley, 339-346.
+Dix, A., Finlay, J., Abowd, G. and Beale, R. (1993). Human-Computer Interaction.  Prentice-Hall.
+Dix, A.J. and Brewster, S.A. (1994). Causing trouble with buttons in Ancillary Proceedings of BCS HCI94
+       Cambridge University Press.
+Edworthy, J., Loxley, S., Geelhoed, E. and Dennis, I. (1989). The perceived urgency of auditory warnings.
+       Proceedings of the Institute of Acoustics, 11, 5, 73-80.
+Gaver, W. (1989). The SonicFinder: An interface that uses auditory icons. Human Computer Interaction, 4, 1, 67-94.
+Gaver, W., Smith, R. and OShea, T. (1991). Effective sounds in complex systems: The ARKola simulation in
+       Robertson, S., Olson, G. and Olson, J. (eds), Proceedings of ACM CHI91 ACM Press, Addison-Wesley, 85-
+       90.
+Harrison, M. and Barnard, P. (1993). On defining requirements for interaction, Proceedings of the IEEE
+       International Workshop on requirements engineering.  IEEE, 50-54.
+Karshmer, A., Brawner, P. and Reiswig, G. (1994). An experimental sound-based hierarchical menu navigation
+       system for visually handicapped use of graphical user interfaces in Proceedings of ACM ASSETS94 ACM Press,
+       123-128.
+Lee, W.O. (1992). The effects of skill development and feedback on action slips in Monk, A., Diaper, D. and
+       Harrison, M.D. (eds), Proceedings of HCI92 Cambridge University Press, 73-86.
+Mansur, D.L., Blattner, M. and Joy, K. (1985). Sound-Graphs: A numerical data analysis method for the blind.
+       Journal of Medical Systems, 9, 163-174.
+Moore, B.C.J. (1997). An Introduction to the Psychology of Hearing. (4th ed.) Academic Press.
+Myers, B. (1990). All the widgets. ACM SIGRAPH Video Review, CHIÕ90 Special Issue , 57,
+Myers, B.A. (1991). State of the art in user interface software tools, in Hartson, H.R. and Hix, D., (eds), Advances in
+       Human-Computer Interaction Ablex Publishing.
+Myers, B.A., Guise, D., Dannenberg, R., Vander Zanden, B., Kosbie, D., Pervin, E. and Mickish, A. (1990).
+       Garnet: Comprehensive support for graphical, highly-interactive user interfaces. IEEE Computer, 71-85.
+Mynatt, E.D. (1992). Auditory presentation of graphical user interfaces in Kramer, G. (ed), Proceedings of ICAD92
+       Addison-Wesley, 533-555.
+Mynatt, E.D. and Weber, G. (1994). Nonvisual Presentation of Graphical User Interfaces: Contrasting Two
+       Approaches in Proceedings of ACM CHI94 ACM Press, Addison-Wesley, 211.
+Ousterhout, J.K. (1994). Tcl and the Tk toolkit. Addison-Wesley.
+Patterson, R.D. (1982). Guidelines for auditory warning systems on civil aircraft (CAA Paper No. 82017). Civil
+       Aviation Authority, London.
+Perrott, D., Sadralobadi, T., Saberi, K. and Strybel, T. (1991). Aurally aided visual search in the central visual field:
+       Effects of visual load and visual enhancement of the target. Human Factors, 33, 4, 389-400.
+Pitt, I.J. and Edwards, A.D.N. (1991). Navigating the interface by sound for blind users in Diaper, D. and
+       Hammond, N. (eds), Proceedings of BCS HCI91 Cambridge University Press, 373-383.
+Pitt, I.J. and Edwards, A.D.N. (1995). Pointing in an auditory interface for blind users in Intelligent Systems for the
+       21st Century: Proceedings of the 1995 IEEE International Conference on Systems, Man and Cybernetics IEEE,
+       280-285.
+Portigal, S. (1994) Auralization of document structure. MSc. Thesis, The University of Guelph, Canada.
+Reason, J. (1990). Human Error Cambridge University Press.
+Reichman, R. (1986). Chapter 14: Communications paradigms for a window system, in Norman, D.A. and Draper,
+       S.W. (eds), User-Centered System Design.  Lawrence Erlbaum Associates, 285-314.
+Roads, C. (1996). The computer music tutorial MIT Press.
+Savidis, A. and Stephanidis, C. (1995). Developing dual user interfaces for integrating blind and sighted users: The
+       HOMER UIMS in Katz, I., Mack, R. and Marks, L. (eds) , Proceedings of ACM CHI95 ACM Press, Addison-
+       Wesley, 106-113.
+Sumikawa, D., Blattner, M., Joy, K. and Greenberg, R. (1986). Guidelines for the syntactic design of audio cues in
+       computer interfaces (Technical Report No. UCRL 92925). Lawrence Livermore National Laboratory.
+Wenzel, E.M. (1992). Spatial sound and sonification in Kramer, G. (ed), Proceedings of ICAD92 Addison-Wesley,
+       127-150.

@@ -1,0 +1,33 @@
+Presenting Dynamic Information on Mobile Computers                                                                                          
+
+STEPHEN BREWSTER AND ROBIN MURRAY                                                                  
+Glasgow Interactive Systems Group, Department of Computing Science                                 
+University of Glasgow, Glasgow, G12 8QQ, UK                                                        
+Email: stephen@dcs.gla.ac.uk    Web: www.dcs.gla.ac.uk/~stephen                                    
+Tel: +44 (0)141 330 4966                                                                           
+Fax: +44 (0) 141 330 4913                                                                          
+
+
+A problem with mobile computing devices is the output of dynamic information because their         
+screens are small. This paper describes an experiment to investigate the use of non-speech sounds  
+to present dynamic information without using visual display space. Results showed that non-speech 
+sound could be used in a simple share-dealing scenario to present a ‘sound graph’ of share  
+prices. This allowed participants to reduce the workload they had to invest in share-price monitoring 
+as they could listen to the graph whilst they worked in a share accumulation window.           
+
+
+References
+1. Kramer, G., Eds. Auditory Display. Addison-Wesley, Reading, MA, 1994.                           
+2. Mynatt, E.D., Back, M., Want, R. and Baer, M. Designing audio aura. In Proceedings of ACM       
+   CHI'98 (Los Angeles, CA) ACM Press Addison-Wesley, 1998, pp. 566--573.                          
+3. Mansur, D.L., Blattner, M. and Joy, K. Sound-Graphs: A numerical data analysis method for       
+   the blind. Journal of Medical Systems, 1985; 9: 163-174.                                        
+4. Brewster, S.A. and Cryer, P.G. Maximising Screen-Space on Mobile Computing Devices. In          
+   Summary Proceedings of ACM CHI'99 (Pittsburgh, PA) ACM Press, Addison Wesley, 1999,             
+   pp. 224-225.                                                                                    
+5. Walker, V.A. and Brewster, S.A. Spatial audio in small screen device displays. Personal Technologies, 
+2000; 4, 2.                                                                           
+6. Leplatre, G. and Brewster, S.A. Designing Non-Speech Sounds to Support Navigation in Mobile 
+Phone Menus. In Proceedings of ICAD2000 (Atlanta, USA) ICAD, 2000, pp. 190-199.            
+7. Hart, S.G. and Wickens, C. Workload assessment and prediction. In Booher, H.R. (ed.) MANPRINT, 
+an approach to systems integration, Van Nostrand Reinhold, New York, 1990, pp 257-296.

@@ -1,0 +1,37 @@
+Design and Implementation of an Object-oriented Media Com position Framework
+
+Philipp Ackermann                                       
+University of Zurich,  Department of  Computer Science,  MultiMedia Laboratory         
+Winterthurerstrasse 190,  CH-8057 Zurich,  Switzerland                    
+e-mail: ackerman@ifi.unizh.ch                                    
+
+Abstract                                           
+The goal of the presented project is a general compositonal environment for multimedia with 
+interactive editing facilities. Multimedia presentations are regarded as hierarchical compositions
+of time objects that define serial or parallel synchronisation of the inserted media  
+objects. Such media composition hierarchies support automatic temporal layout mechanisms    
+and are integrated into an object-oriented application framework that provides direct       
+manipulative interaction on temporal structures through user interface components. In this  
+papaer reusable and extendable components for audio and music processing are presented.     
+
+References
+[Ackermann,1993a] Philipp Ackermann: Object-oriented 
+Modelling of Time Synchronisation in a Multimedia
+Application Framework; in: Audio Engineering    
+Society AES 95th Convention, Preprints, Audio   
+Engineering Society, New York, October 1993.    
+
+[Ackermann,1993b] Philipp Ackermann, Dominik Eichelberg: 
+Combining 2D User Interface Components and
+Interactive 3D Graphics; TOOLS USA '93 Conference 
+Proceedings, Santa Barbara, August 1993.
+
+[Vercoe,1990] Barry Vercoe, D. Ellis: Real-time CSound:
+Software Synthesis with Sensing and Control; in:
+International Computer Music Conference Glasgow
+1990 Proceedings, p..209-211, ICMC Assoc., 1990.
+
+[Weinand,1989] A. Weinand, E. Gamma, R. Marty:       
+Design and Implementation of ET++, a Seamless   
+Object–Oriented Application Framework; Structured
+Programming, Vol. 10, No. 2, June 1989, pp. 63-87.

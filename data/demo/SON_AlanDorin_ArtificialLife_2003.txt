@@ -1,0 +1,40 @@
+Artefact & Artifice : views on life                
+Alan Dorin                                                   
+
+Centre for Electronic Media Art
+School of Computer Science and Software Engineering
+Monash University, Clayton
+Australia 3800
+aland@csse.monash.edu.au
+
+Abstract.                                                    
+The views of some artists on what constitutes life are explored, with the aim of
+challenging those within the artificial life research community to rethink and
+perhaps expand their own views about the term and its meaningful application. The
+focus is on the musical works of  Steve Reich and the paintings of Wassily
+Kandinsky. The role of the observer in determining when it is appropriate to label a
+hing as living is also discussed.                           
+
+
+
+References                                                   
+
+1.   Alexander, C. (1999). The Endurance, Shackleton’s Legendary Antarctic Expedition. London:
+     Bloomsbury.                                             
+2.   Dennett, D.C. (1991). Real Patterns. Journal of Philosophy, 88, 27-51.
+3.   Dick, P.K. (1990). Blade Runner: (Do Androids Dream of Electric Sheep?). Ballantine Books.
+     (Original work published 1968).                         
+4.   Kandinsky, W. (1979). Point and Line to Plane. New York: Dover. (Original work
+     published 1926).                                        
+5.   McCormack, J., & Dorin, A. (2001). Art, Emergence, and the Computational Sublime. In
+     A. Dorin (ed.), Proceedings of Second Iteration, second international conference on generative
+     systems in the electronic arts (pp. 67-81). Melbourne: CEMA.
+6.   Mentz, S., & Tempest, G. (2001). Arapiles Selected Climbs. Australia: Open Spaces
+     Publishing.                                             
+7.   Ovid (Publius Ovidius Naso) (1973). Metamorphoses. (M.M. Innes, Trans.). London:
+     Penguin Classics. (Original work written c. 1 A.D.).    
+8.   Reich, S. (1997). Music for 18 Musicians. CD liner notes, Nonesuch Records.
+9.   Shelley, M. (1989). Frankenstein, the Modern Prometheus. M.K. Joseph (ed.). London:
+     Oxford Univeristy Press. (Original work published 1818).
+10.  Tufte, E.R. (1990). Envisioning Information. Cheshire, CT: Graphics Press.
+11.  Ward, P. (2002). Artist in residence. The Australian newspaper, April 15, p. 11.

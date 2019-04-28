@@ -1,0 +1,113 @@
+THE APPLICATION OF A METHOD FOR INTEGRATING NON-SPEECH AUDIO INTO HUMAN-COMPUTER INTERFACES                                             
+
+Stephen A. Brewster       ,  Peter C. Wright      and Alistair D. N. Edwards       
+VTT Information Technology,                  Department of Computer Science,     
+Tekniikantie 4 B,                             University of York,         
+P.O. Box 1203,                                   Heslington,             
+FIN-02044 VTT, Finland                           York, Y01 5DD, UK.            
+Tel.: +358 0 456 4311                          Tel.: +44 904 432775          
+sab@hemuli.tte.vtt.fi                 [pcw, alistair]@minster.york.ac.uk    
+
+
+ABSTRACT                                        
+This paper describes the application of a structured method for integrating non-speech
+sound into graphical interfaces. The method analyses interactions in terms of event,  
+status and mode information. It then categorises this information in terms of the feedback
+needed to present it. This is then combined with guidelines for creating sounds to    
+generate the auditory feedback required. As an example, the method is applied to a    
+scrollbar. This sonically-enhanced scrollbar is then experimentally evaluated to see if the
+auditory enhancements are effective. The results show that the new scrollbar reduced the
+time taken to perform certain tasks, it reduced the time taken to recover from errors, it
+reduced mental workload and participants preferred it to the standard graphical scrollbar.
+
+
+REFERENCES                                                
+1. Alty, J. (1991). Multimedia-What is it and how do we exploit it? In D. Diaper & N. Hammond (Eds.), Proceedings
+of HCI’91,  Edinburgh: Cambridge University Press, pp. 31-44.
+2. Alty, J.L. & McCartney, C.D.C. (1991). Design of a multi-media presentation system for a process control
+environment. In Eurographics multimedia workshop, Session 8: Systems, Stockholm.
+3. Baecker, R., Small, I. & Mander, R. (1991). Bringing icons to life. In Proceedings of CHI’91,  New Orleans:
+ACM Press, Addison-Wesley, pp. 1-6.                       
+4. Barfield, W., Rosenberg, C. & Levasseur, G. (1991). The use of icons, earcons and commands in the design of an
+online hierarchical menu. IEEE Transactions on Professional Communication, 34(2), pp. 101-108.
+5. Bevan, N. & Macleod, M. (1994). Usability measurement in context. International Journal of Man-Machine
+Studies, 13(1 & 2), pp. 123-145.                          
+6. Blattner, M. & Dannenberg, R.B. (1992). Introduction: The trend toward multimedia interfaces. In M. Blattner &
+R. B. Dannenberg (Eds.), Multimedia Interface Design, pp. xvii-xxv. New York: ACM Press, Addison-Wesley.
+
+7. Blattner, M., Papp, A. & Glinert, E. (1992). Sonic enhancements of two-dimensional graphic displays. In G.
+Kramer (Ed.), Auditory Display, sonification, audification and auditory interfaces. The Proceedings of the First
+International Conference on Auditory Display,  Santa Fé Institute, Santa Fé: Addison-Wesley, pp. 447-470.
+8. Blattner, M., Sumikawa, D. & Greenberg, R. (1989). Earcons and icons: Their structure and common design
+principles. Human Computer Interaction, 4(1), pp. 11-44.  
+9. Brewster, S.A. (1994) Providing a structured method for integrating non-speech audio into human-computer
+interfaces. PhD Thesis,  University of York.              
+10. Brewster, S.A., Wright, P.C., Dix, A.J. & Edwards, A.D.N. (1994). The sonic enhancement of graphical buttons.
+In Accepted for publication at Interact’95,  Lillehammer, Norway.
+11. Brewster, S.A., Wright, P.C. & Edwards, A.D.N. (1992). A detailed investigation into the effectiveness of
+earcons. In G. Kramer (Ed.), Auditory display, sonification, audification and auditory interfaces. The Proceedings of
+the First International Conference on Auditory Display,  Santa Fé Institute, Santa Fé: Addison-Wesley, pp. 471-498.
+12. Brewster, S.A., Wright, P.C. & Edwards, A.D.N. (1993). An evaluation of earcons for use in auditory human-
+computer interfaces. In S. Ashlund, K. Mullet, A. Henderson, E. Hollnagel, & T. White (Eds.), Proceedings of
+InterCHI’93,  Amsterdam: ACM Press, Addison-Wesley, pp. 222-227.
+13. Brewster, S.A., Wright, P.C. & Edwards, A.D.N. (1993). Parallel earcons: Reducing the length of audio
+messages. Submitted to the International Journal of Man-Machine Studies.
+14. Buxton, W., Gaver, W. & Bly, S. (1991). Tutorial number 8: The use of non-speech audio at the interface. In
+Proceedings of CHI’91,  New Orleans: ACM Press: Addison-Wesley.
+15. Dix, A., Finlay, J., Abowd, G. & Beale, R. (1993). Chapter 9.4 Status/Event Analysis. In Human-Computer
+Interaction, pp. 325-334. London: Prentice-Hall.          
+16. Dix, A.J. (1991). Chapter 10: Events and Status. In Formal Methods for Interactive Systems, pp. 239-270.
+London: Academic Press.                                   
+17. Dix, A.J. (1992). Beyond the Interface. In Proceedings of IFIP TC2/WG2.7 Working Conference on Engineering
+for Human-Computer Interaction,10-14 August 1992,  Ellivuori, Finland.
+18. Edworthy, J., Loxley, S. & Dennis, I. (1991). Improving auditory warning design: Relationships between
+warning sound parameters and perceived urgency. Human Factors, 33(2), pp. 205-231.
+19. Edworthy, J., Loxley, S., Geelhoed, E. & Dennis, I. (1989). The perceived urgency of auditory warnings.
+Proceedings of the Institute of Acoustics, 11(5), pp. 73-80.
+20. Gaver, W. (1989). The SonicFinder: An interface that uses auditory icons. Human Computer Interaction, 4(1),
+pp. 67-94.                                                
+21. Gaver, W. (1992). Using and creating auditory icons. In G. Kramer (Ed.), Auditory Display, sonification,
+audification and auditory interfaces. The Proceedings of the First International Conference on Auditory Display,
+Santa Fé Institute, Santa Fé: Addison-Wesley, pp. 417-446.
+22. Gaver, W., Smith, R. & O’Shea, T. (1991). Effective sounds in complex systems: The ARKola simulation. In S.
+Robertson, G. Olson, & J. Olson (Eds.), Proceedings of CHI’91,  New Orleans: ACM Press, Addison-Wesley, pp.
+85-90.                                                    
+23. Glinert, E. & Blattner, M. (1992). Programming the multimodal interface. In ACM MultiMedia’93: ACM Press,
+Addison-Wesley, pp. 189-197.                              
+24. Handel, S. (1989). Listening: An introduction to the perception of auditory events. Cambridge, Massachusetts:
+MIT Press.                                                
+25. Hart, S.G. & Wickens, C. (1990). Workload assessment and prediction. In H. R. Booher (Eds.), MANPRINT, an
+approach to systems integration, pp. 257-296. New York: Van Nostrand Reinhold.
+26. Johnson, J. (1990). Modes in Non-Computer Devices. International Journal of Man-Machine Studies, 32(4), pp.
+423-438.                                                  
+27. Johnson, J. & Engelbeck, G. (1989). Modes Survey Results. ACM SIGCHI Bulletin, 20(4), pp. 38-50.
+28. Jones, D. (1989). The Sonic Interface. In M. Smith & G. Salvendy (Eds.), Work with computers: Organizational,
+Management, Stress and health aspects,. Amsterdam: Elsevier Science publishers.
+29. Kishi, N. (1992). SimUI: Graphical user interface evaluation using playback. In Proceedings of the Sixteenth
+Annual International Computer Software & Applications Conference,  Chicago, Illinois: IEEE Computer Society, pp.
+121-127.                                                  
+30. Mansur, D.L., Blattner, M. & Joy, K. (1985). Sound-Graphs: A numerical data analysis method for the blind.
+Journal of Medical Systems, 9, pp. 163-174.               
+31. Monk, A. (1986). Mode Errors: A user-centered analysis and some preventative measures using keying-
+contingent sound. International Journal of Man-Machine Studies, 24, pp. 313-327.
+32. Myers, B. (1990). All the widgets. ACM SIGRAPH Video Review, CHI’90 Special Issue(57).
+33. NASA Human Performance Research Group (1987). Task Load Index (NASA-TLX) v1.0 computerised version.
+NASA Ames Research Centre.                                
+34. Norman, D.A. (1986). Chapter 3: Cognitive Engineering. In D. A. Norman & S. W. Draper (Eds.), User-centered
+system design, pp. 31-61. Hillsdale, New Jersey: Lawrence Erlbaum Associates.
+35. Norman, D.A. (1988). The psychology of everyday things. USA: Basic Books.
+36. Patterson, R.D. (1982). Guidelines for auditory warning systems on civil aircraft (CAA Paper  No. 82017). Civil
+Aviation Authority, London.                               
+37. Portigal, S. (1994) Auralization of document structure. MSc. Thesis, The University of Guelph, Canada.
+38. Reason, J. (1990). Human Error. Cambridge, UK: Cambridge University Press.
+39. Scott, D. (1993). Status conspicuity, peripheral vision and text editing. Behaviour and Information Technology,
+12(1), pp. 23-31.                                         
+40. Scott, D. & Findlay, J.M. (1991). Optimum display arrangements for presenting status information. International
+Journal of Man-Machine Studies, 35, pp. 399-407.          
+41. Sellen, A., Kurtenbach, G. & Buxton, W. (1992). The prevention of mode errors through sensory feedback.
+Human Computer Interaction, 7, pp. 141-164.               
+42. Sellen, A.J., Kurtenbach, G.P. & Buxton, W. (1990). The role of visual and kinesthetic feedback in the
+prevention of mode errors. In D. Diaper, D. Gilmore, G. Cockton, & B. Shackel (Eds.), Human Computer
+Interaction: Interact’90,  Cambridge, UK: Elsevier Science Publishers B.V. (North Holland), pp. 667-673.
+43. Tessler, L. (1981). The SmallTalk environment. Byte(August), pp. 90-147.
+44. Thimbleby, H. (1990). User Interface Design. New York: ACM Press, Addison-Wesley.

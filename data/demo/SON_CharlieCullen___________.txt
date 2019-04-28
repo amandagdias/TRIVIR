@@ -1,0 +1,55 @@
+Orchestration within the Sonification of basic Data Sets                                            
+
+Charlie Cullen    						Eugene Coyle                                                                                             
+Conservatory of Music                                 School of Control Systems & Electrical Engineering                    
+Dublin Institute of Technology                        Dublin Institute of Technology                                        
+Rathmines Road, Dublin, Ireland                       Kevin Street, Dublin, Ireland                                         
+charlie.cullen@dit.ie                                 eugene.coyle@dit.ie                                                                                                                                               
+
+ABSTRACT
+The use of sonification as a means of representing and          
+analysing data has become a growing field of research in recent                                                             
+years and as such has become a far more accepted means of                                                                   
+working with data. Existing work carried out as part of this    
+research has focused primarily on the sonification of                                                                       
+DNA/RNA sequences and their subsequent protein structures       
+for the purposes of analysis. This sonification work raised many
+questions as regards the need for sequences to be set to music in                                                           
+a standard manner so that different strands could be analysed by
+comparison, and hence the orchestration and instrumentation     
+used became of great importance.                                                                                            
+The basic principles of sonification can be rapidly extended to 
+include many different data elements within a single rendering,                                                             
+and thus the importance of orchestration grows accordingly.     
+Existing work on the use of rhythmic parsing within a                                                                       
+sonification had suggested that far more information could be                                                               
+represented when orchestrated in a rhythmic manner than when                                                                
+simply reconstituted in single musical block. The principle was                                                             
+further extended to include the allocation specific instruments                                                             
+and pitches within rhythmic patterns so that each sonic event                                                               
+would convey the data it was intended to represent. To this end                                                             
+a fictional database of employees in a company was created as a                                                             
+means of developing the principles required for more effective                                                              
+sonification through orchestration.                                                                                         
+The employee database was intended as a means of using a                                                                    
+straightforward data set to analyse the effect of basic changes in                                                          
+instrumentation and orchestration rather than the data itself. The                                                          
+allocation of chord intervals or melodies to different data                                                                 
+elements allowed the data to be represented in different ways at 
+output in order that these differences would eventually highlight                                                           
+some form of framework for effective sonification of data sets  
+with multiple elements.                                         
+
+
+REFERENCES                                
+[1] Orchestration, Walter Piston, W.W Norton & Company,         
+ISBN 0-393-09740-4                                         
+[2] Rhythmic Parsing of Sonified DNA and RNA Sequences,         
+Charlie Cullen and Eugene Coyle, ISSC2003 Limerick.        
+[3] Database Systems 3    Edition (pg79), Thomas Connolly       
+and Carolyn Begg, Addison Wesley, ISBN 0-201-70857-4       
+[4] The New Grove Dictionary of Music and Musicians 2           
+edition volume 12, Macmillan Publishers ltd 2001, ISBN     
+0-333-60800-3                                              
+[5] The AB Guide to Music Theory Parts 1&2, Eric Taylor,      
+ABRSM Publishing, ISBN 1-85472-446-0 

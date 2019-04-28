@@ -1,0 +1,116 @@
+Beyond the Query-By-Example Paradigm: New Query Interfaces for Music Information Retrieval   
+
+George Tzanetakis, Andreye Ermolinskyi, Perry Cook
+Computer Science Department, Princeton University
+email: gtzan@cs.princeton.edu
+
+Abstract
+The majority of existing work in music information retrieval
+for audio signals has followed the content-based 
+query-by-example paradigm. In this paradigma musical
+piece is used as a query and the result is a list of    
+other musical pieces ranked by their content similarity.
+In this paper we describe algorithms and graphical      
+user interfaces that enable novel alternative ways for      
+querying and browsing large audio collections. Computer
+audition algorithms are used to extract content      
+information from audio signals. This automatically extracted
+information is used to configure the graphical       
+user interfaces and to genereate new query audio signals
+for browsing and retrieval.                         
+
+
+References
+Bartsch, M. A. and G. H. Wake eld(2001). To Catch a    
+Chorus: Using Chroma-Based Representation for Audio Thumbnailing.
+In Proc. Int. Workshop on applications of Signal Processing to Audio and Acoustics,          
+Mohonk, NY, pp.15 19. IEEE.                            
+Belongie, S., C. Carson, H. Greenspan, and J. Malik    
+(1998, January). Blobworld: A system for region based 
+image indexing and retrieval. In Proc. 6th Int.     
+Conf. on Computer Vision.                                 
+Biles, J. (1994, September).GenJam: A Genetic Algorithms 
+for Generating Jazz Solos. In Proc. Int. Computer Music 
+Conf. (ICMC), Aarhus, Denmark, pp.          
+131 137.                                                    
+Cook, P. (1997, August). Physically inspired sonic modeling(PHISM): 
+synthesisof percussive sounds. Computer Music Journal 21(3).                                
+Cook, P. (1999). Toward physically-informed parametric            
+synthesis of sound effects. In Proc. IEEE Workshop       
+on applications of Signal Processing to Audio and          
+Acoustics, WASPAA, New Paltz, NY. Invited Keynote             
+Address.                                               
+Cook, P. and G. Scavone (1999, October).The Synthesis
+Toolkit(STK), version2.1. In Proc. Int. Computer           
+Music Conf. ICMC, Beijing, China. ICMA.                   
+Dannenberg, R. (1984).An on-line algorithm for real-time 
+accompaniment. In Proc. Int. Computer Music Conf.,                
+Paris, France,pp.187 191.                              
+Essl, G. and P. Cook (2000). Measurements and ef cient 
+simulations of bowed bars. Journal of Acoustical Society of 
+America(JASA)108(1), 379 388.                         
+Fernstrom,M. andE. Brazil (2001, July). Sonic Browsing: 
+an auditory tool for multimedia asset management. In      
+Proc. Int. Conf. on Auditory Display(ICAD), Espoo,                
+Finland.                                             
+Flickner, M. and et al. (1995, September).Queryby image 
+and video content: the QBIC system. IEEE Computer 28(9), 23 32.                                   
+Garton, B. (1992, October).Virtual Performance Modelling. 
+In Proc. Int. Computer Music Conf.(ICMC),
+San Jose, California, pp.219 222.
+Goto, M. and Y. Muraoka (1998). Music Understanding
+at the Beat Level: Real-time Beat Tracking of Audio
+Signals. In D. Rosenthal and H. Okuno(Eds.),
+Computational Auditory Scene Analysis, pp. 157
+176. Lawrence Erlbaum Associates.
+Jose, J. M., J. Furner, and D. J. Harper (1998). Spatial
+querying for image retrieval: a user-oriented evaluation. 
+In Proc. SIGIR Conf. on research and development in Information
+Retrieval, Melbourne, Australia.ACM.
+Krasner, G. E. and S. T. Pope (1988, August). A cookbook 
+for using the model-view-controller user interface 
+paradigm in Smalltalk-80. Journal of Object-Oriented
+Programming1(3), 26 49.
+Laroche, J. (2001). Estimating Tempo, Swing and Beat
+Locations in Audio Recordings. In Proc. Int. Workshop 
+on applications of Signal Processing to Audio
+and Acoustics WASPAA, Mohonk, NY, pp. 135 139.
+IEEE.
+Logan, B. (2000). Music summarization using key
+phrases. In Proc. Int. Conf. on Acoustics, Speechand
+Signal Processing ICASSP. IEEE.
+Masako Nishijima and K. Watanabe(1992). Interactive
+Music Composer based on Neural Networks.In Proc.
+Int. Computer Music Conf.(ICMC), San Jose, California.
+Pentland,A., R. Picard,andS. Sclaroff (1994, July). Photobook:
+Tools for Content-Based Manipulation of Image
+Databases. IEEE Multimedia, 73 75.
+Scheirer, E. (1998, January). Tempo and beat analysis of
+acoustic musical signals. Journal of the. Acoustical
+Society of America103(1), 588,601.
+Scheirer, E. andM. Slaney (1997). Construction and evaluation
+of a robust multifeature speech/music discriminator. 
+In Proc. Int. Conf. on Acoustics, Speechand
+Signal Processing ICASSP, pp.1331 1334. IEEE.
+Schwarz, D. (2000, December). A system for datadriven
+oncatenative sound synthesis. In Proc.Cost
+G6Conf. on Digital Audio Effects(DAFX), Verona,
+Italy.
+Shneiderman,B. (1998). Designing the User Interface:
+Strategies for Effective Human-Computer Interaction
+(3rded.ed.). Addison-Wesley.
+Tzanetakis, G. and P. Cook (2000). Marsyas: A framework
+for audioanalysis. Organised Sound4(3).
+Tzanetakis,G. and P. Cook (2001, August). Marsyas3D:
+a prototype audio browser-editor using a large scale
+immersive visual and audio display. InProc.Int.Conf.
+on Auditoy Display(ICAD), Espoo,Finland.
+Tzanetakis,G. and P. Cook (2002). Musical Genre Classification
+of Audio Signals. IEEE Transactions on
+Speechand Audio Processing. (accepted for publication).
+Wold, E., T. Blum, D. Keislar, and J. Wheaton(1996).
+Content-based classi cation, search and retrieval of
+audio. IEEE Multimedia3(2).
+Zils, A. andF. Pachet(2001, December). Musical Mosaicing. 
+In Proc.Cost-G6Conf.on Digital Audio Effects
+(DAFX), Limerick, Ireland.

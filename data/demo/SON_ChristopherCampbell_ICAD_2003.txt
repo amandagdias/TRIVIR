@@ -1,0 +1,72 @@
+DISCRIMINATING VISIBLE SPEECH TOKENS USING MUL TI-MOD ALITY                             
+
+Christopher S. Campbell, Michael M. Shafae, Suresh K. Lodha, and Dominic W. Massaro                                          
+IBM AlmadenResearchCenter, San Jose, CA                                                
+Department of ComputerScience, University of California, Santa Cruz, CA 95064                                  
+Department of Psychology, University of California, Santa Cruz, CA 95064                                 
+ccampbel@almaden.ibm.com;                      lodha@cse.ucsc.edu;                 massaro@cats.ucsc.edu               
+
+
+ABSTRACT
+We present a multimodal interactive data exploration tool that facilitates
+discrimination between visible speech tokens. The multimodal
+tool uses visualization and sonification (non-speechsound)       
+of data. Visible speech tokens is a class of multidimensional data 
+that have been used extensively in designing talking head that has   
+been used in training of deaf individuals by watching speech.    
+Visible speech tokens (consonants), referred to as categories, differ 
+along a set of pre-measured feature dimensions such as mouth     
+height, mouth narrowing, jaw rotation and upper-lip retraction.                                                          
+The data set was visualized with a series of 1D scatter-plots 
+differed in color for each category. Sonification was performed 
+by mapping three qualities of the data (within-category variability, 
+between category variability, and category identity) to 
+sound parameters (noise amplitude, duration, and pitch). An experiment
+was conducted to assess the utility of multimodal in formation
+compared to visual information alone for exploring this   
+multidimensional data set. Tasks involved answering a series of                                                            
+questions to determine how well each feature or a set of features                                                            
+discriminate among categories, which categories are discriminated    
+and how many. Performance was assessed by measuring accuracy                                                                 
+andre action time to 36 questions varying in scale of understanding
+and level of dimension integrality. Scale variedat three levels 
+(ratio, ordinal, and nominal) and integrality also varied at 
+levels (1, 2 , and 3 dimensions). A between-subjects design was     
+used by assigning subjects to either the multimodal group or visual
+only group. Results show that accuracy is better for the multimodal
+group as the number of dimensions required to answer a        
+question(integrality) increased. Also, accuracy was 10% better  
+for the multimodal group for ordinal questions. For discriminating    
+visible speech tokens, sonification provides useful information in 
+addition to that given by visualization, particularly for representing 
+three dimensions simultaneously.                                  
+
+
+
+
+
+REFERENCES
+[1]  D. W. Massaro (Ed.), Perceiving talking faces: From speech
+perception to a behavioral principle, The MIT Press, Cambridge,
+MA, USA, 1998.     
+[2]  H. J. Zimmermann, Fuzzy set theory and its applications,
+Boston: Kluwer Academic Publishers,1991.
+[3]  R. N. Shepard, Multidimensional scaling, tree- tting, and
+clustering. Science, Vol. 210, pp.390 398,1980.
+[4]  G. E. Peterson, and H. L. Barney, Control methods used
+in a study of vowels. Journal of the Acoustical Society of
+America, Vol. 24, pp.175 184,1952.
+[5]  J. H. Flowers, D. C. Buhman,and K. D. Turnage, Cross 
+modal equivalence of visual and auditory scatterplots for exploring
+bivariate data samples, HumanFactors, vol. 39, no.
+3, pp.341 351,1997.       
+[6]  C. D. Wickens, D. H. Merwin, andE. L. Lin, Implications
+of graphics enhancements for the visualization of scienti
+data: Dimensional integrality, stereops is, motion, and mesh,
+Human Factors, Vol. 36, no.1, pp.44-61, 1994.
+[7]  F. M. Marchak, and D. D. Zulager, The effectiveness of dynamic
+graphics in revealing structure in multivariate data.
+Behavior Research Methods, Instruments and Computers,
+Vol. 24, no.2, pp.253 257,1992.
+[8]  L. E. Bernstein, and S. P. Eberhardt, Johns Hopkins Li pre ading
+Corpus Video disk Set, Baltimore, MD, The Johns Hopkins University, 1986.    

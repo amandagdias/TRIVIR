@@ -1,0 +1,42 @@
+An Architecture for Spatial Audio Servers                             
+
+David A. Burgess and Jouke C. Verlinden            
+Graphics, Visualization, and Usability Center        
+Georgia Institute of Technology              
+
+
+ABSTRACT
+Before spatial sound can be useful in large software systems,
+there must be a suficient application programing 
+resources. Researchers are using virtual environments 
+requirements of such an interface.
+
+
+
+REFERENCES
+1.  Birrell, A.D., Nelson, B.J. (1984) Implementing
+remote procedure calls, ACM Transactions on
+Computer Systems, Vol. 2, No. 1, Feb. 1984, pp.
+39-59.
+2.  Blauert, J. (1983)Spatial Hearing: The Psychophysics
+of Human Sound Localization, MIT Press: Cambridge, MA.
+3.  Borish, J. (1984) Extension of the image method to
+arbitrary polyhedra, J. Acoust. Soc. Am., 75, 1827-
+1836.
+4.  Burgess, D.A. (1992) Techniques for low cost spatial 
+audio, Proceedings of the Fifth Annual Symposium
+on User Interface Software and Technology
+(UIST Ô92), ACM, New York, 1992, pp. 53-59.
+5.  Liang, J., Shaw, C., Green, M., (1991) On temporal
+spatial realism in the virtual reality environment,
+Proceedings of the Fourth Annual Symposium on
+User Interface SOftware and Technology (UIST
+Ô91), ACM, New York, 1991, pp.19-26.
+6.  Postel, J. (1980) User datagram protocol, RFC 768,
+Network Information Center, SRI International,
+Menlo Park, Calif., August 1980.
+7.  Verlinden, J.C., Kessler, A., Hodges, L.F. (1993)
+The Simple Virtual Environment (SVE) Library:
+Users Guide, Tech Report GIT-GVU-93-24.
+8.  Wenzel, E.M. (1992) Localization in virtual acoustic
+displays, Presence, 1, 80-107.

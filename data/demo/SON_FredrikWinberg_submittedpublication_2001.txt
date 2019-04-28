@@ -1,0 +1,76 @@
+Qualitative Aspects of Auditory Direct Manipulation: A Case Study of the Towers of Hanoi                                
+
+Fredrik Winberg                                               Sten Olof Hellström
+Royal Institute of Technology                                 City University
+Centre for User Oriented IT-Design                            Department of Music
+Lindstedtsvägen 5, SE-100 44 Stockholm, Sweden                London EC1V 0HB, UK
+fredrikw@nada.kth.se                                          soh@nada.kth.se
+
+
+
+ABSTRACT
+This paper presents the results from a qualitative case study 
+of an auditory version of the game Towers of Hanoi. The goal  
+of this study was to explore qualitative aspects of auditory  
+direct manipulation and the subjective experience from playing 
+the game. The results show that it is important to provide
+a way of focusing in the auditory space. Articulatory directness 
+was also an important issue and feedback should support 
+the movement of the objects in the auditory space.       
+
+
+
+REFERENCES
+[1] B. Shneiderman, Direct manipulation: a step beyond      
+    programming languages,  IEEE Computer, vol 16, pp.       
+    57-69, 1983.                                             
+[2] E.L. Hutchins, J.D. Hollan, and D.A. Norman, Direct     
+    manipulation Interfaces, in User centered system        
+    design, D. A. Norman and S. W. Draper, Eds. Hillsdale,   
+    NJ, Lawrence Erlbaum Associates Inc, pp. 87-124,         
+    1985.                                                    
+[3] GUIB Consortium, Final Report of the GUIB Project:       
+    Textual and Graphical Interfaces for Blind People,       
+    London: Royal National Institute for the Blind, 1995.    
+[4] H. Petrie, S. Morley, and G. Weber, Tactile-based       
+    direct manipulation in GUIs for blind users, in              
+    Conference companion on Human factors in computing            
+    systems, CHI’95, New York: ACM, pp. 428-429.                    
+[5] A. Savidis, C. Stephanidis, A. Korte, K. Crispien, and          
+    K. Fellbaum, A Generic Direct-Manipulation 3D-                 
+    Auditory Environment for Hierarchical Navigation in             
+New York: ACM, pp. 117-123, 1996.
+[6] S. Saue, A model for interaction in exploratory
+sonification displays, in Proceedings of ICAD 2000,
+available at: http://www.icad.org/websiteV2.0/
+Conferences/ICAD2000/ICAD2000.html
+[7] I.J. Pitt, and A.D.N. Edwards, Navigating the
+Interface by Sound for Blind Users, in People and
+Computers VI, Proceedings of the HCI 91 Conference,
+D. Diaper, and N. Hammond, Eds. Cambridge
+University Press, pp. 373-383, 1991.
+[8] A.S. Bregman, Auditory scene analysis: The
+Perceptual Organization of Sound, Cambridge, MA:
+MIT Press, 1990.
+[9] U. Axen, and I. Choi, Investigating geometric data
+with sound, in Proceedings of ICAD'96, available at:
+http://www.icad.org/ICAD96/proc96/axen.htm
+[10]F. Winberg, and S.O. Hellstr m, The quest for
+auditory direct manipulation: the sonified Towers of
+Hanoi, in Proceedings of the 3rd International
+Conference on Disability, Virtual Reality and
+Associated Technologies (ICDVRAT 2000), P. Sharkey,
+A. Cesarani, L. Pugnetti, and A. Rizzo, Eds. Reading,
+UK, pp. 75-81, 2000.
+[11]W.W. Gaver, R.B. Smith, and T. O’Shea, Effective
+sounds in complex systems: The ARKola simulation,
+in Proceedings of CHI’91, New York: ACM, pp. 85-90,
+1991.
+[12]F. Winberg, and S.O. Hellstr m, Investigating
+Auditory Direct Manipulation: Sonifying the Towers of
+Hanoi, in CHI 2000 Extended Abstracts, New York:
+ACM, pp. 281-282, 2000.
+[13]W.W. Gaver, Using and Creating Auditory Icons, in
+Auditory display: Sonification, audification, and
+auditory interfaces, G. Kramer, Ed. Reading, USA:
+Addison-Wesley, pp. 417-446, 1994.

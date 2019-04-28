@@ -6,9 +6,9 @@ var fs = require('fs');
 var R = require('r-script');
 var pathlib = require('path');
 
-var base = "../../data/demo/ILP-1297Ale37-44.txt";
+var base = "../../data/demo/CBR-837Aam274-288.txt";
 var corpus = "../../data/demo";
-var username = 'mo';
+var username = 'test';
 
 
 var path_core = "../../core/"+pathlib.basename(corpus);
@@ -71,6 +71,7 @@ app.post('/scatterplot', function (req, res) {
                        fs.readFile("../file/"+pathlib.basename(corpus)+"/"+username+"/coordinates.json", "utf8", function(err, data){
                               if(err) console.log(err);
                               console.log(out);
+                              var currentdate = new Date(); 
                               var datetime = "Last Sync: " + currentdate.getDate() + "/"
                                     + (currentdate.getMonth()+1)  + "/" 
                                     + currentdate.getFullYear() + " @ "  
@@ -144,9 +145,9 @@ app.post('/signature', function (req, res) {
   console.log(datetime)
     
 
-  R("./scripts/main.R").data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
-      .call(function(err,d){
-           //if (err) console.log("erro " + err);          
+  var d = R("./scripts/main.R").data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
+        .callSync();
+  console.log("out " + d);   
          
            if (d == "success"){
               console.log(d);
@@ -165,7 +166,7 @@ app.post('/signature', function (req, res) {
                                     
               });      
             }
-      });  
+      //});  
  
 });
 

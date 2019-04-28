@@ -1,0 +1,52 @@
+Principal Curve Sonification          
+
+T. Hermann, P. Meinicke and H. Ritter        
+Faculty of Technology         University of Bielefeld       D-33615 Bielefeld
+e-mail: {thermann,pmeinick,helge}@techfak.uni-bielefeld.de
+
+
+
+
+ABSTRACT                                                                          
+This paper describes a new approach to render sonifications for high-dimensional data,
+allowing the user to perceive the main structure of the data distribution. This is achieved 
+by computing the principal curve of the data set, which is a trajectory that asses through
+the middle of the data and allows to de nea time order on the data points. The sonification
+can be imagined as the time-variant auditory scene, perceived while moving along the principal
+curve. In this paper a method for computing principal curves is presented, the sonification
+concept is introduced and some sonification examples are given.
+
+REFERENCES                                                                                       
+
+1  J. D. Ban ld and A. E. Raftery. Ice oe identification in satellite images using mathematical
+morphology and clustering about principal curves. Journal of the American Statistical 
+Association, 87:7 16, 1992.              
+2  D. R. Cox and M. A. A. Cox. Multidimensional Scaling. Chapman& Hall, London,1994.
+3  U. M. Fayyadet al., editor. Advances in Knowledge Discovery and Data Mining. MIT Press, 1996.
+4  R. A. Fisher. UCI repository of maschine learning databases.ftp://ftp.ics.uci.edu/pub/machine-learning-databases/iris/.
+5  J. H. Friedman and J. W. Tukey. A projection pursuit algorithm for exploratory data analysis.
+IEEE Transactions on Computers, 23:881 890, 1974.                                                                  
+6  T. Hastie and W. Stuetzle. Principal curves. Journal of the American Statistical Association,
+84:502 516, 1989.
+7  T. Hermann. Principal Curve Sonification- Examples http://www.techfak.uni-bielefeld.de/thermann/projects/index.html,
+1999.                                                                                         
+8  T. Hermann and H. Ritter. Listen to your Data: Model-Based Sonification for Data Analysis. 
+In M. R. Syed, editor, Advances in intelligent computing and mulimedia systems. Int. Inst. for 
+Advanced Studies in System Research and Cybernetics, 1999.                                                                                         
+9  B. Kegl, A. Krzyzak, T. Linder, andK. Zeger. Learning and design of principal curves. submitted
+to IEEE Transactions on Pattern Analysis and Machine Intelligence, 1998. 
+URL=http://magenta.mast.queensu.ca/linder/ps les/KeKrLiZe97.ps
+
+10 G. Kramer, editor. Auditory Display-Sonification, Audification, and Auditory Interfaces. 
+Addison-Weslay, 1994.
+11 Filip Mulier and Vladimir Cherkassky. Self-organization as an iterative kernels moothing
+process. Neural Computation, 7(6):1165 1177,1995.                                                                          
+12 H. Ritter, T. Martinetz, and K. Schulten. Neural Computation and Self-Organizing Maps.
+An Introduction. Addison-Wesley, Reading,MA, 1992.                                                                             
+13 K. Rose, E. Gurewitz, andG. C. Fox. Statistical mechanics and phase transitions in clustering.
+Physical Review Letters, 65(8):945 948,1990.                                                                           
+14 C. Scaletti. Sound synthesis algorithms for auditory data representations. In G. Kramer, 
+editor, Auditory Display. Addison-Wesley, 1994.                                                                                 
+15 D. W. Scott. Multivariate Density Estimation. Wiley & Sons, 1992.
+16 A. J. Smola, S. Mika, and B. Scholk opf. Quantization functionals and regularized principal
+manifolds. Neuro COLT227150,1989.

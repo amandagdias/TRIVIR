@@ -1,0 +1,72 @@
+A Series of Three Mixed Reality Workshops:                         
+Sounding Out Sound in Mixed Reality Environment                  
+
+Ramon Gonzales-Arroyo, Heike Staff, John Bowers 
+CID, Centre for User Oriented IT Design
+NADA, Deptartment of Numerical Analysis and Computer Science
+KTH (Royal Institute of Technology)
+SE-10044 Stockhom, Sweden
+Telephone: +46(0)87909100
+Fax: +46(0)87909099   
+E-mail: cid@nada.kth.se
+URL: http://cid.nada.kth.se
+
+
+A Series of Three Mixed Reality Workshops: Sounding Out – Sound in Mixed Reality Environment
+
+ABSTRACT                      
+The second workshop in the series of practical mixed reality workshops, defined in
+Workpackage 7b.1, focusses on sound. This is the topic with which most of the eRENA
+partners have to deal: finding technical and aesthetic solutions for sound, within an image
+oriented mixed environment. Virtual (and mixed) reality environments often lack a
+convincing solution for all aspects of sound.
+The  workshop took place at the ZKM, on December, 2nd and 3rd 1999. Five lectures
+and demonstrations, presented by eRENA partner’s collaborators, alternated with
+discussions among the participants.
+The deliverable documents the content of the workshop structured in four parts: sound
+in relation to its form of data, in relation to space, to image, and to interaction. One of the
+achievements of the workshop was in showing how many different relationships are
+existing around these four aspects. Artistic and pragmatic use of sound in mixed reality
+environments were regarded as well as the different accesses to visual and audio matters.
+
+
+References                                                                                              
+1 See the scientific references of William Gaver on http://www.crd.rca.ac.uk/~bill/ref.htm.              
+2 Gerhard Eckel: Applications of the Cyberstage Spatial Sound Server. Proceedings of the                 
+16th AES International Conference on Spatial Sound Reproduction  1999; GMD Sankt                        
+Augustin                                                                                                
+3 Bernd  Lintermann & Torsten Belschner : SonoMorphis – Interactive installation with                    
+genetic graphics and sound. SonoMorphis has been shown at the exhibition surrog,ate                     
+Nov 1st - Dec 6th 1998 at the ZKM Institute for Visual Media. The image was projected                   
+onto the front wall of a room of 6m width and 7m depth. The projection size was 5 x 3m.                 
+The interface consists out of a mixing board plus chair which were installed 4,50m in                   
+front of the screen. The image was projected in stereo using Chrystal Eyes Shutter                      
+Glasses. The moving sound sources were projected quadrophonically with two speakers                     
+in front and two in the rear. SonoMorphis has also been shown during the 11th Stuttgarter               
+Filmwinter, Jan 14th - 17th 1999, in the CAVE of the IAO, Fraunhofer Gesellschaft in                    
+Stuttgart. The user interface was located in front of the CAVE.                                         
+http://i31www.ira.uka.de/~linter/SonoMorphis                                                            
+4 www.particles.de                                                                                       
+5 Pierre Dutilleux and Christian Mueller-Tomfelde: AML: Architecture and Music                           
+ th Laboratory. A Museum Installation. AES 16
+International Conference on Spatial Sound Reproduction 1999)                                                                                      
+6 Espaces Nouveaux/IRCAM. Spatialisateur, the Spat Processor and its Library of Max                      
+Objects. Reference Manual. IRCAM 1995 & Jot J.M.,  Warusfel O. 1995. A Real-Time                        
+Spatial Sound Processor for Music and Virtual Reality Applications. In: Proc. of the 1995               
+International Computer Music Conference. International Computer Music Association,                      
+San Francisco, 1995.                                                                                    
+7 see for example: W. Gaver: How do we Hear in the World? Exploration in Ecological                      
+Acoustics. Ecological Psychology, 5(4): 285-313 1993                                                    
+8 M. Radenkovic, C.M. Greenhalgh, S.D. Benford: "A Scaleable Audio Service for                           
+Collaborative Virtual Environments", UKVRSIG’99, Salford, September, 1999, Springer                     
+Press.                                                                                                  
+9 Milena Radenkovic, Chris Greenhalgh, Steve Benford: Inhabited TV: Multimedia                           
+Broadcasting from Large Scale Collaborative Virtual World, Telsiks 99, Vol1, p68-72,                    
+IEEE Catalog Number: 99EX365                                                                            
+10 Gerhard Eckel, 1994. Camera Musica. In: Gisela Nauck (ed) Interaktive Musik,                          
+Positionen 21. Berlin, 1994. pp. 25-28.                                                                 
+11 Gerhard Eckel, 1997. Exploring Musical Space by Means of Virtual Architecture. Proc.                  
+of the 8th International Symposium on Electronic Art. School of the Art Institute of                    
+Chicago, Chicago, 1997.                                                                                 
+12 www.particles.de (December 1999)                                                                      
+13 see eRENA Deliverable D6.4.

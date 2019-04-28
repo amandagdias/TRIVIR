@@ -1,0 +1,388 @@
+Production Tools for Electronic Arenas: Event Management and Content Production
+
+
+Sabine Hirtes, Michael Hoch, Bernd Lintermann and Sally Jane Norman
+John Bowers, Kai-Mikael J-Aro, Sten-Olof Hellstrm and Malin Carlzon
+
+
+ABSTRACT                               
+
+This document comprises a combined deliverable made up of Deliverables D4.3 and D4.4 to the eRENA project.
+This document considers how the production of events in electronic arenas, might be supported. The concern is with
+the behind-the-scenes activities which are necessary in staging an event and how those activities might be best
+supported technically. Basing our research on the practical experience accumulating in eRENA, and on the field
+studies of production work performed, we present novel technologies and orientations to the support of production
+process, these principally focus on technologies for supporting events as they occur in real-time and include:
+proposals and demonstrations of virtual cameras for capturing activity in electronic arenas, techniques for sonifying
+the activity of participants in an electronic arena to give an audible sense of the status of events, a physical
+environment containing tangible interfaces to production software to facilitate timely direction and production work,
+and a system for mapping data from participants to enable its flexible interpretation in media-rich environments. It
+also begins to consider how content for events might be developed both off-line as well as improvised in real-time.
+The document contains reports of public artistic events which have driven the developments here as well as
+stimulated novel cross-project collaborations. Throughout there is a concern to reflect critically on the status of the
+technologies and concepts explored, where possible through formal analysis, and how they might influence and learn
+from other developments in the eRENA project.
+
+
+References                                                                                   
+  [eRENA3.1] Demonstration and Evaluation of Inhabited Television, eRENA Deliverable 3.1,    
+1998.                                                                                        
+  [HREF1] Questions and Answers about Audience Participation                               
+http://wwwphish.net/PhishFAQ/laudience.html                                                  
+  [HREF2] Piro, S., It was great when it began, http://rockyhorror.com/partbegan.html      
+  [HREF3] Audience Participation creates enchanting atmosphere at opera,                   
+http://www.cc.govt.nz/MediaReleases/98audience.html                                          
+  [HREF4] Option Finder: Product Information,                                              
+http://www.optionfinder.com/product.line/product.content.html                                
+  [HREF5] CINEMATRIX: Interactive Entertainment Systems, http://www.cinematrix.com/        
+  [HREF6] Ars Electronica: Loren & Rachel Carpenter Audience Participation,                
+http://www.aec.at/fest/fest94e/carp.html                                                     
+  Ackerman, Mark S., editor (1996). CSCW  ' 96:  Cooper ating Com m uniti es , November 1996.
+http://www.acm.org/pubs/contents/proceedings/cscw/240080/index.html   .                      
+Alias | Wavefront (1998). Using Maya: Animation Version 1.0 and Using Maya: Dynamics      
+Version 1.0.                                                                                
+  Bandi, Srikanth and Thalmann, Daniel (1995). An adaptive spatial subdivision of the object
+space for fast collision detection of animated rigid bodies. Computer Graphics Forum, 14(3): C-
+259–C-270, 1995. Proceedings Eurographics '95.                                               
+  Barrus, J. and Anderson, D. (1996). Locales and Beacons. in Proc. 1996 IEEE Virtual      
+Reality Annual International Symposium (VRAIS 96), San Jose, 1996.                           
+  Benford, Steve, Bowers, John, Fahl n, Lennart E., and Rodden, Tom (1994). A spatial model 
+of awareness. In Bj rn Pehrson and Eva Skarb ck, editors, Pr oce edings  of 6t h ERCI M     
+W or ks hops. ERCIM, June 1994.                                                              
+  Benford, Steve, Bowers, John, Craven, Mike, Greenhalgh, Chris, Morphett, Jason, Regan, Tim,
+Walker, Graham, and Wyver, John (1999). Ev aluati ng Out  Of  Thi s W or ld:  A n Expe ri me nt in
+I nhabit ed T ele vis ion. eRENA, February 1999. Deliverable 7a.1.                           
+  Benford, Steve, Brazier, Claire-Janine, Brown, Chris, Craven, Michael, Greenhalgh, Chris,  
+Morphett, Jason, and Wyver, John (1998). D em onst rat ion and Ev aluati on of I nhabit ed   
+T ele vis ion. eRENA, May 1998. Deliverable 3.1.                                             
+  Benford, S., D. and Fahl n L. E. (1993). A Spatial Model of Interaction in Large Scale Virtual
+Environments, Proc. Third European Conference On Computer Supported Co-operative            
+Working (ECSCW ’93), Milano, Italy, Kluwer Academic Publishers, pp. 109–124.                 
+  Benford S., Greenhalgh C., Brown C., Walker G., Regan T., Morphett J., Wyver J. and  Rea P.
+(1998). Experiments in inhabited TV, Proceedings of CHI’98, pp 289–290.                      
+  Benford, S. D., Greenhalgh, C. M. and Lloyd, D. (1997). Crowded Collaborative             
+Environments, Proc. CHI'97, Atlanta, pp. 59–66, USA, March 1997, ACM Press.                 
+  Benford, S. D., Greenhalgh, C. M., Snowdon, D. N, and Bullock, A. N. (1997). Staging a    
+Poetry Performance in a Collaborative Virtual Environment, Proc. ECSCW'97, Lancaster, UK,   
+Kluwer. 1997.                                                                                
+  Benford, S., Greenhalgh, C., Craven, M., Walker, G., Regan, T., Morphett, J., Wyver, J. and
+Bowers, J. (1999). Broadcasting on-line social interaction as inhabited television. Submitted to
+ECSCW99.                                                                                     
+  Bilson, A. J. (1995). Get into the Groove: Designing for Participation, Interactions, April
+1995.                                                                                        
+  Blinn, J. (1988). Where am I? What am I looking at?. IEEE Computer Graphics and          
+Applications, July 1988, pp. 76–81.                                                          
+  Bly, S., Harrison, S. and Irwin, S. (1993). Media Spaces: Bringing People Together in a   
+Video, Audio and Computing Environment, Communications of the ACM, Vol 36, Number 1,        
+pp. 28–47, 1993.                                                                             
+  Boulic, R., Capin, T., Huang, Z., Moccozet, L., Molet, T., Kalra, B. Lintermann, B., Magnenat-
+Thalmann, N., Pandzic, I., Saar, K., Schmitt, A., Shen, J. and Thalmann, D. (1995). The     
+HUMANOID Environment for Interactive Animation of Multiple Deformable Human                  
+Characters, Proc. Eurographics, Maastricht, 1995.                                           
+  Bowers, J. (1994). The work to make the network work. Proc. CSCW'94, 1994.               
+  Bowers, J., O'Brien, J. and Pycock, J. (1996). Practically accomplishing immersion. Proc.
+CSCW'96, 1996.                                                                               
+  Bowers, John, Pycock, James, and O'Brien, Jon (1996). Talk and embodiment in collaborative
+virtual environments. In CH I  '96:  H um an Fact ors  in Com puti ng Sys tem s :  Comm on G round,
+pages 58–65. SIGCHI, April 1996. http://www.acm.org/pubs/articles/proceedings/chi/238386/p58-
+bowers/p58-bowers.html.                                                                      
+  Bregman, A. S. (1990). Auditory scene analysis. Cambridge, MA: MIT Press.                  
+  Capin, T.K., Pandzic, I.S., Noser, H., Magnenat Thalmann, N. and Thalmann, D. (1997).      
+Virtual Human Representation and Communication in VLNet Networked Virtual                   
+Environments, IEEE Computer Graphics and Applications, 1997.                                
+  Chalmers, M. (1994). Information environments. In L. MacDonald & J. Vince (eds),         
+Interacting with virtual environments, Chichester, 1994.                                     
+  Chen, M., Mountford, J. and Sellen, A. (1988). A Study in Interactive 3-D Rotation Using 2-D
+Control Devices, Computer Graphics, 22(4), August 1988, pp. 121–129.                        
+  Concise Oxford Dictionary (1996). , Oxford University Press, ISBN: CN-9129, 1996.          
+  Damer, B. (1997). Demonstration and Guided Tours of Virtual Worlds on the Internet,      
+CHI’97 (demonstrations), Atlanta, US, 1997.                                                  
+  Deussen O., Hanrahan P., Lintermann B., Mech R., Pharr M. and Prusinkiewicz P. (1998).     
+Realistic Modeling and Rendering of Plant Ecosystems, Proc. SIGGRAPH '98, Orlando,         
+Florida, 1998.                                                                               
+  Deussen, O. and Lintermann, B. (1997). A Modelling Method and Interface for Creating      
+Plants,  Proc. Graphics Interface '97, Kelowna B.C., Morgan Kaufmann Publishers, May 1997.  
+ Deussen, O. and Lintermann, B. (1997) Erzeugung komplexer botanischer Objekte in der      
+
+Computergraphik, in Informatik Spektrum 20/4, Berlin-Heidelberg-New York, Springer-Verlag,  
+
+October 1997.                                                                                
+
+  Deussen, O., Lintermann, B. and Prusinkiewicz, P. (forthcoming). Computergenerierte       
+
+Pflanzen (working title), Spektrum der Wissenschaft (Scientific American, international issue in
+
+German).  In preparation (publication scheduled summer 1999).                                
+
+  Drucker S. (1994), Intelligent Camera Control for Graphical Environments, PhD Thesis, MIT  
+
+Media Lab. 1994.                                                                             
+
+  Drucker, S., Galyean, T. and Zeltzer, D. (1992). CINEMA: A System for Procedural Camera   
+
+Movements, in Proc. 1992 Symposium on Interactive 3D Graphics, Cambridge MA: ACM            
+
+Press, March 29–April 1, 1992, pp. 67–70.                                                    
+
+  Drucker, Steven M. and Zeltzer, David (1995). CamDroid: A system for implementing         
+
+intelligent camera control. Com puter  G raphi cs , 29:139–144, April 1995.                 
+
+http://www.acm.org/pubs/articles/proceedings/graph/199404/p139-drucker/p139-drucker.pdf.     
+
+  Elsaesser, T. and Hoffman, K. (eds.) (1998). Cinema Futures: Cain, Abel or Cable. Amsterdam
+
+Univ. Press. 1998.                                                                           
+
+  Fairchild, Kim Michael, Poston, Timothy, and Bricken, William (1994). Efficient virtual   
+
+collision detection for multiple users in large virtual spaces. In Gurminder Singh, Steven K.
+
+Feiner, and Daniel Thalmann, editors, Virtual Reality Software & Technology, pages 271–285.  
+
+ACM & ISS, World Scientific, 1994.                                                           
+
+  Feiner, S.K. and McKeown, K.R (1991). Automating the generation of coordinated            
+
+multimedia explanations. IEEE Computer 24(10), 1991, pp 33–41.                              
+
+  Fishkin K., Moran T. and Harrison B. (1998). Embodied User Interfaces: Towards Invisible  
+
+User Interfaces,  Proc. EHCI'98 Conference on Engineering for Human-Computer Interaction,   
+
+Crete Greece, 1998                                                                           
+
+  Fitch, T., and Kramer, G. (1994). Sonifying the Body Electric: Superiority of an Auditory over
+
+a Visual Display in a Complex, Multivariate System. In Kramer (1994).                       
+
+  Fitzmaurice G., Ishii H. and Buxton W. (1995). Bricks: Laying the Foundations for Graspable
+
+User Interfaces, ACM Proceedings CHI’95, Denver, Colorado, 1995.                            
+
+  Flowers, J. H., Buhman, D. C., & Turnage, K. D. (1996). Cross-modal equivalence of visual 
+
+and auditory scatterplots exploring bivariate data samples. Human Factors, 39(3), pp 341–351.
+
+  Frécon, E., Eriksson, H. and Carlsson, C. (1992). Audio and Video Communication in        
+                                                                    th                       
+Distributed Virtual Environments, Proceedings of the 5                MultiG Workshop, December, 1992.
+
+  Funkhouser, Thomas A. (1996). Network Topologies for Scalable Multi-User Virtual          
+
+Environments, in Proc. 1996 IEEE Virtual Reality Annual International Symposium             
+
+(VRAIS’96), San Jose, CA, April, 1996.                                                       
+
+  Gabor, D. (1947). Acoustical Quanta and the Theory of Hearing. Nature, Vol. 159, No. 4044.
+
+  Garfinkel, H. (1967). Studies in ethnomethodology. Prentice Hall. 1967.                    
+
+  Gaver, W. W. (1994). Using and creating auditory icons. In Kramer (1994), pp. 417–446.   
+  Gaver, W. W., Smith, R. B., and O’Shea, T. (1991). Effective sounds in complex systems: the
+
+ARKola simulation. In Proceedings of CHI ’91. New York: ACM                                 
+
+  Gleicher, M. and Witkin, A. (1992). Through-the-Lens Camera Control, Computer Graphics   
+
+(Proc. Siggraph), Vol. 26, No. 2, Aug. 1992. pp. 331–340.                                    
+
+  Greenhalgh, C. and Benford, S. (1995). MASSIVE: A Virtual Reality System for Tele-        
+
+conferencing, ACM TOCHI, 2 (3), pp. 239–261, ACM Press, 1995.                               
+
+  Greenhalgh, C. and Benford, S. (1997). A Multicast Network Architecture for Large Scale   
+
+Collaborative Virtual Environments, Multimedia Applications and Services and                
+
+                                           nd                                                
+Techniques—ECMAST ’97, Proc. 2                European Conference, Serge Fdida and Michele Morganti
+
+(eds.), Milan, Italy, May 21–23 1997, pp 113–128, Springer.                                  
+
+  Greenhalgh C., Benford S., Taylor I., Bowers J. et. al. (1999). Creating a Live Broadcast from
+
+a Virtual Environment, SIGGRAPH '99, Conference Proceedings, Los Angeles, 1999.             
+
+  Han, J. and Smith, B. (1996). CuSeeMeeVR Immersive Desktop Teleconferencing, ACM         
+
+Multimedia ’96, Boston, MA, USA, ACM 0-89791-871-1, pp.199–207, 1996.                        
+
+  Hayward, Chris (1994). Listening to the Earth Sing. In Kramer (1994).                    
+
+  He, L., Cohen, M.F., Salesin, D.H. (1996) The Virtual Cinematographer: A Paradigm for     
+
+Automatic real-Time Camera Control and Directing. Proceedings of SIGGRAPH 96                
+
+  Hoch M. (1997). Object Oriented Design of the Intuitive Interface, , Proceedings 3D Image
+
+Analysis and Synthesis, Erlangen, November 17–19, Infix 1997, pp 161–167.                    
+
+  Hoch M. (1998). A Prototype System for Intuitive Film Planning, Third IEEE International 
+
+Conference on Automatic Face and Gesture Recognition (FG'98), April 14–16, Nara, Japan       
+
+1998, pp 504–509.                                                                            
+
+  Hoppe, Axel, Gatzky, Thomas, and Strothotte, Thomas (1995). Computer supported staging of 
+
+photorealistic animations. In GraphiCon '95 Proceedings (St. Petersburg, July 1995), volume 1,
+
+pages 179–185, St. Petersburg, July 1995. GRAFO Computer Graphics Society.                   
+
+  Hughes, J., Randall, D. and Shapiro, D. (1992). Faltering from ethnography to design. Proc.
+
+CSCW'92, 1992.                                                                               
+
+  Ishii H. and Ullmer B. (1997). Tangible Bits: Towards Seamless Interfaces between People, 
+
+Bits and Atoms, ACM Proceedings of CHI’97, pp. 234–241.                                     
+
+  Karp, Peter and Feiner, Steven (1990). Issues in the automated generation of animated     
+
+presentations.  Proceedings of GI ’90. pp. 39–48.                                           
+
+  Kozel, S. (1998). Marionettes and dancers, dance and digital technologies, in Archis 61, 
+
+Amsterdam, 1998/10                                                                           
+
+  Kramer, G., editor (1994). Auditory Display: Sonification, Audification, and Auditory      
+
+Interfaces. Addison-Wesley, Reading (MA), 1994.                                              
+
+  Kramer, Gregory et al (1997). Sonification Report: Status of the Field and Research Agenda,
+
+1997.                                                                                        
+  Lea, R., Honda, Y. and Matsuda, K. (1997). Virtual Society: Collaboration in 3D Spaces on 
+the Internet, Computer Supported Co-operative Work: The Journal of Collaborative Computing, 
+6, 227–250, 1997, Kluwer.                                                                    
+  Lintermann, B. and Deussen, O. (1996). Interactive Modeling of Branching Structures,     
+SIGGRAPH 96 Visual Proceedings, New Orleans, 1996                                            
+  Lintermann, B. and Deussen, O. (1996). Interactive Modeling and Animation of Branching    
+Botanical Structures, EGCAS'96 Workshop on Computer Animation and Simulation, published     
+in Computer Animation and Simulation '96, Vienna-New York, Springer, 1996, pages 139–151     
+  Lintermann, B. (1997). Morphogenesis, interactive installation for the ZKM Medienmuseum;   
+exhibited at Multimediale 5, Oct–Nov 1997. http://i31www.ira.uka.de/~linter/morphogenesis.html
+  Lintermann, B. and Deussen, O. (1998). A Modeling Method and Interface for Creating       
+Plants,     Computer Graphics Forum, vol 17, number 1, March 1998                           
+  Lintermann, B. and Belschner, T. (1998). Sonomorphis, interactive installation with genetic
+graphics and sound; exhibited at surrogate1, ZKM Institute for Visual Media, Nov–Dec 1998.   
+http://www.zkm.de/surrogate/sonomorphis.html                                                 
+  Lintermann, B. and Deussen, O. (1999). Interactive Structural and Geometrical Modeling of 
+Plants, IEEE Computer Graphics & Applications, vol 19(1), Jan/Feb 1999                      
+  Lunney, D. and Morrison, R. C. (1981). High-Technology Laboratory Aids for Visually       
+Handicapped Chemistry Students. J. Chem. Ed. 58(3). pp 228–231.                             
+  Macedonia, M. R., Zyda, M. J., Pratt, D. R., Brutzman, D. P. and Barham, P. T. (1995).     
+Exploiting Reality with Multicast Groups: A Network Architecture for Large-scale Virtual    
+Environments, Proc. VRAIS’95, 11–15 March, 1995, RTP, North Carolina.                       
+  Mackinlay, J., Card, S. and Robertson, G. (1990). Rapid Controlled Movement Through a     
+Virtual 3D Workspace, Computer Graphics, 24(4), August 1990, pp. 171–176.                   
+  Manovich, L. (1998). Towards an archaeology of the computer screen & To lie and to act:   
+Cinema and telepresence. In Elsaesser and Hoffman (1998).                                   
+  Martin D., Bowers J. and Wastell D. (1997). The interactional affordances of technology: an
+ethnography of human-computer interaction in an ambulance control centre. Proceedings of     
+HCI'97.                                                                                      
+  Morphett, J. (1998). eTV: A Mixed Reality Interface onto Inhabited TV, ESPRIT project    
+#25379 (eRENA) deliverable D3.2, 1998.                                                       
+  Mulder, J.D. and van Wijk, J.J. (1995). 3D Computational Steering with Parametrized       
+Geometric Objects. In Nielson, G.M. and Silver, D. (eds.), Proceedings Visualization'95, IEEE
+Computer Society Press, Los Alamitos, CA, 1995, pp 304–311.                                  
+  Norman, S.J. (1989). Les poup es pixel: marionnettes du troisi me millenaire, in Puck, No 2,
+Institut International de la Marionnette, Charleville-M zieres, 1989.                        
+  Norman, S.J. (1996a). The Art of Puppets, in Proc. IMAGINA, Bry-sur-Marne, INA—Centre    
+National de la Cin matographie, 1996.                                                        
+  Norman, S.J. (1996b). Les objets de l'homme, in Puck, No 9, Institut International de la 
+Marionnette, Charleville-M zieres, 1996.                                                     
+  Norman, S.J. (1996c). Acting and enacting: stakes of new performing arts/Immersion and  
+theater, Proc. International Symposium of Electronic Arts, Montreal, 1996.                  
+  Norman, S.J. (1997a). Acteurs de synth se et th atres l ctroniques, in Le Film de th atre,
+Paris, Editions du Centre National de la Rech rche Scientifique, 1997.                       
+  Norman, S.J. (1997b). Technology in the Performing Arts: Ways of Seeing, Ways of Doing,  
+in Writings on Dance, No 17, Victoria, Australia, 1997.                                      
+  Norman, S.J. (1997c). Les nouvelles technologies de l'image et les arts de la sc ne, in  
+Th atre Public, No 127, Paris, 1997.                                                         
+  Pereverzev, S.V., Loshak, A., Backhaus, S., Davis, J.C. and Packard, R.E. (1997). Quantum 
+oscillations between two weakly coupled reservoirs of superfluid 3He Nature 388, pp 449–451.
+  Phillips, Cary B., Badler, Norman I., and Granieri, John (1992). Automatic viewing control
+for 3D direct manipulation. 1992 Symposium on Interactive 3D Graphics, pages 71–74.         
+  Pitas, I. (1993). Digital Image Processing Algorithms, Prentice Hall, ISBN: 0-13-145814-0, 
+1993.                                                                                        
+  Preece, J., Rogers, Y., Sharp, H., Benyon, D., Holland, S. and Carey, T. (1994). Human-    
+Computer Interaction, Addison Wesley, ISBN: 0-201-62769, pp. 281–282, 1994.                  
+  Pycock, J. and Bowers, J. (1996). Getting others to get it right. Proc. CSCW'96, 1996.   
+  Rauterberg M., Bichsel M., Fjeld M. et. al. (1998), BUILD-IT: A Planning Tool for         
+Construction and Design, Video Proc. + Summary CHI'98.                                      
+  Reynard, G. T., Benford, S. D. and Greenhalgh, C. M. (1998). Awareness Driven Video       
+Quality of Service in Collaborative Virtual Environments, Proc. ACM CHI’98, Los Angeles,    
+April 1998, ACM.                                                                             
+  Roads, C. (1988). Introduction to Granular Synthesis. C. M. J. Vol. 12, No. 2, pp 11–13. 
+  Rodden, Tom (1996). Populating the application: A model of awareness for cooperative      
+applications. In Ackerman 1996, pages 87–96.                                                
+http://www.acm.org/pubs/articles/proceedings/cscw/240080/p87-rodden/p87-rodden.pdf.          
+  Sandor, Ovidiu, Bogdan, Christian, and Bowers, John (1997). Aether: An awareness engine   
+for CSCW. In John A Hughes, Wolfgang Prinz, Tom Rodden, and Kjeld Schmidt, editors,         
+Pr oce edings  of t he Fi fth E urope an Confer enc e on Com puter - Suppor ted Coope rat ive  W ork , pages
+221–236, Dordrecht, Boston, London, September 1997. Kluwer Academic Publishers.              
+  Scaletti, C., and Craig, A. B. (1990). Using sound to extract meaning from complex data. In
+E. J. Farrel (ed.), Extracting meaning from complex data: Processing, display, interaction 1259,
+pp 147–153. SPIE                                                                             
+  Seligmann, D. Duncan and Feiner, S. (1991). Automated Generation of Intent-Based 3D       
+Illustrations, in Proc. SIGGRAPH’91, Computer Graphics, 25(4), July 1991.                   
+  Smith, Gareth (1996). Cooperative virtual environments: lessons from 2D multi-user        
+interfaces. In Ackerman 1996, pages 390–398.                                                
+http://www.acm.org/pubs/articles/proceedings/cscw/240080/p390-smith/p390-smith.pdf.          
+  Snowdon, Dave, Greenhalgh, Chris, and Benford, Steve (1995). What you see is not what I   
+
+see: Subjectivity in virtual environments. In Fr am ewor k for  I m me rs iv e Vi rt ual Env ir onme nts ,
+
+pages 53–69, December 1995.                                                                  
+
+  Stary C (1996). Interaktive Systeme. Software-Entwicklung und Software-Ergonomie,        
+
+Vieweg Informatik/Wirtschaftsinformatik, 1996.                                               
+
+  Suzuki, G. (1995). InterSpace: Toward Networked Reality of Cyberspace, Proc. Imagina     
+
+’95, pp. 26–32, 1995.                                                                        
+
+  Times (1998). TV from another planet: something virtually different, The Times (Interface
+
+                       th                                                                    
+section), October 7      1998.                                                               
+
+  Turner, Russell, Balaguer, Francis, Gobbetti, Enrico, and Thalmann, Daniel (1991).         
+
+Physically-based interactive camera motion control using 3D input devices. In Proceedings  
+
+Computer Graphics International '91, 1991. http://ligwww.epfl.ch/~thalmann/papers.dir/CGI91.pdf.
+
+  Ullmer B., Ishii H. and Glas D. (1998). mediaBlocks: Physical Containers, Transport, and  
+
+Controls for Online Media, Proc. SIGGRAPH'98, ACM 1998.                                     
+
+  Underkoffler J. and Ishii H. (1999). Urp: A Luminous-Tangible Workbench for Urban         
+
+Planning and Design, Proc. CHI'99.                                                          
+
+  Vernon, D. (1991). Machine Vision: automated visual inspection and robot vision, Prentice  
+
+Hall, ISBN: 0-13-543398-3, 1991.                                                             
+
+  Walker, G. R. (1997). The Mirror—reflections on Inhabited TV, British Telecommunications 
+
+Engineering Journal. 16 (1), pp. 29–38, 1997                                                 
+
+  Ware, C. and Osborne, S. (1990). Exploration and Virtual Camera Control on Virtual Three- 
+
+Dimensional Environments, Proceedings of the 1990 Symposium on Interactive 3D Graphics,     
+
+Special Issue of Computer Graphics, Vol. 24, pp. 173–183, 1990.                              
+
+  Wellner P (1993). Interacting with Paper on the DigitalDesk, CACM, Vol. 36, No. 7, July  
+
+1993, pp 87–96.                                                                              
+
+  Xiao, Dongbo and Hubbold, Roger (1998). Navigation guided by artificial force fields,    
+
+
+Proceedings of CHI ’98. pages 179–186.                                                       

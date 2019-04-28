@@ -1,0 +1,44 @@
+Designing Non-Speech Sounds to Support Navigation in Mobile Phone Menus               
+
+Grégory Leplâtre and Stephen A. Brewster 
+Department of Computing Science   
+University of Glasgow     
+Glasgow, G12 8QQ Scotland     
++44 141 339 8855       
+gregory@dcs.gla.ac.uk      
+http://www.dcs.gla.ac.uk/~gregory
+
+ABSTRACT                                                                    
+This paper describes a framework for integrating non-speech audio to hierarchical menu structures where the visual feedback
+is limited. In the rst part of this paper, emphasis is put on how to extract sound design principles from actual navigation
+problems. These design principles are then applied in the second part, through the design, implementation and evaluation of a
+set of sounds in a computer-based simulation of the Nokia 6110 mobile phone. The evaluation indicates that non-speech sound
+improves the performance of navigational tasks in terms of the number of errors made and the number of keypresses taken to
+complete the given tasks. This study provides both theoretical and practical insights about the design of audio cues intended to
+support navigation in complex menu structures.                              
+
+
+REFERENCES                                                                                                                    
+1  M. Blattner, D. Sumikawa, and R. Greenberg. Earcons and icons: Their structure and common design principles. Human          
+   Computer Interaction, 4(1):11 44, 1989.                                                                                     
+2  S.A. Brewster, V.-P. Raty, and A. Kortekangas. Earcons as a method of providing navigational cues in a menu hierarchy.     
+   In A. Sasse, R. Cunnigham, and R. Winder, editors,Proceedings of BCS HCI'96, pages 169 183, London, UK, 1996.              
+   Springer.                                                                                                                  
+3  NASA Human Performance Research Group. Task load index (nsa-tlx) v1.0 computerised version. Technical report, NASA         
+   Ames Research Centre, 1987.                                                                                                
+4  David C. Howell. Statistical Methods for Psychology. PWS-KENT Pusblishing Company, third edition, 1992.                        
+5  Andrew Howes. A model of the acquisition of menu knowledge by explorationPr. Inoceedings of CHI'94, pages 445 451,           
+   Boston, Massachusetts USA, 1994. ACM Press.                                                                                
+6  Grégory Leplâtre and Stephen A. Brewster. An investigation of using music to provide navigation cues Proceedings In of
+   ICAD'98, Glasgow, UK, 1998.                                                                                                
+7  Martin Maguire. A human-factors study of telephone developments and convergence.ContemporaryErgonomic,spages               
+   446 451, 1996.                                                                                                             
+8  K.L .Norman. The psychology of menu selection: Designing cognitive control at the human/computerinter fa.A bcleex                   
+   Publishing Corporation, 1991.                                                                                              
+9  Teresa L. Roberts and George Engelbeck. The effects of device technology on the usability of advanced telephone functions. 
+   In Proceedings of ACM CHI'89 Conference on human factors in computing systems, pages 331 337, Austin, Texas, USA,                    
+   1989. ACM Press.                                                                                                           
+10 R.M. Schumacher, M.L. Hardzinski, and A.L. Schwartz. Increasing the usability of interactive voice response systems.       
+   Human Factors, 37(2):251 264, 1995.                                                                                         
+11 Nicole Yankelovich, G. Levow, and M. Marx. Designing speechacts: Issue in speech and user interfaces. Proceedings n         
+   of CHI'95 Conference on Human Factors in Computing Systems, Denver, CO, 1995. ACM Press.

@@ -1,0 +1,53 @@
+Hand Postures for Sonification Control - Extended                                  
+
+T. Hermann, C. Nolker, and H. Ritter            
+Department of Computer Science
+University of Bielefeld              D-33615 Bielefeld
+e-mail: {thermann,claudia,helge}@techfak.uni-bielefeld.de 
+
+
+
+
+Abstract                                    
+SoniFIcation is a rather new technique in human-computer interaction, making usage 
+of our auditory perception channel. Different from speech interfaces, sonification   
+uses non-verbal sounds as the result of its computation. One approach in sonification    
+research is the introduction of sonification models, which aim to construct virtual data  
+materials from high-dimensional data to be explored by the interaction with humans.      
+We propose the use of hand postures as a particularly natural and efficient means of      
+interaction both for this exploration task and for other parameter control tasks within   
+exploration of high-dimensional data. The presented implementation applies neural       
+networks for the identification of continous hand postures and uses a realtime sound    
+synthesis engine. In this paper, we present our system and rst applications to the  
+control of sounds. Sound examples are also given.                                      
+
+
+
+
+
+
+References
+[1]  R. Boulanger. The Csound Book. MIT Press, 2000.
+[2]  U. M. Fayyadet al., editor. Advances in Knowledge Discovery and Data Mining. 
+MIT Press, 1996.                                                                                  
+[3]  T. Hermannand H. Ritter. Listen to your Data: Model-Based Sonification for Data        
+Analysis.    In M. R. Syed, editor, Advances in intelligent computing and mulimedia               
+systems. Int. Inst. for Advanced Studies in System Research and Cybernetics, 1999.                
+[4]  I.A. Kapandji. The physiology of the joints: Upperlimbs. Churchill Li vingstone,1982.              
+[5]  G. Kramer, editor. Auditory Display- Sonification, Audification, and Auditory
+Interfaces. Addison-Wesley, 1994.                                                                  
+[6]  A. G. E. Mulder and S. S. Fels. Sound Sculpting: Manipulating sound through 
+virtual sculpting. In Proceedings of the 1998 Western Computer Graphics Symposium,                     
+pages 15 23, 1998.        http://www.cs.sfu.ca/amulder/personal/vmi/publist.html
+[7]  C. Nolker and T. Hermann. GREFIT: Visual recognition of hand postures. 
+http://www.techfak.uni- bielefeld.de/claudia/vishand. html , 2001.
+[8]  C. Nolk¨ er andH. Ritter. GREFIT : Visual recognition of hand postures. In A. Braffort,          
+R. Gherbi, S. Gibet, J. Richardson,and D. Teil, editors, Gesture-Based 
+Communication in Human-Computer Interaction: Proc.International Gesture Workshop,GW'99,                      
+France, pages 61 72. SpringerVerlag, LN AI 1739, 1999. 
+http://www.TechFak.Uni-Bielefeld.de/techfak/ags/ni/publicfr_99 d.htm .           
+[9]  C. Nolk¨ er and H. Ritter. Parametrized SOMs for hand posture reconstruction.
+In S.I. Amari, C.L. Giles, M. Gori, andV. Piuri, editors, Proceedings IJCNN'2000. 
+Neural Computing: New Challenges and Perspectives for the New Millennium, pages
+IV 139 144, 2000.                                                                                    
+

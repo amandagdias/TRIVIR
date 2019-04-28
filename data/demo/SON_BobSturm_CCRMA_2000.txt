@@ -1,0 +1,56 @@
+Sonification of Particle Systems via de Broglie's Hypothesis                                 
+
+Bob L. Sturm
+Center for Computer Research in Music and Acoustics
+(CCRMA)
+Stanford University
+Stanford, CA 94305 USA
+sturm@ccrma.stanford.edu
+
+
+ABSTRACT                                                                                          
+Quantum mechanics states a particle can behave as either a particle or a wave. Thus systems of 
+particles might be likened to a complex superposition of dynamic waves. Motivated by this, the 
+author develops methods for the sonification of particle systems in a logical manner. Many 
+systems and physical phenomena have thus far been simulated, producing a wide range of
+unique sonic events. The applications that have been explored are for algorithmic sound 
+synthesis and music composition. Of critical importance is addressing the issue of latencies,
+caused by large complex numerical operations at audio sampling rates.
+This becomes painfully clear when particles interact with each other. Further applications of
+this system include scientific sonification, with an appropriate integration of psycho 
+acoustic principles; creating an application for physics and music students to extend 
+and enrich their comprehension of both topics; and inspiring philosophical dialogue regarding
+the similarities, intersections, and interdependence of Art and Science. Futurework aims to 
+produce a real-time application for simulated and real systems, and a deeper integration
+of quantum mechanics into these techniques.                        
+
+
+
+
+
+
+REFERENCES
+1  Bransden, B.H. and C.J. Joachain. Introduction to Quantum Mechanics. John Wiley & Sons Inc. 
+New York, 1989, pp.39.
+2  Hockney, R.W. and J.W. Eastwood. Computer Simulation Using Particles. Institute of Physics 
+Publishing, Bristol, 1988,
+   pp.117-119.
+3  Gabor, D. Acoustical Quanta and the Theory of Hearing. Nature Vol. 159, No. 1044, 1947.
+4  Jaffe, D. Ten Criteria for Evaluating Synthesis Techniques. Computer Music Journal
+Vol. 19, No. 1, 1995.
+5  Kaper, H. G., and S. Tipei. Manifold Compositions, Music Visualization, and Scientific 
+Sonification in an Immersive Virtual-Reality Environment. In Proceedings of the 1998 
+International Computer Music Conference. Ann Arbor, Michigan, USA: International Computer
+Music Association,1998.
+6  Kaper, H. G., S. Tipei, and E. Wiebel. Data Sonification and Sound Visualization. Computing
+In Science and Engineering,
+   Vol. 1, No. 4, 1999.
+7  Kendall,G. S. Visualization by Ear: Auditory Imagery for Scientific Visualization and 
+Virtual Reality. Computer Music Journal Vol. 15, No. 4, 1991.
+8  Roads, C. Asynchronous Granular Synthesis, in G. De Poli et al., eds., Representation 
+of Music Signals, MIT Press, Boston,1991.
+9  Walker, B. andG. Kramer. Mappings and Metaphors in Auditory Displays: An Experimental
+Assessment. In Proceedings of the International Community for Auditory Display (ICAD)
+Conference 1996. ICAD, Palo Alto, CA, 1996.
+10 Xenakis, I. Formalized Music, Thought and Mathematics in Music, revised edition,
+Pendragon Press,1992.

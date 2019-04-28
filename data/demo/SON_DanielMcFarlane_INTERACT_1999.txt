@@ -1,0 +1,75 @@
+Coordinating the Interruption of People in Human-Computer Interaction       
+
+                                       Daniel C. McFarlane 
+					  Naval Research Laboratory, Code 5513
+                              	   Washington, D.C. 20375, USA 
+	                            +1-202-767-2116, mcfarlane@acm.org
+  
+
+ABSTRACT
+People have cognitive limitations that make them sensitive to interruption.  These limitations
+can cause people to make serious mistakes when they are interrupted.  Unfortunately, interruption of people is a
+side effect of systems that allow users to delegate tasks to active background processes, like intelligent software
+agents.  Delegation carries the costs of supervision, and that often includes being interrupted by subordinates.
+User interfaces for these kinds of computer systems must be designed to accommodate peoples limitations relative 
+to being interrupted.  A theory-based taxonomy of human interruption was used to identify the four known
+methods for deciding when to interrupt people.  An experiment was conducted with 36 subjects to compare these
+four different design approaches within a common context.  The results show important differences between the
+four user interface design solutions to the problem of interrupting people in human-computer interaction (HCI).
+
+
+REFERENCES
+Ballas, J., Heitmeyer, C., & Pez, M.  (1992),
+Evaluating Two Aspects of Direct Manipulation in
+Advanced Cockpits, in P.  Bauersfeld, J.  Bennett
+& G.  Lynch (eds.), Proceedings of CHI’92: Human 
+Factors in Computing Systems, ACM Press,
+pp.127–34.
+Cellier, J.  & Eyrolle, H.  (1992), Interference Between 
+Switched Tasks, Ergonomics 35(1),
+25–36.
+Clark, H.  (1996), Using Language, Cambridge University Press.
+Czerwinski, M., Chrisman, S., & Rudisill, M.
+(1991), Interruptions in Multitasking Situations:
+The Effects of Similarity and Warning, Technical
+Report JSC-24757, NASA Johnson Space Center,
+Houston, Texas.
+Davies, S.P., Findlay, J.M. & Lambert, A.J. (1989),
+The Perception and Tracking of State Changes in
+Complex Systems, in G. Salvendy & M.J. Smith
+(eds.), Designing and Using Human-Computer
+Interfaces and Knowledge Based Systems, Elsevier Science, pp. 510-17.
+Field, G.  (1987), Experimentus Interruptus, ACM
+SIGCHI Bulletin 19(2), 42–6.
+Gillie, T.  & Broadbent, D.  (1989), What Makes
+Interruptions Disruptive? A Study of Length,
+Similarity, and Complexity, Psychological Research 50(4), 243–50.
+Katz, R.  (1995), Automatic Versus User
+Controlled Methods of Briefly Interrupting Telephone 
+Calls, Human Factors 37(2), 321–34.
+Kirlik, A.  (1993), “Modeling Strategic Behavior in
+Human-Automation Interaction - Why an Aid Can
+(and Should) Go Unused”, Human Factors 35(2),
+221–42.
+Kreifeldt, J.G. & McCarthey, M.E. (1981), Interruption 
+as a Test of the User-Computer Interface, in
+Proceedings of the 17th Annual Conference on
+Manual Control, JPL Pub. 81-95, pp. 655-67.
+McFarlane, D.  (1997), Interruption of People in
+Human Computer Interaction: A General Unifying 
+Definition of Human Interruption and Taxonomy, 
+Technical Report NRL/FR/5510-97-9870,
+US Naval Research Lab, Washington, DC.
+McFarlane, D.  (1998), Interruption of People in
+Human Computer Interaction, PhD thesis, George
+Washington University, USA.
+Miyata, Y.  & Norman, D.  (1986), Psychological
+Issues in Support of Multiple Activities, in D.  A.
+Norman & S.  W.  Draper (eds.), User Centered
+Systems Design: New Perspectives on Human
+Computer Interaction, Lawrence Erlbaum
+Associates, pp.265–84.
+NTSB (1988), Aircraft Accident Report, Technical
+Report NTSB-AAR-88-05, National Transportation Safety Board.
+Van Bergen, A.  (1968), Task Interruption, North-Holland 
+Publishing Company.

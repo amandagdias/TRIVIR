@@ -1,0 +1,61 @@
+In Search of a Standards Based Approach to Hybrid Performance Monitoring                                                                        
+
+Jim Harden, Donna Reese, Marlene Evans, Sudi Kadambi, Greg Henley, and Chuck Hudnall                               
+NSF Engineering Research Center for Computational Field Simulation                                   
+Mississippi State University                                                
+Cedell Alexander                                                      
+IBM Networking Har dwar e Division                                                
+Research Triangle Park, NC
+
+
+Abstract
+A new multicomputer performance monitoring system is described in this     
+paper.  Where possible, the system employs portable performance monitoring instrumentation                            
+technology and leverages previous work.  Trace event acquisition is hardware assisted and                            
+based on the MultiKron, a single chip measurement solution developed at the National             
+Institute for Standards and Technology .  The user interface is based on the Pablo Performance                       
+Analysis Environment, a visualization and sonification toolkit developed at the University of                         
+Illinois.  The SPIscope is introduced as a component that bridges the gap between these            
+emerging standard interfaces.  The SPIscope provides a high bandwidth path to a large                                 
+secondary storage for recording performance data.  Connectivity to the user's performance     
+analysis workstation is via a TCP/IP LAN.  Facilities are provided to support                                         
+application±specific trace events, breakpoint style debugging, on line transmission of selected                       
+data, and dynamic acquisition±rate control.  By using existing technology and interfaces, we                          
+hope to contribute a performance monitoring component with greater utility throughout the                             
+parallel processing community .                                                                                       
+
+
+REFERENCES                                                
+[1]  M. van Riek, B. Tourancheau, X. Vigour oux, ªMonitoring of Distributed Memory                         
+     Multicomputer Programs,º T ech. Report CS±93±204, Univ. of Tennessee, Knoxville, TN,  1993.           
+     url=ftp://cs.utk.edu/pub/T         echReports/                                                        
+[2]  D. Haban and D. Wybranietz, ªA Hybrid Monitor for Behavior and Performance Analysis of                
+     Distributed Systems,º IEEE Trans. Software Engr., vol. 16, no. 2, pp. 197±211, February 1990.         
+[3]  M. Siegle and R. Hofmann, ªMonitoring Pr ogram Behaviour on SUPRENUM,º in                            Proc. 19th
+     Int. Symp. Comput. Arch., May 1992, pp. 332±341.                                                      
+[4]  J. Harden, D. Reese, F. To, D. Linder, C. Borchert, G. Jones, ªA Performance Monitor for the          
+     MSP ARC Multicomputer ,º IEEE Southeastcon '92, April 12±15, 1992.                                    
+[5]  R. Hofmann, R. Klar , B. Mohr, A. Quick, M. Siegle, ªDistributed Performance Monitoring:              
+     Methods, Tools, and Applications,º IEEE Trans. Parallel Distribributed Syst., vol. 5, no. 6, pp.      
+     585±597, June 1994.                                                                                   
+[6]  A. Mink, R. J. Carpenter , G. Nacht, and J. Roberts, ªMultipr ocessor Performance                     
+     Measur ement Instrumentation,º IEEE Computer, pp. 63±75, Sept. 1990.                                  
+[7]  D. A. Reed et al., ªThe Pablo Performance Analysis Envir onment,º T ech. Rep., Dept. of               
+     Comput. Sci., Univ. of Illinois, Nov. 1992.                                                           
+[8]  A. Mink and R. J. Carpenter , ªOperating Principles of MultiKr on Performance                         
+     Instr umentation for MIMD Computers,º T ech. Rep. NISTIR 4737, National Institute of                  
+     Standar ds and Technology, Mar. 1992.                                                                 
+[9]  D. Reese and E. Luke, ªObject Oriented Fortran for Development of Portable Parallel                   
+     Programs,º in Proc. 3rd IEEE Symp. Parallel Distrbuted Processing, December 1991, pp. 608±615.        
+[10] D. A. Reed, ªDistributed Memory W orking Gr oup Summary ,º in Instrumentation for Future              
+     Parallel Computing Systems, ed. M. Simmons, R. Koskela, and Ingrid Bucher, New York:  ACM             
+     Press, 1989, pp. 239±250.                                                                             
+[11] B. P. Miller et al., ªIPS±2:  The Second Generation of a Parallel Program Measur ement System,º       
+     IEEE Trans. Parallel Distrib. Syst., vol. 1, no. 2, pp. 206±217, Apr. 1990.                           
+[12] C. Alexander, D. Reese, and J. Harden, ªNear±Critical Path Analysis of Pr ogram Activity              
+     Graphs,º Proc. IEEE MASCOTS`94, Jan. 31 ± Feb. 2, 1994.                                               
+[13] D. L. Whitfield and M. J. Janus, ªThree Dimensional Unsteady Euler Equations Solution Using           
+     Flux Vector Splitting,º AIAA Paper 84±1552, June 1984.                                                
+[14] ªMPI: A Message±Passing Interface Standar d,º Tech. Report CS±94±230, Univ. of Tennessee,             
+     Knoxville, TN, May 5, 1994. (To appear in the International Journal of Super computing                
+     Applications, Vol. 8, No. 3/4, 1994, url=ftp://netlib2.cs.utk.edu/mpi/mpi_report.ps)

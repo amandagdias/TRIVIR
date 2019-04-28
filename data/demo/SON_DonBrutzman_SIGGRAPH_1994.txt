@@ -1,0 +1,69 @@
+A Virtual World for an Autonomous Underwater Vehicle                                         
+
+Don Brutzman                                                  
+Michael J. Zyda                                           
+Michael Macedonia                                             
+Rodney Luck                                                   
+
+Code OR/Br, Naval PostgraduateSchool                          
+Monterey CA 93943-5000                                        
+(408) 656-2149 office, (408) 372-0190 home                    
+(408) 656-2595 FAX, brutzman@nps.navy.mil                     
+
+
+ABSTRACT                                                         
+A critical bottleneck exists in Autonomous Underwater Vehicle (AUV) design and                          
+development. It is tremendously difficult to observe, communicate with and test underwater robots,
+because they operate in a remote and hazardous environment where physical dynamics and sensing
+modalities are counter intuitive.
+An underwater virtual world can comprehensively model all salient functional                           
+characteristics of the real world in real time. This virtual world is designed from the perspective of
+the robot, enabling realistic AUV evaluation and testing in the laboratory. 3D real-time graphics  
+are our window into that virtual world.
+Visualization of robot interactions within a virtual world permits sophisticated
+analyses of robot performance that are otherwise unavailable. Sonar visualization permits
+researchers to accurately "look over the robot's shoulder" or even "see through the robot's eyes" to
+intuitively understand sensor-environment interactions.
+Distribution of underwater virtual world components enables scalability and real-time
+response. The IEEE Distributed Interactive Simulation (DIS) protocol is used for compatible live
+interaction with other virtual worlds. Network access allows individuals remote access. This is
+demonstrated via MBONE collaboration with others outside The Edge, and Mosaic access to                                    
+pertinentarchivedimages, papers,datasets,software, soundclips, text and any other computer storable media.                                                                                                        
+This project presents the frontier of 3D real-time graphics for underwater robotics,
+ocean exploration, sonar visualization and worldwide scientific collaboration.
+
+
+REFERENCES                                                                                                         
+Brutzman, Donald P. 1992. From virtual world to reality: designing an
+autonomous underwater robot, American Association for Artificial Intelligence
+(AAAI) Fall Symposium on Applications of Artificial Intelligenceto Real-World                    
+Autonomous Mobile Robots, Cambridge, Massachusetts, October 23-25, 1992,
+pp. 18-22.
+Macedonia, Michael R. and Brutzman, Donald P. 1994. MBONE Provides Video
+and Audio Across the Internet, IEEE Computer, to appear April 1994.
+Brutzman, Donald P., Kanayama, Yutaka, and Zyda, Michael J. 1992. Integrated
+Simulation for Rapid Development of Autonomous Underwater Vehicles,
+Proceedings of the IEEE Oceanic Engineering Society Conference AUV92,
+Washington DC, June 2-3, 1992, pp. 3-10.
+Brutzman, Donald P. and Compton, Mark A. 1991. AUV Research at the Naval
+Postgraduate School, Sea Technology, vol. 32 no. 12, December 1991, pp. 35-40.
+Brutzman, Donald P. 1992. NPS AUV Integrated Simulator, Master's Thesis, Naval                      
+Postgraduate School, Monterey, California, March 1992.                                            
+Brutzman, Donald P., Floyd, Charles A. and Whalen, Russell. 1992. Naval
+Postgraduate School Autonomous Underwater Vehicle, Video Proceedings of the
+IEEE International Conference on Robotics and Automation 92, Nice, France,
+May 1992.                                                                                        
+Brutzman, Donald P., editor. 1993. Video Proceedings of the Eighth International
+Symposium on Unmanned Untethered Submersible Technology, University of New
+Hampshire, Durham, New Hampshire, September 27-29, 1993.
+Ziomek, Lawrence J. and Policky, F. Wynn. The RRA Algorithm: Recursive Ray
+Acoustics for Three-Dimensional Speeds of Sound, IEEE Journal of Oceanic
+Engineering, vol. 18 no. 1, January 1993, pp. 25-30.
+Zyda, Michael J., Jurewicz, Thomas A., Floyd, Charles A. and McGhee, Robert B.
+1991. Physically Based Modeling of Rigid Body Motion in a Real-Time Graphical
+Simulator, unpublished paper, Naval Postgraduate School, Monterey, California, 
+September 1991.                                                                                   
+Zyda, Michael J., Pratt, David R., Falby, John S. and Kelleher, Kristen M. 1993.                 
+The Software Required for the Computer Generation of Virtual Environments,
+Presence: Tele operators and Virtual Environments, vol. 2 no. 2, Spring 1993,
+pp. 130-140.

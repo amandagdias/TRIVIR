@@ -1,0 +1,88 @@
+AUDIO-ENHANCED COLLABORATION AT AN INTERACTIVE ELECTRONIC WHITEBOARD                                                          
+
+Christian Müller–Tomfelde and Sascha Steiner                                              
+GMD - German National Research Center for Information Technology                                         
+IPSI- Integrated Publication and Information Systems Institute                                      
+GMD-IPSI, Dolivostr. 15, D- 64293 Darmstadt, Germany                                             
+{mueller-tomfelde,steiner}@darmstadt.gmd.de                                                          
+                                            
+
+ABSTRACT
+
+This paper describes an experimental setup to investigate new                                                             
+possibilities to support cooperative work of a team with audio                                                            
+feedback on a large interactive electronic whiteboard, called                                                             
+DynaWall  . To enrich the interaction and the feedback qualities                                                          
+within a team work situation the DynaWall is equipped with a                                                              
+set of loudspeakers which are invisibly integrated into the                                                               
+environment. Different forms of audio feedback are realized and                                                           
+discussed to meet the requirements for collaborative team work                                                            
+situations. An audio feedback for a gesture interface woundith s                                                          
+cues is implemented to improve the use of gestures to execute
+commands. Furthermore a spatial sound property of moved and                                                               
+thrown information objects on the surface of the otherwise
+silent electronic whiteboard is introduced to add an imitated
+natural sound behavior. The focus of the setup is to experiment
+with sound feedback for a non-standard computer environment    
+useful in a cooperative team work situation.                   
+
+
+
+
+REFERENCES                         
+[1] Barrass, S., PhD-Thesis: Auditory Informat
+ion Design,  
+Australian National University, Available at          
+http://viswiz.gmd.de/~barrass/thesis/index.html, 1997 
+[2] Dutilleux, P., Müller-Tomfelde, C., AML: Architecture  
+and Music Laboratory, InP roceedings of the AES 16th  
+International Conferenc: e Spatial Sound Reproduction,
+Rovaniemi, Finland, 1999 April 10-12, pp. 191-206.    
+[3] Eckel, G., Application for the CyberStage Spatial Sound
+Server, In Proceedings of the AES 16th Internaonalti  
+Conference: Spatial Sound Reproduction, Rovaniemi,    
+Finland, 1999 April 10-12, pp. 478-484.               
+[4] Gaver, W, Sound Support for Collaboration, In:         
+Proceedings of ECSCW ´9, A1 msterdam, 1991            
+[5] Gaver, W., The SonicFinder: An Interface That Uses     
+Auditory Icons, In Human Computer Interaction, 4(1),  
+1989, pp. 67-94.                                      
+[6] Gaver, W., Auditory Interfaces, In: M.G. Helander, T.K.
+Landauer, P.V. Prabhu (Eds.), Handbook of Human-      
+Computer-Interaction, 2. Edition, Part VI "Multimedia,
+Video and Voice, North-Holland 1997                   
+[7] Geißler, J., Shuffle, Throw or Take It!: Working Efficiently
+with an Interactive Wall. ACM Conference on Human     
+Factors in Computing Systems (CHI '98),. Los Angeles, 
+California, April 18-23, 1998. CHI'98 Summary. pp. 265-
+266.                                                  
+[8] Roads, C., The Computer Music Tutorial3. Edition, T, he
+MIT Press, 1996                                       
+[9] Scaletti, C., Sound Synthesis Algorithms for Auditory Data
+Representations, In: G. Kramer (E.), Auditoryd display,
+sonification, audification and auditory interfaces.   
+Proceedings of the 1    ICAD´92, Santa Fe Institute,  
+Addison-Wesley, 1994, pp. 223-251                     
+[10] Streitz, N. et al, i-LAND: An interactive Landscape for
+Creativitiy and Innovation In: ACM Conference on Human
+Factors in Computing Systems (CHI '99), Pittsburgh,   
+Pennsylvania, U.S.A., May 15-20, 1999. ACM Press, New 
+York, 1999, pp. 120-127.                              
+[11] Streitz, N., Integrated Design of Real Architectural Spaces
+and Virtual Information Spaces. InA CM Conference on  
+Human Factors in Computing Systems (CHI '98), Los     
+Angels, California, April 18-23, 1998. CHI-Summary. pp.
+263-264.                                              
+[12] Streitz, N., Geißler, J., and Holmer, T. Roomware for 
+Cooperative Buildings: Integrated Design of Architectural
+Spaces and Information Spaces. In: N. Streitz, S.onom Ki,
+H. Burkhardt (ed.)s, Cooperative Buildings Integrating
+Information, Organization, and Architectur e Proceedings
+of CoBuild '98, Darmstadt, Germany. Lecture Notes in  
+Computer Science, Vol. 1370. Springer: Heidelberg, 1998,
+pp. 4-21.                                             
+[13] Tandler, P., Architecture of Beach: The Software      
+Infrastructure for Roomware Environments. In: CSCW    
+2000: Workshop on Shared Environments to Support      
+Face-to-Face Collaboration, Philadelphia, Pennsylvania,
+USA, December, 2000.

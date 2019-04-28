@@ -1,0 +1,111 @@
+AUDIO-HAPTIC INTERNET BROWSER AND ASSOCIATED TOOLS FOR BLIND AND VISUALLY IMPAIRED COMPUTER USERS                                                 
+
+Patrick Roth     , Lori Stefano Petrucci       , André Assimacopoulos         , and Thierry Pun      
+Computer Vision Group, Computer Science Department, University of Geneva                         
+24, rue du Général Dufour, CH-1211 Geneva 4, Switzerland                               
+Patrick.Roth@cui.unige.ch, http://cuiwww.unige.ch/~vision                              
+UCBA/SZB - Swiss Central Union of and for the Blind, and                              
+ABA - Association pour le Bien des Aveugles                                   
+34, place du Bourg-de-Four, CH-1204 Geneva, Switzerland                                
+
+
+ABSTRACT                                                                                  
+In the Internet world, the widespread use of graphical     
+user interfaces (GUIs) increasingly bars visually          
+handicapped people from accessing digital                  
+information. In this context our project aims at           
+providing sight handicapped people with alternative        
+access modalities to various types of GUIs and graphic    
+intensive programs, in order for instance to facilitate   
+usage of Web services. We describe in this paper AB-Web [1], 
+a 3D-audio Web browser that allows blind         
+computer users to explore Web pages, fill in forms,       
+etc., using a 3D sonic rendering. We also present         
+WebSound [2], a generic tool that permits to associate    
+with each HTML tag a given sonic object (earcon or        
+auditory icon). Finally, we describe a series of          
+associated programs composed of the family of sonic       
+games From Dots to Shapes [3], as well as of IDEA ,       
+a tool that lets users comprehend simple drawings, as     
+well as to create graphics.                               
+
+
+REFERENCES                                                                                           
+[1] P. ROTH, L. PETRUCCI, A. ASSIMACOPOULOS                                                                             
+    AND T. PUN, Auditory browser for blind and visually                                                                 
+    impaired users, In ACM SIGHI Computer Human                                                                         
+    Interaction 99, Conference on Human Factors in           
+    Computing Systems, pp. 218-219, Pittsburgh, PA, USA,     
+    15-20 May 1999                                           
+[2] L. PETRUCCI, E. HARH, P. ROTH, A.                                                                                   
+    ASSIMACOPOULOS AND T. PUN,             WebSound: a                                                                  
+    generic Web sonification tool, and its application to an                                                            
+    auditory Web browser for blind and visually impaired                                                                
+    users, In Proceedings of the Sixth International                                                                    
+    Conference on Auditory Display (ICAD 2000), 2-5                                                                     
+    April 2000. (to appear)                                                                                             
+[3] P. ROTH, L. PETRUCCI, A. ASSIMACOPOULOS                  
+    AND T. PUN,        Concentration game: an audio          
+    adaptation for blind people, In CSUN’s 15    Annual                                                                 
+    international Conference Technology and Persons with                                                               
+    Disabilities, Los Angeles, CA, USA, 20-25 March         
+    2000 (to appear).                                        
+[4] J.A. BRABYN, Developments in Electronic Aids for         
+    the Blind an visually Impaired, IEEE Eng. In Medicine    
+    and Biology Mag., Dec. 1985. Pp. 33-37.                  
+[5] New Technologies in the education of the Visually        
+    Handicapped, D. Burger, Ed., Les Editions INSERM,        
+    Paris, FR. Vol. 237, 1996.                               
+[6] M.G. PACIELLO,       Hypermedia for people with          
+   Disabilities, ACM SIGLINK, V, 1 Febr.1996, pp. 7-9.       
+[7] F. JAMES,     Presenting HTML in Audio: User             
+    Satisfaction with Audio Hypertext,       ICAD 96         
+    Proceedings, Nov. 1996, pp. 97-103.                                                                                 
+[8] M. WINBLATT, Browsing the World Wide Web in a                
+    Non-Visual Environment, ICAD 97 Proceedings, Nov.                                                                   
+    1997.                                                        
+[9] S.M. KOSSLYN and O. KOENIG, Wet Mind: The New                                                                       
+    Cognitive Neuroscience, The Free Press Macmillan,                                                                   
+    1992.                                                                                                               
+[10] K. CRISPIEN, W. WURZ and G. WEBER,            Using
+
+Spatial Audio for the Enhanced Presentation of     
+Synthesized speech within Screen-Readers for Blind 
+Computer Users, Computers for Handicapped Persons, 
+Lect. Notes in Comp. Sc. 860, Springer-Verlag, 1994,
+pp.144-153.                                        
+[11] E.M. WENZEL, Three-Dimensional Virtual Acoustic   
+Displays, in Multimedia Interface Design, ACM Press,
+New York, 1992, Ch. 15, pp. 257-288.               
+[12] J. BLAUERT, Spatial Hearing, MIT Press, 1983.     
+[13] L. PETRUCCI, E. HARTH, P. ROTH, A.                
+ASSIMACOPOULOS and T. PUN,             WebSound: a 
+generic Web sonification tool allowing HCI researchers
+to dynamically create new access modalities,      In
+Proceedings of the Conference on Human Factors in  
+Computing Systems (CHI 2000), 1-6 April 2000       
+(submitted).                                       
+[14] W. GAVER, Auditory icons: Using sound in computer 
+interfaces, Human-Computer Interaction 2, pp. 157- 
+177, 1986.                                         
+[15] M. BLATTNER, D. SUMIKAWA and R.                   
+GREENBERG Earcons and icons: Their structure and   
+common design principles      , Human Computer     
+Interaction, 4(1), pp. 11-44. (1989).              
+[16] T.V. RAMAN,    Conversational Gestures For Direct 
+Manipulation On The Audio Desktop , ASSETS'98      
+Proceedings, ACM Press.                            
+[17] M. LUMBRERAS and J. SANCHEZ,         Interactive 3D
+Sound Hyperstories for Blind Children      , CHI99 
+Proceedings, May 1999, pp. 318-325.                
+[18] A.J. HOLLANDER, An Exploration of Virtual Auditory
+Shape Perception, Diploma thesis, University of    
+Washington,  1994.                                 
+[19] M. SHIMIZU, K. ITOH and T. NAKAZAWA, Pattern      
+representation system using movement sense of      
+localized sound, Proc. HCI'99, Munich, Germany, 22-
+27 August 1999, 990-994.                           
+[20] F.L. WIGHTMAN and,      D.J. KISTLER,    Headphone
+simulation of free-field listening II: Psychophysical
+validation, J. of the Acoustical Society of America, 85,
+2, 1989, 868-878.                                  

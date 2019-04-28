@@ -1,0 +1,51 @@
+Rhythmic Parsing of Sonified DNA and RNA Sequences                                                          
+
+
+Charlie Cullen       and Eugene Coyle
+Department of Music,                              Department of Control Engineering,           
+Dublin Institute of Technology, Dublin                    Dublin Institute of Technology, Dublin          
+IRELAND                                                    IRELAND                          
+E-mail:   charlie.cullen@dit.ie                            E-mail: *eugene.coyle@dit.ie               
+
+
+Abstract 
+Sonification allows existing mathematical data to be                               
+used as the model for audio output, notably that the audio                                     
+produced is related to or representative of that data in some way.                             
+Existing work in the field has been largely focused on the                                     
+aesthetic tailoring of the output audio for compositional benefit                              
+rather than as a framework for audio representation and                                        
+analysis.                                                                                      
+It is the goal of this research to apply existing techniques for                               
+pitch substitution to an analytical method that seeks to define                                
+and represent patterns within existing data sets (primarily DNA                                
+and RNA sequences). It is often the case that sonified audio has                               
+little or no rhythmic component, and it is felt that as rhythm is                              
+such an important part of the musical analysis process it should                               
+be given far more serious consideration when representing                                      
+mathematical data as audio.                                                                    
+In order to adequately analyse the different rhythms and time                                  
+signatures that can be used to parse sonified data, a piece of                                 
+software has been developed called DNASon that allows for basic                                
+time interval and signature definitions for application to a                                   
+sonified DNA/RNA sequence.                                                                     
+
+
+REFERENCES           
+[1] Sonification Report: Status of the Field and 
+Research Agenda, International Conference on 
+Auditory Display (ICAD) 1997        
+[2] H. G. Kaper, S. Tipei and E. Wiebel, Data 
+Sonification     and    Sound      Visualization 
+Computing in Science and Engineering, Vol. 1, 
+No. 4 (July/August '99), 48-58      
+[3] Douglas R. Hofstadter, GEB: an Eternal 
+Golden Braid (pg 518-519), Penguin Books 
+ISBN 0-14-028920-8                  
+[4] Nobuo Munakata and Kenshi Hayashi, 
+Basically Musical, Nature 310, 96 (1984) 
+[5] Nobuo Munakata and Kenshi Hayashi, Gene 
+Music: Tonal assignments of Bases and Amino 
+Acids (pg 72-83) In Visualizing Biological 
+Information (Ed. C. Pickover),World Scientific, 
+Singapore(1995). (ISBN 9810214278)

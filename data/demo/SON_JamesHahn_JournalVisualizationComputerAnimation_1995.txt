@@ -1,0 +1,74 @@
+An Integrated Approach to Motion and Sound        
+
+JAMES K. HAHN, JOE GEIGEL           , JONG WON LEE, LARRY GRITZ,
+TAPIO TAKALA        , AND SUNEIL MISHRA
+Department of Electrical Engineering and Computer Science
+The George Washington University
+Washington, DC, 20052, U.S.A.
+hahn|geigel|won|gritz|suneil@seas.gwu.edu
+Department of Computer Science
+Helsinki University of Technology
+02150 Espoo, Finland
+tta@cs.hut.fi
+
+
+
+SUMMARY                                                          
+Until recently, sound has been given little attention in computer graphics and related domains              
+of computer animation and virtual environments, although sounds which are properly synchronized to                   
+motion provide a great deal of information about events in the environment. Sounds are often not                     
+properly synchronized because the sounds and the phenomena that caused the sounds are not                            
+considered in an integrated way. In this paper, we present an integrated approach to motion and                      
+sound as it applies to computer animation and virtual environments. The key to this approach is                      
+synchronization by mapping the motion parameters to sound parameters so that the sound changes as                    
+a result of changes in the motion. This is done by representing sounds using a technique for functional              
+composition analogous to the "shade trees" which we call timbre trees. These timbre trees are used as a              
+part of a sound description language that is analogous to scene description languages like RenderMan.                
+Using this methodology, we have produced convincing sound effects for a wide variety of animated                     
+scenes including the automatic generation of background music.                                                       
+
+REFERENCES      
+1.       M. Mathews, The Technology of Computer Music, MIT Press, MA, 1969.
+2.       B. Vercoe, Csound: A manual for the Audio Processing System and Supporting
+         Programs, MIT Media Lab, MIT, MA, 1986.               
+3.       F. Moore, Element of Computer Music, Prentice Hall, Englewood Cliffs, NJ., 1990.
+4.       R. Dannenberg, C. Fraley and P. Velikonj, "Fugue: A Functional Language for Sound
+         Synthesis," IEEE Computer, Vol. 24, No. 7, July 1991, pp. 36-42
+5.       C. Scaletti, "The Kyma/Platypus Computer Music Workstation" in The Well-Tempered
+         Object: Musical Applications of Object Oriented Software Technology, Stephen Travis
+         Pope, ed. MIT Press, 1991.                            
+6.       M. Blattner, D. Smikawa, and R. Greenburg, "Earcons and Icons: Their Structure and
+         Common Design Principles," Human-Computer Interaction, Vol. 4, No. 1, pp. 11-44,
+         1989.                                                 
+7.       W. Gaver, "Synthesizing Auditory Icons," Proc.of INTERCHI, 1993.
+8.       J. Lewis, "Automated Lip-Synch: Background and Techniques," The Journal of
+         Visualization and Computer Animation, Vol. 2, No. 4, pp. 118-122.
+9.       N. Magnenat Thalman and D. Thalman, Synthetic Actors in Computer Generated 3D
+         Films, Springer-Verlag, 1990.                         
+10.      T. Takala and J. Hahn, "Sound Rendering," Proce. of SIGGRAPH'92, ACM Computer
+         Graphics, Vol. 26, No. 2, pp. 211-220.                
+11.      T. Takala, J. Hahn, L. Gritz, J. Geigel, and J. W. Lee, "Using Physically-Based Models
+         and Genetic Algorithms for Functional Composition of Sound Signals, Synchronized to
+         Animated Motion," International Computer Music Conference (ICMC), Tokyo, Japan,
+         Sept. 10-15, 1993.                                    
+12.      R. Cook, "Shade Trees," Proc. of SIGGRAPH'84, ACM Computer Graphics, Vol. 18,
+         No. 3, pp. 195-206.                                   
+13.      K. Perlin, "An Image Synthesizer," Proc. SIGGRAPH'85 , ACM Computer Graphics,
+         Vol. 19, No. 3, pp. 287-296.                          
+14.      N. Fletcher and T. Rossing, The Physics of Musical Instruments, Springer-Verlag 1991.
+15.      J. Hahn, "Realistic Animation of Rigid Bodies," Proc. SIGGRAPH'88, ACM Computer
+         Graphics, Vol. 22, No. 3, pp. 299-308.                
+16.      J. Koza, Genetic Programming, MIT Press, Cambridge, MA, 1992.
+17.      K. Sims, "Artificial Evolution for Computer Graphics," Proc. SIGGRAPH'91 , ACM
+         Computer Graphics, Vol. 25, No. 3, pp. 319-328, 1991. 
+18.      S. Upstill, The RenderMan Companion, Pixar/Addison-Wesley, 1989.
+19.      J. Nakamula, T. Kaku, T. Noma and S. Yoshida, "Automatic Background Music
+         Generation Based on Actors' Emotion and Motions," Proceedings of the First Pacific
+         Conference on Computer Graphics and Applications, Vol. 1, pp. 147-161, 1993.
+20.      E.M. Wenzel, "Localization in Virtual Acoustic Displays," Presence: Teleoperators and
+         Virtual Environments, Vol. 1, pp. 80-107, 1992.       
+21.      S. T. Pope and L. E. Fehlen, "The Use of 3-D Audio in a Synthetic Environment: An
+         Aural Renderer for a Distributed Virtual Reality System," Proc. IEEE VRAIS '93, pp.
+         176-182.                                              
+22.      T. Zaza, Audio design: Sound Recording Techniques for Film and Video, Prentice-Hall,
+         1991

@@ -1,0 +1,68 @@
+Auditory Presentation of Graphical User Interfaces                                                           
+
+Elizabeth D. Mynatt
+Graphics, V isualization & Usability Center                                                     
+College of Computing                                                                            
+Georgia Institute of Technology                                                                 
+beth@cc.gatech.edu                                                                                                                                                          
+
+
+Abstract                                                                                                     
+The majority of work in auditory user interfaces has focused on adding auditory cues            
+to a visual interface. This paper presents work in designing interactive auditory-only         
+interfaces wher e the design of the interface is driven by a challenging task --                
+providing access to graphical user interfaces for people who are blind. This task              
+requires that the auditory-only interface must be able to provide the same                     
+functionality supported by a graphical user interface. A prototype system called     
+Mercator is described as well as some of the design strategies for Mercators auditory       
+interfaces. The results from a small user study are also presented with a concluding          
+discussion on futur e research efforts.                                                         
+
+
+
+
+References                                                                                                  
+[BBV90] L.H. Boyd, W .L. Boyd, and G.C. Vanderheiden. The graphical user interface:            
+Crisis, danger and opportunity . Journal of Visual Impairment and Blindness, pages 496-        
+502, December 1990.                                                                            
+[Bur92] David Bur gess. Low Cost Sound Spatialization. In         UIST Ô92: The Fifth Annual   
+Symposium on User Interface Software and Technology Conference Proceedings, November           
+1992.                                                                                          
+[Bux86] William Buxton. Human interface design and the handicapped user . In                  
+CHIÕ86 Conference Proceedings, pages 291-297, 1986.                                            
+[Che53] E.C. Cherry . Some experiments on the recognition of speech with one and two           
+ears. Journal of the Acoustical Society of America, 22, pages 61-62, 1953.                     
+[Edw89] Alistair D. N. Edwards. Modeling blind users                                     
+omputer interface. International Journal of Man-Machine Studies, pages 575-589, 1989.         
+[Gav89] W . W. Gaver. The SonicFinder: An interface that uses auditory icons.           Human  
+Computer Interaction, 4:67-94, 989.                                                            
+[HC86] Jr . D. Austin Henderson and Stuart K. Car d. Rooms: The use of multiple                
+virtual workspaces to r educe space contention in a window-based graphical user                
+nterface. ACM Transactions on Graphics, pages 211- 243, July 1986.                            
+[HTAP90] HumanWare, Artic Technologies, ADHOC, and The Reader Project.                       
+Making good decisions on technology: Access solutions for blindness and low vision.            
+In Closing the Gap Confer ence, October 1990. Industry Experts Panel Discussion.               
+[Lad88]   Richar d E. Ladner. Public law 99Ð506, section 508, electronic equipment             
+accessibility for disabled workers. In      CHIÕ88 Conference Proceedings, pages 219Ð222,      
+1988.                                                                                          
+[LC91] Lester F . Ludwig and Michael Cohen. Multi-dimensional audio window                    
+management.      International Journal of Man-Machine Studies, Volume 34, Number 3,            
+pages 319-336, March 1991.                                                                     
+[LPC90] Lester F . Ludwig, Natalio Pincever , and Michael Cohen. Extending the notion          
+of a window system to audio. Computer, pages 66-72, August 1990.                               
+[MG90] S. Joy Mountfor d and William W. Gaver. Talking and Listening to Computers.             
+The Art of Human-Computer Interface Design. Ed. Brenda Laurel. Addison-Wesley                
+ublishing Company , 1990, 319-334.                                                            
+[ME91] Elizabeth Mynatt and Keith Edwards. New metaphors for nonvisual          
+interfaces. In Extraordinary Human-Computer Interaction, 1991. Draft chapter accepted          
+for upcoming book.
+[ME92] Elizabeth Mynatt and W. Keith Edwards. The Mercator Environment: A        
+Nonvisual Interface to X Windows and Unix Workstations. GVU Tech Report GIT-              
+GVU-92-05. Febr uary 1992.                                                                   
+[ME92a] Elizabeth Mynatt and W. Keith Edwars/ Mapping GUIs to Auditory           
+Interfaces. In UIST Ô92: The Fifth Annual Symposium on User Interface Software and           
+Technology Conference Proceedings, November 1992.                                            
+[Van89] G.C. Vanderheiden. Nonvisual alternative display techniques for output from
+graphics-based computers. Journal of Visual Impairment and Blindness, 1989.                  
+[Yor89] Bryant W . York, editor. Final Report of the Boston University Workshop on           
+Computers and Persons with Disabilities, 1989.

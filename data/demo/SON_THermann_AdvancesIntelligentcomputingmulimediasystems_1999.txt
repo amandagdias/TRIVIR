@@ -1,0 +1,60 @@
+Listen to your Data: Model-Based Sonification for Data Analysis                    
+
+T. Hermann and H. Ritter                    
+Department of Computer Science               University of Bielefeld       D-33615 Bielefeld
+e-mail: {thermann,helge}@techfak.uni-bielefeld.de  
+
+
+
+Abstract 
+Sonification is th euse of non-speech audio to convey 
+information. We are developing tools for interactive
+data exploration, which make use of sonification for           
+data presentation. In this paper, model-based sonification
+is presented as a concept to design auditory displays.        
+Two designs are described: (1) particle trajectories in      
+a data potential is a sonification model to reveal information
+about the clustering of vectorial data and (2)          
+data-sonograms is a sonification for data from a classification
+problem to reveal information about the mixing of distinct classes.                                                                     
+
+
+References                                                                                                     
+[1] UCI repository of maschine learning databases.                                                             
+ftp://ftp.ics.uci.edu/pub/machine-learning-                                                                
+atabases/iris/.                                                                                           
+[2] J. M. Adrien. The missinglink: modal synthesis. In
+A. Piccialli G. De Poli andC. Roads, editors,Representations
+of Musical Signals. MIT Press,1991.
+[3] D. R. Cox and M. A. A. Cox.        Multidimensional
+Scaling. Chapman& Hall, London,1994.        
+[4] U. M. Fayyadet al., editor. Advances in Knowledge
+Discovery and Data Mining. MIT Press,1996.     
+[5] T. Fitch andG. Kramer. Sonifying the body electric:
+Superiority of an auditory over a visual displayin a
+complex multivariate system. In G. Kramer, editor,
+Auditory Display. Addison-Wesley, 1994.      
+[6] W. W. Gaver.    Using and creating auditory icons.
+In G. Kramer, editor, Auditory Display. Addison-Wesley, 1994.                               
+[7] T. Hermann.       Model-based sonification - de-
+monstrations. http://www.techfak.uni-bielefeld.de/
+thermann/projects/index.html,1999.        
+[8] Jolliffe. Principal Component Analysis. Springer,
+New York,1986.                              
+[9] G. Kramer, editor. Auditory Display-Sonification,
+Audification, and Auditory Interfaces.        Addison-
+Weslay, 1994.                               
+[10] T. M. MadhyasthaandD. A. Reed. A framework for
+sonification design. In G. Kramer, editor, Auditory
+Display. Addison-Wesley, 1994.              
+[11] P. M. Morse and K. U. Ingard. Theoretical Acoustics. 
+McGraw-Hill, New York,1968.           
+[12] C. Scaletti. Sound synthesis algorithms for auditory
+data representations. In G. Kramer, editor, Auditory
+Display. Addison-Wesley, 1994.              
+[13] J. O. Smith. Physical modeling using digital waveguides. 
+Computer Music Journal,Vol.16,no.4,pp. 
+74-91, 1992.                                
+[14] J. O. Smith.   Effiient synthesis of stringed musical 
+instruments. In Proceedings of the International
+Computer Music Conference. ComputerMusic Association,1993.

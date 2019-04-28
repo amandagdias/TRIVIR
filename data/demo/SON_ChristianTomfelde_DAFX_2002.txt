@@ -1,0 +1,114 @@
+SOUND EFFECTS FOR A SILENT COMPUTER SYSTEM                                           
+
+Christian Müller-Tomfelde                                     
+IPSI - Integrated Publication and Information Systems Institute                     
+Fraunhofer IPSI, Dolivostr. 15, D-64293 Darmstadt, Germany                         
+mueller-tomfelde@ipsi.fhg.de                                           
+
+                                    
+
+
+ABSTRACT                                 
+This paper proposes the sonification of the activity of a computer 
+system that allows the user to monitor the basic performance     
+parameters of the system, like CPU load, read and write activity                                            
+of the hard disk or network traffic. Although, current computer  
+systems still produce acoustic background noise, future and                                                 
+emerging computer systems will be more and more optimized                                                   
+with respect to their noise emission. In contrast to most of the                                            
+concepts of auditory feedback, which present a particular sound                                             
+as a feedback to a user’s command, the proposed feedback is                                                 
+mediated by the running computer system. The user’s interaction                                             
+stimulates the system and hence the resulting feedback offers                                               
+more realistic information about the current states of                                                      
+performance of the system. On the one hand the proposed                                                     
+sonification can mimic the acoustical behavior of operating                                                 
+components inside a computer system, while on the other hand,                                               
+new qualities can be synthesized that enrich interaction with the                                           
+device. Different forms of sound effects and generation for the                                             
+proposed auditory feedback are realized to experiment with the                                              
+usage in an environment of silent computer systems.                                                         
+
+
+
+REFERENCES
+[1] Blattner, M. M., Sumikawa, D. A. and Greenberg, R. M.,                                                          
+    Earcons and Icons: Their Structure and Common Design                                                            
+    Principles, In Human Computer Interaction, 4(1), 1989, pp.                                                      
+    11-44.                                                                                                          
+[2] Gaver, W., The SonicFinder: An Interface That Uses                                                              
+    Auditory Icons, In Human Computer Interaction, 4(1),                                                            
+    1989, pp. 67-94.                                                                                                
+[3] Gaver, W., Synthesizing Auditory Icons. InProceedings of  
+    the InterCHI ’93,24-29 April 1993, pages 228-235.           
+[4] Müller-Tomfelde, C. and Steiner, S., Audio-Enhanced        
+    Collaboration at an Interactive Electronic Whiteboard. In                                                       
+    Proceedings. of 7th Internaonal Ctionference on Auditory                                                      th
+    Display, ICAD, Espoo, 2001, pp. 267-271.                                                                        
+[5] Milgram, P. and Kishino, F., A Taxonomy of Mixed Reality                                                        
+    Visual Displays, IEICE Transactions on Information                                                              
+    Systems, Vol E77-D (12), Dec. 1994.                                                                             
+[6] Eckel, G., Application for the CyberStage Spatial Sound                                                         
+    Server, In Proceedings of the AES 16th Internaonal ti                                                           
+    Conference: Spatial Sound Reproduction, Rovaniemi,                                                              
+    Finland, 1999 April 10-12, pp. 478-484.                                                                         
+[7] Weiser, M., The computer for the twenty-first century.                                                          
+    Scientific American, Vol. 265, No. 3, pp. 94-104, 1991.                                                         
+[8] Tandler P., Prante, Th., Müller-Tomfelde, C., Streitz, N., 
+Steinmetz, R., ConnecTables: Dynamic Coupling of 
+Displays for the Flexible Creation of Shared Workspaces. In 
+Proceedings of the 14th Annual ACM Symposium on User 
+Interface Software and Technology (UIST'01), Orlando, 
+Florida, USA, November 11-14, 2001, CHI Letters 3(2), 
+ACM Press, pp. 11-20.                         
+[9] Streitz, N., Tandler, P., Müller-Tomfelde, C., Konomi, S., 
+Roomware: Towards the Next Generation of Human-Computer 
+Interaction based on an Integrated Design of Real 
+and Virtual Worlds, In: J. A. Carroll (Ed.): Human-Computer 
+Interaction in the New Millennium, Addison 
+2001. pp. 553-578.                    
+[10] IBM Feature Tool, http://service.boulder.ibm.com/storage/hddtech/ibmftool_userguide.pdf        
+[11] Wrightson, K., An Introduction to Acoustic Ecology. 
+Soundscape, Volume 1, Number 1, Spring 2000, pp. 12-13. 
+[12] Engelen, H., Sound Design for Consumer Electronics. In 
+Proceedings "Stockholm, Hey Listen!" Conference on 
+Acoustic Ecology, Stockholm, June 9-13, 1998. 
+[13] Weiser, M., Designing Calm Technology, PowerGrid 
+Journal, v101, 1996, http://powergrid.electriciti.com/1.01. 
+[14] Müller-Tomfelde, C. and Reischl W., Communication 
+Chairs: Examples of Mobile Roomware Components, In: 
+ACM Conference on Human Factors in Computing Systems 
+(CHI ’98), Los Angeles, California, USA, April 18-23, 
+1998. CHI-Summary. pp. 267-268.               
+[15] Barrass, S., Kramer, G., Using sonification. Multimedia 
+Systems, Special Issue on Audio and Multimed, 7(ia 1): 23 c31, 1999.                                     
+[16] Müller-Tomfelde, C. and Münch, T., Modeling and 
+Sonifying Pen Strokes on Surfaces, InP roceedings of the 
+COST G-6 Conference on Digital Audio Effec  ts
+(DAFX-01), Limerick, Ireland, December 6-82001. , 
+[17] Cohen, J, Monitoring background activities, In: G. Kramer 
+(Ed.), Auditory display, sonification, audification and 
+auditory interfaces .Proceedings of the 1 ICAD´92, Santa 
+Fe Institute, Addison-Wesley, 1994, pp. 499-531. 
+[18] Ishii, H, Ullmer , B., Tangible Bits: Towards seamless 
+Interface between People, Bits and Atoms InPr oceedings of 
+the ACM Conference on Human Factors in Computing 
+Systems (CHI ‘97) pp. 234 241.              
+[19] Mynatt, E.D., Back, M., Want, R., Baer, M., and Ellis, J. B. 
+1998. Designing audio aura. InP roceedings of the ACM 
+Conference on Human Factors in Computing Syste (CHI ms
+’98), Los Angeles, CA, Apr. 18 23, pp. 566 573. 
+[20] Kramer, G. An Introduction to Auditory Display. In: G. 
+Kramer (Ed.), Auditory display, sonification, audification 
+and auditory interfaces .Proceedings of the 1 ICAD´92, 
+Santa Fe Institute, Addison-Wesley, 1994, pp. 1-77. 
+[21] Familant, M.E. and Detweiler, M.C., (1993). Iconic 
+Reference: Evolving Perspectives and an Organising 
+Framework, International Journal of Man-Machine Studie, s
+39, 705-728.                                  
+[22] DAFX software, http://echo.gaps.ssr.upm.es/COSTG6/ 
+[23] Zölzer, U., Digital Audio Signal Processing, J. Wiley & 
+Sons, Chichester 1997.                        
+[24] PortAudio, http://www.portaudio.com/          
+[25] Roads, C., The Computer Music Tutorial, 3. Edition, The 
+MIT Press, 1996.

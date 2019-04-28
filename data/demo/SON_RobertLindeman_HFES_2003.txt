@@ -1,0 +1,106 @@
+VIRTUAL CONTACT: THE CONTINUUM FROM PURELY VISUAL TO PURELY PHYSICAL            
+
+Robert W. Lindeman       
+Department of Computer Science 
+The George Washington University 
+Washington, DC, USA      
+gogo@gwu.edu         
+
+Abstract
+Providing appropriate cues to users when interacting with objects in immersive virtual 
+environments (IVEs) is a difficult task. In addition to individual user differences, environmental 
+factors, and task-specific requirements, the technological complexity of the current state of the art 
+in haptic feedback further increases the difficulty. Though the technology continues to improve, 
+we are still a long way from having haptic feedback that meets the demands of a "general 
+solution" to the problem. This paper focuses on ways of providing effective contact cues in IVEs, 
+starting with purely-visual approaches and moving along a continuum to the use of actual physical 
+objects as high-fidelity interfaces.                           
+
+
+
+
+
+
+References                                                             
+Bensmaïa S., Hollins M. Complex tactile waveform                       
+       discrimination. J. of the Acoustical Soc. of Americ, a          
+       108(3), 2000, pp. 1236-1245.                                    
+Brooks, F.P., Ouh-Young, M., Batter, J.J., Kilpatrick, P.J.            
+       Project GROPE - Haptic displays for scientific                  
+       visualization. Proc. of ACM SIGGRAPH ’90, 1990, pp.             
+       177-185.                                                        
+                                                                       
+Erp, J.B.F. van. Tactile information presentation: Navigation                                                         
+       in virtual environmentsPr. oc. of the First International       
+       Workshop on Haptic Human-Computer Interact. ion                 
+       Brewster, S., and Murray-Smith, R. (Eds.), Glasgow,             
+       UK, August/September2000, pp. 165-      173.                                                                   
+                                                                       
+Foner, L.N. Artificial synesthesia via sonification: a wearable        
+       augmented sensory systemM. obile Networks and                   
+       Applications, 4(1), 1999, pp. 75-81.                            
+                                                                       
+Hodges, L.F., Rothbaum, B.O., Kooper, R., Opdyke, D.,                                                                 
+       Meyer, T., North, M., de Graaff, J.J., Williford, J.            
+       Virtual environments for treating the fear of heights.          
+       IEEE Computer, 28(7), 1995, pp. 27-34.                          
+Insko, B.E. Passive haptics significantly enhances virtual             
+       environments. Doctoral dissertation, Dept. of                   
+       Computer Science, University of North Carolina at               
+       Chapel Hill, 2001.                                              
+Iwata, H. Artificial reality with force-feedback: development          
+       of desktop virtual space with compact master                                                                   
+       manipulator. Proc. of ACM SIGGRAPH ’90, 1990, pp.               
+       165-170.                                                        
+                                                                       
+Kajimoto, H., Kawakami, N., Maeda, T., Tachi, S.                     
+       Electrocutaneous display as an interface to a virtual         
+       tactile world.Pr oc. of IEEE Virtual Reality 2001,                                                             
+       2001, pp. 289-290.                                            
+                                                                     
+Kume, Y., Shirai, A., Tsuda, M., Hatada, T. Information              
+       transmission through soles by vibrotactile stimulation.       
+Trans. of the Virtual Reality Society of Japan,. 3(3), 
+1998, pp. 83-88.                      
+Lindeman, R.W., Bimanual interaction, passive-haptic 
+feedback, 3D widget representation, and simulated 
+surface constraints for interaction in immersive virtual 
+environments. Doctoral dissertation, Dept. of EE & CS, 
+the George Washington University, Washington, DC, 
+20052, May 16, 1999.                  
+Lindeman, R.W., Sibert, J.L., Hahn, J.K. Towards Usable VR: 
+An Empirical Study of User Interfaces for Immersive 
+Virtual Environments.Pr oc. of ACM CHI ’99, 1999, 
+pp. 64-71.                            
+Lindeman, R.W., Templeman, J.N., Sibert, J.L., Cutler, J.R. 
+Handling of Virtual Contact in Immersive Virtual 
+Environments: Beyond Visuals.Virtu   al Reality, 6(3), 
+2002, pp. 130-139.                    
+Lindeman, R.W., Yanagida, Y. Empirical Studies for Effective 
+Near-Field Haptics in Virtual Environments. Proc. of 
+IEEEVirtual Reality 2003, 2003, pp. 287-288. 
+Lindeman, R.W., Yanagida, Y., Sibert, J.L., Lavine, R. 
+Effective Vibrotactile Cueing in a Visual Search Task. 
+To appear inPr oc. of Interact 2003.  
+Massie, T.H., Salisbury, J.K. The PHANToM Haptic 
+Interface: A Device for Probing Virtual ObjectsPr. oc. 
+of the ASME WAM, Symposium on Haptic Interfaces 
+for Virtual Environment and Teleoperator System, s
+DSC Volume 55-1, 1994, pp. 295-300.   
+Rupert, A. An instrumentation solution for reducing spatial 
+disorientation mishaps.IEEE Eng. i  n Med. and Bio. 
+2000, pp. 71-80.                      
+Szalavári, Z., Gervautz, M. The personal interaction panel - a 
+two-handed interface for augmented realityPr. oc. of 
+Eurographics'97, 16(3), 1997.         
+Takala T., Hahn J. Sound Rendering.Pr oc. of ACM 
+SIGGRAPH '92, 1992, pp. 211-220.      
+Taylor, R.M., Robinett, W., Chi, V.L., Brooks, F.P., Wright, 
+W.V., Williams, R.S., Snyder, E.J. The 
+Nanomanipulator: A Virtual-Reality Interface for a 
+Scanning Tunneling MicroscopePr. oc. of SIGGRAPH 
+'93, 1993.                            
+Yano, H., Ogi, T., Hirose, M. Development of Haptic Suit for 
+Whole Human Body Using VibratorsT. rans. of the 
+Virtual Reality Society of Japan, Vol. 3, No. 3, 1998, 
+pp. 141-148.

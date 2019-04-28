@@ -1,0 +1,124 @@
+Gesture and Musical Interaction: Interactive Engagement Through Dynamic Morphology         
+
+Dr Garth Paine                                                  
+Head of Program - Electronic Arts                                        
+Senior Lecturer in Music Technology                                        
+School of Contemporary Arts                                            
+University of Western Sydney, Sydney, Australia                                   
+email: ga.paine@uws.edu.au                                               
+
+
+ABSTRACT
+New Interfaces for Musical Expression must speak to the                                                               
+nature of instrument, that is, it must always be understood                                                         
+that the interface binds to a complex musical phenomenon.                                                             
+This paper explores the nature of engagement, the point of                                                            
+performance that occurs when a human being engages with a                                                             
+computer based instrument.  It asks questions about the nature                                                        
+of the instrument in computer music and offers some                                                                   
+conceptual models for the mapping of gesture to sonic                                                                 
+outcomes.                                                                                                             
+
+
+REFERENCES                                                       
+[1]      Chadabe, J. The Limitations of Mapping as a             
+         Structural Descriptive in Electronic Music. in NIME     
+         2002. 2002. Dublin: MediaLabEurope.                     
+[2]      Keane, D., ed. At the Threshold of an Aesthetic. ed. S. 
+         Emmerson. 1986, Macmillan: New York. 116-122.           
+[3]      Paradiso, J., The Brain opera Technology: New          
+         instrauments and Gestural Sensors for Musical          
+         Interaction and Performance. Journal of New Music      
+         Research, 1999. 28(2): p. 130-149.                     
+[4]      Paradiso, J. Dual-Use Technologies for Electronic      
+         music Controllers: A Personal Perspective. in         
+         NIME03 . 2003. Montreal: McGill University.           
+[5]      Traube, C., P. Depalle, and M. Wanderley. Indirect   
+         Aquisition of Instrument Gesture Based on Signal,   
+         Phisical and Perceptual Information. in NIME03 .    
+         2003. Montreal: McGill University.                  
+[6]      Choi, I. A Component Model of gestural Primitive    
+         Throughput. in NIME03 . 2003. Montreal: McGill      
+         University.                                         
+[7]      Wanderley, M. and M. Battier, eds. Trends in        
+         Gestural Control of Music. 2000, IRCAM - Centre     
+         Pompidou: Paris.                                    
+[8]      Modler, P., T. Myatt, and M. Saup. An Experimental  
+         Set of Hand Gestures for Expressive Control of      
+         Musical Parameters in Realtime. in NIME03 . 2003.   
+         Montreal: McGill University.                        
+[9]      Meyer, L.B., Emotion and Meaning in Music. 1956,    
+         Chicargo: Univeristy of Chicago Press.              
+[10]     Hunt, A. and R. Kirk, Mapping Strategies for Musical
+         Performance, in Trends in Gestural Control of       
+         Music, M. Wanderley and M. Battier, Editors. 2000,  
+         IRCAM - Centre Pompidou: Paris.                     
+[11]     Bahn, C., T. Hahn, and D. Trueman. Physicality and  
+         Feedback: A Focus on the Body in the Performance of 
+         Electronic Music. in Mutlimedia Technology and      
+         Applications Conference. 2001. University of        
+         California, Irvine.                                 
+[12]     Bongers., B., Physical Interfaces in the Electronic 
+         Arts. Interaction Theory and Interfacing Techniques 
+         for Real-time Performance., in Trends in Gestural   
+         Control of Music. 2000, IRCAM - Centre Pompidou:    
+         Paris.                                              
+[13]     Cadoz, C., A. Luciani, and J.L. Florens, Responsive 
+         input devices and sound synthesis by simulation of  
+         instrumental mechanisms: The CORDIS system.         
+         Computer Music Journal, 1984. 8(3): p. 60-73.       
+[14]     Cook, P. Principles for Designing Computer Music                                                                
+         Controllers . in NIME-01 New Interfaces for Musical                                                             
+         Expression. 2001.                                   
+[15]     Hewitt, D. and I. Stevenson. EMIC - Extended Mic-                                                               
+         Stand Interface Controller. in NIME03 . 2003.       
+         Montreal: McGill University.                        
+[16]     Hunt, A., M. Wanderley, and R. Kirk. Towards a      
+         Model for Instrumental mapping in Expert Musical    
+Conference. 2000. San Fransisco: International
+Computer Music Association.                   
+[17]     Lazetta, F., Meaning in Musical Gesture, in Trends in
+Gestural Control of Music, M. Wanderley and M.
+Battier, Editors. 2000, IRCAM - Centre Pompidou:
+Paris.                                        
+[18]     Mulder, A., S. Fels, and K. Mase, Mapping Virtual
+Object Manipulation to Sound Variation. IPSJ SIG
+Notes, 1997. 97(122): p. 63-68.               
+[19]     Rovan, J., et al. Mapping Strategies as Expressive
+Determinants in Computer Music Performance. in
+AIMI International Workshop. 1997. Genoa Italy:
+Associazione di Informatica Musicale Italiana.
+[20]     Rowe, R., Interactive Music Systems. 1993,    
+Massachusetts: The MIT Press.                 
+[21]     Sapir, S., Gestural Control of Digital Audio  
+Environments. Journal of New Music Research, 2002.
+31(2): p. 119-129.                            
+[22]     Wessel, D. and M. Wright, Problems and Prospects
+for Intimate Control of Computers. Computer Music
+Journal, 2002. 26(3): p. 11-22.               
+[23]     Winkler, T. Making Motion Musical: Gestural   
+Mapping Strategies for Interactive Computer Music.
+in 1995 International Computer Music Conference.
+1995. San Francisco: International Computer Music
+Association.                                  
+[24]     Ihde, D., Technics and Praxis. Boston Studies in
+Philosophical Science, 1997. 24.              
+[25]     Ascott, R. The Technocratic Aesthetic: Art and the
+Matter of Conciousness. in CAiiA Research     
+Conference, Conciouysness Reframed, art and   
+conciousness in the post-biological era. 1997.
+University of Wales, Newport: University of Wales,
+Newport.                                      
+[26]     James, W., The principles of Psychology. 1950,
+reprint 1980, New York: Dover.                
+[27]     Schiporst, T. Body, interface, navigation sense and
+the state space. in The Art of programming : Sonic
+Acts 2001. 2001. Amsterdam: Sonic Acts Press. 
+[28]     Wishart, T., On Sonic Art, ed. S. Emmerson. 1996:
+Philadelphia, U.S.A.: Harwood; 1996.          
+[29]     Smalley, D., Spectromorphology: Explaining sound-
+shapes. Organised Sound, 1997. 2(2): p. 107-26.
+[30]     Schaeffer, P. and Moles, Morphologie and      
+Typolohyie des Objets Sonores. 1952, Paris.   
+[31]     Chadabe, J., Music and Life. Leonardo, 2002. 35(5):
+p. 559-565.

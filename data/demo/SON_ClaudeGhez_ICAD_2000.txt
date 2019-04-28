@@ -1,0 +1,66 @@
+An Auditory Display System for Aiding Interjoint Coordination                          
+
+Claude Ghez                                Thanassis Rikakis,                         Perry R. Cook
+Department of Neurology                    R. Luke DuBois                             Computer Science Dept.
+Columbia-Presbyterian Medical Center       Computer Music Center                      Princeton University
+cpg1@columbia.edu                          Columbia University                        prc@cs.princeton.edu
+                                           than/luke@music.columbia.edu                
+
+ABSTRACT                                                                               
+Patients with lack of proprioception are unable to build and maintain internal models of their limbs and monitor their limb
+movements because these patients do not receive the appropriate information from muscles and joints.  This project was
+undertaken to determine if auditory signals can provide proprioceptive information normally obtained through muscle and
+joint receptors.  Sonification of spatial location and sonification of joint motion, for monitoring arm/hand motions, was
+attempted in two pilot experiments with a patient.  Sonification of joint motion though strong time/synchronization cues was
+the most successful approach.  These results are encouraging and suggest that auditory feedback of joint motions may be
+substitute for proprioceptive input.  However, additional data will have to be collected and control experiments will have to
+be done.                                                                               
+
+
+
+REFERENCES
+1.  Ghez, C., The  control of movement, in Principles of Neural Science, E. Kandel, J. Schwartz, and T. Jessell, Editors.
+    1991, Elsevier. p. 533-547.
+2.  Ghez, C., et al., Spatial Representations and Internal Models of Limb Dynamics in Motor Learning, in The Cognitive
+    Neurosciences (2nd Edition), M. Gazzaniga, Editor. 1999, The MIT Press: Cambridge, Massachusetts. p. 501-514.
+3.  Hollerbach, J.M. and T. Flash, Dynamic interactions between limb segments during planar arm movement. Biological
+    Cybernetics, 1982. 44: p. 67-77.
+4.  Krakauer, J.W., M.F. Ghilardi, and C. Ghez, Independent learning of internal models for kinematic and dynamic
+    control of reaching. Nature Neuroscience, 1999. 2(11): p. 1026-31.
+5.  Ghez, C., et al., Roles of proprioceptive input in the programming of arm trajectories. Cold Spring Harbor Symposia on
+    Quantitative Biology, 1990. 55: p. 837-847.
+6.  Shadmehr, R. and F.A. Mussa-Ivaldi, Adaptive representation of dynamics during learning of a motor task. Journal of
+    Neuroscience, 1994. 14: p. 3208-3224.
+7.  Sainburg, R.L., C. Ghez, and D. Kalakanis, Intersegmental Dynamics are Controlled by Sequential Anticipatory, Error
+    Correction, and Postural Mechanisms. Journal of Neurophysiology, 1999. 81(3): p. 1045-1056.
+8.  Ghez, C., J. Gordon, and M.F. Ghilardi, Impairments of reaching movements in patients without proprioception II.
+    Effects of visual information on accuracy. Journal of Neurophysiology, 1995. 73: p. 361-372.
+9.  Sainburg, R.L., H. Poizner, and C. Ghez, Loss of Proprioception Produces Deficits in Interjoint Coordination. Journal
+    of Neurophysiology, 1993. 70: p. 2136-2147.
+10. Sainburg, R.L., et al., The Control of  Limb Dynamics in Normal Subjects and Patients without Proprioception. Journal
+    of Neurophysiology, 1995. 73: p. 820-835.
+11. Matthews, P.B.C., Muscle spindles: their messages and their fusimotor supply, in Handbook of Physiology: Sec. 1. The
+    Nervous System: Vol. 2. Motor Control, Part 1, V.B. Brooks, Editor. 1981, American Physiological Society: Bethesda,
+    MD. p. 189-228.
+12. Houk, J.C. and W.Z. Rymer, Neural control of muscle length and tension, in Handbook of Physiology: Sec. 1. The
+    Nervous System: Vol. 2. Motor Control, Part 1, V.B. Brooks, Editor. 1981, American Physiological Society: Bethesda,
+    MD. p. 257-323.
+13. Luschei, E., C. Saslow, and M. Glickstein, Mucle potentials in reaction time. Experimental Neurology, 1967. 18: p.
+    429-442.
+14. Shapley, R. and P. Lennie, Spatial frequency analysis in the visual system. Annual Review of Neuroscience, 1985. 8: p.
+    547-83.
+15. Handel, S., Listening, MIT Press, Cambridge MA, 461-544, 1989
+16. Kramer, J., The time of music, Schirmer Books, New York, 1988
+17. Lerdahl, F., A Generative Theory of Tonal Music, MIT Press, Cambridge MA, 1985.
+18. Tillmann, Barbara; Bigand Emmanuel, Influence of global structure on musical target detection and recognition,
+    International Journal of Pyschology, Vol 33(2), Apr. 1998, 107-122
+19. Ghez, C., W. Hening, and M. Favilla, Parallel interacting channels in the initiation and specification of motor response
+    features, in Attention and Performance XIII: Motor Representation and Control, M. Jeannerod, Editor. 1990, Lawrence
+    Erlbaum: Hillsdale, NJ. p. 265-293.
+20. Wolpert, D.M., Z. Ghahramani, and M. Jordan, Are arm trajectories planned in kinematic or dynamic coordinates? An
+    adaptation study. Experimental Brain Research, 1995. 103: p. 460-470.
+21. Virji-Babul, N., R. Sainburg, and C. Ghez, Roles of vision and proprioception in providing contextual and feedback
+    information for the learning of limb dynamics. In preparation.
+22. Puckette, M., Combining Event and Signal Processing in the Max Graphical Programming Environment. Computer
+    Music Journal, 1991. 15(3): p. 41-49.
+23. Zicarelli, D., Cycling74 Website. www.cycling74.com, 1997.

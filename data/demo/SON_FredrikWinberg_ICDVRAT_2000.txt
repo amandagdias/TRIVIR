@@ -1,0 +1,46 @@
+The quest for auditory direct manipulation: The sonified Towers of Hanoi                                       
+
+Fredrik Winberg       and Sten Olof Hellström                                                   
+Centre for User Oriented IT-Design, Royal Institute of Technology,                                    
+Lindstedtsvägen 5, SE-10044 Stockholm, SWEDEN                                                   
+Department of Music, City University,                                                   
+London EC1V 0HB, UK                                                               
+fredrikw@nada.kth.se,   soh@nada.kth.se                                                   
+
+
+ABSTRACT                                                                
+This paper presents a study of an auditory version of the game Towers of Hanoi. The goal of this study was to investigate 
+the nature of continuos presentation and what this could mean when implementing auditory direct manipulation.                
+We also wanted to find out if it was possible to make an auditory interface that met the requirements of a direct manipulation 
+interface. The results showed that it was indeed possible to implement auditory direct manipulation, but 
+using Towers of Hanoi as the underlying model restricted the possibilities of scaling the auditory space. The results also          
+showed that having a limited set of objects, the nature of continuos presentation was not as important as how to interact         
+with the auditory space.                                                                                                          
+
+
+
+REFERENCES 
+Ball, W. W. R. (1939). Mathematical recreations & essays (11th ed.) (pp. 303-305). London: Macmillan & Co.
+Blattner, M., Sumikawa, D., & Greenberg, R. (1989). Earcons and Icons: Their Structure and Common Design
+   Principles. Human-Computer Interaction, 4(1), 11-44.
+Bregman, A. S. (1990). Auditory scene analysis: The Perceptual Organization of Sound. Cambridge, MA: MIT Press.
+Gaver, W. W. (1994). Using and Creating Auditory Icons. In G. Kramer (Ed.), Auditory display: Sonification,
+   audification, and auditory interfaces (pp. 417-446). Reading, USA: Addison-Wesley.
+Gaver, W.W., Smith, R.B., & O’Shea, T. (1991). Effective sounds in complex systems: The ARKola simulation. In
+   Proceedings of CHI’91 (pp. 85-90). New York: ACM.
+GUIB Consortium. (1995). Final Report of the GUIB Project: Textual and Graphical Interfaces for Blind People.
+   London: Royal National Institute for the Blind.
+Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1985). Direct manipulation interfaces. In D. A. Norman & S. W.
+   Draper (Eds.), User centered system design (pp. 87-124). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+Kramer, G. (1994). Some Organizing Principles for Representing Data with Sound. In G. Kramer (Ed.), Auditory
+   display: Sonification, audification, and auditory interfaces (pp. 185-221). Reading, USA: Addison-Wesley.
+Mynatt, E. D. (1997). Transforming graphical interfaces into auditory interfaces for blind users. Human-Computer
+   Interaction, 12, 7-45.
+Saue, S. (2000). A model for interaction in exploratory sonification displays. In Proceedings of ICAD 2000 [online
+   proceedings]. URL http://www.icad.org/websiteV2.0/Conferences/ICAD2000/ICAD2000.html (visited 2000, July
+   11).
+Walker, B.N., Kramer, G., & Lane, D.M. (2000). Psychophysical Scaling of Sonification Mappings. In Proceedings of
+   ICAD 2000 [online proceedings]. URL http://www.icad.org/websiteV2.0/Conferences/ICAD2000/ICAD2000.html
+   (visited 2000, July 11).
+Winberg, F. & Hellstr m, S. O. (2000). Investigating Auditory Direct Manipulation: Sonifying the Towers of Hanoi. In
+   CHI 2000 Extended Abstracts (pp. 281-282). New York: ACM.

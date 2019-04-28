@@ -1,0 +1,19 @@
+Rsings - or using R to sonify data                                  
+
+
+Erich Neuwirth                             
+
+Abstract                             
+We present a new package which allows R to produce sound from data. 
+The packages uses Csound, an extremely powerful and freely available multi
+platform program for sound creation. Sonification is a relatively new branch
+of data analysis, so even the basic set of concepts is still in ux. Our toolkit
+hopefully makes research into different options for sonification methods more
+accessible and helps to develop data based instruments in R.         
+
+References                                                                                
+[1] Richard Boulanger. The Csound Book. MIT Press, 2000.                                  
+[2] T. Hansen, M. H. Hansen, and H. Ritter. Sonification of markov chain monte             
+carlo simulations. In Proceedings of the 2001 International Conference on Auditory 
+Display, 2001.                                                                 
+

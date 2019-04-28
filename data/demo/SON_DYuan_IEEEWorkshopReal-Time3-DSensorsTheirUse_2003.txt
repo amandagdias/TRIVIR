@@ -1,0 +1,103 @@
+A Tool for Range Sensing and Environment Discovery for the Blind                                
+
+D. Yuan and R. Manduchi                                        
+Department of Computer Engineering                                    
+University of California, Santa Cruz                               
+Santa Cruz, CA       95064                                 
+
+
+
+Abstract
+This paper describes the development of a hand-held environment
+discovery tool for the blind. The nal device will be
+compose do fa laser-based range sensor and of an onboard
+processor. As the users wings the hand-held system around,
+he/she will receive local range information by means of a
+tactile interface. In addition, the time pro le of the range
+will be analyzed by the onboard processor to detect environmental
+features that are critical formobility, such as curbs,
+steps and drop-offs. In our current implementation, range
+is collected by a short-base line triangulation system formed
+by a point laser and a miniaturized camera, producing readings at
+framerate. An Extended Kalman lter is used to
+track the range data and detect environmental features of
+interest.                                                                                                  
+
+References                                             
+[1] M.D. Adams. On–line gradient based surface discontinuity
+detection for outdoor scanning range sensors. In Proc.2001
+IEEE/RSJ International Conference on Intelligent Robots and
+vided by the variance of the innovation. This validation                                                                 
+Systems(IROS'01), pages1726–31,Maui, HI, 2001.      
+[2] M.D. Adams and A. Kerstens. Tracking naturally occurring
+trail of consecutive measurements are detected as outliers,                                                                
+indoor features in 2–D and 3–D with lidar range/amplitude
+data. The International Journal of Robotics Research, pages
+907–23,1998.                                        
+[3] Y. Bar-Shalom and T.E. Fortmann. Trackingand Data Association.
+AcademicPress,1988.                               
+[4] J.M. Benjamin, N.A. Ali, and A.F. Schepsis. A laser cane
+for the blind. In Proc.San Diego Biomedical Symposium,        
+volume 12, pages53–7,1973.                                   
+[5] D. Bissitt andA.D. Heyes. An application of bio feedbackin
+there habilitation of the blind. Applied Ergonomics, 11(1):31–   
+3, 1980.                                                    
+[6] B.B. Blasch, W.R. Wiener, and R.L. Welsh. Foundations of 
+Orientation and Mobility. AFB Press,1997. Second Edition.      
+[7] S.A. Brewster. Using non–speech sounds to provide navigation.
+ACM Trans. on Computer–HumanInteraction, 5(3):224–259,1995.                                          
+[8] D.D. Clark-Carter, A.D. Heyes, andC.I. Howarth. The effect
+of non–visual preview upon the walking speed of visually impaired
+people. Ergonomics, 29(12):1575–81,1986.                 
+[9] D.Gebre-Egziabher, G.H.Elkaim, J.D. Powell, and B.W.      
+Parkinson. A gyro-free quaternion-based attitude determination
+system suitable for implementation using low-cost sensors. 
+In Proc.IEEE Position Location and Navigations Symposium
+(IEEE PLANS), pages 185–192, San Diego, 2000.             
+[10] American Foundation for the Blind. http://www.afb.org.                                                                 
+[11] A. Gersho and R.M. Gray. Vector Quantization and Signal                                                                  
+Compression. Kluwer Academic Publisher, 1992.                                                                          
+[12] J.J. Gibson. The Senses Considered as Perceptual Systems.                                                                
+Houghton Mif in, Boston,MA, 1966.                                                                                     
+[13] J.J. Gibson. The Ecological Approach to Visual Perception.                                                               
+Houghton Mif in, Boston,MA, 1979.                                                                                     
+[14] P. De Groen. An introduction to Total Least Squares. Nieuw                                                            
+Archiefvoor Wiskunde, 14(12):237–254,1996.                                                                            
+[15] R. Hartley and A. Zisserman. Multiple View Geometryin                                                                 
+Computer Vision. Cambridge University Press, Cambridge,                                                                
+2000.                                                                                                                
+[16] L. Kay.  A sonar aid to enhance spatial perception of the                                                             
+blind: Engineering design and evaluation. Radioand Electronic
+Engineer, 44(1):605–27,1974.                                                                                   
+[17] R. Ludt. Western Blind Rehabilitation Center. Personal
+communication.                                                                                                          
+[18] D.T. Maggil.   Optimal adaptive estimation of sampled                                                               
+stochastic processes. IEEE Transactionson Automatic
+Control, AC-10(4):431–439,1979.                                                                                         
+[19] P.B.L. Meijer. An experimental system for auditory image                                                              
+representations. IEEE Transactions on Biomedical Engineering
+38(2):112–121,February1992.                                                                                     
+[20] C. Mertz, J. Kozar, J.R. Miller, and C. Thorpe. Eye-safe                                                            
+laser line striper for out side use. In IV2002, IEEE Intelligent                                                           
+Vehicle Symposium, 2002.                                                                                              
+[21] Inc. PointGrey Research. http://www.ptgrey.com/.   
+[22] S.I. Roumeliotis, G.S. Sukhatme, and G.A. Bekey.  Sensor
+fault detection and identi cationin a mobile robot. In
+Proc. 1998 IEEE/RSJ International Conference on Intelligent
+Robots and Systems, pages 1383-1388, Victoria, Canada,
+1998.                                               
+[23] I. Ulrich andJ. Borenstein.The Guide Cane-Applying 
+mobile robot technologies to assist the visually impaired. IEEE
+Trans. on Systems, Man, and Cybernetics-A, 31(3):131-6,  
+March 2001.                                         
+[24] R. Wall. Biomechanical substrates of the two-point touch
+cane technique: A review of research. AFB Journal of Visual
+Impairment and Blindness, 96(2), 2002.                
+[25] J. Weberand J. Malik. Robust computationof optical ow
+in a multi-scale differential framework. International Journal
+of Computer Vision, 14(1):5-19,1995.                  
+[26] Wormald International Sensory Aids, 6140 Horse shoe Bar
+Rd., Loomis, CA 95650.                              
+[27] http://www.seeingwithsound.com/.                   
+blind: Engineering design and evaluation. Radio and
+Electronic Engineer, 44(1):605-27,1974.

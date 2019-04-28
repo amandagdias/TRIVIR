@@ -1,0 +1,54 @@
+A cross-modal electronic travel aid device           
+
+F. Fontana, A. Fusiello, M. Gobbi, V. Murino,                       
+D. Rocchesso, L. Sartor, A. Panuccio                           
+Dipartimen to di Informatica, University of Verona                  
+Ca' Vignal 2, Strada Le Grazie 15, 37134 Verona, Italy                 
+{fontana,fusiello,m urino,rocchesso,panucciog}@sci.univr.it             
+
+
+
+Abstract.   
+This paper describes the design of an Electronic Travel Aid        
+device, that will enable blind individuals to see the world with their        
+ears. A wearable protot ype will be assembled using low-cost hardware:        
+earphones, sunglasses tted with two CMOS micro cameras, and a palmtop 
+computer. Curren tly, the system is able to detect the light spot produced
+by a laser pointer, compute its angular position and depth, and          
+generate a correspondent sound providing the auditory cues for the perception
+of the position and distance of the pointed surface. In this way       
+the blind person can use a common pointer as a replacement of the cane.        
+
+References                                                                            
+ 1. Y. Bar-Shalom and T. Fortmann. Tracking and Data Association . AP , 1988.         
+ 2. Durand R. Begault. 3D Sound for virtual reality and multimedia. AP Professional,  
+    955 Massac husetts Avenue, Cam bridge, 1994.                                      
+ 3. J. Blauert. Spatial Hearing: the Psychophysics of Human Sound Localization . MIT  
+    Press, Cam bridge, MA, 1983.                                                      
+ 4. R. C. Bolles, H. H. Baker, and M. J. Hannah. The JISCT       stereo evaluation.  In
+    Pr oceedings of the Image Understanding Workshop, pages 263{274, Washington,      
+    DC, April 1993. ARP A, Morgan Kaufmann.                                           
+ 5. C. P. Brown and R. O. Duda. A structural      model for binaural sound synthesis. 
+    6(5):476{488, September 1998.                                                     
+ 6. Jr S. A. Dallas. Sound pattern generator. WIPO Patent No. WO82/00395., 1980.      
+ 7. U. R. Dhond and J. K. Aggarwal. Structure from stereo { a review. IEEE      Trans-
+    actions on Systems, Man and Cybernetics , 19(6):1489{1510,    Nov/Dec 1989.       
+ 8. O. Faugeras. Three-Dimensional Computer Vision: A Geometric Viewpoint. The        
+    MIT Press, Cam bridge, MA, 1993.                                                  
+ 9. R. Fish. An audio display for the blind. IEEE   Trans. Biomed. Eng., 23(2), 1976. 
+10. M. Kub ovy and D.Van Valkenburg. Auditory and visual objects. Cognition, 80:97{   
+    126, 2001.                                                                        
+11. Heinrich Kuttru.  Room Acoustics. Elsevier Science, Essex, England, 1991.        
+12. Kay L. Air sonar with acoustical display of spatial information. In Animal Sonar  
+    System , pages 769{816, New York, 1980.                                           
+13. The LAR-DEIS     Videt Pro ject. University of Bologna - Italy . Available at URL 
+    http://www.lar.deis.unib o.it/activities/videt.                                   
+14. J. Strikw erda.  Finite  Diference Schemes and Partial     Diferential Equations .
+    Wadsworth & Brooks, Pacic Grove, CA, 1989.                                       
+15. E. Trucco and A. Verri.      Intr oductory Techniques for 3-D Computer Vision .   
+    Prentice-Hall, 1998.                                                              
+16. Scott A. Van Duyne and Julius O. Smith. Physical modeling with the 2-D digital    
+    waveguide mesh. pages 40{47, Tokyo, Japan, 1993. ICMA.                            
+17. Scott A. Van Duyne and Julius O. Smith.       A Simplifed Approach to Modeling    
+    Dispersion Caused by Stiness in Strings     and Plates.  pages 407{410,   Aarh us,
+    Denmark, September 1994. ICMA.

@@ -1,0 +1,148 @@
+Factors Influencing the Dimer to Monomer Transition of an Antibody Single-Chain                                                
+Fv Fragment                                                               
+
+Katja M. Arndt, Kristian M. Muller, and Andreas Pluckthun
+Biochemisches Institut, UniVersita »t Zu»rich, Winterthurer strasse190,
+CH-8057Z u»rich, Switzerland                     
+
+
+
+ABSTRACT:
+Antibody single-chain Fv (scFv) fragments are able to form dimers under certa inconditions,                                
+and the extent of dimerization appears to depend on linker length, antibody sequence, and external factors.             
+We analyzed the factors influencing dimer- monomer equilibrium as well as the rate of interconversion,                  
+using the scFv McPC603 as a model system. In this molecule, the stability of theHV- VL interaction can                  
+be conveniently varied by adjusting the ionic strength (because of its influence on the hydrophobic effect),            
+by pH (presumably because of the presence of titratable groups in the interface), and by the presence or                
+absence of the antigen phosphorylcholine, which can be rapidly removed due to its very fast off-rate. It                
+was found that the monomer is the thermodynamically stable form with linkers of 15 and 25 amino acids                   
+length under all conditions tested (35ÌM or less). The dimer is initially formed in periplasmic expression,             
+\presumably by domain swapping, and can be trapped by all factors which stabilize theH- VVL interface,                   
+such as the presence of the antigen, high ionic strength, and pH below 7.5. Under all other conditions,                 
+it converts to the monomer. Predominantly monomer is obtained during in vitro folding. Monomer is                       
+stabilized against dimerization at very high concentrations by the same factors which stabilize theH- V                 
+VL interaction.    These results should be helpful in producing molecules with defined oligomerization                  
+states.                                                                                                                 
+
+
+
+REFERENCES
+1. Skerra, A., and Plu»ckthun, A. (1988)Science240, 1038- 1041.                                                   
+2. Stanfield, R. L., Takimoto-Kamimura, M., Rini, J. M., Profy,
+A. T., and Wilson, I. A. (1993) Structure1,8 3- 93.
+3. Bird, R. E., Hardman, K. D., Jacobson, J. W., Johnson, S.,
+Kaufman, B. M., Lee, S. M., Lee, T., Pope, S. H., Riordan,
+G. S., and Whitlow, M. (1988)Science242, 423- 426.
+4. Huston, J. S., Levinson, D., Mudgett-Hunter, M., Tai, M. S.,
+Novotny, J., Margolies, M. N., Ridge, R. J., Bruccoleri, R.
+E., Haber, E., Crea, R., and Oppermann, H. (1988)Proc.Natl.
+Acad.Sci.U.S.A85, 5879- 5883.                              
+5. Glockshuber, R., Malia, M., Pfitzinger, I., and Plu»ckthun, A.
+1990) Biochemistry29, 1362- 1367.                                
+6. Huston, J. S., Mudgett-Hunter, M., Tai, M. S., McCartney, J., 
+Warren, F., Haber, E., and Oppermann, H. (1991)Methods                                                          
+Enzymol.203,4 6- 88.                                           
+7. Takkinen, K., Laukkanen, M. L., Sizmann, D., Alfthan, K.,   
+Immonen, T., Vanne, L., Kaartinen, M., Knowles, J. K., and                                                      
+Teeri, T. T. (1991) ProteinEng.4, 837- 841.                    
+8. Stemmer, W. P., Morris, S. K., and Wilson, B. S. (1993)     
+BioTechniques14, 256- 265.                                                                                      
+9. Tang, Y., Jiang, N., Parakh, C., and Hilvert, D. (1996)J.Biol.
+Chem.271, 15682- 15686.                                          
+10. Turner, D. J., Ritter, M. A., and George, A. J. (1997) J.                                                      
+Immunol.Methods205,4 3- 54.                                    
+11. Hennecke, F., Krebber, C., and Plu»ckthun, A. (1998)Protein
+Eng.11,405- 410.                                                                                                
+12. Holliger, P., Prospero, T., and Winter, G. (1993)Proc.Natl.
+Acad.Sci.U.S.A.90, 6444- 6448.                                 
+13. Essig, N. Z., Wood, J. F., Howard, A. J., Raag, R., and    
+Whitlow, M. (1993) J.Mol.Biol.234, 897- 901.                   
+14. Griffiths, A. D., Malmqvist, M., Marks, J. D., Bye, J. M., 
+Embleton, M. J., McCafferty, J., Baier, M., Holliger, K. P.,   
+Gorick, B. D., Hughes-Jones, N. C., Hoogenboom, H. R., and     
+Winter, G. (1993)EMBOJ.12, 725- 734.                           
+15. Whitlow, M., Bell, B. A., Feng, S. L., Filpula, D., Hardman,
+K. D., Hubert, S. L., Rollence, M. L., Wood, J. F., Schott, M.  
+E., Milenic, D. E., Takashi, Y., and Schlom, J. (1993)Protein   
+Eng.6, 989- 995.                                               
+16. Whitlow, M., Filpula, D., Rollence, M. L., Feng, S. L., and                                                    
+Wood, J. F. (1994) ProteinEng.7, 1017- 1026.                   
+17. Desplancq, D., King, D. J., Lawson, A. D., and Mountain, A.
+(1994) ProteinEng.7, 1027- 1033.                                                                                
+18. Perisic,O., Webb, P. A., Holliger,P., Winter,G., and Williams,
+R. L. (1994) Structure2, 1217- 1226.                           
+19. Pei, X. Y., Holliger, P., Murzin, A. G., and Williams, R. L.                                                   
+(1997) Proc.Natl.Acad.Sci.U.S.A.94, 9637- 9642.                
+20. Kortt, A. A., Lah, M., Oddie, G. W., Gruen, C. L., Burns, J.
+E., Pearce, L. A., Atwell, J. L., McCoy, A. J., Howlett, G. J., 
+Metzger, D. W., Webster, R. G., and Hudson, P. J. (1997)       
+ProteinEng.10, 423- 433.                                       
+21. Iliades, P., Kortt, A. A., and Hudson, P. J. (1997)FEBSLett.
+409, 437- 441.                                                                                                  
+22. Bennett, M. J., Choe, S., and Eisenberg, D. (1994)Proc.Natl.
+Acad.Sci.U.S.A.91, 3127- 3131.                                 
+23. Bennett, M. J., Schlunegger, M. P., and Eisenberg, D. (1995)
+ProteinSci.4, 2455- 2468.                                       
+24. Kortt, A. A., Malby, R. L., Caldwell, J. B., Gruen, L. C.,
+Ivancic, N., Lawrence, M. C., Howlett, G. J., Webster, R. G.,
+Hudson, P. J., and Colman, P. M. (1994)Eur. J. Biochem.
+221, 151- 157.                               
+25. Murray, A. J., Lewis, S. J., Barclay, A. N., and Brady, R. L.
+(1995) Proc.Natl.Acad.Sci.U.S.A.92, 7337- 7341.
+26. Perlmutter, R. M., Crews, S. T., Douglas, R., Sorensen, G.,
+Johnson, N., Nivera, N., Gearhart, P. J., and Hood, L. (1984)
+dV.Immunol.35,1 - 37.                       
+27. Satow, Y., Cohen, G. H., Padlan, E. A., and Davies, D. R.
+(1986) J.Mol.Biol.190, 593- 604.             
+28. Plu»ckthun, A. (1993)Bioorg.Chem.Front.3,2 5- 66.
+29. Knappik, A., and Plu»ckthun, A. (1995)ProteinEng.8,8 1-
+89.                                          
+30. Skerra, A., Pfitzinger, I., and Plu»ckthun, A. (1991) BioTechnology
+9, 273- 278.                           
+31. Knappik,A., and Plu»ckthun,A. (1994)Biotechniques17, 754-
+761.                                         
+32. Plu»ckthun, A., and Skerra, A. (1989)MethodsEnzymol.178,
+497- 515.                                    
+33. Chesebro, B., and Metzger, H. (1972)Biochemistry11, 766-
+771.                                         
+34. Gill, S. C., and von Hippel, P. H. (1989)Anal.Biochem.182,
+319- 326.                                    
+35. Pack, P., and Plu»ckthun, A. (1992)Biochemistry31, 1579-
+1584.                                        
+36. Pack, P., Mu»ller, K., Zahn, R., and Plu»ckthun, A. (1995)J.
+Mol.Biol.246,2 8- 34.                        
+37. Freund, C., Ross, A., Guth, B., Plu»ckthun, A., and Holak, T.
+A. (1993) FEBSLett.320,9 7- 100.             
+38. Oliver, D. B. (1996) in Escherichia coli and Salmonella
+(Neidhardt, F. C., Ed.) pp 88- 103, ASM Press, Washington,
+D.C.                                         
+39. Raag, R., and Whitlow, M. (1995)FASEBJ.9,7 3- 80.
+40. Schier, R., Bye, J., Apell, G., McCall, A., Adams, G. P.,
+Malmqvist, M., Weiner, L. M., and Marks, J. D. (1996) J.
+Mol.Biol.255,2 8- 43.                        
+41. Wu, A. M., Chen, W., Raubitschek, A., Williams, L. E.,
+Neumaier, M., Fischer, R., Hu, S. Z., Odom-Maryon, T.,
+Wong, J. Y., and Shively, J. E. (1996) Immunotechnology,2
+21- 36.                                      
+42. Alfthan, K., Takkinen, K., Sizmann, D., So»derlund, H., and
+Teeri, T. T. (1995) ProteinEng.8, 725- 731.  
+43. Goetze, A. M., and Richards, J. H. (1978)Biochemistry 17,
+1733- 1739.                                  
+44. Goetze, A. M., and Richards, J. H. (1977)Proc.Natl.Acad.
+Sci.U.S.A.74, 2109- 2112.                    
+45. Chothia, C., Novotny, J., Bruccoleri, R., and Karplus, M.
+1985) J.Mol.Biol.186, 651- 663.             
+46. Freund, C., Ross, A., Plu»ckthun, A., and Holak, T. A. (1994)
+Biochemistry33, 3296- 3303.                  
+47. Givol, D. (1991) Mol.Immunol.28, 1379- 1386. 
+48. Anthony, J., Near, R., Wong, S. L., Iida, E., Ernst, E.,
+Wittekind, M., Haber, E., and Ng, S. C. (1992)Mol.Immunol.
+29, 1237- 1247.                              
+49. Polymenis, M., and Stollar, B. D. (1995)J. Immunol. 154,
+2198- 2208.                                  
+50. Mallender, W. D., Carrero, J., and Voss, E. J. (1996)J.Biol.
+Chem.271, 5338- 5346.                        
+51. Kabsch, W., and Sander, C. (1983)Biopolymers 22, 2577-
+2637.                                        
+52. Kraulis, P. J. (1991) J.Appl.Crystallogr.24, 946- 950.
+BI9810407

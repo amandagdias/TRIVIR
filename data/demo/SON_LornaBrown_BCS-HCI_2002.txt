@@ -1,0 +1,53 @@
+BROWSING MODES FOR EXPLORING SONIFIED LINE GRAPHS                          
+                                                                                                                        
+Lorna Brown, Stephen Brewster,                         Beate Riedel                      
+Ramesh Ramloll and Wai Yu                              Department of Psychology                  
+Glasgow Interactive Systems Group                      University of Glasgow                  
+Department of Computing Science                        G12 8QB, UK                        
+University of Glasgow G12 8RZ, UK                      beate@psy.gla.ac.uk                   
+{lorna, stephen} @dcs.gla.ac.uk                                                                           
+www.multivis.org                                                                                 
+
+ABSTRACT                                                                                                                
+The research presented here addresses how line          
+graphs can be made accessible to blind and visually     
+impaired people through the use of non-speech audio.    
+Previous research has focused on the sonification of a  
+single data series.  This paper describes a method of   
+sonifying two data series, and the design of two        
+modes (parallel mode and serial mode) for browsing      
+the graphs. Quantitative evaluation showed that both    
+browsing modes were successful, with the parallel       
+mode being particularly effective.                      
+
+
+REFERENCES                                                 
+[1] Brewster, S.A., Wright, P.C. & Edwards, A.D.N.            
+Experimentally derived guidelines for the creation       
+of earcons. In Adjunct Proceedings of HCI'95             
+(Huddersfield, UK.), 1995, pp. 155-159.                  
+[2] Deutsch, D. Memory and Attention in Music. In             
+Music and the Brain , Critchley, M., Henson, R.A.        
+(Ed.), William Henemann Medical Books Limited,           
+London, 1977, pp 95-130.                                 
+[3] Hart, S., Staveland, L. Development of NASA-TLX           
+(Task Load Index): Results of empirical and              
+theoretical research. In Human Mental Workload,          
+Hancock, P., Meshkati, N. (Ed.), North Holland           
+B.V., Amsterdam, 1988, pp 139 - 183.                     
+[4] Mansur, D.L. Graphs In Sound: A Numerical Data            
+Analysis Method for the Blind. M.Sc., University of      
+California, 1975.                                        
+[5] Ramloll, R., Brewster, S, Yu, W., Riedel, B. Using        
+Non-speech Sounds to Improve Access to 2D                
+Tabular Numerical Information for Visually               
+Impaired Users. In Proceedings of BCS IHM-HCI            
+(Lille, France) Springer, 2001, pp. 515-530.             
+[6] Sayhun, S. A Comparison Of Auditory And Visual            
+Graphs For Use In Physics And Mathematics.               
+Ph.D., Oregon State University, 2000.                    
+[7] Terhardt, E., Perception of Musical Sound ,               
+http://www.mmk.ei.tum.de/persons/ter.html                
+[8] Wilson, C.M., Lodha, S.K. Listen: A Data                  
+Sonification Toolkit. In Proceedings of ICAD '96         
+(Palo Alto), 1996, pp. 35-40.

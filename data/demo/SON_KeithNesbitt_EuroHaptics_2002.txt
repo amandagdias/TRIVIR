@@ -1,0 +1,97 @@
+Experimenting with Haptic Attributes for Display of Abstract Data                  
+
+Keith V. Nesbitt                          
+Department of Computer Science and Software Engineering,             
+University of Sydney, Sydney, NSW. 2006. Australia              
+knesbitt@cs.newcastle.edu.au                       
+
+Abstract
+Information perceptualization has been defined to           
+include the three domains of Information Visualization,     
+Information Sonification and Information Tactilisation      
+[1]. While Information Visualization is a developing field  
+and Sonification is an emerging field of study, very little 
+work has been done to experiment with haptics for the       
+display of abstract information. This paper describes       
+some pilot studies designed to test the feasibility of using
+three different attributes of touch to display nominal or   
+ordinal data. These attributes are surface hardness,        
+surface roughness and object inertia. The results are       
+applied to the display of stock market data on the Haptic   
+Workbench.                                                  
+
+
+
+
+
+References
+[1] S. K. Card, J. D. Mackinlay, et al., Eds. Information                                                               
+Visualization. Readings in Information Visualization. San      
+Francisco, California, Morgan Kaufmann Publishers, Inc. 1999.                                                           
+[2] W. Wright, W.  "Information Animation Applications in the  
+Capital Markets". Proceedings IEEE Information Visualization   
+95, New York. 1995.                                            
+[3] R. A. Becker and S. G. Eick (1995). Visualizing Network   
+Data. IEEE Transactions on Visualization and Computer         
+Graphics 1(1): 16-28. 1995.                                    
+[4] N. Nishikawa "ObjectOrrey - 3D Visualization of Class      
+Library Structure". Proceedings Software Visualization         
+Workshop, Sydney, 1999.                                        
+[5] G. Kramer, G. An Introduction to Auditory Display.         
+Auditory Display:Sonification, Audification and Auditory       
+Interfaces. G. Kramer, Addison-Wesley Publishing Company.      
+XVIII: 1-78. 1994.                                             
+[6] W. W. Gaver. (1986). Auditory Icons:using sound in        
+computer Interfaces. Human Computer Interaction 2: 167-177.   
+1986.                                                          
+[7] J. A. Jackson and J. M. Francioni. "Synchronization of     
+Visual and Aural Parallel Program Performance DataAuditory".   
+Display:Sonification, Audification and Auditory Interfac. Ges. 
+Kramer, Addison-Wesley Publishing CompanyX. VIII: 291-         
+306. 1994.                                                     
+[8] J. H. Flowers, D. Buhman, et al. "Data Sonification from the                                                        
+Desktop: Should Sound be part of Standard Data Analysis".                                                               
+International Conference on Auditory Display, Palo Alto,                                                                
+California. 1996.                                                                                                       
+[9] K. V. Nesbitt, R. Gallimore, et al. "Using Force Feedback                                                           
+for Multi-sensory Display". 2nd Australasian User Interface                                                             
+Conference AUIC 2001, Gold Coast, Queensland, Australia,                                                                
+IEEE Computer Society. 2001.                                                                                            
+[10] K. V. Nesbitt, B. J. Orenstein, R. J. Gallimore, R.J. and J.                                                       
+P. McLaughlin. "The Haptic Workbench applied to petroleum                                                               
+3D Seismic Interpretation." The Second PHANToM User’s                                                                   
+Group Workshop, 1997.                                                                                                   
+[11] D. F. Green and J. K. Salsibury. "Soil Simulation with a                                                           
+PHANToM." The Third PHANToM User's Group Workshop,                                                                      
+Cambridge, Massachusett, USA, MIT. 1998                                                                                 
+[12] J. K. Salisbury and M. A. Srinivasan, "Phantom-Based                                                               
+Haptic Interaction with Virtual Objects". IEEE Computer                                                                 
+Graphics and Applications, September-October, 1997, Vol. 17,                                                            
+No. 5, pp. 6-10.                                                                                                        
+[13] D.R. Stevenson, K.A. Smith, J.P. McLaughlin, C.J. Gunn,
+J.P. Veldkamp and M.J. Dixon, "Haptic Workbench: A Multi-sensory 
+Virtual Environmen", Stet  reoscopic Displays and
+Virtual Reality Systems VI, J.O. Merrit, M.T. Bolas, S.S. Fisher,
+Editors. Proc. of SPIE, Vol 3639. pp 356-366. 1999.    
+[14]  Internet web site: SensAble Technology.          
+http://www.sensable.com/                               
+[15] T. Poston and L. Serra, "Dextrous Virtual Work".  
+Communications of the ACM 39, No. 5, pp.37-45. 1996.   
+[16] Internet web site: ReachIn Technologies, Sweden.  
+http://www.eachrin.se/                                 
+[17] Reachin API Programmer's Guide, Reachin Core      
+Technology, Revision No. 300-501-002-03002, 1998-2001  
+Reachin AB                                             
+[18] Internet web site: CSIRO Virtual Environment Lab  
+http://www.cmis.csiro.au/imvs/Thnologecy/workbench.htm.
+[19] Technical Analysis : Course Notes from Securities Institute
+of Australia course in Technical Analysis. (E114), 1999.
+http://www.secuitier s.edu.au                          
+[20] K. V. Nesbitt. "Interacting with Stock Market Data in a
+Virtual Environment" Joint Eurographics IEEE TCVG      
+Symposium on Visualization, Ascona, Switzerland,       
+SpringerWein New York. 2001.                           
+[21] K. V. Nesbitt, "Designing Multi-sensory Models for
+Finding Patterns in Stock Market Da". Prta    oceedings of
+International Conference on Multimodal Interfac,  Beesijing.
+2000.

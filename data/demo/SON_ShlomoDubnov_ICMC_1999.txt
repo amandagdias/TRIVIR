@@ -1,0 +1,67 @@
+Synthesis of Sound Textures by Learning and Resampling of Wavelet Trees                                     
+
+Shlomo Dubnov                                         Ziv Bar-Joseph
+CommunicationSystems Engineering                       Laboratoryfor ComputerScience
+Ben-GurionUniversity, Beer-Sheva, Israel                       MIT, Cambridge,MA
+Ran El-Yaniv                         Dani Lischinski            Michael Werman
+Departmentof ComputerScience                 School of ComputerScience andEngineering
+Technion— Israel Instituteof Technology             The Hebrew University of Jerusalem,Israel
+
+
+
+Abstract                             
+In this paper we presen ta statistical learning algorithm for synthesizing
+new random instances of a sound texture given an example of such a texture       
+as input. A large class of natural and artificial sounds such as rain, waterfall, 
+traffic noises, people babble, machine noises, etc., can be regarded as sound     
+textures—sound signals that are approximately stationary at some scale. 
+Treating the input sound texture as a sample of a stochastic process, we  
+construct a tree representing a hierarchical wavelet transform of the signal. 
+From this tree, new randomtrees are generatedby learningand sampling      
+the conditional probabilities of the paths in the original tree. Transformation 
+of these random trees back into signals results in new sound textures  
+that closely resemble the sonic impression of the original sound source but   
+without exactly repeating it. Applications of this method are abundant and     
+include, for example, automatic generation of sound effects, creative musical 
+and sonic manipulations, and virtual reality sonification. Examples are  
+visually demonstrated in the paper and acoustically demonstrated in an accompanying 
+website.                                                       
+
+
+References                                                                                 
+[1]  Ziv Bar-Joseph, Ran El-Yaniv, Dani Lischinski, and Michael Werman. Texture 
+mixing and texture movie synthesis using statistical learning. IEEE              
+Transactions on Visualization and Computer Graphics, 7(2):120–135,2001.                    
+[2]  M. Basseville, A. Benveniste, K.C. Chou, S.A. Golden, R. Nikoukhah, and                  
+A.S. Willsky. Modeling and estimation of multire solution stochastic processes. 
+IEEE Transactions on Information Theory, 38(2):766–784,1992.                     
+[3]  M. Basseville, A. Benveniste, and A.S. Willsky. Multiscale autoregressive             
+processes, part II: Lattice structures for whitening and modeling. IEEE
+Transactions on Signal Processing, 40(8):1935–1954,1992.                                 
+[4]  G.E.P. Box, G.M. Jenkins, G.C. Reinsel, andG. Jenkins. Time Series Analysis: 
+Forecasting and Control. Prentice Hall, 1994.                                      
+[5]  Ingrid Daubechies. Orhtonormal bases of compactly supported wavelets.                   
+Communications on Pure and Applied Mathematics, 41(7):909–996, October 1988.                                                                             
+[6]  G. De Poli andA. Piccialli. Pitch-synchhronous granular synthesis. In Representation
+of Musical Signals. The MIT Press, 1991.                                   
+[7]  Ronald A. DeVore, Bjorn Jawerth, and Bradley J. Lucier. Image compression 
+through wavelet transform coding. IEEE Transactions on Information Theory, 
+38(2 (Part II)):719–746, 1992.                                                
+[8]  S. Dubnov, R. El-Yaniv, and G. Assayag. Universal classification applied to               
+musical sequences. In Proceedings of International Computer Music Conference, 
+New Jersey, 1998.                                                            
+[9]  R.O. Duda and P.E. Hart. Pattern Classification and Scene Analysis. John                   
+Wiley & Sons, 1973.                                                                   
+[10]  Ran El-Yaniv, Shai Fine, and Naftali Tishby. Agnostic classification of 
+Markovian sequences. In Advances in Neural Information Processing Sysems, 
+volume 10. The MIT Press, 1998.                                                  
+[11]  D. Gabor. Acoustical Quanta and the Theory of Hearing. In Nature, Vol.             
+159, No. 4044, 1947                                                                   
+[12]  N. Merhav and M. Feder. Universal prediction. IEEE Transactions on Information
+Theory, 44(6):2124–2147,1998.                                                         
+[13]  Curtis Roads. Introduction to granular synthesis. Computer Music Journal,                       
+12(2):11–13,1988.                                                                           
+[14]  V.N. Vapnik. Statistical Learning Theory. John Wiley & Sons, 1998.                           
+[15]  G.W. Wornell and A.V. Oppenheim. Wavelet-based representations for a                          
+class of self-similar signals with application to fractal modulation. IEEE                   
+Transactions on Information Theory, 38(2):785–800,1992.                                        

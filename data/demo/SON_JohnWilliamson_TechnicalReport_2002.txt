@@ -1,0 +1,53 @@
+Audio feedback for gesture recognition                                                  
+
+John Williamson                                        Roderick Murray-Smith               
+Department of Computing Science,                                        Hamilton Institute,           
+University of Glasgow,                            National Univ. of Ireland, Maynooth,        
+Glasgow G12 8QQ                                                   Co. Kildare,              
+Scotland, UK.                                                     Ireland               
+E-mail:jhw,rod@dcs.gla.ac.uk                                      
+
+
+Abstract                                            
+A general framework for producing formative audio feedback for gesture recognition is          
+presented, including the dynamic and semantic aspects of gestures. The beliefs states are
+probability density functions conditioned on the trajectories of the observed variables. We        
+describe example implementations of gesture recognition based on Hidden Markov Models              
+and a dynamic programming recognition algorithm. Granular synthesis is used to present the         
+audio display of the changing probabilities and observed states.                                   
+
+
+
+References                                             
+Brown, L., S.A. Brewster, R. Ramloll, B. Reidel, and W Yu (2002). Browsing modes for
+exploring soni ed line graphs.. In: Proceedings of British HCI. Vol. 2. pp. 2 5.
+Ghez, C., T. Rikakis, R. L. DuBois and P. R. Cook (2000). An auditory display system for
+aiding interjoint coordination. In:ICAD'2000.    
+Jorda, S. (2001). New musical interfaces and new music-making paradigms. In: New
+Instruments for Musical Expression Workshop.               
+Kojima, S. and N. Oka (1995). Ef cient gesture recognition algorithm based of continuous
+dynamic programming. In: Proc. of RWC Symposium. pp. 47 48.
+Lee, C. and Y. Xu (1996). Online, interactive learning of gestures for human/robot interfaces.
+In: IEEE Int. Conf. on Robotics and Automation. pp. 2982 2987.
+McQueen, C. and M. Mantei (1994). Audio strokes: Using sound as a continuous feedback
+mechanism. In:UIST'94.                           
+Morimoto, C., Y. Yacoob and L. Davis (1996). Recognition of head gestures using hidden
+markov models. In:InternationalConferenceonPatternRecognition,Vienna. pp. 461 465.                                             
+Mulder, A. (1994). Virtual musical instruments: Accessing the sound synthesis universe as a
+performer. In: International Symposiumon Computer Music.
+Muller-Tomfelde, C. and S Steiner (2001). Audio-enhanced collaboration at an interactive
+electronic whiteboard. In:ICAD'2001.             
+Rabiner, L. and B. H. Juang (1993). Fundamentals of Speech Recongition. Prentice Hall.
+Ramsay, J. O. and B. W. Silverman (1997). Functional Data Analysis. Springer-Verlag.
+Roads, C. (1978). Granular synthesis of sounds.ComputerMusicJournal2(2), 61 68.
+Shi, J. Q., R. Murray-Smith and D. M. Titterington (2002). Hierarchical Gaussian process
+mixtures for regression. Technical Report TR-2002-107. University of Glasgow, Scotland, UK.                                        
+Truax, B. (1988). Real-time granular synthesis with a digital signal processor Computer MusicJournal 12(2), 14 26.                             
+Wilson, A. D. (2000). Adaptive Models for Recognition of Human Gesture. PhD thesis. MIT.
+Wilson, Andrew D. and Aaron F. Bobick (1999). Parametric hidden markov models for
+gesture recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence
+21(9), 884 900.                                  
+Xenakis, I. (1971).Formalized Music: Thought and mathematics in composition. Indiana University
+Press.                                   
+Yang, J. and Y. Xu (1994). Hidden markov models for gesture recognition. Technical Report
+CMU-RI-TR-94-10. Carnegie Mellon University.

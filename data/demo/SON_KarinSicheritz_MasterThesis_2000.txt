@@ -1,0 +1,158 @@
+Applying the Rapid Serial Visual Presentation Techniqueto Small Screens
+
+Karin Sicheritz
+karinsi@stp.ling.uu.se
+Language Engineering Programme
+Departmentof Linguistics
+Uppsala University
+
+
+
+Abstract                                                                                  
+This thesis describes the implementation and the evaluation of a graphical user             
+interface (GUI) employing the Rapid Serial Visual Presentation (RSVP) technique.             
+The GUI was implemented on a Personal Digital Assistant (PDA) featuring a 4.5–               
+inch touch-sensitive colour screen.
+    The aim of the user evaluation was two-fold: firstly, to compare self-paced             
+RSVP with reading on paper medium, in terms of reading speed, reading comprehension,
+reading efficiency, experienced workload and readers' attitude; secondly,               
+to examine whether sonification(adding audio information) of the text is a way to               
+height en the reading experience when reading with RSVP .                                       
+    The user evaluation was conducted with ten subjects using a repeated-measurement              
+design. The texts usedweresix chaptersof August Strindberg's Roda Rummet.   
+Four different conditions were administered: book, two self-paced RSVP formats,                  
+and a sonified RSVP format presented at constant speed. The evaluation showed                  
+no significant differences in reading speed, comprehension, or reading efficiency                 
+between reading from the book and the self-paced RSVP conditions. A linear                 
+speed-accuracy trade-off between comprehension and reading speed was found.                  
+For each 100-word increase in reading speed comprehension decreased by 9%.                   
+The subjects rated all six factors in a workload index, except Physical demand,             
+significantly higher for the self-paced RSVP conditions than for paper medium.                
+Regarding attitude, subjects found RSVP significantly more difficult, less 
+comprehensible, and less stimulating than reading from a book.                                       
+
+
+References                                                                             
+ Almlov , Cecilia 1991. Begriplighetshinderi en gymnasieboki svenska. FUMS             
+      rapport nr 158. Uppsala University.                                                  
+ Bever, T., G., M. F. Garret and R. Hurtig 1973. The interaction of perceptual           
+      processes and ambiguous sentences. Memory & Cognition, Vol. 1, 277 286.                 
+ Bjorkman,   Mats and Gosta    Ekman 1957.      Experimental psykologiska metoder.     
+      Stockholm: Almqvist & Wiksell/Gebersforlag          AB.                          
+ Bjornsson, Carl Hugo1968. Lasbarhet      , Stockholm: Liber                           
+ Blattner, Meera, M., Denise A. Sumikawa and Robert M. Greenberg 1989. Earcons              
+      and Icons: Their Structure and Common Design Principles. Human-Computer                  
+      Interaction, Vol. 4, 11 44. Lawrence Erlbaum Associates, Inc.                       
+ Bloom,BenjaminS. 1956. Taxonomy of Educational Objectives. New York: David                 
+      McKay Company, Inc.                                                               
+ Carr, T. H. 1981. Research on reading: Meaning, context effects and comprehension. 
+Journal of Experimental Psychology: Human Perception and Performance, Vol. 7, 592 603.                                                           
+ Catell, J. M. 1885. Ueber die zeit der Erkennungund Bennenungvon Scriftzeichen,
+Bildern und Farben. Philosophische Studien, 2, 635 650.                         
+ Chen, Hsuan-Chih and Kin-Tong Chan 1990. Reading computer-displayed moving 
+text with and with-out self-control over the display rate. Behavior&          
+      Information Technology, 9(6), 467 477.                                             
+ Cocklin, Thomas G., Nicklas J. Ward, Hsuan-Chih Chen and James F. Juola 1984.                 
+      Factors influencing ead ability of rapid presented text segments. Memory&               
+      Cognition, 12(5), 431 442.                                                        
+ Cooper, Alan 1995. About Face: The Essentials of User Interface Design. Foster               
+      City, CA:IDG Books Worlwide,Inc.                       
+ Dahlqvist, Bengt1999. The distribution of characters, bi- and trigrams in the Uppsala
+70 million words Swedish news paper corpus. Reports from the SCARRIE 
+project, ed. by Anna Sagvall Hein. Working Papers in Computational             
+      Linguistics & Language Engineering, No. 6. Department of Linguistics,              
+      Uppsala University.                                                                
+ Dix, Alan, Janet Finlay, Gregory Abowd and Russel Beale 1998. Human-Computer                
+      Interaction, 2nd ed., Hempstead: Prentice Hall Europe.                                
+ Edeborg, Christer 1999. Lasning paildskarm . Department of Information Technology, 
+Uppsala University.                                                        
+ Egan, Dennis E. 1988. Individual DifferencesIn Human-Computer Interaction.              
+      In Handbook of Human-Computer Interaction, ed. by M. Helander. Amsterdam:
+Elsevier Science Publishers. 543 568.                                          
+ Fine, Elisabet M. and Eli Peli 1995. Scrolled and rapid serial visual presentation        
+      text are read at similar rates by the visually impaired. Journal of Optical         
+      Society of America, 12(10).                                                         
+ Forster, Kenneth I. 1970. Visual perception of rapidly presented word sequences            
+      of varying complexity. Perception and Psychophysics, Vol. 8, 215-221.               
+ Gilbert, L. C. 1959. Speed of processing visual stimuli an its relation to reading.       
+      Journal of Educational Psychology, Vol. 55, 8 14.                                    
+ Goldstein, Mikael, Mikael Anneroth, Karin Sicheritz and Torbjorn Lundberg 2000.
+      Enhancing the reading experience: Sonified on-line reading from small PDA                 
+      screen using RSVP. Fourth Swedish Symposium on Multimodal Communication.                                                                             
+ Gould, John D. and Nancy Grischkowsky 1984. Doing the same Work with Hard                   
+      Copy and with Cathode-Ray (CRT) computer terminals. Human Factors,                  
+      26(3), 323 337.                                                                   
+ Granaas, Michael M., Timothy D. McKay, R. Darrell Laham, Lance D. Hurt and               
+      James F. Juola 1984. Reading Moving Text on a CRT Screen. Human Factors, 
+26(1), 97 104.                                                              
+ Gunnarsson,Britt-Louise 1982. Lag text ers begriplighet. Malmo:Liber   
+ Hart, Sandra G., and Lowell E. Staveland 1988. Development of Nasa-TLX       
+      (Task Load Index): Results of Empirical and Theoretical Research, In Human
+Mental Workload, ed. by P.A. Hancock and N. Meshkati.           North-Holland:
+Elsevier Science Publishers B.V .                                          
+ Hassmen, Peter and Natalie Koivula 1996. Varians analys. Lund: Student litteratur.         
+ Huey, E. B. 1908. The psychology and pedagogy of reading. Orig. published                   
+      New York: Macmillan. Republished Cambridge, Mass.:MIT Press, 1968.                   
+ Jackson, Mark D. and James L. McClelland 1979. Processing determinants of                
+      reading speed. Journal of experimental psychology, General,Vol. 108, 15 181.                                                                              
+ Juola, James F., Alp Tiritoglu and John Pleunis 1995. Reading texts presented on           
+      a small display. Applied Ergonomics, 26(3), 227 229.                               
+ Juola, James F., Nicklas J. Ward and Timothy McNamara 1982. Visual Search and                
+      Reading of Rapid Serial Presentations of Letter Strings, Words, and Texts.         
+      Journal of Experimental Psychology, General,111(2), 208 227.                         
+ Just, Marcel Adam and Patricia A. Carpenter 1980. A Theory of Reading: From               
+      Eye Fixations to Comprehension. Psychological Review, 87(4), 329 352.                
+ Kang, T. Jin and Paul Muter 1989. Reading dynamically displayed text. Behavior              
+      & Information Technology, 8(1), 33 42.                                             
+ Kump,Peter1999. Break-through rapid reading. New Jersey: Prentice Hall.                    
+ Massaro, Dominic W., Glen A. Taylor, Richard L. Venezky, James E. Jastrzembski 
+and Peter A. Lukas 1980. Letter and Word Perception. Advances in              
+      Psychology Vol 4, ed. by Stelmach, G., E. and P.A. Vroon. Amsterdam:                
+      North Holland Publishing Company.                                                   
+ Masson Michael E. J. 1983. Conceptual processing of text during skimming and               
+      rapid sequential reading. Memory& Cognition, 11(3), 262 274.                         
+ Masson Michael E. J. 1985.        Rapid reading processesand skills.         In Reading
+      Research: Advances in Theory and Practice, ed. by G.E. MacKinnon, T.                  
+      and Gary Waller, Vol 4. Academic Press.                                             
+ Masson, Michael E. J. and Ron Borowsky 1998. More than meets the eye : Contexts 
+effects in word identification. Memory & Cognition, 26(6), 1245 1269.            
+ McLaughlin, Harry G. 1969. SMOG Grading a New Readability Formula. Journal
+of Reading, May 1969, 639 646.                                                  
+ Mills, Carol B. and Linda  J. Weldon 1987. Reading Text from Computer Screens.              
+      ACM Computing Surveys, 19(4), 329 357.                                             
+ Mullan, Pamela Susan 1997.         Applying Speed Reading Techniques to Improve            
+      Competence and Confidence in On-Screen Computer Reading.                        Master's
+      Thesis, School of Education at Trinity College, Dublin. Retrieved December            
+      16 1999 from Internet: http://www.users.redcreek.net/mullanp                       
+ Muter, Paul 1996.     Interface Design and Optimization of Reading of Continuous 
+Text. In Cognitive aspects of electronic text processing, ed. by H. van            
+      Oostendorp, and S. de Mul. Norwood, N.J.: Ablex.                                       
+ Muter, Paul and Paula Maurut to 1991. Reading and skimming from computer                
+      screens and books: The paper less office revisited? Behavior& Information              
+      Technology, 10, 257 266.                                                          
+ Platzack, Christer 1974. Sprak	etochlasbarheten   , Lund:Studentlitteratur.        
+ Platzack, Christer 1987. Syntaxens roll for lasbarheten.      In Lasning¨  , ed. by S.
+      Lange, andL. Melin. L asning,¨     Lund:Studentlitterartur                        
+ Pynte, Joel and Georges Noizet 1980. Optimal segmentation for sentences displayed
+on a videos creen. In Processing of Visible Language 2, ed. by P. A.             
+      Kolers, M. E. Wrolstad, and H. Bouma. New York: Plenum Press. 376 385.                 
+ Rahman, Tarjin and Paul Muter 1999. Designing an interface to optimize reading             
+      with small display windows. Human Factors, 41(1), 106 117.                          
+ Robeck, Mildred C. and Randall R. Wallace 1990. The Psychology of Reading:                
+      An Interdisciplinary Approach.         2nd ed., Hillsdale, New Jersey: Lawrence      
+      Erlbaum Associates, Publishers.                                                    
+ Scharff, Lauren F., V., Albert J. Ahumada, Jr and Alyson L. Hill 1999. Discriminability 
+Measures for Predicting Readability. Human Vision and Electronic             
+      Imaging I, ed. by B. Rogowitz and T. N. Pappas. SPIE Proc. Vol. 3644,              
+      paper 27.                                                                          
+ Shneiderman, Ben 1998. Human-Computer Interaction, 3rd ed.,Addison Wesley                 
+      Longman,Inc.                                                                      
+ Spyridakis, Jan H. and Michael J. Wenger 1991. An Empirical Method of Assessing 
+Topic Familiarity in Reading Comprehension Research. British Educational
+Research Journal, 17(4).                                                     
+ Strindberg, August, 1879. Roda Rummet. Printed 1954, Stockholm: Albert Bonniers 
+forlag.                                                                    
+ Wickens, Cristopher D. 1992. Engineering psychology and human performance,                  
+      2nded., Chapter 8. New York: Harper Collins Publisher Inc.                             
+ Young, Sheryl R. 1984. RSVP: A task, reading aid, and research tool. Behavior              
+      Research Methods, Instruments,& Computers, 16(2), 121 124a.                         

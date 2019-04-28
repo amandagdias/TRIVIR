@@ -1,0 +1,129 @@
+Tetravalent Miniantibodies with High Avidity Assembling in Escherichia coli                                                                                                    
+
+Peter Pack, 
+Kristian Mu »ller, 
+Ralph Zahn and 
+Andreas Plu »kthun 
+
+Biochemisches Institut 
+Universita »t Zu»rich
+Winterthurestr.190,CH-8057 
+Zu»rich, Switzerland   
+
+We have designed tetravelent miniantibodies assembling in the periplasm of       
+Escherichia coli They are based on single-chain Fv fragments, connected via
+a exible hinge to an amphipathic helix which tetramerizes the molecule. The     
+amphipathic helix is derived from the coiled coil helix of the transcription     
+factor GCN4, in which all hydrophobic       a ositions of every heptad repeat    
+have been exchanged to leucine and all dpositions to isoleucine. Gel ltration   
+shows tetramer assembly of the miniantibody even at low concentrations. As       
+expected, the functional affinity (avidity) of the tetravalent miniantibody is    
+higher in ELISA and BIAcore measurements than that of the bivalent               
+onstruct and the gain is dependent on surface epitope density.                  
+
+
+
+References                                             
+Crothers, D. M. & Metzger, H. (1972). The influence of  
+polyvalency on the binding properties of antibodies.
+Immunochemistry,9, 341±357.                        
+Devey, M. E. & Steward, M. W. (1988). The role of antibody  
+afÆnity in the performance of solid phase assays. In        
+ELISA and Other Solid Phase Immunoassays(Kemeny,            
+D. M. & Challacombe, S. J., eds), pp. 135-153, John       
+Wiley & Sons Ltd, London.                                 
+Glockshuber, R., Malia, M., Ptzinger, I. & Pu »ckthun, A.
+(1990).  A  comparison   of  strategies to  stabilize     
+immunoglobulin Fv-fragments.    Biochemistry29, 1362±     
+1367.                                                     
+Goetze, A. M. & Richards, J. (1977). Structure-function   
+relations  in   phosphorylcholine-binding    mouse       
+myeloma proteins.   Proc. Nat. Acad. Sci., U.S.A. 74,    
+2109±2112.                                               
+Goetzl, E. J. & Metzger, H. (1970). Affinity labeling of a
+mouse myeloma protein which binds nitrophenyl            
+ligands. Kinetics of labeling and isolation of a labeled 
+peptide. Biochemistry,9, 1267±1278.                      
+Harbury, P. B., Zhang, T., Kim, P. S. & Alber, T. (1993).
+A switch between two-, three- and four-stranded coiled    
+coils in GCN4 leucine zipper mutants.    Science,262,     
+1401±1407.                                                
+Ho, S. P. & DeGrado, W. F. (1987). Design of a 4-helix    
+bundle protein: synthesis of peptides which self-         
+associate into a helical protein. J.Amer.Chem.Soc.109,    
+6751±6758.                                                
+Ito, W. & Kurosawa, Y. (1993). Development of an artificial
+antibody system with. multiple valency using an Fv        
+fragment fused to a fragment of protein A.    J. Biol.    
+Chem.268, 20668±20675.                                    
+Jo»nsson, U., Fa»gerstam, L., Ivarsson, B., Johnsson, B., 
+Karlsson, R., Lundh, K., Lo »fas, S., Persson, B.,        
+Roos, H., Ro»nnberg, I., Sjo»lander, S., Stenberg, E.,    
+Stahlberg,  R.,  Urbaniczky,   C.,  O  stlin, H.   &      
+Malmqvist, M. (1991). Real-time biospecific interaction 
+analysis using surface plasmon resonance        
+and a sensor chip technology.      BioTechniques,11,   
+620±627.                                               
+Karlsson, R., Michaelsson, A. & Mattsson, L. (1991). 
+analysis of monoclonal antibody-antigen interactions 
+with a new biosensor based analytical system.        
+J.Immunol.Methods,145, 229±240.                      
+Kaufman, E. N. & Jain, R. K. (1992). Effect of bivalent
+interaction upon apparent antibody affinity: experimental 
+conÆrmation of theory using Øuorescence        
+photobleaching and implications for antibody binding   
+assays. CancerRes.52, 4157±4167.                       
+Knappik, A. & Plu»ckthun, A. (1994). An improved tag   
+based on the FLAG peptide for the detection and        
+puriÆcation of antibody fragments in  Escherichiacoli. 
+BioTechniques,17, 754±761.                             
+Knappik, A. & Plu»ckthun, A. (1995). Engineered turns of
+a recombinant antibody improve its    in vivofolding.
+ProteinEng.,in the press.                        
+Lovejoy, B., Choe, S., Cascio, D., McRorie, D. K., DeGrado,
+W. F. & Eisenberg, D. (1993). Crystal structure of a
+synthetic triple-stranded  a-helical bundle.  Science,
+259, 1288±1293.                                  
+Lupas, A., Van Dyke, M. & Stock, J (1991). Predicting
+coiled coils from protein sequences.    Science, 252,
+1162±1164.                                       
+Metzger, H., Chesebro, B., Hadler, N. M., Lee, J. &  
+Otchin, N. (1971). ModiÆcation of immunoglobulin 
+combining sites. In Progressin Immunology: Proceedings
+of the 1st Congress of Immunology(Amos, B., ed.),
+pp. 253±267, Academic Press, New York.           
+O'Shea, E. K., Klemm, J. D., Kim, P. S. & Alber, T. (1991).
+X-ray structure of the GCN4 leucine zipper, a    
+two-stranded,  parallel coiled  coil.   Science, 254,
+539±545.                                         
+Pack, P. & Plu»ckthun, A. (1992). Miniantibodies: use
+of  amphipathic   helices  to  produce   functional,
+exibly linked dimeric Fv fragments with high    
+avidity in  Escherichia coli. Biochemistry,31, 1579±
+1584.                                            
+Pack, P., Knappik, A., Krebber, C. & Plu »ckthun, A. (1992).
+Mono- and bivalent antibody fragments produced in
+E.coli: binding properties and folding in vivo. In ACS
+Conference Proceedings Series, Harnessing Biotechnology
+for the 21st Century(Ladisch, M. R. & Bose, A., eds),
+pp. 10±13, Amer. Chem. Soc., Washington DC.      
+Pack, P., Kujau, M., Schroeckh, V., Knu »pfer, U., Wenderoth,
+R., Riesenberg, D. & Plu»ckthun, A. (1993). Improved
+bivalent miniantibodies with identical avidity as
+whole antibodies, produced by high cell density  
+fermentation of   Escherichia coli. Biotechnology,11,
+BioTechniques,11,          1271±1277.                                       
+Perlmutter, R. M., Crews, S. T., Douglas, R., Soerensen G.,
+Johnson, N., Nivera, N., Gearhart, P. J. & Hood, L.
+(1984) The generation of diversity in phosphoryl-
+choline-binding antibodies. Advan.Immunol.35, 1±37.
+Satow,Y.,Cohen,G.H.,Padlan,E.A.&Davies,D.R.(1986).   
+Phosphocholine     binding   immunoglobulin     Fab
+McPC603. An X-ray diffraction study at 2.7 A . J.Mol.
+Biol.190, 593±604.                               
+Zhu, B.-Y., Zhou, N. E., Kay, C. M. & Hodges, R. S. (1993).
+Packing and hydrophobicity effects on protein folding
+and stability: effectsof b-branched aminoacids, valine
+and isoleucine, on the formation and stability of
+two-stranded a-helical coiled coils/leucine zippers.
+ProteinSci.2, 383±394.                           

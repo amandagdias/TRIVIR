@@ -1,0 +1,147 @@
+DESIGNING ENVIRONMENTAL SOUNDS BASED ON THE RESULTS OF INTERACTION BETWEEN                       
+OBJECTS IN THE REAL WORLD                
+
+
+A. DARVISHI, E. MUNTEANU, V. GUGGIANA, H. SCHAUER
+Department of Computer Science (IfI),University of Zurich, Winterthurerstr. 190, CH-8057
+Zurich, Switzerland,
+tel. +41-(1)-632 7098, e-mail: darvishi@ifi.unizh.ch
+M. MOTAVALLI   
+Swiss Federal Labs for Material Testing and Research (EMPA),Uberlandstr. 129, CH-8600
+Dubendorf, Switzerland
+M. RAUTERBERG    
+Usability Laboratory, Work and Organizational Psychology Unit
+Swiss Federal Institute of Technology (ETH), Nelkenstr. 11, CH-8092 Zurich, Switzerland
+
+
+
+
+ABSTRACT 
+This paper presents an object oriented layered software architecture for describing
+and designing environmental (everyday) sounds in user interfaces based on a new sound model
+(audio framework). This new architecture is defined by different layers including the physical
+layer, system sound software layer, sound analyser/synthesiser layer and the interface layer. The
+sound model described can be used as the basic design of environmental sounds in user
+interfaces. This paper describes the different components: physical modelling, interaction,
+context sensitivity, and metaphorical description. In the paper the term audio framework is
+ultimately used for the sound model presented. This paper first provides an overview of existing
+approaches for modelling environmental sounds, then presents the new audio framework, a
+comparison between real and model generated sounds and finally discusses potential
+applications.                                        
+
+
+
+
+REFERENCES                                           
+Astheimer, P.: What you see is what you hear  
+- Acoustics applied to Virtual Worlds, IEEE   
+Symposium on Virtual Reality, San Jose,       
+USA, October 1993.                            
+Blattner, M. M., Greenberg, R. M. and         
+Kamegai, M. (1992) Listening to Turbulence:   
+An Example of Scientific Audialization. In:   
+Multimedia Interface Design, ACM Press/       
+Addison-Wesley, pp 87-102.                    
+Blattner, M. M., G. Kramer, J. Smith, and E.  
+Wenzel (1993) Effective Uses of Nonspeech     
+Audio in Virtual Reality. In: Proceedings of  
+the IEEE Symposium on Research Frontiers      
+in Virtual Reality, San Jose, CA. (In         
+conjunction with IEEE Visualization '93)      
+October 25-26, 1993.                          
+Bloyd, L.H., Boyd, W.L., and Vanderheiden,    
+G.C. (1990) The graphical user interface:     
+Crisis, danger and opportunity. Journal of    
+Visual Impairment and Blindness, p.496-502.   
+Crispien, K. (1994) Graphische Benutzer-                
+schnittstellen f r blinde Rechnerbenutzer.              
+Unpublished manuscript                                   
+Darvishi, A., Guggiana, V., Munteanu, E.                 
+       Motavalli, M., Rauterberg, M., Schauer, H.        
+       (1994) "Synthesising Non-Speech Sounds to         
+       Support Blind and Visually Impaired               
+       Computer Users" In: 4th Int. Conference on        
+       Computers for Handicapped Persons, Vienna,                     
+       pp. 385-393.                                               
+                                                                  
+       Darvishi, A., Munteanu, E., Guggiana, V.,                  
+       Motavalli, M., Rauterberg, M., Schauer, H.                 
+       (1994) "Automatic Impact Sound Generation                  
+       for use in Nonvisual Interfaces" In Proceedings                
+       of 1st Annual International ACM/SIGCAPH                    
+       Conference on Assistive Technologies,, pp.                 
+       100-106.                                                   
+                                                                  
+       W.K. Edwards, E.D. Mynatt, K. Stockton                     
+       (1994), Providing Access to Graphical Users                
+       Interfaces- Not Graphical Screens. In:                     
+       ASSETS`94, Marina del Rey, CA, USA,                            
+       1994, ACM ISBN 0-89791-649-2, pp: 47-54.                   
+                                                                  
+       Edwards, W.K., Mynatt, E.D. and Rodriguez,                    
+       T (1993) The Mercator Project: a non-visual                   
+       interface to the X Window system. The X Re-                   
+       source,4:1-20.(ftp multimedia.cc.gatech.edu                   
+       /papers/Mercator /xresource).                                 
+                                                                     
+       Gaver, W. W. (1986). Auditory icons: Using                     
+       sound in computer interfaces. Human-                          
+       Computer Interaction. 2, 167-177.                             
+       Gaver, W. W. (1988). Everyday listening and                    
+       auditory icons . Doctoral Dissertation,                        
+       University of California, San Diego.                           
+       Gaver, W. (1989) The SonicFinder: an                           
+       interface that uses auditory icons. Human                      
+       Computer Interaction  4:67-94.                                 
+       Gaver, W. & Smith R. (1990) Auditory icons                     
+       in large-scale collaborative environments. In:                 
+       D. Diaper, D. Gilmore, G. Cockton & B.                         
+       Shackel (eds.) Human-Computer Interaction -                    
+       INTERACT'90. (pp. 735-740), Amsterdam:                         
+       North-Holland.                                                 
+       Gaver, W., Smith, R. & O'Shea, T. (1991)                       
+       Effective sounds in complex systems: the                       
+       ARKola simulation. in S. Robertson, G.                         
+       Olson & J. Olson (eds.), Reaching through                      
+       technology CHI'91. (pp. 85-90), Reading MA:                    
+       Addison-Wesley.                                                
+       Gaver, W. (1993) What in the World do We                       
+       Hear? An Ecological Approach to Auditory                       
+       Event Perception. Ecological Psychology ,                      
+       5(1): 1-29.                                                    
+       Kramer, G. Auditory Display - Sonification,                    
+       Audification and Auditory Interfaces.                          
+       Proceedings Volume XVIII in the Santa Fe                       
+       Institute Studies in the Sciences of                           
+       Complexity, Addison-Wesley, April 1994.                        
+
+Momtahan, K., Hetu, R. and Tansley, B.
+(1993) Audibility and identification of auditory
+alarms in the operating room and intensive
+care unit. Ergonomics  36(10): 1159-1176.
+Mynatt, E.D. and Edwards, W.K. (1992) The
+Mercator Environment: A Nonvisual Interface
+to XWindows and Workstations.GVU Tech
+Report GIT-GVU-92-05
+Mynatt, E.D. and Edwards, W.K. (1992)
+Mapping GUIs to auditory interfaces. In:
+Proceedings of the ACM Symposium on User
+Interface Software and Technology UIST'92.:
+61-70
+Rauterberg,M., Motavalli, M., Darvishi, A.
+& Schauer, H. (1994) Automatic sound
+generation for spherical objects hitting straight
+beams. In: Proceedings of "World Conference
+on Educational Multimedia and Hypermedia"
+ED-Media'94 held in Vancouver (C), June 25-
+29, 1994, pp: 468-473.
+Rossing, T.D (1990) The Science of Sound
+2nd Edition, Addison Wesley Publishing
+Company
+Sumikawa, D. A., M. M. Blattner, K. I. Joy
+and R. M. Greenberg (1986) Guidelines for the
+Syntactic Design of Audio Cues in Computer
+Interfaces. In: 19th Annual Hawaii International 
+Conference on System Sciences.
+Takala, T.& Hahn, J. (1992) Sound Rendering
+Computer Graphics, 26, 2,:  211-219.

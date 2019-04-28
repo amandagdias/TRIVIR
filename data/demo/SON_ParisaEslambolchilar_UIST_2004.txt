@@ -1,0 +1,43 @@
+Multimodal Feedback for Tilt Controlled Speed Dependent Automatic Zooming                                                                    
+
+
+Parisa Eslambolchilar                     John Williamson       ,Rod Murray-Smith                         
+Hamilton Institute                       Department of Computing Science,                           
+NUI Maynooth, Co. Kildare, Ireland                University of Glasgow, Scotland, G12                         
+parisa.eslambolchilar@may.ie                           jhw,rod@dcs.gla.ac.uk                               
+
+
+
+ABSTRACT
+Speed Dependent Automatic Zooming proposed by Igarashi                                                                         
+and Hinckley is a powerful tool for document navigation on                                                                     
+mobile devices. We show that browsing and targeting can                                                                        
+be facilitated by using a model-based sonification approach                                                                     
+to generate audio feedback about document structure, in a                                                                      
+tilt-controlled SDAZ interface. We implemented this system                                                                     
+for a text browser on a Pocket PC instrumented with an accelerometer 
+and headset, and found that audio feedback provided 
+valuable information, supporting intermittent interaction, 
+i.e. allowing movement-based interaction techniques to                                                                   
+continue while the user is simultaneously involved with other                                                                  
+tasks. This was demonstrated by a blindfolded user successfully 
+locating specified elements in a text file.                                                                                
+
+
+REFERENCES                                              
+1. Eslambolchilar, P., and Murray-Smith, R. Tilt-based automatic zooming
+and scaling in mobile devices a state-space implementation.Proceedings
+of Mobile HCI 2004, Glasgow. Springer LNCS (2004), S. Brewster
+and M. Dunlop, Eds.                                 
+2. Hermann, T., and Ritter, H. Listen to your data: Model-based sonication 
+for data analysis. intelligent computing and multi media systems.
+G. E. Lasker, Ed., 189 194.                         
+3. Hinckley, K., Pierce, J., Sinclair, M., and Horvitz, E. Sensing techniques 
+for mobile interaction. Proceedings User Interface Software and
+Technology (UIST2000). ACM (2000), 91 100.           
+4. Oakley, I.,Angesle va, J., Hughes, S., and O'Modhrain, S. Tilt and feel:
+Scrolling with vibrotactile display. Euro Haptics 2004.
+5. Williamson, J., and Murray-Smith, R. Granular synthesis for display of
+time-varying probability densities,.International Workshop on Interactive
+Sonification (Human Interaction with Auditor yDisplays). Bielefeld
+University, Germany (2004), A. Hunt and T. Hermann, Eds.

@@ -1,0 +1,51 @@
+PITCH AND TIMBRE MANIPULATIONS USING CORTICAL REPRESENTATION OF SOUND                   
+
+D. N. Zotkin, S. A. Shamma, P. Ru, R. Duraiswami, L. S. Davis       
+Perceptual Interfaces and Reality Laboratory, UMIACS, University of Maryland, College Park 20742
+
+
+ABSTRACT                                                  
+The sound received at the ears is processed by humans using signal-processing 
+that separates the signal along intensity, pitch and timbre 
+dimensions.  Conventional Fourier-based signal processing,                   
+while endowed with fast algorithms, is unable to easily represent                
+signal along these attributes. In this paper we use a recently proposed 
+cortical representation to represent and manipulate sound.                 
+We brieﬂy overview algorithms for obtaining, manipulating and                    
+inverting cortical representation of a sound and describe algorithms             
+for manipulating signal pitch and timbre separately. The algorithms 
+are ﬁrst used to create sound of an instrument between a                  
+guitar and a trumpet. Applications to creating maximally separable 
+sounds in auditory user interfaces are discussed.                         
+
+
+REFERENCES
+[1] M. Elhilali, T. Chi, and S. Shamma (2002). A spectro-temporal 
+modulation index for assessment of speech intelligibility, 
+Speech Communications, in press.
+[2] T. Chi, Y. Gao, M. C. Guyton, P. Ru, and S. Shamma (1999).
+Spectro-temporal modulation transfer functions and speech
+intelligibility J. Acoust. Soc. Am., vol. 106.
+[3] M. Slaney, M. Covell and B. Lassiter (1996). Automatic audio 
+morphing, Proc. IEEE ICASSP 1996, Atlanta, GA.
+[4] X. Serra (1997). Musical sound modeling with sinusoids
+plus noise in Musical Signal Processing, ed. by C. Roads et
+al., Swets & Zeitlinger Publishers, Lisse, The Netherlands.
+[5] P. R. Cook (2002). Real Sound Synthesis for Interactive Applications, 
+A. K. Peters Ltd., Natick, MA.
+[6] S. Barass (1996). Sculpting a sound space with information
+properties: Organized sound, Cambridge University Press.
+[7] D. Zotkin, R. Duraiswami, and L. Davis (2002). Rendering 
+localized spatial audio in a virtual auditory space, IEEE
+Trans. on Multimedia, in press.
+[8] A. S. Bregman (1991). Auditory scene analysis: The perceptual 
+organization of sound”, MIT Press, Cambridge, MA.
+[9] N. Kowalski, D. Depireux, and S. Shamma (1996). Analysis
+of dynamic spectra in ferret primary auditory cortex: Characteristics 
+of single unit responses to moving ripple spectra,
+J. Neurophysiology, vol. 76(5).
+[10] F. Jelinek (1998). Statistical Methods for Speech Recognition, 
+MIT Press, Cambridge, MA.
+[11] http://www.isr.umd.edu/CAAR/
+[12] http://dz.msk.ru/ICASSP2003/
+

@@ -1,0 +1,73 @@
+Near-Critical Path Analysis:  A Tool for Parallel Program Optimization
+
+Cedell A. Alexander, Donna S. Reese, James C. Harden, and Ron B. Brightwell
+
+IBM's Networking Hardware Division, P.O. Box 12195, Research Triangle Park, NC  27709.
+NSF Engineering Research Center for Computational Field
+Simulation at Mississippi State University, P.O. Box 6176, Mississippi State, MS  39762.
+
+
+Abstract 
+Program activity graphs (PAGs) can be constructed from timestamped traces
+of appropriate execution events.   Information about the activities on the k longest execution
+paths is useful in the analysis of parallel program performance.  In this paper, four algorithms
+for finding the near-critical paths of PAGs ar e compared, including a best-first search (BFS)
+algorithm that is worst-case asymptotically optimal in terms of both time and space.  Results
+confirming the practical efficiency of the BFS algorithm are presented for five application
+programs.  A framework for using the near-critical path information is also described.  The
+framework includes statistical summaries and visualization capabilities that build upon the
+foundation of existing performance analysis tools.  Within the framework, guidance is
+provided by the Maximum Benefit Metric, which uses near-critical path data to predict the
+maximum overall performance improvement that may be realized by optimizing particular
+critical path activities.  The framework is validated by a case study:  development and tuning
+of a parallel near-critical path algorithm.  Examples are cited illustrating the utility of both
+framework components.                          
+
+
+
+
+REFERENCES
+[1]  B. P. Miller and C.-Q. Yang, IPS:  An interactive and automatic performance measurement tool for parallel and
+     distributed programs, in Proc. 7th Int. Conf. Distrib. Computing Syst., IEEE Comput. Soc., Sept. 21-25, 1987,
+     pp. 482-489.                                         
+[2]  D. A. Reed, R. A. Aydt, T. M. Madhyastha, R. J. Noe, K. A. Shields, and B. M. Schwartz, The Pablo performance
+     analysis environment, Tech. Rep., Dep. of Comput. Sci., Univ. of Illinois, Nov. 1992.
+[3]  E. W. Dijkstra and C. S. Scholten, Termination detection for diffusing computations, Inform. Processing Lett.,
+     vol. 11, no. 1, pp. 1-4, Aug. 1980.                  
+[4]  C. A. Alexander, D. S. Reese, and J. C. Harden, Near-critical path analysis of program activity graphs, in Proc.
+     2nd Int. Workshop on Modeling, Analysis, and Simulation of Comput. and Telecommun. Syst., IEEE Comput.
+     Soc., Jan. 31-Feb. 2, 1994, pp. 308-317.             
+[5]  J. D. Wiest and F. K. Levy, A Management Guide to PERT/CPM.  Englewood Cliffs, NJ:  Prentice-Hall, 1977.
+[6]  E. Horowitz and S. Sahni, Fundamentals of Data Structures, Rockville, MD:  Computer Science Press, 1983.
+[7]  E. Rich, Artificial Intelligence.  New York:  McGraw-Hill, 1983.
+[8]  W. Zhang and R. E. Korf, An average-case analysis of branch-and-bound with applications:  Summary of
+     results, in Proc. 10th Nat. Conf. AI, AAAI Press, July 12-16, 1992, pp. 545-550.
+[9]  R. E. Korf, Linear-space best-first search:  Summary of results,  in Proc. 10th Nat. Conf. AI, AAAI Press, July
+     12-16, 1992, pp. 533-538.                            
+[10] C. A. Alexander, Near-critical path algorithms for program activity graphs, Ph.D. dissertation, Dep. of
+     Comput. Engr., Mississippi State Univ., May 1994.    
+[11] J. C. Harden, D. S. Reese, F. To, D. Linder, C. Borchert, and G. Jones, A performance monitor for the MSPARC
+     multicomputer, in Proc. IEEE Southeastcon'92, Apr. 12-15, 1992, pp. 724-729.
+[12] D. S. Reese and E. Luke, Object oriented fortran for development of portable parallel programs, in Proc. 3rd
+     IEEE Symp. Parallel and Distrib. Syst., Dec. 2-5, 1991, pp. 608-615.
+[13] A. Mink, R. Carpenter, G. Nacht, and J. Roberts, Multiprocessor performance measurement instrumentation,
+     IEEE Computer, pp. 63-75, Sept. 1990.                
+[14] D. Bailey, J. Barton, T. Lasinski, and H. Simon, ed., The NAS parallel benchmarks, Tech. Rep. RNR-91-002,
+     NASA Ames Research Center, Aug. 1991.                
+[15] D. L. Whitfield and J. M. Janus, Three dimensional unsteady euler equations solutions using flux vector
+     splitting, 17th Fluid Dynamics, Plasma Dynamics, and Lasers Conf., AIAA paper no. 84-1552, June 25-27,
+     1984.                                                
+[16] G. J. Henley and J. M. Janus, Parallelization and convergence of a 3D implicit unsteady turbomachinery flow
+     code, in Proc. 5th SIAM Conf. Parallel Processing for Scientific Computing, March 25-27, 1991, pp. 238-245.
+[17] J. K. Hollingsworth and B. P. Miller, Parallel program performance metrics:  A comparison and validation,
+     in Proc. Supercomputing'92, IEEE Comput. Soc., Nov. 16-20, 1992, pp. 4-13.
+[18] R. Finkel and U. Manber, DIB - A distributed implementation of backtracking, ACM Trans. Prog. Lang. and
+     Syst., vol. 9, no. 2, pp. 235-256, Apr. 1987.        
+[19] V. Kumar, V. N. Rao, and K. Ramesh, Parallel depth-first search on a ring architecture, in Proc. Int. Conf.
+     Parallel Processing, Pennsylvania State Univ. Press, Aug. 15-19, 1988, pp. 128-132.
+[20] V. Kumar, K. Ramesh, and V. N. Rao, Parallel best-first search of state-space graphs:  A summary of results,
+     in Proc. 10th Nat. Conf. AI, AAAI Press, July 12-16, 1992, pp. 122-127.
+[21] C.-Q. Yang and B. P. Miller, Critical path analysis for the execution of parallel and distributed programs, in
+     Proc. 8th Int. Conf. Distrib. Computing Syst., IEEE Comput. Soc., June 1988, pp. 366-375.  
+[22] B. P. Miller, What to draw?  When to draw?  An essay on parallel program visualization, J. Parallel Distrib.
+     Comput., vol. 18, no. 2, pp. 265-269, June 1993.

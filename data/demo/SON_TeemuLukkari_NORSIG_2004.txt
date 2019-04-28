@@ -1,0 +1,46 @@
+Modal Synthesis of Wind Chime Sounds with Stochastic Event Triggering                                                               
+
+Teemu Lukkari       and Vesa Valimaki
+Helsinki University of Technology                              Helsinki University of Technology              
+Institute of Mathematics                      Laboratory of Acoustics and Audio Signal Processing         
+P.O. Box 1100, FIN-02015 HUT                                 P.O. Box 3000, FIN-02015 HUT                     
+Espoo, FINLAND                                               Espoo, FINLAND                           
+E-mail:Teemu.Lukkari@hut.                                   E-mail:Vesa.Valimaki@hut.                       
+
+
+
+ABSTRACT
+A parametric synthesis model for wind chimes is presented. 
+A physics-based stochastic process is used to  
+trigger a modal sound-production model for the tubes   
+of a wind chime. Mode parameters are extracted in a    
+semiautomatic fashion from a sound sample. An example and 
+some possible applications are presented.                                                                      
+
+
+
+REFERENCES                              
+[1] C. Thornton, A. Kolb, F. Gemperle, and T. Hirsch,       
+Audiocentric interface design: A building blocks approach, 
+in   Proc. 2003 Int. Conf. Auditory Display    ,
+Boston, MA,   USA,  July 2003,  pp. 180183.  Available:   
+http://www.icad.org/websiteV2.0/Conferences/ICAD2003/paper/44%20Thornto%n.pdf .                     
+[2] P.R .C ook, Real Sound Synthesis for Interactive Applications , 
+Natick, MA: A K Peters, 2002.                   
+[3] M. Fernstr om, Sound objects and human-computer interaction 
+design, inThe Sounding Object , D. Rocchesso  
+and F. Fontana, Eds. Firenze: Edizioni di Mondo Estremo,
+2003, pp. 3345. Available:http://www.soundobject.org/SObBook/SObBook_JUL03.pdf.                              
+rate values for the synthesis parameters from the sound                                                                   
+[4] S. M. Ross,Introduction to Probability Models, San Diego:
+Academic Press, seventh edn., 2000.                     
+[5] K. Steiglitz,A Digital Signal Processing Primer with Applications 
+to Digital Audio and Computer Music, Addison-Wesley, 1996.                                           
+Jan. 22,                                                   
+[6] Wind Chimes Inc.,http://101windchimes.com/Wind chimes and more, [cited.Jan. 22,
+[7] P. A. Regalia and S. K. Mitra, Tunable digital frequency
+response equalization lters,IEEE Trans. Acoust., Speech,
+Signal Processing , vol. 35, pp. 118120, Jan. 1987.     
+[8] P. R. Cook, Physically informed sonic modeling (PhISM): 
+Synthesis of percussive sounds, Computer Music Journal  ,
+vol. 21, pp. 3849, 1997.                                

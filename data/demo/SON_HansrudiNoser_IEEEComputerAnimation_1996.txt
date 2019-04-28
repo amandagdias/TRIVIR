@@ -1,0 +1,79 @@
+The Animation of Autonomous Actors Based on Production Rules
+
+Hansrudi Noser
+Daniel Thalmann
+Computer Graphics Lab (LIG), Swiss Federal Institute of Technology (EPFL)
+CH-1015 Lausanne, Switzerland
+
+
+In this paper, we present a formal theory of a behavioral L-system and describe as application a real
+time structured L-system interpreter. The behavioral L-system is a timed, conditional, stochastic,
+parametric and environmentally sensitive L-system which allows besides the modeling of plant and
+fractal development the description and animation of autonomous actors completely defined by
+production rules. Virtual environment including geometric objects, force fields and sounds and the
+behaviors of actors can be defined using the same formalism of the behavioral L-systems.
+
+
+References                                                                                                 
+[1] H. Abelson, A.A. diSessa, Turtle Geometry, The MIT Press, 1984                                         
+[2] Kurt Akeley, The Hidden Charms of Z-buffer, Iris Universe, issue Number 11, 1990                       
+[3] Norman I. Badler, Cary B. Phillips, Bonnie Lynn Webber, Simulating Humans, Computer Graphics           
+Animation and Control, Oxford University Press, 1993                                                
+[4] Durand R. Begault, 3D-Sound for Virtual Reality and Multimedia, AP Professional, 1994.                 
+[5] Foster, S. H. (1988). Convolvotron User's Manual. Crystal River Engineering. IAC, 12350 Ward's Ferry   
+Road, Grove-land, CA 95321                                                                          
+[6] Foster, S. H., Wenzel, E. M., and Taylor, R. M. (1991). Real-time synthesis of complex acoustic        
+environments[Summary], Proceedings of the ASSP (IEEE) Workshop on Applications of Signal            
+Processing to Audio & Acoustics, New Paltz, NY. Furness, T.A. (1986). She super cockpit and its     
+human factors                                                                                       
+[7] Foster, S. H. & Wenzel E. M. (1991) Virtual acoustic environments: The Convolvotron. Demonstration     
+system presented at the "tomorrow's Realities Gallery. " SIGGRAPH '91, 18th ACM Conference on       
+Computer Graphics and Interactive Techniques, Las Vegas, NV                                         
+[8] M. Girard, and S. Amkraut, Eurhythmy: Concept and Process The Journal of Visualization and Computer    
+Animation, Vol. 1: 15-17 (1990)                                                                     
+[9] Noser H., Renault O., Thalmann D., Navigation for Digital Actors Based on Synthetic Vision, Memory, and
+Learning. Comput. & Graphics, Vol. 19, No. 1, pp 7-19, 1995                                         
+[10] H. Noser, O. Renault, D. Thalmann, N. M. Thalmann, Vision-Based Navigation for      Synthetic Actors, 
+SIGGRAPH     93, Course notes n 80 "Recent Techniques in Human Modeling, Animation and              
+Rendering", Anaheim, California                                                                     
+[11] Noser H. Thalmann D., L-System-Based Behavioral Animation, Proceedings of the First Pacific Conference
+on Computer Graphics and Applications, Pacific Graphics 93, Aug. 1993, World Scientific Publishing  
+Co Pte Ltd, pp. 133-146                                                                             
+[12] H. Noser, D. Thalmann, Artificial Live and Virtual Reality, Chapter: Simulating Life of Virtual Plants,
+Fishes and Butterflies  edited by Nadia Magnenat Thalmann and Daniel Thalmann, 1994 John Wiley &    
+Sons, Ltd.                                                                                          
+[13] Noser H., Thalmann D., Synthetic Vision and Audition for Digital Actors, Computer Graphics forum, Vol.
+14. Number 3, Conference Issue, Maastricht, The Netherlands, pp. 325 -336, August 28 - Sept. 1, 1995
+[14] H. Noser, R. Turner, D. Thalmann, L-structures, Travail de diplme  l'EPFL, Computer Graphics Lab,   
+Swiss Federal Institute of Technology, CH-1015 Lausanne, Switzerland, 1991                          
+[15] Noser H, Thalmann D, Turner R, Animation based on the Interaction of L-systems with Vector Force Fields,
+Proc. Computer Graphics International '92, pp. 747-761                                              
+[16] P. Prusinkiewicz, M. James, R. Mech, Synthetic Topiary , SIGGRAPH 94, Computer Graphics Proceedings,  
+Annual Conference Series, 1994, pp. 351-358.                                                        
+[17] P. Prusinkiewicz, A. Lindenmaer, The Algorithmic Beauty of Plants (1990), Springer Verlag             
+[18] P. Prusinkiewicz, M.S. Hammel, E. Mjolsness, Animation of Plant     Development, Computer Graphics    
+proceedings, Annual Conference Series 93, SIGGRAPGH 93                                              
+[19] Craig W. Reynolds, Not Bumping into Things, SIGGRAPH             course 27, notes: Developments in    
+Physically-Based Modeling, 1988, G1-G13                                                             
+[20] Reynolds C (1987), Flocks, Herds, and Schools: A Distributed Behavioral Model,Proc. SIGGRAPH 1987,
+       Computer Graphics, Vol.21, No4, pp.25-34
+[21] C.W. Reynolds, An Evolved, Vision-Based Behavioral Model of Coordinated Group Motion, in: Meyer JA
+       et al. (eds) From Animals to Animats, Proc. 2nd International Conf. on Simulation of Adaptive Behavior,
+       MIT Press, 1993.                    
+[22] Y. Roth-Tabak, Building an Environment Model Using Depth Information, Computer, June 1989, pp 85-90
+[23] O. Renault, N.M. Thalmann, D. Thalmann (1990), A Vision-based Approach to Behavioral Animation, The
+       Journal of Visualization and Computer Animation, Vol 1, No 1, pp 18-21
+[24] Surf Man, A Triangular-Mesh Sculptor Program, Version 1.2, Sept. 26, 94, Esprit 2, Project 6709: A Real
+       Time and Parallel System for the Simulation of Virtual Humans., 1994
+[25] Tapio Takala, James Hahn, Sound Rendering, Computer Graphics, proceedings, SIGGRAPH '92, Vol 26,
+       No 2, July 92, ACM Press            
+[26] X. Tu and D. Terzopoulos, Artificial Fishes: Physics, Locomotion, Perception, Behavior, Proc.
+       SIGGRAPH '94, Computer Graphics, pp.42-48.d
+[27] X. Tu and D. Terzopoulos, Perceptual Modeling for the Behavioral Animation of Fishes, Proc. Pacific
+       Graphics '94, World Scientific Publishers, Singapore, pp.165-178
+[28] Wenzel, E. M., "Localization in Virtual Acoustic Displays", PRESENCE: Volume 1, Number 1 (1992), pp.
+       80-107                              
+[29] Wenzel, E. M., S. H.  Foster, 1990, "Realtime Digital Synthesis of Virtual Acoustic Environments",
+       Computer Graphics, Vol. 24, No. 2   
+[30] Peter Wavish, Michael Graham, Roles, Skills and Behaviours, Proceedings of the ECAI-94 workshop on
+       Agent Theories, Architectures and Languages, eds. Woolridge & Jennings, Amsterdam, August 1994.

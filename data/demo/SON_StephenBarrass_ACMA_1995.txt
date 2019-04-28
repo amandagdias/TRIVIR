@@ -1,0 +1,52 @@
+Personify a toolkit for perceptually meaningful sonification
+
+Stephen Barrass
+stephen.barrass@cbr.dit.csiro.au
+CSIRO Division of Information Technology, GPO Box 664, Canberra, ACT 2601, Australia
+
+
+ABSTRACT
+People naturally use their hearing to obtain information to support their everyday activities. Sonification is the application
+of hearing to support computer based information processing tasks where numerical or other data replaces the
+environment as a source of sounds. Turning numbers into sounds is easy with current music technology. But creating
+intuitive and informative sonification mappings is not. The auditory display of scientific data requires consideration of the
+task at hand, an understanding of data characteristics, and an expert knowledge of psychoacoustics. The display designer
+must depend on experience, a few heuristic guidelines, patience and luck - this is why successful examples are rare.
+Personify is a suite of software tools which enable a non-expert to quickly and easily craft meaningful and effective
+sonifications. Interaction with these tools is focused on what a person hears, rather than on how a device makes sounds.
+The toolkit provides a systematic framework which consists of a number of data sensitive mapping techniques based on a
+perceptually linearised sound space. The user is able to select sequences in the sound space using geometric paths such as
+lines, spirals and planes. Constrained guidance embodies the expert knowledge in the system.
+This paper will describe the Personify toolkit, its purpose, theoretical foundation, the component tools, and the multimedia
+user interface.                                        
+
+
+
+BIBLIOGRAPHY
+[1]   J.J. Gibson, The Senses Considered as Perceptual Systems, Houghton Mifflin Company, Boston, 1966.
+[2] W. W. Gaver, Using and Creating Auditory Icons, in G. Kramer (ed), Auditory Display : Sonification,
+Audification and Auditory Interfaces, SFI Studies in the Sciences of Complexity, Proceedings Volume XVIII,
+Addison-Wesley Publishing Company, Reading, MA, U.S.A., 1994.
+[3]  M. Blattner, D. Sumikawa, and R. Greenberg, Earcons and Icons: Their Structure and Common Design Principles
+, Human Computer Interaction, Vol 4, No 1, Lawrence Erlbaum Associates, London, 1989.
+[4]  S.A. Brewster, P.C. Wright, and A.D.N. Edwards, ÒA Detailed Investigation into the Effectiveness of Earcons, in
+G. Kramer (ed), Auditory Display : Sonification, Audification and Auditory Interfaces, SFI Studies in the
+Sciences of Complexity, Proceedings Volume XVIII, Addison-Wesley Publishing Company, Reading, MA,
+U.S.A., 1994.
+[5]  P.K.Robertson, M.Hutchins, D.Stevenson, S.Barrass, C.Gunn, D.Smith, Mapping data into colour gamuts : using
+interaction to increase usability and reduce complexity, Computers & Graphics, Vol 18, No 5, pp. 653-665, 1994
+[6]  S. Barrass,  naturally ordered geometric model of sound inspired by colour theory, Proceedings of
+Synaesthetica 94, Australian Centre for the Arts and Technology, Canberra, July, 1994.
+[7]  S. Barrass, A perceptual framework for the auditory display of scientific data, Proceedings of ICAD 94, Santa
+Fe, November, 1994.
+[8]  G. von Bismarck, Sharpness as an Attribute of the Timbre of Steady Sounds, Acustica, Vol. 30, pp 159, 1974.
+[9]  P.K. Robertson and L. De Ferrari, ÒSystematic approaches to visualization: is a reference model needed ?,
+Scientific Visualization Advances and Challenges, Academic Press, 1994.
+[10] S. Barrass and P.K. Robertson, Data exploration with sound using a perceptually linearized sound space, IS&T/
+SPIE Symposium on Electronic Imaging: Science and Technology, San Jose, California, February, 1995.
+[11] B.E. Rogowitz and L.A. Treinish, "An Architecture for Rule Based Visualization", Proceedings of IEEE
+Visualization '93, San Jose, California, October 25-29, 1993.
+[12] B.E. Rogowitz, D.T. Ling and W.A. Kellogg, "Task Dependence, Veridicality, and Pre-Attentive Vision: Taking
+Advantage of Perceptually-Rich Computer Environments", SPIE Human Vision, Visual Processing and Digital
+Display, Vol 1666, 1992.
+

@@ -1,0 +1,81 @@
+Using Sounds to Present and Manage Information in Computers                
+
+Kari Kallinen                                                
+Center for Knowledge and Innovation Research, Helsinki School of                                          
+Economics, Finland                                                
+Kallinen@hkkk.fi                                               
+
+
+Abstract                                                  
+The auditive modality, such as speech, signals and natural sounds, is one of the most important ways to          
+present and communicate information. However, in computer interfaces the possibilities of auditive modality 
+have been almost totally neglected. Usually the audio consists of simple signals (beeps and clicks)       
+or background music. The present paper outlines some of the possibilities in presenting and managing             
+information in computers by using audio from the perspective of the semiotic theory of signs. Auditive           
+interfaces can be especially useful for people with visual or kinaesthetic disabilities, as well as in places    
+and with devices when the visual-kinaesthetic using of the machine is difficult, for example while on the        
+move or with small display devices.                                                                              
+
+References                                                             
+Ballas, J.A. (1994). Delivery of Information Through Sound. . In G. Kramer (Ed.), Auditory display, sonification, audification 
+and auditory interfaces. The Proceedings of the First International Conference on Auditory Display, Santa Fe Institute, 
+Santa Fe, NM: Addison-Wesley, pp. 79-94.                                                                         
+Blackwell, A. (2001). Human Computer Interaction Notes.  Advanced Graphics & HCI.  26.11 2001                              
+    <http://www.cl.cam.ac.uk/Teaching/1999/AGraphHCI/HCI/>                                                                 
+Blattner, M., Papp, A., & Glinert, E. (1994). Sonic enhancement of Two-Dimensional Graphics Displays. In G. Kramer (Ed.),  
+    Auditory display, sonification, audification and auditory interfaces. The Proceedings of the First International Conference 
+on Auditory Display, Santa Fe Institute, Santa Fe, NM: Addison-Wesley, pp. 471-498.                               
+Blattner, M., Sumikawa, D. & Greenberg, R. (1989). Earcons and Icons: Their Structure and Common Design Principles.        
+    Human Computer Interaction 4.                                                                                          
+Bly, S. (1982). Presenting information in sound. Proceedings of the CHI ’82 Conference on Human Factors in Computer        
+    Systems, 371-375. New York: ACM.                                                                                       
+Brewster, S.A. (1994). Providing a structured method for integrating non-speech audio into human-computer interfaces. PhD  
+    Thesis, University of York, UK. 24.11 2001 <http://www.dcs.gla.ac.uk/~stephen/publications.shtml#4>                    
+Brewster, S.A. and Walker, V.A. (2000). Non-Visual Interfaces for Wearable Computers. IEE Workshop on wearable Computing 
+(00/145). IEE Press.                                                                                            
+Brewster, S.A., Wright, P.C. & Edwards, A.D.N. (1992). A detailed investigation into the effectiveness of earcons. In G.   
+    Kramer (Ed.), Auditory display, sonification, audification and auditory interfaces. The Proceedings of the First International 
+Conference on Auditory Display, Santa Fe Institute, Santa Fe, NM: Addison-Wesley, pp. 471-498.                  
+Brewster, S.A., Wright, P.C. & Edwards, A.D.N. (1993). An evaluation of earcons for use in auditory human-computer interfaces. 
+In S. Ashlund, K. Mullet, A. Henderson, E. Hollnagel, & T. White (Eds.), Proceedings of InterCHI'93, Amsterdam: 
+ACM Press, Addison-Wesley, pp. 222-227.                                                                           
+Crease, M. & Brewster, S. (1998). Making progress with sounds-the design and evaluation of an audio progress bar. ICAD     
+    Proceedings 3.1 2002 <http://www.icad.org/websiteV2.0/Conferences/ICAD98/papers/CREASE/CREASE.PDF>                     
+Fitch, W.T. & Kramer, G. (1994). Sonifying the Body Electric: Superiority of an Auditory over a Visual Display in a Complex 
+Multivariate System. In Gramer, G. (ed), Auditory Display: Sonification, Audification, and Auditory Interfaces. SFI 
+    Studies in Sciences of Complexity, Proceedings Volume XVIII. Addison Wesley: Reading Mass.                             
+Gaver, W. (1989). The SonicFinder: an interface that uses auditory icons. Human Computer Interaction 4 (1).                
+Gaver, W. W. (1993). What in the World Do We Hear? An Ecological Approach to Auditory Source Perception. Ecological        
+    Psychology (5)1.                                                                                                       
+Gaver, W. (1997). Auditory Interfaces. In Helander, M., Landauer, T. & Prabhu, P. (eds.) Handbook of Human Computer        
+    Interaction. Elsevier Science: Amsterdam.                                                                              
+Gray, J.A. (1991). The neuropsychology of temperament. In J.Streleau & A.Angletner (Eds.), Explorations in temperament:    
+    International perspectives on theory and measurement (pp.105-128). New York: Plenum Press                              
+Hayward, C. (1994). Listening to the Earth Sing. In G. Gramer (ed), Auditory Display: Sonification, Audification, and Auditory 
+Interfaces. SFI Studies in Sciences of  Complexity, Proceedings Volume XVIII. Addison Wesley: Reading Mass.       
+James, F. (1996). Presenting HTML Structure in Audio: User Satisfaction with Audio hypertext.  In F. Frysinger & G.        
+    Kramer (Eds.), Proceedings of the Third International Conference on Auditory Display ICAD’96, Palo Alto: California.   
+James, F. (1998). Representing structured information in audio interfaces: A framework for selecting audio marking techniques 
+to represent document structures. Unpublished doctoral dissertation, Stanford University.                       
+Kallinen, K. (2002). Reading news from a pocket computer in a distracting environment: effects of the tempo of background  
+    music. Computers in Human Behavior 18(5), 537-551.                                                                     
+Kallinen, K. (2003a). Audio characteristics and memory performance. Unpublished data.                                      
+Kallinen, K. (2003b). Emotional responses to single-voice melodies: implications to mobile ringtones. Manuscript submitted 
+    for publication.                                                                                                       
+Kallinen, K. & Ravaja, N. (2002a). Comparing Speakers versus Headphones in Listening to News – Individual differences      
+    and Psychophysiological Responses. Manuscript submitted for publication.                                               
+Kallinen, K. & Ravaja, N. (2002b). Effects of Speech Rate of a News Anchor in Pocket Computer on Emotion-related Subjective 
+and Physiological Responses. Manuscript submitted for publication.                                             
+Kramer, G. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. SFI Studies in Sciences of Complexity, 
+Proceedings Volume XVIII. Addison Wesley: Reading Mass.                                                       
+Lott, D. F., & Sommer, R. (1967). Seating arrangements and status. Journal of Personality and Social Psychology, 7, 90-94. 
+Mehrabian, A., & Ksionzky, S. (1970). Models for affiliate and conformity behavior, Psychological Bulletin, 74, 110-126.   
+Mynat, E.D. (1994). Auditory presentation of Graphical User Interfaces. In G. Gramer (Ed.), Auditory Display: Sonification, 
+    Audification, and Auditory Interfaces. SFI Studies in Sciences of Complexity, Proceedings Volume XVIII. Addison        
+    Wesley: Reading Mass, pp. 533-555.                                                                                     
+Preece, J. (1994). Human-Computer Interaction. Addison-Wesley: Workingham, England.                                        
+Saussure, Ferdinand de ([1916] 1974): Course in General Linguistics (trans. Wade Baskin). Fontana/Collins: London          
+Saussure, Ferdinand de ([1916] 1983): Course in General Linguistics (trans. Roy Harris). Duckworth: London                 
+Turino, T. (1999). Signs of Imagination, Identity, and Experience. A Peircian Semiotic Theory for Music. Ethnomusicology   
+    43, 2, 221-255.                                                                                                        
+Walker, A. & Brewster, S.A. (2000). Spatial audio in small display screen devices. Personal Technologies, 4(2), pp 144-154 

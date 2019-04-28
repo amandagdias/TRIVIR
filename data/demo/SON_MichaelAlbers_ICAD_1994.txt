@@ -1,0 +1,65 @@
+The Var se System, Hybrid Auditory Interfaces, and Satellite-Ground Control:
+Using Auditory Icons and Soniﬁcation in a Complex, Supervisory Control System            
+
+Michael C. Albers                        
+Center for Human-Machine Systems Research                  
+School of Industrial and Systems Engineering              
+Georgia Institute of Technology                   
+Atlanta, Georgia 30332                       
+malber@chmsr.isye.gatech.edu                     
+
+
+
+
+Abstract                            
+The basic auditory interface techniques of auditory icons, earcons, and sonification can deftly
+address the needs of most domains. However, there are domains that cannot be adequately
+addressed by any single one of these techniques. By combining the characteristics of these basic
+techniques, hybrid auditory interface techniques can be created to cover those domains that 
+auditory icons, earcons, or sonification cannot. This paper describes a methodology for creating hybrid
+auditory interface techniques. This methodology is demonstrated through the development of a
+sonification-auditory icons hybrid for use in a complex, supervisory control environment. The
+Var se system  , which incorporates the sonification-auditory icons hybrid technique, is then developed 
+to aid monitoring, fault detection, and fault isolation in a satellite-ground control environment.                                                                           
+
+
+
+References
+[1]   Blattner, M. M., Sumikawa, D. A., & Greenberg, R. M. (1989). Earcons and Icons: Their Structure
+      and Common Design Principles.Journal of Human-Computer Interaction, 4(1), 11-44.
+[2]   Blattner, M. M., Papp III, A. L., & Glitnert, E. P. (1994). Sonic Enhancement of Two-Dimensional
+      Graphic Displays. In G. Kramer (Ed.),Auditory Display: Sonification, Audification, and Auditory
+      Interfaces. Reading, MA: Addison-Wesley Publishing Company.
+[3]   Cohen, J. (1994). Monitoring Background Activities. In G. Kramer (Ed.),Auditory Display: Sonification, 
+Audification, and Auditory Interfaces. Reading, MA: Addison-Wesley Publishing Company.
+[4]   Fitch, W. T., & Kramer, G. (1994). Sonifying the Body Electric: Superiority of Auditory Over Visual
+      Display in a Complex Multi-Variate System. In G. Kramer (Ed.),Auditory Display: Sonification,
+      Audification, and Auditory Interfaces. Reading, MA: Addison-Wesley Publishing Company.
+[5]   Gaver, W. W. (1994). Synthesizing Auditory Icons. InProceedings of INTERCHI ‘93. New York:
+      ACM.
+[6]   Gaver, W. W. (1991). Sound Support for Collaboration. InProceedings of the Second Annual 
+European Conference on Computer-Supported Cooperative Work. Amsterdam: Morgan Kaufmann.
+[7]   Gaver, W. W. (1989). The SonicFinder: an interface that uses auditory icons.Journal of Human-Computer 
+Interaction, 4(1), 67-94.
+[8]   Gaver, W. W. (1986) Auditory icons: Using sound in computer interfaces.Human-Computer Interaction, 
+2, 167-177.
+[9]   Gaver, W. W., Smith, R. B., & O’Shea, T. (1991). Effective Sounds in Complex Systems: The
+      ARKola Simulation. InProceedings of the 1991 Computer-Human Interaction Conference (pp. 85-
+      90). New Orleans, LA: ACM Press.
+[10]  Kramer, G. (1994). Some Organizing Principles for Representing Data with Sound. In G. Kramer
+      (Ed.), Auditory Display: Sonification, Audification, and Auditory Interfaces. Reading, MA: Addison-Wesley 
+Publishing Company.
+[11]  McQueen, C., & Mantei, M. (1994).Sound as a Continuous Background Mechanism for Guiding
+      Motor Behavior. Paper presented at the 1991 Computer-Human Interaction Conference Workshop
+      ‘The Future of Speech and Audio in the Interface’, Boston.
+[12]  Mynatt, E. D. (1994). Auditory Presentation of Graphical User Interfaces. In G. Kramer (Ed.),Auditory 
+Display: Sonification, Audification, and Auditory Interfaces. Reading, MA: Addison-Wesley
+      Publishing Company.
+[13]  Scaletti, C. (1994). Sound synthesis algorithms for auditory data presentation. In G. Kramer (Ed.),
+      Auditory Display: Sonification, Audification, and Auditory Interfaces. Reading, MA: Addison-Wesley 
+Publishing Company.
+[14]  Scaletti, C. & Craig, A. (1991). Using Sound to Extract Meaning from Complex Data. InProceedings of 
+the SPIE, Conference 1459, Extracting Meaning from Complex Data: Processing, Display,
+      Interaction II. San Jose: SPIE.
+[15]  Stevens, R. (1993).Reading Algebra by Listening. An Invited Talk hosted by the Graphics, Visualization 
+and Usability Center on September 21, 1993.

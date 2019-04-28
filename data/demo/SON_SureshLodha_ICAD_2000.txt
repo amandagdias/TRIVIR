@@ -1,0 +1,61 @@
+Analysis and User Evaluation of a Musical-V isual System: Does music make any difference?                               
+
+Suresh K. Lodha           Doug Whitmore            Marc Hansen          Erik Charp
+Departmentof Computer Science                       
+University of California, Santa Cruz                 
+Santa Cruz, CA 95064                        
+{lodha,whitmore,mhansen,echarp}@cse.ucsc.edu      
+
+
+
+
+ABSTRACT                                                                                     
+
+We describe, evaluate and analyze an integrated musical visualization system for
+assessing protein structural alignments. Super positions of protein structures in
+three-dimensiona lspace are visualized using the molecular graphics program Rasmol.
+Four environment parameters are examined: secondary structure, polarity, exposure, and
+goodness-of- t. It is dif cult to assess these parameters using visualization alone.
+Therefore, we employed melodic components with unique characteristics to convey
+these four parameters to the user. We used basic music theory (arranging, voiceleading, 
+developmentof melodicphrases,etc.) as the basis for soni cation parameters. We attempted to
+maximize the individuality of the soni cation elements by employing sound effects such a 
+spanning a voice to the left or right speaker and parameter adjustment such as changing its
+volume. To validate the utility of our system, we conducted an experiment to evaluate the 
+performance of users in estimating the value of these four variables under three distinct
+modes: visual, musical, and visual+musical presentation. The preliminary raw results
+of our experiments were reported in a near lier work[4]. We also conducted experiments when 
+all the four variables were played together in a symphony-like fashi onto assess the impact 
+of presenting several variables simultaneously. Raw results seemed to indicate that the 
+visual+musical delivery is more effective than the visual delivery alone in most cases.
+In this work, we present the results of statistical tests and their implications. We found 
+that the accuracy performance was statistically signi cantly better in the Audio Only mode in
+comparison to the Visual only mode both in the case of single variable presentation and the 
+multiple variable presentation.                                       
+
+
+REFERENCES                                                                                                               
+1  J. Alty and D. Rigas. Communicating graphical informati onto blind users using music: The
+role of context. Proceedings of CHI, pages574 581,1998.                                                                                             
+2  U. Axen and I. Choi. Investigating geometric data with sound. In Proceedings of the Third 
+International Conference on Auditory Display, Palo Alto, pages25 28.1996.                                                                            
+3  R. Brady, R. Bargar, I. Choi, and J. Reitzer. Auditory bread crumbs for navigating 
+volumetric data. In Proceedings of the Late Breaking Hot Topics of IEEE Visualization'96, 
+pages 25 27. IEEE Computer Society Press, 1996.                            
+4  M. Hansen, E. Charp, S. K. Lodha, D. Meads, and A. Pang. Promuse: A system for multi-media
+data presentation of protein structural alignments. Proceedings of the Paci c Symposiumon 
+Biocomputing, January1999.                               
+5  G. Kramer. Auditory Display, Sonification, Audi cation, and Auditory Interfaces. 
+Addison-Wesley, 1994.                       
+6  G. Kramer. An introduction to auditory display. In Gregory Kramer, editor, Auditory 
+Display, Sonification, Audi cation, and Auditory Interfaces, pages1 78.Addison-Wesley, 1994.                                                                
+7  S. K. Lodha, T. Heppe,J. Beahan,A. Joseph, and B. Zane-Ulman. Muse: A musical data 
+sonification toolkit. Proceedings of the International Conference on Audiotry Display(ICAD),
+pages 36 40,November1997.                                         
+8  G. Mayer-Kress, R. Bargar, and I. Choi. Musical structures in data from chaotic attractors.
+In Gregory Kramer, editor, Auditory Display, Sonification, Audi cation, and Auditory Interfaces,
+pages 341 368.Addison-Wesley, 1994.                     
+9  P. Vickers and J. Alty. A musical program auralisation tool to assist novice programmers with
+debugging. Proceedings of the International Conference on Audiotry Display(ICAD), November1996.                                                      
+10 C. M. Wilson and S. K. Lodha. LISTEN: a data sonification toolkit. In Proceedings of the 
+Third International Conference on Auditory Display, Palo Alto, pages 35 40.1996.                                                                          

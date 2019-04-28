@@ -1,0 +1,59 @@
+LISTENING POST: GIVING VOICE TO ONLINE COMMUNICATION
+
+Mark Hansen                                                       Ben Rubin                      
+Bell Laboratories, Lucent Technologies                                             EAR Studio                   
+600 Mountain Avenue, 2C283                                           111 Bowery, 3        Floor            
+Murray Hill, NJ 07974                                            New York, NY 10002                    
+cocteau@bell-labs.com                                 benrubin@earstudio.com                               
+
+
+ABSTRACT                                                                                        
+Listening Post is a multimedia art installation designed      
+to convey the magnitude and diversity o f online                                                                       
+communication. This unique space provides a meaningful                                                                 
+rendering of a massive data stream consisting o f thousands                                                            
+of simultaneous conversations. In this article, we explore    
+specifically how the audio component of the installation      
+provides a structure that enables visitors tmake o sensible                                                            
+inferences from this complex, dynamic data. Listening  Post   
+makes use of a multi-layer audio display consisting of        
+mechanical noises (relay clicks), sampled sounds, a nd                                                                 
+synthesized voices.  We illustrate how these components,      
+together with a very simple visual display, combine and       
+interact to give visitors a sense of the topics being         
+discussed i n thousands ochat f   rooms, all in real time.    
+Finally, we discuss some of the systems and software          
+infrastructure necessary to create the complex audio display.                                                          
+
+
+
+
+
+REFERENCES        
+[1] Mirapaul, M. Making an opera from Cyberspace s Tower
+of Babel, New York Times,  Monday, December 10, 2001.
+www.nytimes.com/2001/12/10/arts/music/10ARTS.html
+[2] Studio360, a production ofWNYC.      January 24, 2002.
+www.wnyc.org/new/Studio360/show012602.html
+[3] M. H. Hansen and B. Rubin (2001) Experiencing
+information systems through sound, Proceedings of
+ICAD 2001, Hiipakka, J., Zacharov, N. and Takala, T.,
+Eds., pp 10-15.                      
+[4] The Kitchen. www.thekitchen.org       
+[5] Frakes, W. and Baeza-Yates, R. (1992) Information
+Retrieval: Data Structures and Algorithms, Prentice
+Hall.                                
+[6] Gaver, W. (1993) How do we hear in the world?
+Explorations i n ecological acoustics, Ecological
+Psychology, 5,  pp 285-313.          
+[7] Sayre, H. (1989) The object of performance: The
+American avant-garde since 1970, University of
+Chicago Press, Chicago/London.       
+[8] The Articulator TTS engine, Lucent Speech Solutions.
+www.lucent.com/speech                
+[9] Cycling 74. Max/MSP, www.cycling74.com.
+[10] M. Wright. Open Sound Control. cnmat.Berkeley.edu.
+[11] Wall, L. Christiansen, T., and Orwant, J. (2000)
+Programming Perl, O Reilly & Associates, Sebastopol,
+CA.                                  
+[12] www.earstudio.com/projects/listeningPost.html

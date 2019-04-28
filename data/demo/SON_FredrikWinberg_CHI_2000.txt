@@ -1,0 +1,34 @@
+Investigating Auditory Direct Manipulation: Sonifying the Towers of Hanoi                                      
+
+Fredrik Winberg                                   Sten Olof Hellstršm
+Centre for User Oriented IT-Design                Department of Music
+Royal Institute of Technology                     City University
+SE-100 44 Stockholm, Sweden                       London EC1V 0HB, UK
++46-8-790 9273                                    soh@nada.kth.se
+fredrikw@nada.kth.se
+                                                    
+ABSTRACT
+This paper presents a study of an auditory version of the game   
+Towers of Hanoi. In this study, we have compared three           
+different strategies for continuous presentation of the objects.                         
+The focus for this study is to investigate the nature of auditory                        
+direct manipulation, where continuous presentation is one of                             
+the key aspects. The results show that the differences between                           
+the strategies need to be explored further by experimentation.                           
+Additionally, much effort has to be put on the learning phase                            
+of the auditory interface and the mouse interaction has to be                            
+investigated further.                                                                    
+
+
+
+
+
+REFERENCES
+Bregman, A. S. (1990). Auditory scene analysis: The Perceptual 
+Organization of Sound (pp. 490-493). Cambridge, MA:
+MIT Press.
+Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1985). Direct 
+manipulation Interfaces. In D. A. Norman & S. W.
+Draper (Eds.), User centered system design (pp. 87-124).
+Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+

@@ -1,0 +1,70 @@
+Unearthing virtual history: using diverse interfaces to reveal hidden virtual worlds                                        
+
+Steve Benford  , John Bowers  , Paul Chandler  , Luigina Ciolfi, Martin Flintham  , 
+Mike Fraser  , Chris Greenhalgh  , Tony Hall  , Sten Olof Hellström , Shahram Izadi  ,
+Tom Rodden    , Holger Schnädelbach   , Ian Taylor                  
+The Mixed Reality Laboratory, University of Nottingham, UK           
+{sdb, pdc, mdf, mcf, cmg, sxi, tar, hms, imt} @cs.nott.ac.uk                      
+Centre for User-Oriented IT-Design (CID), Royal Institute of Technology (KTH),
+Stockholm, Sweden                                   
+{bowers, soh} @nada,kth.se                                 
+Interaction Design Centre, University of Limerick, Ireland         
+{Luigina.Ciolfi, Tony.Hall} @ul.ie                              
+
+
+
+Abstract. We describe an application in which museum visitors hunt for virtual 
+history outdoors, capture it, and bring it back indoors for detailed inspection.
+This application provides visitors with ubiquitous access to a parallel virtual
+world as they move through an extended physical space. Diverse devices,        
+including mobile wireless interfaces for locating hotspots of virtual activity 
+outdoors, provide radically different experiences of the virtual depending upon
+location, task, and available equipment. Initial reflections suggest that the  
+physical design of such devices needs careful attention so as to encourage an  
+appropriate style of use. We also consider the extension of our experience to  
+support enacted scenes. Finally, we discuss potential benefits of using diverse
+devices to make a shared underlying virtual world ubiquitously available       
+throughout physical space.                                                     
+
+
+
+References
+1. Aoki, M. and Woodruff, A., Improving Electronic Guidebook Interfaces Using a Task-
+Oriented Design Approach, Proc. DIS 2000, Aug 2000, 319-325.
+2. Azuma, R. T., A Survey of Augmented Reality, Presence: Teleoperators and Virtual
+Environments, 6(4): 355-385, Aug. 1997.
+3. Azuma, R., The Challenge of Making Augmented Reality Work Outdoors, In Mixed
+Reality: Merging Real and Virtual Worlds (Yuichi Ohta and Hideyuki Tamura, eds), 1999,
+Springer-Varlag.
+4. Benelli, G., Bianchi, A., Marti, P., Not, E., Sennati, D. (1999a). "HIPS: Hyper-Interaction
+within Physical Space", in Proceedings of IEEE ICMCS99, Florence, June 1999.
+5. Cheverst, K., Davies, N., Mitchell, K., Friday, A. and Efstratiou, Developing a Context-
+Aware Electronic Tourist Guide: Some Issues and Experiences, Proc. CHI’2000, 17-24, The
+Hague, Netherlands, ACM Press.
+6. Craven, M., Taylor, I., Drozd, A., Purbrick, J., Greenhalgh, C., Benford, S., Fraser, M.,
+Bowers, J., Jää-Åro, K., Lintermann, B, Hoch, M., Exploiting Interactivity, Influence, Space
+and Time to Explore Non-linear Drama in Virtual WorldPsr, oc. CHI’2001, Seattle, US,
+April 2-6, 2001, ACM Press.
+7. Greenhalgh, C., Purbrick, J., Benford, S., Craven, M., Drozd, A. and Taylor, I., Temporal
+links: recording and replaying virtual environmentProcs, . ACM Multimedia 2000, L.A.
+October 2000.
+8. Greenhalgh, C., Izadi, S., Rodden, T. and Benford, S., The EQUIP platform: bringing
+together physical and virtual worlds (forthcoming).
+9. Höllerer, T., Feiner, S., Terauchi, T.,  Rashid, G.,  Hallaway, D., Exploring MARS:
+Developing Indoor and Outdoor User Interfaces to a Mobile Augmented Reality System , In:
+Computers and Graphics, 23(6), Elsevier Publishers, Dec. 1999, pp. 779-785
+10. Krebs, A., Dorohonceanu, B. and Marsic, I., Collaboration using Heterogeneous Devices 
+from 3D Workstations to PDAs, In Proceedings of the IASTED International Conference on
+Internet and Multimedia Systems and Applications (IMSA'2000), pages 309-313, Las
+Vegas, NV, November 20-23, 2000.
+11. Oppermann, R. and Specht, M, Adaptive Support for a Mobile Museum Guide, Proc.
+Workshop on Interactive Applications of Mobile Computing (IMC’98).
+12. Rayward, W.B. & Twidale, M.B. (1999) "From Docent to Cyberdocent: Education and
+Guidance in the Virtual Museum", Archives and Museum Informatics, 13, 23-53, 1999.
+13. Singhal, Sandeep and Zyda, Michael "Networked Virtual Environments Design and
+Implementation," (chapter 7) ACM Press Books, SIGGRAPH Series, 23 July 1999, ISBN 0-
+201-32557-8, 315 pages.
+14. Watsen, K., Darken, R., and Capps, M., "A Handheld Computer as an Interaction Device to
+a Virtual Environment," 3rd International Immersive Projection Technology Workshop
+(IPTW'99), Stuttgart, Germany, 1999.
+15. MAX/msp. www.cycling74.com. Link visited 18/07/01.

@@ -1,0 +1,37 @@
+A Sonification Enhanced Navigation Tool          
+
+Andreas Dieberger  
+
+IBM Almaden Research Center
+650 Harry Rd., NWED-B2
+San Jose, CA 95120
++1 408 927 1470
+andreas.dieberger@acm.org
+
+ABSTRACT                                                                  
+
+We describe a navigation tool for a collaborative Web space (CoWeb) containing meta information
+on aggregated interaction history. We represent the history information by annotating links 
+inside the CoWeb. The navigation tool presents all links on a page together with their meta 
+information in a popup menu. A sonification gives an auditory overview of the distribution of
+history information. The popup menu itself uses both conventional link markers as well as sound 
+to communicate the meta information to the user. 
+
+
+REFERENCES
+1. Dieberger, A. and P. Lonnqvist. Visualizing Interaction History on a Collaborative Web Server. in Proc. of ACM
+   Hypertext'2000. 2000. SanAntonio, TX: ACM Press.
+2. Dieberger, A., Supporting Social Navigation on the World Wide Web. International Journal of Human-Computer Studies,
+   1997. 46: p. 805-825.
+3. Wexelblat, A. and P. Maes, Footprints: History-Rich Tools for Information Foraging, in Proc. of CHI'99. 1999, ACM
+   Press: Pittsburgh, PA. p. 270-277.
+4. Hudson, S.E. and I. Smith, Electronic Mail Preview Using Non-Speech Audio, in CHI'96 Conference Companion. 1996,
+   ACM Press: Vancouver, BC. p. 237-238.
+5. Dieberger, A. and K. Höök, Applying Social Navigation Principles to the Design of Shared Virtual Spaces, in Proc. of
+   WebNet'99. 1999: Honolulu, HI.
+6. Brewster, S.A., P.C. Wright, and A.D.N. Edwards, Guidelines for the Creation of Earcons, 1999, Available as
+   <http://www.dcs.gla.ac.uk/~stephen/earcon_guidelines.shtml>
+7. Campbell, C.S., et al. What You Feel Must Be What You See: Adding Tactile Feedback to the Trackpoint. in Interact'99.
+   1999. Edinburgh, UK: IOS Press.
+8. Albers, M.C. and E. Bergman, The Audible Web: Auditory Enhancements for Mosaic, in CHI'95 - Conference
+   Companion. 1995, ACM Press: Denver, CO. p. 318-319.

@@ -1,0 +1,43 @@
+Sound Kitchen: Designing a Chemically Controlled Musical Performance                                                            
+
+Hiroko Shiraiwa, Rodrigo Segnini, and Vivian Woo                                          
+CCRMA                                                        
+Department of Music, Stanford University                                       
+Stanford, CA 94305-8180                                               
+{hiroko,rsegnini,vwoo}@ccrma.stanford.edu                                        
+
+
+ABSTRACT                                                 
+This paper presents a novel use of a chemical experiments 
+framework as a control layer and sound source in a concert 
+situation. Signal uctuations from electrolytic batteries 
+made out of household chemicals, and acoustic samples 
+obtained from an acid/base reaction are used for musical                                                               
+purposes beyond the standard data sonication role. The    
+batteries are controlled in h andy ways such as warming,  
+stirring and pouring that are also visually engaging. Audio   
+mappings include synthetic and sampled sounds completing                                                               
+a recipet hat con cocts a live performance of computer music. 
+
+
+REFERENCES                
+[1] Kramer et al: Sonication Report: Status of the Field
+and Research Agenda. Prepared for the National
+Science Foundation by members of the International
+Community for Auditory Display. (1996)
+Ava ilable online at       
+http://www.icad.org/websiteV2.0/References/nsf.html
+[2] CCRMA, Music 250A home page:
+http ://www-ccrma.stanford.edu/courses/250a/
+[3] Atmel AVR home page:       
+http ://www.atmel.com/atmel/products/prod23.htm
+[4] OSC is a protocol for communication among computers,
+sound synthesizers and other multimedia devices that is
+optimized for modern networking te chnology.
+OSC hom ep age:            
+http://cnm at.cnmat.berkeley.edu/OSC/
+[5] Pd (Pure Data) is a real-time graphical programming
+environment for live interactive computer music. Pd
+works on SGI machines, Microsoft Windows, Linux,
+and Mac OSX. Pd home page: 
+http://crca.ucsd.edu/ msp/software.html

@@ -1,0 +1,56 @@
+FISHEARS The Design of a Multimodal Focus and Context System                                   
+                                                                                            
+David K McGookin                                             Stephen A Brewster 
+Department of Computing Science                              Department of Computing Science Department of Computing Science 
+University of Glasgow           					 University of Glasgow       University of Glasgow 
+17, Lilybank Gardens               					 Glasgow,G12 8QQ           17, Lilybank Gardens 
+Glasgow, UK                            				 UK                    Glasgow, UK 
+mcgookdk@dcs.gla.ac.uk m      					 cgookdk, stephen@dcs.gla.acs.uktephen@dc     s.gla.ac.uk 
+                                            		http://www.dcs.gla.ac.uk/~stephen               
+
+SUMMARY
+In this paper we describe a new focus and context visualization
+technique called multimodal focus and context.   
+This technique uses a hybrid visual and spatialized audio  
+display space to overcome the limited visual displays of   
+mobile devices.  We demonstrate the technique by applying 
+it to maps of theme parks.                             
+
+
+
+BIBLIOGRAPHY                                      
+1.      AT&T Text to speech generator.  Accessible at 
+http://www.research.att.com/~mjm/cgi-bin/ttsdemo. 2001.                         
+2.      Bjork, S. & Redstrom, J. Redefining the Focus 
+and Context of Focus+Context Visualizations. In 
+Proceedings of IEEE Symposium on Information 
+Visualization 2000 IEEE, 2000.             
+3.      Blattner, M.M., Sumikawa, D. A. & Greenberg, 
+R. M. Earcons and Icons: Their Structure and 
+Common Design PrinciplesH. uman Computer Interaction 4, 1 (1989), pp. 11-44.          
+4.      Brewster, S.A. Providing a structured method for 
+integrating non-speech audio into human-   
+computer interfaces. University of York, 1994. 
+5.      Furnas, G.W. Generalized Fisheye Views. In Proceedings 
+of Conference on Human Factors in 
+Computing System As CM, 1986, pp. 16-23.   
+6.      Furnas, G.W. The FISHEYE view: a new look at 
+structured files. In Readings in information visualization: 
+using vision to thin, Morgk    an Kaufann, 
+San Francisco, California, 1999, pp. 312-
+330.                                       
+7.      Holmquist, L.E. Focus+Context Visualization 
+with Flip Zooming and the Zoom Browser. In 
+Proceedings of Conference of Human Factors in 
+Computing System s (Atlanta, Georgia USA)  
+ACM, 1997, pp. 263-264.                    
+8.      Leung, Y.K. & Apperley, M. D. A Review and 
+Taxonomy of Distortion-Oriented Presentation 
+Techniques. ACM Transactions on Human 
+Computer Interactions 1, 2 (1994), pp. 126-160. 
+9. BBC News, Accessible at                        
+http://news.bbc.co.uk/hi/english/business/newsid1100000/1100250.stm. 2000.                  
+10.     Spence, R. & Apperley, M. D. Database Navigation: 
+An Office Environment for the Professional. 
+Behaviour and Information Technology 1, 1  
+(1982), pp.  43-54.                        
