@@ -1,18 +1,19 @@
-needs(stringi);
-needs(stringr);
-needs(tm);
-needs(corpus);
-needs(textstem);
-needs(ngram);
+# needs(stringi);
+# needs(stringr);
+# needs(tm);
+# needs(corpus);
+# needs(textstem);
+# needs(ngram);
+# needs(bibliometrix);
 
 #When running the code from RStudio, you need to comment the lines above and uncomment the lines bellow
-# library("stringi");
-# library("stringr")
-# library(tm)
-# library(corpus)
-# library(textstem)
-# library(ngram)
-
+library("stringi");
+library("stringr")
+library(tm)
+library(corpus)
+library(textstem)
+library(ngram)
+library("bibliometrix")
 extractCorpus <- function(input, dirName, source){
   if (source == "ieee"){
     extractIEEE(input, dirName);
@@ -20,6 +21,8 @@ extractCorpus <- function(input, dirName, source){
     extractParsifal(input, dirName);
   }else if (source == "scopus"){
     extractScopus(input, dirName);
+  }else if (source == "wos"){
+    extractWos(input, dirName);
   }
 }
 
@@ -123,4 +126,33 @@ extractScopus <- function(input, dirName){
     writeLines(article, conn)
     close(conn)
   }
+  
 }
+extractWos <- function(input, dirName){
+  
+  D <- readFiles(input)
+  #Create the directory for the files
+  dir.create(sprintf("../../data/%s", dirName));
+  M <- convert2df(D, dbsource = "isi", format = "bibtex")
+  for (i in 1:length(M[,1])){
+    title <- iconv(M[i, 'TI'], to = "utf8");
+    author <- iconv(M[i, 'AU'], to = "utf8");
+    abstract <-iconv(M[i, 'AB'], to = "utf8");
+    #references <- iconv(corpus[i, 'References'], to = "utf8");
+    year <- M[i, 'PY'];
+    keywords <- iconv(M[i, 'DE'], to = "utf8");
+    #article <- paste(title, author, year, abstract, keywords, references, sep = "\n");
+    article <- paste(title, author, year, abstract, keywords, sep = "\n");
+    
+    title <- defaultPreprocess(title, FALSE)
+    if (nchar(title) > 100){
+      title <- substring(title, 1, 100);
+    }
+    conn<-file(sprintf("../../data/%s/%s.txt",dirName, title), encoding = "utf8")
+    
+    writeLines(article, conn)
+    close(conn)
+  }
+}
+
+extractCorpus("C:/Users/AMANDA-PC/Documents/savedrecs.bib", "WOS corpus", "wos")

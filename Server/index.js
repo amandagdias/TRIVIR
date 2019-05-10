@@ -15,9 +15,9 @@ var path_core = "../../core/"+pathlib.basename(corpus);
 var path_users = "../../file/"+pathlib.basename(corpus)+"/"+username;
 app.use(bodyParser.urlencoded({ extended: true })); 
 
-var projtech = "tsne";
+var projtech = "tsne"; // or "lsp"
 var embtech = "bagofwords"; // or "word_embeddings"
-var workingdir = "E:/Documents/USP/Projeto Mestrado/github/TRIVIR/Server/scripts";
+var workingdir = "C:/Users/AMANDA-PC/Documents/TRIVIR/Server/scripts";
 
 // Add headers
 app.use(function (req, res, next) {
@@ -144,10 +144,10 @@ app.post('/signature', function (req, res) {
                 + currentdate.getSeconds();
   console.log(datetime)
     
-
   var d = R("./scripts/main.R").data({"command": "init", "baseDocument": base, "corpus": corpus, "username": username, "path_core": path_core, "path_users":path_users, "embtech": embtech, "workingdir": workingdir})
         .callSync();
-  console.log("out " + d);   
+    console.log("out");
+  console.log(d);   
          
            if (d == "success"){
               console.log(d);
@@ -165,7 +165,7 @@ app.post('/signature', function (req, res) {
                   res.send(data);  
                                     
               });      
-            }
+           }
       //});  
  
 });
@@ -245,7 +245,7 @@ app.get('/addterm', function(req, res){
    R("./scripts/main.R")
       .data({"command": "addterm", "term": req.query.term, "corpus": corpus, "path_core": path_core, "path_users":path_users, "workingdir": workingdir})
       .call(function(err,out){
-        console.log(err)
+        console.log("error " + err)
         console.log(out);
         res.send("success");
       });  

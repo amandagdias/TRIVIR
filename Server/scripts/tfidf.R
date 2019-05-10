@@ -1,5 +1,4 @@
 needs("dplyr")
-needs("tidytext")
 needs("ngram")
 needs(textstem);
 needs("stringi");
@@ -8,8 +7,6 @@ needs("tokenizers");
 
 #When running the code from RStudio, you need to comment the lines above and uncomment the lines bellow
 # library("dplyr")
-# library("janeaustenr")
-# library("tidytext")
 # library("ngram")
 # library(textstem);
 # library("stringi");
