@@ -4,7 +4,7 @@ needs(tm)
 needs(corpus)
 needs(textstem);
 needs(ngram)
-suppressWarnings(needs(qdap))
+suppressMessages(needs(qdap))
 needs(fastrtext);
 
 #When running the code from RStudio, you need to comment the lines above and uncomment the lines bellow
@@ -39,9 +39,12 @@ textPreprocess <- function(text, withoutstopwords, corpus){
 }
 
 getSynonyms <- function(term, path_core){
-  syn <- c();
-  syn <- suppressMessages(synonyms(c(term), return.list = TRUE, multiwords = TRUE))
   
+  syn <- c();
+
+  syn <- suppressMessages(synonyms(c(term)))
+
+
   modelCorpus <- load_model(sprintf("%s/model.bin", path_core))
   syn_nn <- c()
   
