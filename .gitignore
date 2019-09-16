@@ -1,0 +1,14 @@
+
+data/
+
+core/
+
+file/
+
+Server/node_modules/
+
+Server/scripts/wiki.en.vec
+
+Server/scripts/wiki.en.bin
+
+Server/scripts/.Rhistory
