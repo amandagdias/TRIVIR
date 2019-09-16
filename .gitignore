@@ -12,3 +12,5 @@ Server/scripts/wiki.en.vec
 Server/scripts/wiki.en.bin
 
 Server/scripts/.Rhistory
+
+Server/package-lock.json
