@@ -23,6 +23,8 @@ extractCorpus <- function(input, dirName, source){
     extractScopus(input, dirName);
   }else if (source == "wos"){
     extractWos(input, dirName);
+  }else if (source == "acm"){
+    extractACM(input, dirName);
   }
 }
 
@@ -40,7 +42,33 @@ defaultPreprocess <-function(text, withoutstopwords){
   text <- gsub("\\d"," ", text)
   text <- str_squish(text);
 
+  text <- stri_trans_general(text,"Latin-ASCII")
+  
+  
   return(text)
+}
+
+extractACM <- function(input, dirName){
+  corpus <- read.csv(file = input, header=TRUE, check.names=FALSE)
+  #Create the directory for the files
+  dir.create(sprintf("../../data/%s", dirName));
+  
+  for (i in 1:length(corpus[,1])){
+    title <- iconv(corpus[i,'title'], to = "utf8");
+    author <- iconv(corpus[i,'author'], to = "utf8");
+    year <- corpus[i, 'year'];
+    keywords <- iconv(corpus[i, 'keywords'], to = "utf8");
+    article <- paste(title, author, year, keywords, sep = "\n");
+    
+    title <- defaultPreprocess(title, FALSE)
+    if (nchar(title) > 100){
+      title <- substring(title, 1, 100);
+    }
+    conn<-file(sprintf("../../data/%s/%s.txt", dirName, title), encoding = "utf8")
+    
+    writeLines(article, conn)
+    close(conn)
+  }
 }
 
 extractIEEE <- function(input, dirName){
@@ -60,6 +88,7 @@ extractIEEE <- function(input, dirName){
     if (nchar(title) > 100){
       title <- substring(title, 1, 100);
     }
+  
     conn<-file(sprintf("../../data/%s/%s.txt", dirName, title), encoding = "utf8")
     
     writeLines(article, conn)
@@ -115,7 +144,12 @@ extractScopus <- function(input, dirName){
     abstract <-iconv(corpus[i, 'Abstract'], to = "utf8");
     year <- corpus[i, 'Year'];
     keywords <- iconv(corpus[i, 'Author Keywords'], to = "utf8");
+    
+    title <- stri_trans_general(title,"Latin-ASCII")
+    
     article <- paste(title, author, year, abstract, keywords, sep = "\n");
+    
+    article <- stri_trans_general(article,"Latin-ASCII")
     
     title <- defaultPreprocess(title, FALSE)
     if (nchar(title) > 100){
@@ -154,5 +188,5 @@ extractWos <- function(input, dirName){
     close(conn)
   }
 }
-
-extractCorpus("C:/Users/AMANDA-PC/Documents/savedrecs.bib", "WOS corpus", "wos")
+#file directory (.bib, .csv), corpus name (your choice), database (ieee, parsifal, scopus, wos) 
+extractCorpus("C:/Users/Amanda Dias/Documents/scopus.csv", "vis papers scopus", "scopus")
