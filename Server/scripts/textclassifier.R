@@ -1,5 +1,5 @@
 
-
+# 
 needs(fastrtext);
 needs(jsonlite)
 needs(ngram);
@@ -60,6 +60,7 @@ fasttextClassifier <- function(corpus, path_users, path_core){
   jsondata <- iconv(jsondata, to = "utf8")
   relevant <- fromJSON(jsondata);
   
+  
   if (!file.exists(sprintf("%s/notrelevant.json", path_users))){
     createNotRelevant(corpus, path_users);
   }
@@ -92,6 +93,7 @@ fasttextClassifier <- function(corpus, path_users, path_core){
       }
     }
   }
+
   for (i in 1:length(notrelevant[,1])){
     doc <- coordinates[which(coordinates[,'name'] == toString(notrelevant[i,'docname'])), 'body_preprocessed'];
     body_notrelevant[i] = doc;
@@ -113,10 +115,10 @@ fasttextClassifier <- function(corpus, path_users, path_core){
     df_train <- rbind(df_relevant1, df_notrelevant);
   }
   if (length(body_relevant2) > 0){
-    df_train <- rbind(df_train,body_relevant2);
+    df_train <- rbind(df_train,df_relevant2);
   }
   if (length(body_relevant3) > 0){
-    df_train <- rbind(df_train,body_relevant3);
+    df_train <- rbind(df_train,df_relevant3);
   }
   
   df_train <-  sapply(df_train, as.character)
